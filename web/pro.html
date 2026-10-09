@@ -1,0 +1,125 @@
+<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Nearby for Pros</title>
+<link rel="stylesheet" href="/static/style.css">
+<style>
+header{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:12px 20px;background:#fff;border-bottom:1px solid var(--line);flex-wrap:wrap}
+header .right{display:flex;gap:8px;align-items:center}header select{width:auto;max-width:260px}
+.wrap{max-width:860px;margin:0 auto;padding:20px}
+.hit{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:10px 0;border-top:1px solid #f3efe9}.hit:first-of-type{border-top:0}
+.lead .head{display:flex;justify-content:space-between;align-items:center;gap:10px;cursor:pointer}
+.lead .body{display:none;margin-top:8px}.lead.open .body{display:block}
+.actions{display:flex;gap:8px;flex-wrap:wrap;align-items:center}.actions select{width:auto}
+.contact{background:var(--ok-soft);border:1px solid #b7dfc0;border-radius:8px;padding:10px 12px;margin-top:8px}
+.chips{display:flex;gap:6px;margin-bottom:12px}.chips button{padding:5px 12px;border-radius:99px}.chips button.on{background:var(--ink);color:#fff;border-color:var(--ink)}
+.jobgroup{margin:6px 0 2px;font-size:13px;font-weight:600}
+blockquote{margin:4px 0;padding-left:10px;border-left:3px solid var(--line);color:var(--muted);font-size:13px}
+</style></head><body>
+<header><div class="brand">Near<span>by</span> for Pros</div>
+  <div class="right"><select id="who"></select><button id="claimbtn">Claim or register</button><a href="/" class="muted">Homeowner site</a></div></header>
+<div class="wrap" id="app"></div>
+<script>
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const $=id=>document.getElementById(id);
+const ago=t=>{const s=(Date.now()/1000-t);return s<60?'just now':s<3600?Math.round(s/60)+' min ago':s<86400?Math.round(s/3600)+' h ago':new Date(t*1000).toLocaleDateString()};
+const URG={emergency:'Emergency: today',within_24h:'Within 24 h',within_few_days:'Within a few days',flexible:'Flexible'};
+const LST={sent:'New',viewed:'New',accepted:'Accepted',declined:'Declined'};
+async function api(path,body){const r=await fetch(path,body?{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)}:{});
+  if(!r.ok)throw new Error((await r.text())||('Server error '+r.status));return r.json()}
+let META=null,pid=null,leadFilter='new',view='leads';
+try{pid=localStorage.getItem('nearby_pro')}catch(e){}
+const setPid=v=>{pid=v;try{v?localStorage.setItem('nearby_pro',v):localStorage.removeItem('nearby_pro')}catch(e){}};
+
+async function loadAccounts(){const a=await api('/api/pro/accounts');
+  $('who').innerHTML='<option value="">Sign in as…</option>'+a.map(x=>`<option value="${x.provider_id}" ${x.provider_id===pid?'selected':''}>${esc(x.name)}</option>`).join('');
+  $('who').style.display=a.length?'':'none'}
+$('who').onchange=()=>{setPid($('who').value||null);view='leads';route()};
+$('claimbtn').onclick=()=>{setPid(null);$('who').value='';claimView()};
+
+// ---------- claim / register ----------
+function claimView(){
+  $('app').innerHTML=`<div class="card"><h3>Find your business</h3><div class="muted">We already list 257 Durham-area pros from Google and their own websites.
+    Claim yours to confirm your details and start receiving leads. Search by business phone or name.</div>
+    <form id="sf" style="display:flex;gap:8px;margin-top:10px"><input id="q" placeholder="e.g. (919) 598-0255 or Roto-Rooter" autofocus><button class="primary">Search</button></form>
+    <div id="hits" style="margin-top:8px"></div></div>
+    <div class="card"><h3>Not listed?</h3><div class="muted">Register a new business. Your listing starts without reviews; that's fine, matching is on trade, jobs and distance too.</div>
+    <button style="margin-top:8px" id="reg">Register a new business</button></div>`;
+  $('reg').onclick=()=>formView(null);
+  $('sf').onsubmit=async e=>{e.preventDefault();const q=$('q').value.trim();if(!q)return;
+    const hits=await api('/api/pro/search?q='+encodeURIComponent(q));
+    $('hits').innerHTML=hits.length?hits.map(h=>`<div class="hit"><div><b>${esc(h.name)}</b> · ${esc(h.phone)}<div class="muted">${esc(h.trades.join(', '))} · ${esc(h.address||h.city||'')}${h.rating?` · ${h.rating}★ (${h.reviews})`:''}</div></div>
+      ${h.claimed?`<button onclick="setPid('${h.provider_id}');route()">Claimed: sign in</button>`:`<button class="primary" onclick="formView('${h.provider_id}')">This is my business</button>`}</div>`).join('')
+      :'<div class="muted">No match. Try the phone number on your Google listing, or register a new business below.</div>'}}
+
+async function formView(id){
+  const data=id?await api('/api/pro/'+id):{form:{provider_id:null,trades:[],job_tags:[]},claimed:false,website_evidence:[]};
+  const f=data.form,isNew=!id;
+  const opt=(v,cur)=>String(v)===String(cur??'')?'selected':'';
+  $('app').innerHTML=`<div class="card"><h3>${isNew?'Register your business':data.claimed?'Business profile':'Confirm your listing'}</h3>
+    <div class="muted">${isNew?'Tell us what you do and where.':`Pre-filled from your Google listing${data.website_evidence.length?' and your website':''}. Change anything that's wrong.`}</div>
+    ${data.website_evidence.length&&!data.claimed?'<div style="margin-top:8px" class="muted">What your website says:</div>'+data.website_evidence.slice(0,3).map(q=>`<blockquote>${esc(q)}</blockquote>`).join(''):''}
+    <form id="pf">
+    <div class="grid2"><div><label>Business name *</label><input name="name" required value="${esc(f.name)}"></div>
+      <div><label>Business phone * (public; homeowners can call it)</label><input name="phone" required value="${esc(f.phone)}"></div>
+      <div><label>Street address</label><input name="address" value="${esc(f.address)}"></div><div><label>ZIP</label><input name="zip" value="${esc(f.zip)}" maxlength="5"></div>
+      <div><label>Website</label><input name="website" value="${esc(f.website)}"></div><div><label>Service radius (km)</label><input name="service_radius_km" type="number" min="5" max="80" value="${esc(f.service_radius_km??'')}" placeholder="e.g. 30"></div>
+      <div><label>Contact person</label><input name="contact_name" value="${esc(f.contact_name)}"></div><div><label>Email for lead alerts</label><input name="email" type="email" value="${esc(f.email)}"></div></div>
+    <label>Trades * (what kind of jobs reach you)</label><div class="checks" id="trades">${Object.entries(META.trades).map(([k,l])=>`<label><input type="checkbox" name="trades" value="${k}" ${f.trades.includes(k)?'checked':''}>${esc(l)}</label>`).join('')}</div>
+    <label>Specific jobs you do (these decide which leads rank you first)</label><div id="jobs"></div>
+    <label>Short description</label><textarea name="description" placeholder="What you specialize in, years in business, brands you service">${esc(f.description)}</textarea>
+    <div class="grid2"><div><label>Open 24/7 for emergencies?</label><select name="open_24_7"><option value="" ${opt('',f.open_24_7)}>Not sure / prefer not to say</option><option value="true" ${opt(true,f.open_24_7)}>Yes</option><option value="false" ${opt(false,f.open_24_7)}>No</option></select></div>
+      <div><label>Insured?</label><select name="insured"><option value="" ${opt('',f.insured)}>Prefer not to say</option><option value="true" ${opt(true,f.insured)}>Yes, liability insured</option><option value="false" ${opt(false,f.insured)}>No</option></select></div>
+      <div><label>State license board</label><select name="license_board"><option value="">Choose…</option>${Object.entries(META.license_boards).map(([k,l])=>`<option value="${k}" ${opt(k,f.license_board)}>${esc(l)}</option>`).join('')}</select></div>
+      <div><label>License number</label><input name="license_number" value="${esc(f.license_number)}"></div></div>
+    <div class="muted" style="margin-top:6px">Homeowners see your license as "submitted, not verified" until we check it with the state board.</div>
+    <div style="margin-top:14px;display:flex;gap:8px"><button class="primary">${isNew?'Register':data.claimed?'Save changes':'Claim this listing'}</button>
+      <span class="muted" id="msg"></span></div></form></div>`;
+  const drawJobs=()=>{const ts=[...document.querySelectorAll('input[name=trades]:checked')].map(x=>x.value);
+    const cur=new Set([...document.querySelectorAll('input[name=job_tags]:checked')].map(x=>x.value).concat($('jobs').dataset.init?[]:f.job_tags));$('jobs').dataset.init=1;
+    $('jobs').innerHTML=ts.length?ts.map(t=>`<div class="jobgroup">${esc(META.trades[t])}</div><div class="checks">${META.jobs[t].map(j=>`<label title="${esc(j.label)}"><input type="checkbox" name="job_tags" value="${j.tag}" ${cur.has(j.tag)?'checked':''}>${esc(j.label.split(',')[0])}</label>`).join('')}</div>`).join(''):'<div class="muted">Pick a trade first.</div>'};
+  drawJobs();document.querySelectorAll('input[name=trades]').forEach(x=>x.onchange=drawJobs);
+  $('pf').onsubmit=async e=>{e.preventDefault();const fd=new FormData($('pf'));const b=v=>v===''?null:v==='true';
+    const body={provider_id:id,name:fd.get('name'),phone:fd.get('phone'),address:fd.get('address')||null,zip:fd.get('zip')||null,website:fd.get('website')||null,
+      contact_name:fd.get('contact_name')||null,email:fd.get('email')||null,trades:fd.getAll('trades'),job_tags:fd.getAll('job_tags'),description:fd.get('description')||null,
+      open_24_7:b(fd.get('open_24_7')),insured:b(fd.get('insured')),service_radius_km:fd.get('service_radius_km')?Number(fd.get('service_radius_km')):null,
+      license_board:fd.get('license_board')||null,license_number:fd.get('license_number')||null};
+    if(!body.trades.length)return $('msg').textContent='Pick at least one trade.';
+    $('msg').textContent='Saving…';
+    try{const r=await api('/api/pro/claim',body);setPid(r.provider_id);await loadAccounts();view='leads';route()}catch(err){$('msg').textContent='⚠ '+err.message}}}
+
+// ---------- dashboard ----------
+async function dash(){
+  const {leads,decline_reasons}=await api(`/api/pro/${pid}/leads`);
+  const isNew=l=>l.status==='sent'||l.status==='viewed';
+  const n={new:leads.filter(isNew).length,accepted:leads.filter(l=>l.status==='accepted').length,declined:leads.filter(l=>l.status==='declined').length};
+  const shown=leads.filter(l=>leadFilter==='all'||(leadFilter==='new'?isNew(l):l.status===leadFilter));
+  $('app').innerHTML=`<nav class="tabs" style="padding:0;background:none;margin-bottom:14px"><button class="on">Leads${n.new?` (${n.new} new)`:''}</button><button onclick="view='profile';route()">Business profile</button></nav>
+    <div class="chips">${[['new','New'],['accepted','Accepted'],['declined','Declined'],['all','All']].map(([k,l])=>`<button class="${leadFilter===k?'on':''}" onclick="leadFilter='${k}';dash()">${l}${k!=='all'?` · ${n[k]}`:''}</button>`).join('')}</div>
+    ${shown.length?shown.map(l=>`<div class="card lead" id="L-${l.lead_id}"><div class="head" onclick="toggle('${l.lead_id}','${l.status}')">
+      <div><b>${esc(l.trade)}</b> · ZIP ${esc(l.zip)} <span class="pill ${l.urgency==='emergency'?'urgent':''}">${esc(URG[l.urgency]||'')}</span>
+      <div class="muted">${esc(l.lead_id)} · received ${ago(l.received_at)}${l.homeowner_closed?' · homeowner closed this request':''}</div></div>
+      <span class="pill ${l.status}">${LST[l.status]}</span></div>
+      <div class="body"><pre>${esc(l.brief)}</pre>
+      ${l.status==='accepted'?`<div class="contact"><b>${esc(l.contact.name)}</b> · <a href="tel:${esc(l.contact.phone)}">${esc(l.contact.phone)}</a> · ${esc(l.contact.prefers)}<div class="muted">You accepted this lead. Reach out soon; they're expecting your call.</div></div>`
+       :l.status==='declined'?`<div class="muted">You declined: ${esc(decline_reasons[l.reason]||l.reason)}</div>`
+       :l.homeowner_closed?'':`<div class="actions"><button class="primary" onclick="act('${l.lead_id}','accept')">Accept and see contact</button>
+         <select id="r-${l.lead_id}"><option value="">Decline because…</option>${Object.entries(decline_reasons).map(([k,v])=>`<option value="${k}">${esc(v)}</option>`).join('')}</select>
+         <button onclick="act('${l.lead_id}','decline')">Decline</button></div>
+         <div class="muted" style="margin-top:6px">The homeowner's phone number is shared once you accept.</div>`}</div></div>`).join('')
+    :`<div class="empty">${leadFilter==='new'?'No new leads right now. New requests that match your trade, jobs and area show up here.':'Nothing here yet.'}</div>`}`;
+}
+async function toggle(id,status){const el=$('L-'+id);el.classList.toggle('open');
+  if(el.classList.contains('open')&&status==='sent')await api(`/api/pro/${pid}/leads/${id}`,{action:'view'})}
+async function act(id,action){const reason=action==='decline'?$('r-'+id).value:null;
+  if(action==='decline'&&!reason)return alert('Pick a reason. It helps us send you better leads.');
+  // the homeowner may have closed the request while this card was open: show why, then refresh
+  try{await api(`/api/pro/${pid}/leads/${id}`,{action,reason})}catch(err){let m=err.message;try{m=JSON.parse(m).detail||m}catch(e){}alert(m)}
+  await dash();$('L-'+id)?.classList.add('open')}
+
+async function route(){if(!META)META=await api('/api/meta');await loadAccounts();
+  if(!pid)return claimView();
+  if(view==='profile'){await formView(pid);
+    $('app').insertAdjacentHTML('afterbegin',`<nav class="tabs" style="padding:0;background:none;margin-bottom:14px"><button onclick="view='leads';route()">Leads</button><button class="on">Business profile</button></nav>`);return}
+  dash()}
+route();
+setInterval(()=>{if(pid&&view==='leads'&&!document.hidden&&!document.querySelector('.lead.open'))dash()},20000);
+</script></body></html>

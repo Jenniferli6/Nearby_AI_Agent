@@ -1,0 +1,4969 @@
+{
+ "runs": {
+  "v0_baseline": {
+   "basement_storm_standing": [
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "gp-chijoz40z7xwrikrnkdpq_e1cm0",
+    "gp-chijkcv8bl3zrikru8br_yi6qqy",
+    "servpro-of-south-durham",
+    "gp-chijq3n2brvzrikr_mi6og88n3o"
+   ],
+   "basement_seep_recurring": [
+    "streamline-services-plumbing-hvac-electrical",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "gp-chij60ymwn_grikrq8m7xbi1bvq",
+    "gp-chijhbgz4cjdrikrigedyfms9ci",
+    "gp-chijaalxrex3rikrnvoi6hxttoe"
+   ],
+   "sump_pump_failed": [
+    "streamline-services-plumbing-hvac-electrical",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "bar-d-plumbing",
+    "happy-home-services",
+    "gp-chijt8onncjhrikropcuhiikf0s"
+   ],
+   "ceiling_drip_shower": [
+    "jd-service-now",
+    "streamline-services-plumbing-hvac-electrical",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "brown-brothers-plumbing-heating",
+    "plumbv-inc"
+   ],
+   "roof_leak_storm": [
+    "feazel-roofing",
+    "gp-chijz5ubvzt7rikrgitum_dpzje",
+    "gp-chijqy26qzpxrikratjd5o4htos",
+    "gp-chijmw3u1obirikrude41q0hxwa",
+    "gp-chijs3oygkljrikrgjr26qkn74q"
+   ],
+   "no_ac_heatwave": [
+    "happy-home-services",
+    "gp-chij6ri5hodzrikrlpbmrfz_lm0",
+    "gp-chijs0ahimtnrikrgoxbqdqxose",
+    "streamline-services-plumbing-hvac-electrical",
+    "gp-chijzrluukrwrikr0lvajb9b5m4"
+   ],
+   "no_heat_winter": [
+    "happy-home-services",
+    "gp-chij6ri5hodzrikrlpbmrfz_lm0",
+    "gp-chijs0ahimtnrikrgoxbqdqxose",
+    "streamline-services-plumbing-hvac-electrical",
+    "gp-chijzrluukrwrikr0lvajb9b5m4"
+   ],
+   "outlet_dead": [
+    "jd-service-now",
+    "streamline-services-plumbing-hvac-electrical",
+    "triad-electrical-services",
+    "bud-matthews-services",
+    "touchstone-electric-raleigh"
+   ],
+   "burning_outlet": [
+    "streamline-services-plumbing-hvac-electrical",
+    "touchstone-electric-raleigh",
+    "gp-chij5bvkhbcgkgur1us23vwmbmw",
+    "jd-service-now",
+    "all-weather-heating-cooling-inc"
+   ],
+   "water_heater_leak": [
+    "jd-service-now",
+    "streamline-services-plumbing-hvac-electrical",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "brown-brothers-plumbing-heating",
+    "plumbv-inc"
+   ],
+   "tankless_upgrade": [
+    "jd-service-now",
+    "streamline-services-plumbing-hvac-electrical",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "brown-brothers-plumbing-heating",
+    "plumbv-inc"
+   ],
+   "sewer_backup": [
+    "streamline-services-plumbing-hvac-electrical",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "bar-d-plumbing",
+    "happy-home-services",
+    "gp-chijt8onncjhrikropcuhiikf0s"
+   ],
+   "slow_sink": [
+    "jd-service-now",
+    "streamline-services-plumbing-hvac-electrical",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "brown-brothers-plumbing-heating",
+    "plumbv-inc"
+   ],
+   "toilet_running": [
+    "jd-service-now",
+    "streamline-services-plumbing-hvac-electrical",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "brown-brothers-plumbing-heating",
+    "plumbv-inc"
+   ],
+   "low_pressure_yard": [
+    "jd-service-now",
+    "streamline-services-plumbing-hvac-electrical",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "brown-brothers-plumbing-heating",
+    "plumbv-inc"
+   ],
+   "crawl_encapsulation": [
+    "streamline-services-plumbing-hvac-electrical",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "gp-chij60ymwn_grikrq8m7xbi1bvq",
+    "gp-chijhbgz4cjdrikrigedyfms9ci",
+    "gp-chijaalxrex3rikrnvoi6hxttoe"
+   ],
+   "foundation_settling": [
+    "streamline-services-plumbing-hvac-electrical",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "gp-chij60ymwn_grikrq8m7xbi1bvq",
+    "gp-chijhbgz4cjdrikrigedyfms9ci",
+    "gp-chijaalxrex3rikrnvoi6hxttoe"
+   ],
+   "yard_drainage": [
+    "streamline-services-plumbing-hvac-electrical",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "gp-chij60ymwn_grikrq8m7xbi1bvq",
+    "gp-chijhbgz4cjdrikrigedyfms9ci",
+    "gp-chijaalxrex3rikrnvoi6hxttoe"
+   ],
+   "mold_after_leak": [
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "gp-chijoz40z7xwrikrnkdpq_e1cm0",
+    "gp-chijkcv8bl3zrikru8br_yi6qqy",
+    "gp-chijqt4wa9hlrikryxuuiq3hu34",
+    "servpro-of-south-durham"
+   ],
+   "sewage_overflow_cleanup": [
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "gp-chijoz40z7xwrikrnkdpq_e1cm0",
+    "gp-chijkcv8bl3zrikru8br_yi6qqy",
+    "servpro-of-south-durham",
+    "gp-chijq3n2brvzrikr_mi6og88n3o"
+   ],
+   "gutter_overflow": [
+    "gp-chij4qawrjjhrikrmjssvrzai4o",
+    "gp-chijxzhzn6gsrikrbbyusuh75xs",
+    "gp-chijjzmg6gjarikr2t_lzsq0lnk",
+    "gp-chijmw3u1obirikrude41q0hxwa",
+    "gp-chij2ynozxxlrikrlhiesg9ldle"
+   ],
+   "gutter_detached": [
+    "gp-chij4qawrjjhrikrmjssvrzai4o",
+    "gp-chijxzhzn6gsrikrbbyusuh75xs",
+    "gp-chijjzmg6gjarikr2t_lzsq0lnk",
+    "gp-chijmw3u1obirikrude41q0hxwa",
+    "gp-chij2ynozxxlrikrlhiesg9ldle"
+   ],
+   "gutter_guards": [
+    "gp-chij4qawrjjhrikrmjssvrzai4o",
+    "gp-chijxzhzn6gsrikrbbyusuh75xs",
+    "gp-chijjzmg6gjarikr2t_lzsq0lnk",
+    "gp-chijmw3u1obirikrude41q0hxwa",
+    "gp-chij2ynozxxlrikrlhiesg9ldle"
+   ],
+   "roof_replacement": [
+    "gp-chijmw3u1obirikrude41q0hxwa",
+    "feazel-roofing",
+    "gp-chijz5ubvzt7rikrgitum_dpzje",
+    "gp-chije5mrs17mrikrcjzpxgd4bsw",
+    "gp-chijkbe_dpvtrikro5xuil5lvic"
+   ],
+   "flat_roof_porch": [
+    "gp-chijmw3u1obirikrude41q0hxwa",
+    "feazel-roofing",
+    "gp-chijz5ubvzt7rikrgitum_dpzje",
+    "gp-chije5mrs17mrikrcjzpxgd4bsw",
+    "gp-chijkbe_dpvtrikro5xuil5lvic"
+   ],
+   "chimney_leak_hillsborough": [
+    "gp-chijmw3u1obirikrude41q0hxwa",
+    "feazel-roofing",
+    "gp-chijz5ubvzt7rikrgitum_dpzje",
+    "gp-chije5mrs17mrikrcjzpxgd4bsw",
+    "gp-chijkbe_dpvtrikro5xuil5lvic"
+   ],
+   "heat_pump_replace": [
+    "happy-home-services",
+    "gp-chij6ri5hodzrikrlpbmrfz_lm0",
+    "gp-chijs0ahimtnrikrgoxbqdqxose",
+    "jd-service-now",
+    "streamline-services-plumbing-hvac-electrical"
+   ],
+   "mini_split_garage": [
+    "happy-home-services",
+    "gp-chij6ri5hodzrikrlpbmrfz_lm0",
+    "gp-chijs0ahimtnrikrgoxbqdqxose",
+    "jd-service-now",
+    "streamline-services-plumbing-hvac-electrical"
+   ],
+   "weak_airflow": [
+    "happy-home-services",
+    "gp-chij6ri5hodzrikrlpbmrfz_lm0",
+    "gp-chijs0ahimtnrikrgoxbqdqxose",
+    "jd-service-now",
+    "streamline-services-plumbing-hvac-electrical"
+   ],
+   "ac_morrisville": [
+    "happy-home-services",
+    "gp-chij6ri5hodzrikrlpbmrfz_lm0",
+    "gp-chijs0ahimtnrikrgoxbqdqxose",
+    "jd-service-now",
+    "streamline-services-plumbing-hvac-electrical"
+   ],
+   "panel_upgrade": [
+    "jd-service-now",
+    "streamline-services-plumbing-hvac-electrical",
+    "triad-electrical-services",
+    "bud-matthews-services",
+    "touchstone-electric-raleigh"
+   ],
+   "ev_charger": [
+    "jd-service-now",
+    "streamline-services-plumbing-hvac-electrical",
+    "triad-electrical-services",
+    "bud-matthews-services",
+    "touchstone-electric-raleigh"
+   ],
+   "standby_generator": [
+    "jd-service-now",
+    "streamline-services-plumbing-hvac-electrical",
+    "triad-electrical-services",
+    "bud-matthews-services",
+    "touchstone-electric-raleigh"
+   ],
+   "ceiling_fans": [
+    "jd-service-now",
+    "streamline-services-plumbing-hvac-electrical",
+    "triad-electrical-services",
+    "bud-matthews-services",
+    "touchstone-electric-raleigh"
+   ],
+   "washer_leak": [
+    "jd-service-now",
+    "gp-chijxagidhdzrikrm6e2dwd4n_s",
+    "happy-home-services",
+    "gp-chij0ukajlljrikraakw01rp7sa",
+    "gp-chijzbwcw4nmrikrr3-fpcf5jw8"
+   ],
+   "fridge_warm": [
+    "jd-service-now",
+    "gp-chijxagidhdzrikrm6e2dwd4n_s",
+    "happy-home-services",
+    "gp-chij0ukajlljrikraakw01rp7sa",
+    "gp-chijzbwcw4nmrikrr3-fpcf5jw8"
+   ],
+   "dishwasher_drain": [
+    "jd-service-now",
+    "gp-chijxagidhdzrikrm6e2dwd4n_s",
+    "happy-home-services",
+    "gp-chij0ukajlljrikraakw01rp7sa",
+    "gp-chijzbwcw4nmrikrr3-fpcf5jw8"
+   ],
+   "gas_oven": [
+    "jd-service-now",
+    "gp-chijxagidhdzrikrm6e2dwd4n_s",
+    "happy-home-services",
+    "gp-chij0ukajlljrikraakw01rp7sa",
+    "gp-chijzbwcw4nmrikrr3-fpcf5jw8"
+   ],
+   "drywall_door": [
+    "gp-chijgbg9wfrvrikrw0_qfhqnj0y",
+    "gp-chijqvm-qcilrikrqokqne3vqcw",
+    "mr-handyman-of-chapel-hill-and-west-durham",
+    "bud-matthews-services",
+    "gp-chijgwxpjqxtrikronlhssqaejs"
+   ],
+   "tv_mount_assembly": [
+    "gp-chijgbg9wfrvrikrw0_qfhqnj0y",
+    "gp-chijqvm-qcilrikrqokqne3vqcw",
+    "mr-handyman-of-chapel-hill-and-west-durham",
+    "bud-matthews-services",
+    "gp-chijgwxpjqxtrikronlhssqaejs"
+   ],
+   "termite_swarm": [
+    "aruza-pest-control",
+    "gp-chijq6oalnrjrikrubzwzknwefe",
+    "triangle-pest-control",
+    "gp-chijjwlw1o7xrikr3iooipgzqbs",
+    "gp-chijh01rqithrikrfxawzp_dfbc"
+   ],
+   "mice_attic": [
+    "aruza-pest-control",
+    "gp-chijq6oalnrjrikrubzwzknwefe",
+    "triangle-pest-control",
+    "gp-chijjwlw1o7xrikr3iooipgzqbs",
+    "gp-chijh01rqithrikrfxawzp_dfbc"
+   ],
+   "wildlife_attic": [
+    "aruza-pest-control",
+    "gp-chijq6oalnrjrikrubzwzknwefe",
+    "triangle-pest-control",
+    "gp-chijjwlw1o7xrikr3iooipgzqbs",
+    "gp-chijh01rqithrikrfxawzp_dfbc"
+   ],
+   "mosquito_yard": [
+    "aruza-pest-control",
+    "gp-chijq6oalnrjrikrubzwzknwefe",
+    "triangle-pest-control",
+    "gp-chijjwlw1o7xrikr3iooipgzqbs",
+    "gp-chijh01rqithrikrfxawzp_dfbc"
+   ],
+   "bed_bugs": [
+    "aruza-pest-control",
+    "gp-chijq6oalnrjrikrubzwzknwefe",
+    "triangle-pest-control",
+    "gp-chijjwlw1o7xrikr3iooipgzqbs",
+    "gp-chijh01rqithrikrfxawzp_dfbc"
+   ],
+   "sink_clog_chapel_hill": [
+    "jd-service-now",
+    "streamline-services-plumbing-hvac-electrical",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "brown-brothers-plumbing-heating",
+    "plumbv-inc"
+   ],
+   "storm_flood_cleanup": [
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "gp-chijoz40z7xwrikrnkdpq_e1cm0",
+    "gp-chijkcv8bl3zrikru8br_yi6qqy",
+    "servpro-of-south-durham",
+    "gp-chijq3n2brvzrikr_mi6og88n3o"
+   ]
+  },
+  "v1_distance_bayes": {
+   "basement_storm_standing": [
+    "gp-chijoz40z7xwrikrnkdpq_e1cm0",
+    "gp-chiji5btvs3nrikru85q1ftdjmw",
+    "gp-chijk73vxw_vrikrctlw-r20tmq",
+    "gp-chije2szwmnqrikrbd0o52xpm0q",
+    "servpro-of-south-durham"
+   ],
+   "basement_seep_recurring": [
+    "gp-chijmup32d7srikrlgxrfl_nh94",
+    "gp-chijre4wskxlrikrqbc4rm5fbzc",
+    "streamline-services-plumbing-hvac-electrical",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "gp-chijhbgz4cjdrikrigedyfms9ci"
+   ],
+   "sump_pump_failed": [
+    "brown-brothers-plumbing-heating",
+    "bar-d-plumbing",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "gp-chijt8onncjhrikropcuhiikf0s",
+    "streamline-services-plumbing-hvac-electrical"
+   ],
+   "ceiling_drip_shower": [
+    "bar-d-plumbing",
+    "brown-brothers-plumbing-heating",
+    "jd-service-now",
+    "harmon-plumbing",
+    "roto-rooter-plumbing-water-cleanup-durham"
+   ],
+   "roof_leak_storm": [
+    "gp-chijqy26qzpxrikratjd5o4htos",
+    "gp-chijs3oygkljrikrgjr26qkn74q",
+    "gp-chijz5ubvzt7rikrgitum_dpzje",
+    "gp-chijgqlm70xjrikr58i-xeml3em",
+    "feazel-roofing"
+   ],
+   "no_ac_heatwave": [
+    "gp-chij6ri5hodzrikrlpbmrfz_lm0",
+    "gp-chijzrluukrwrikr0lvajb9b5m4",
+    "happy-home-services",
+    "alternative-aire-inc",
+    "gp-chijcxhuvi0erykra3ken5bywri"
+   ],
+   "no_heat_winter": [
+    "happy-home-services",
+    "alternative-aire-inc",
+    "gp-chijcxhuvi0erykra3ken5bywri",
+    "green-horizon-one-hour-heating-air-conditioning",
+    "gp-chijs0ahimtnrikrgoxbqdqxose"
+   ],
+   "outlet_dead": [
+    "gp-chijgew6hrflrikr2r6-kxu7_jc",
+    "gp-chijvwoveo6hpasr0c1l203pk7g",
+    "bud-matthews-services",
+    "triad-electrical-services",
+    "touchstone-electric-raleigh"
+   ],
+   "burning_outlet": [
+    "gp-chijvwoveo6hpasr0c1l203pk7g",
+    "bud-matthews-services",
+    "touchstone-electric-raleigh",
+    "gp-chij5bvkhbcgkgur1us23vwmbmw",
+    "gp-chijaypf5rfjrikru5tlgi2ieps"
+   ],
+   "water_heater_leak": [
+    "shelton-plumbing-co",
+    "brown-brothers-plumbing-heating",
+    "streamline-services-plumbing-hvac-electrical",
+    "gp-chijuezxstjnrikrmjpypvmskuc",
+    "gp-chiju0h1bgjxjuwr5tn1b6pjb_q"
+   ],
+   "tankless_upgrade": [
+    "jd-service-now",
+    "brown-brothers-plumbing-heating",
+    "gp-chijuezxstjnrikrmjpypvmskuc",
+    "bar-d-plumbing",
+    "gp-chijt8onncjhrikropcuhiikf0s"
+   ],
+   "sewer_backup": [
+    "brown-brothers-plumbing-heating",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "bar-d-plumbing",
+    "streamline-services-plumbing-hvac-electrical",
+    "gp-chiju0h1bgjxjuwr5tn1b6pjb_q"
+   ],
+   "slow_sink": [
+    "jd-service-now",
+    "brown-brothers-plumbing-heating",
+    "bar-d-plumbing",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "gp-chijt8onncjhrikropcuhiikf0s"
+   ],
+   "toilet_running": [
+    "brown-brothers-plumbing-heating",
+    "bar-d-plumbing",
+    "streamline-services-plumbing-hvac-electrical",
+    "harmon-plumbing",
+    "roto-rooter-plumbing-water-cleanup-durham"
+   ],
+   "low_pressure_yard": [
+    "bar-d-plumbing",
+    "brown-brothers-plumbing-heating",
+    "jd-service-now",
+    "harmon-plumbing",
+    "roto-rooter-plumbing-water-cleanup-durham"
+   ],
+   "crawl_encapsulation": [
+    "gp-chijhbgz4cjdrikrigedyfms9ci",
+    "gp-chij60ymwn_grikrq8m7xbi1bvq",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "gp-chijre4wskxlrikrqbc4rm5fbzc",
+    "streamline-services-plumbing-hvac-electrical"
+   ],
+   "foundation_settling": [
+    "streamline-services-plumbing-hvac-electrical",
+    "gp-chijre4wskxlrikrqbc4rm5fbzc",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "gp-chijmup32d7srikrlgxrfl_nh94",
+    "gp-chij32osck08rs4rtsiavtr18-i"
+   ],
+   "yard_drainage": [
+    "gp-chijre4wskxlrikrqbc4rm5fbzc",
+    "gp-chijhbgz4cjdrikrigedyfms9ci",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "gp-chij60ymwn_grikrq8m7xbi1bvq",
+    "streamline-services-plumbing-hvac-electrical"
+   ],
+   "mold_after_leak": [
+    "gp-chijoz40z7xwrikrnkdpq_e1cm0",
+    "gp-chijqt4wa9hlrikryxuuiq3hu34",
+    "gp-chijk73vxw_vrikrctlw-r20tmq",
+    "gp-chiji5btvs3nrikru85q1ftdjmw",
+    "gp-chijq3n2brvzrikr_mi6og88n3o"
+   ],
+   "sewage_overflow_cleanup": [
+    "gp-chijoz40z7xwrikrnkdpq_e1cm0",
+    "gp-chiji5btvs3nrikru85q1ftdjmw",
+    "gp-chijk73vxw_vrikrctlw-r20tmq",
+    "gp-chije2szwmnqrikrbd0o52xpm0q",
+    "servpro-of-south-durham"
+   ],
+   "gutter_overflow": [
+    "gp-chij4qawrjjhrikrmjssvrzai4o",
+    "gp-chijg-jagdzjrikrd-ggsij2fqm",
+    "gp-chijxzhzn6gsrikrbbyusuh75xs",
+    "gp-chij0xd2dydjrikrp_tfsxztvdo",
+    "gp-chiji73ni8tcawarxqxyt2ai8am"
+   ],
+   "gutter_detached": [
+    "gp-chij4qawrjjhrikrmjssvrzai4o",
+    "gp-chijg-jagdzjrikrd-ggsij2fqm",
+    "gp-chijxzhzn6gsrikrbbyusuh75xs",
+    "gp-chiji73ni8tcawarxqxyt2ai8am",
+    "gp-chijmw3u1obirikrude41q0hxwa"
+   ],
+   "gutter_guards": [
+    "gp-chijxzhzn6gsrikrbbyusuh75xs",
+    "gp-chij4qawrjjhrikrmjssvrzai4o",
+    "gp-chijg-jagdzjrikrd-ggsij2fqm",
+    "gp-chijqy26qzpxrikratjd5o4htos",
+    "gp-chiji73ni8tcawarxqxyt2ai8am"
+   ],
+   "roof_replacement": [
+    "gp-chijmw3u1obirikrude41q0hxwa",
+    "gp-chijqy26qzpxrikratjd5o4htos",
+    "gp-chijuuiuip3hrikr0xqo67npc1e",
+    "gp-chij0yb1uarkrikri0kja-ml6wg",
+    "carolina-united-roofing-construction-llc"
+   ],
+   "flat_roof_porch": [
+    "gp-chijmw3u1obirikrude41q0hxwa",
+    "gp-chijqy26qzpxrikratjd5o4htos",
+    "carolina-united-roofing-construction-llc",
+    "gp-chije5mrs17mrikrcjzpxgd4bsw",
+    "mj-s-roofing-remodeling"
+   ],
+   "chimney_leak_hillsborough": [
+    "gp-chijqy26qzpxrikratjd5o4htos",
+    "gp-chijmw3u1obirikrude41q0hxwa",
+    "carolina-united-roofing-construction-llc",
+    "boxer-roofing",
+    "gp-chije5mrs17mrikrcjzpxgd4bsw"
+   ],
+   "heat_pump_replace": [
+    "gp-chijhyjnbyd6rikrykpssng91ne",
+    "air-innovations-heating-and-cooling-llc",
+    "happy-home-services",
+    "alternative-aire-inc",
+    "green-horizon-one-hour-heating-air-conditioning"
+   ],
+   "mini_split_garage": [
+    "happy-home-services",
+    "alternative-aire-inc",
+    "gp-chijcxhuvi0erykra3ken5bywri",
+    "gp-chijrsftr8pgrikryqpenueemvy",
+    "green-horizon-one-hour-heating-air-conditioning"
+   ],
+   "weak_airflow": [
+    "happy-home-services",
+    "alternative-aire-inc",
+    "gp-chijrsftr8pgrikryqpenueemvy",
+    "gp-chijcxhuvi0erykra3ken5bywri",
+    "gp-chijoxzrmidhrikrsmifu9ebpja"
+   ],
+   "ac_morrisville": [
+    "gp-chijhyjnbyd6rikrykpssng91ne",
+    "gp-chij6ri5hodzrikrlpbmrfz_lm0",
+    "gp-chijzrluukrwrikr0lvajb9b5m4",
+    "happy-home-services",
+    "green-horizon-one-hour-heating-air-conditioning"
+   ],
+   "panel_upgrade": [
+    "gp-chij5bvkhbcgkgur1us23vwmbmw",
+    "gp-chijgew6hrflrikr2r6-kxu7_jc",
+    "gp-chijl_6ivowzrykrv4bwf3omz30",
+    "triad-electrical-services",
+    "gp-chijvwoveo6hpasr0c1l203pk7g"
+   ],
+   "ev_charger": [
+    "gp-chijvwoveo6hpasr0c1l203pk7g",
+    "gp-chijgew6hrflrikr2r6-kxu7_jc",
+    "bud-matthews-services",
+    "touchstone-electric-raleigh",
+    "triad-electrical-services"
+   ],
+   "standby_generator": [
+    "gp-chijl_6ivowzrykrv4bwf3omz30",
+    "triad-electrical-services",
+    "gp-chij3d1mumlhrikroytdlwol150",
+    "gp-chij5bvkhbcgkgur1us23vwmbmw",
+    "gp-chijgew6hrflrikr2r6-kxu7_jc"
+   ],
+   "ceiling_fans": [
+    "gp-chijgew6hrflrikr2r6-kxu7_jc",
+    "triad-electrical-services",
+    "gp-chijl_6ivowzrykrv4bwf3omz30",
+    "gp-chijaypf5rfjrikru5tlgi2ieps",
+    "bud-matthews-services"
+   ],
+   "washer_leak": [
+    "gp-chij0dctmn903y8remfolth6cv8",
+    "gp-chijzbwcw4nmrikrr3-fpcf5jw8",
+    "gp-chijt5uhgh3nrikrsqv3msrnhcq",
+    "gp-chijxagidhdzrikrm6e2dwd4n_s",
+    "happy-home-services"
+   ],
+   "fridge_warm": [
+    "gp-chijt5uhgh3nrikrsqv3msrnhcq",
+    "gp-chij025madb7rikracmz31acbbs",
+    "gp-chijxagidhdzrikrm6e2dwd4n_s",
+    "gp-chijzbwcw4nmrikrr3-fpcf5jw8",
+    "gp-chij0dctmn903y8remfolth6cv8"
+   ],
+   "dishwasher_drain": [
+    "gp-chij0dctmn903y8remfolth6cv8",
+    "gp-chijxagidhdzrikrm6e2dwd4n_s",
+    "gp-chijzbwcw4nmrikrr3-fpcf5jw8",
+    "gp-chijt5uhgh3nrikrsqv3msrnhcq",
+    "gp-chijr2x9f4_vrikrvfdkpepyzd0"
+   ],
+   "gas_oven": [
+    "gp-chij0dctmn903y8remfolth6cv8",
+    "gp-chijzbwcw4nmrikrr3-fpcf5jw8",
+    "happy-home-services",
+    "jd-service-now",
+    "gp-chijt5uhgh3nrikrsqv3msrnhcq"
+   ],
+   "drywall_door": [
+    "gp-chijgbg9wfrvrikrw0_qfhqnj0y",
+    "mr-handyman-of-chapel-hill-and-west-durham",
+    "gp-chijcwegx-wsrcqrpnj32ibtuiq",
+    "do-it-all-dave-s-llc",
+    "mohandymen-llc"
+   ],
+   "tv_mount_assembly": [
+    "gp-chijgbg9wfrvrikrw0_qfhqnj0y",
+    "mr-handyman-of-chapel-hill-and-west-durham",
+    "gp-chijgwxpjqxtrikronlhssqaejs",
+    "gp-chijcwegx-wsrcqrpnj32ibtuiq",
+    "gp-chijqvm-qcilrikrqokqne3vqcw"
+   ],
+   "termite_swarm": [
+    "gp-chijeyhyonblrikrzbxdwkxnlfq",
+    "gp-chijq6oalnrjrikrubzwzknwefe",
+    "gp-chijjwlw1o7xrikr3iooipgzqbs",
+    "gp-chijh01rqithrikrfxawzp_dfbc",
+    "gp-chijyehgkf_hrikrcbxztqc3smq"
+   ],
+   "mice_attic": [
+    "gp-chijh01rqithrikrfxawzp_dfbc",
+    "gp-chijq6oalnrjrikrubzwzknwefe",
+    "gp-chijeyhyonblrikrzbxdwkxnlfq",
+    "gp-chij61jpcl_6rikrewwrxrqba9s",
+    "gp-chijlxvcdllhrikr4vmwouxqop8"
+   ],
+   "wildlife_attic": [
+    "gp-chijq6oalnrjrikrubzwzknwefe",
+    "gp-chijeyhyonblrikrzbxdwkxnlfq",
+    "gp-chijh01rqithrikrfxawzp_dfbc",
+    "gp-chijyehgkf_hrikrcbxztqc3smq",
+    "gp-chij61jpcl_6rikrewwrxrqba9s"
+   ],
+   "mosquito_yard": [
+    "triangle-pest-control",
+    "gp-chijoqipxt7drikrjgjq-lkzki8",
+    "gp-chijeyhyonblrikrzbxdwkxnlfq",
+    "gp-chij61jpcl_6rikrewwrxrqba9s",
+    "aruza-pest-control"
+   ],
+   "bed_bugs": [
+    "gp-chijeyhyonblrikrzbxdwkxnlfq",
+    "gp-chijq6oalnrjrikrubzwzknwefe",
+    "gp-chij61jpcl_6rikrewwrxrqba9s",
+    "gp-chijh01rqithrikrfxawzp_dfbc",
+    "gp-chijyehgkf_hrikrcbxztqc3smq"
+   ],
+   "sink_clog_chapel_hill": [
+    "jd-service-now",
+    "brown-brothers-plumbing-heating",
+    "gp-chijuezxstjnrikrmjpypvmskuc",
+    "bar-d-plumbing",
+    "gp-chijt8onncjhrikropcuhiikf0s"
+   ],
+   "storm_flood_cleanup": [
+    "gp-chije2szwmnqrikrbd0o52xpm0q",
+    "gp-chijoz40z7xwrikrnkdpq_e1cm0",
+    "servpro-of-south-durham",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "gp-chijksr5w0rzrikr5wzu5hwoftw"
+   ]
+  },
+  "v2_+tags": {
+   "basement_storm_standing": [
+    "gp-chijoz40z7xwrikrnkdpq_e1cm0",
+    "gp-chiji5btvs3nrikru85q1ftdjmw",
+    "gp-chijk73vxw_vrikrctlw-r20tmq",
+    "gp-chije2szwmnqrikrbd0o52xpm0q",
+    "servpro-of-south-durham"
+   ],
+   "basement_seep_recurring": [
+    "gp-chijmup32d7srikrlgxrfl_nh94",
+    "gp-chij60ymwn_grikrq8m7xbi1bvq",
+    "gp-chij32osck08rs4rtsiavtr18-i",
+    "gp-chijhezgmat6am8rfoqnrz9ibro",
+    "gp-chijaalxrex3rikrnvoi6hxttoe"
+   ],
+   "sump_pump_failed": [
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "gp-chijywc8ehbjrikr8vz5bjfcmcq",
+    "streamline-services-plumbing-hvac-electrical",
+    "harmon-plumbing",
+    "shelton-plumbing-co"
+   ],
+   "ceiling_drip_shower": [
+    "bar-d-plumbing",
+    "brown-brothers-plumbing-heating",
+    "jd-service-now",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "streamline-services-plumbing-hvac-electrical"
+   ],
+   "roof_leak_storm": [
+    "gp-chijqy26qzpxrikratjd5o4htos",
+    "gp-chijs3oygkljrikrgjr26qkn74q",
+    "gp-chijgqlm70xjrikr58i-xeml3em",
+    "feazel-roofing",
+    "gp-chijm-njerpjrikrbi0qtfruzf4"
+   ],
+   "no_ac_heatwave": [
+    "gp-chij6ri5hodzrikrlpbmrfz_lm0",
+    "gp-chijzrluukrwrikr0lvajb9b5m4",
+    "happy-home-services",
+    "alternative-aire-inc",
+    "gp-chijcxhuvi0erykra3ken5bywri"
+   ],
+   "no_heat_winter": [
+    "happy-home-services",
+    "alternative-aire-inc",
+    "gp-chijcxhuvi0erykra3ken5bywri",
+    "green-horizon-one-hour-heating-air-conditioning",
+    "gp-chijs0ahimtnrikrgoxbqdqxose"
+   ],
+   "outlet_dead": [
+    "gp-chijgew6hrflrikr2r6-kxu7_jc",
+    "gp-chijvwoveo6hpasr0c1l203pk7g",
+    "bud-matthews-services",
+    "gp-chij5bvkhbcgkgur1us23vwmbmw",
+    "gp-chijl_6ivowzrykrv4bwf3omz30"
+   ],
+   "burning_outlet": [
+    "gp-chijvwoveo6hpasr0c1l203pk7g",
+    "bud-matthews-services",
+    "gp-chij5bvkhbcgkgur1us23vwmbmw",
+    "gp-chijaypf5rfjrikru5tlgi2ieps",
+    "gp-chijnx4lfrllrikrfuekoyc5qwy"
+   ],
+   "water_heater_leak": [
+    "shelton-plumbing-co",
+    "brown-brothers-plumbing-heating",
+    "streamline-services-plumbing-hvac-electrical",
+    "gp-chijuezxstjnrikrmjpypvmskuc",
+    "bar-d-plumbing"
+   ],
+   "tankless_upgrade": [
+    "jd-service-now",
+    "brown-brothers-plumbing-heating",
+    "gp-chijuezxstjnrikrmjpypvmskuc",
+    "bar-d-plumbing",
+    "shelton-plumbing-co"
+   ],
+   "sewer_backup": [
+    "brown-brothers-plumbing-heating",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "bar-d-plumbing",
+    "streamline-services-plumbing-hvac-electrical",
+    "harmon-plumbing"
+   ],
+   "slow_sink": [
+    "jd-service-now",
+    "brown-brothers-plumbing-heating",
+    "bar-d-plumbing",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "streamline-services-plumbing-hvac-electrical"
+   ],
+   "toilet_running": [
+    "brown-brothers-plumbing-heating",
+    "bar-d-plumbing",
+    "streamline-services-plumbing-hvac-electrical",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "gp-chijl0rkudfjrikr_nmqew_fd-u"
+   ],
+   "low_pressure_yard": [
+    "bar-d-plumbing",
+    "brown-brothers-plumbing-heating",
+    "jd-service-now",
+    "harmon-plumbing",
+    "roto-rooter-plumbing-water-cleanup-durham"
+   ],
+   "crawl_encapsulation": [
+    "gp-chijhbgz4cjdrikrigedyfms9ci",
+    "gp-chij60ymwn_grikrq8m7xbi1bvq",
+    "gp-chijre4wskxlrikrqbc4rm5fbzc",
+    "gp-chij32osck08rs4rtsiavtr18-i",
+    "gp-chijh01rqithrikrfxawzp_dfbc"
+   ],
+   "foundation_settling": [
+    "gp-chijmup32d7srikrlgxrfl_nh94",
+    "gp-chij32osck08rs4rtsiavtr18-i",
+    "gp-chijhezgmat6am8rfoqnrz9ibro",
+    "gp-chij60ymwn_grikrq8m7xbi1bvq",
+    "gp-chijaalxrex3rikrnvoi6hxttoe"
+   ],
+   "yard_drainage": [
+    "gp-chij60ymwn_grikrq8m7xbi1bvq",
+    "gp-chijmup32d7srikrlgxrfl_nh94",
+    "gp-chij32osck08rs4rtsiavtr18-i",
+    "gp-chijpxfoabxfrikrcq8glnj1v6s",
+    "gp-chijh01rqithrikrfxawzp_dfbc"
+   ],
+   "mold_after_leak": [
+    "gp-chijoz40z7xwrikrnkdpq_e1cm0",
+    "gp-chijqt4wa9hlrikryxuuiq3hu34",
+    "gp-chijk73vxw_vrikrctlw-r20tmq",
+    "gp-chiji5btvs3nrikru85q1ftdjmw",
+    "gp-chijq3n2brvzrikr_mi6og88n3o"
+   ],
+   "sewage_overflow_cleanup": [
+    "gp-chijoz40z7xwrikrnkdpq_e1cm0",
+    "gp-chiji5btvs3nrikru85q1ftdjmw",
+    "gp-chijk73vxw_vrikrctlw-r20tmq",
+    "gp-chije2szwmnqrikrbd0o52xpm0q",
+    "servpro-of-south-durham"
+   ],
+   "gutter_overflow": [
+    "gp-chijg-jagdzjrikrd-ggsij2fqm",
+    "gp-chijxzhzn6gsrikrbbyusuh75xs",
+    "gp-chij0xd2dydjrikrp_tfsxztvdo",
+    "gp-chiji73ni8tcawarxqxyt2ai8am",
+    "gp-chijqy26qzpxrikratjd5o4htos"
+   ],
+   "gutter_detached": [
+    "gp-chij4qawrjjhrikrmjssvrzai4o",
+    "gp-chijg-jagdzjrikrd-ggsij2fqm",
+    "gp-chijxzhzn6gsrikrbbyusuh75xs",
+    "gp-chiji73ni8tcawarxqxyt2ai8am",
+    "gp-chijmw3u1obirikrude41q0hxwa"
+   ],
+   "gutter_guards": [
+    "gp-chijxzhzn6gsrikrbbyusuh75xs",
+    "gp-chij4qawrjjhrikrmjssvrzai4o",
+    "gp-chiji73ni8tcawarxqxyt2ai8am",
+    "gp-chijn9rg29xvrikrpw2tojouxfy",
+    "gp-chij2ynozxxlrikrlhiesg9ldle"
+   ],
+   "roof_replacement": [
+    "gp-chijmw3u1obirikrude41q0hxwa",
+    "gp-chijqy26qzpxrikratjd5o4htos",
+    "gp-chijuuiuip3hrikr0xqo67npc1e",
+    "gp-chij0yb1uarkrikri0kja-ml6wg",
+    "carolina-united-roofing-construction-llc"
+   ],
+   "flat_roof_porch": [
+    "gp-chijqy26qzpxrikratjd5o4htos",
+    "gp-chijuuiuip3hrikr0xqo67npc1e",
+    "gp-chij0yb1uarkrikri0kja-ml6wg",
+    "gp-chij73zwdj2-oaarbe2mbjrth5y",
+    "feazel-roofing"
+   ],
+   "chimney_leak_hillsborough": [
+    "gp-chijqy26qzpxrikratjd5o4htos",
+    "gp-chijmw3u1obirikrude41q0hxwa",
+    "boxer-roofing",
+    "gp-chijuuiuip3hrikr0xqo67npc1e",
+    "gp-chij0yb1uarkrikri0kja-ml6wg"
+   ],
+   "heat_pump_replace": [
+    "gp-chijhyjnbyd6rikrykpssng91ne",
+    "air-innovations-heating-and-cooling-llc",
+    "happy-home-services",
+    "alternative-aire-inc",
+    "green-horizon-one-hour-heating-air-conditioning"
+   ],
+   "mini_split_garage": [
+    "happy-home-services",
+    "alternative-aire-inc",
+    "gp-chijcxhuvi0erykra3ken5bywri",
+    "green-horizon-one-hour-heating-air-conditioning",
+    "gp-chijs0ahimtnrikrgoxbqdqxose"
+   ],
+   "weak_airflow": [
+    "happy-home-services",
+    "alternative-aire-inc",
+    "gp-chijcxhuvi0erykra3ken5bywri",
+    "gp-chijoxzrmidhrikrsmifu9ebpja",
+    "green-horizon-one-hour-heating-air-conditioning"
+   ],
+   "ac_morrisville": [
+    "gp-chijhyjnbyd6rikrykpssng91ne",
+    "gp-chij6ri5hodzrikrlpbmrfz_lm0",
+    "gp-chijzrluukrwrikr0lvajb9b5m4",
+    "happy-home-services",
+    "green-horizon-one-hour-heating-air-conditioning"
+   ],
+   "panel_upgrade": [
+    "gp-chij5bvkhbcgkgur1us23vwmbmw",
+    "gp-chijgew6hrflrikr2r6-kxu7_jc",
+    "gp-chijl_6ivowzrykrv4bwf3omz30",
+    "gp-chijvwoveo6hpasr0c1l203pk7g",
+    "gp-chij3d1mumlhrikroytdlwol150"
+   ],
+   "ev_charger": [
+    "gp-chijvwoveo6hpasr0c1l203pk7g",
+    "gp-chijgew6hrflrikr2r6-kxu7_jc",
+    "bud-matthews-services",
+    "gp-chij5bvkhbcgkgur1us23vwmbmw",
+    "gp-chijl_6ivowzrykrv4bwf3omz30"
+   ],
+   "standby_generator": [
+    "gp-chijl_6ivowzrykrv4bwf3omz30",
+    "gp-chij3d1mumlhrikroytdlwol150",
+    "gp-chij5bvkhbcgkgur1us23vwmbmw",
+    "gp-chijgew6hrflrikr2r6-kxu7_jc",
+    "gp-chijvwoveo6hpasr0c1l203pk7g"
+   ],
+   "ceiling_fans": [
+    "gp-chijgew6hrflrikr2r6-kxu7_jc",
+    "gp-chijl_6ivowzrykrv4bwf3omz30",
+    "gp-chijaypf5rfjrikru5tlgi2ieps",
+    "bud-matthews-services",
+    "gp-chij3d1mumlhrikroytdlwol150"
+   ],
+   "washer_leak": [
+    "gp-chij0dctmn903y8remfolth6cv8",
+    "gp-chijzbwcw4nmrikrr3-fpcf5jw8",
+    "gp-chijxagidhdzrikrm6e2dwd4n_s",
+    "triangle-services-handyman-appliance-repair",
+    "gp-chijr2x9f4_vrikrvfdkpepyzd0"
+   ],
+   "fridge_warm": [
+    "gp-chijxagidhdzrikrm6e2dwd4n_s",
+    "gp-chijzbwcw4nmrikrr3-fpcf5jw8",
+    "gp-chij0dctmn903y8remfolth6cv8",
+    "triangle-services-handyman-appliance-repair",
+    "gp-chijvzdarfykjsyrczclepwluks"
+   ],
+   "dishwasher_drain": [
+    "gp-chij0dctmn903y8remfolth6cv8",
+    "gp-chijxagidhdzrikrm6e2dwd4n_s",
+    "gp-chijr2x9f4_vrikrvfdkpepyzd0",
+    "triangle-services-handyman-appliance-repair",
+    "bud-matthews-services"
+   ],
+   "gas_oven": [
+    "gp-chij0dctmn903y8remfolth6cv8",
+    "gp-chijzbwcw4nmrikrr3-fpcf5jw8",
+    "triangle-services-handyman-appliance-repair",
+    "gp-chij0ukajlljrikraakw01rp7sa",
+    "gp-chijxagidhdzrikrm6e2dwd4n_s"
+   ],
+   "drywall_door": [
+    "mr-handyman-of-chapel-hill-and-west-durham",
+    "gp-chijqvm-qcilrikrqokqne3vqcw",
+    "gp-chijgwxpjqxtrikronlhssqaejs",
+    "gp-chijiuaw3qpnrikrrs3jtcugpzg",
+    "triangle-services-handyman-appliance-repair"
+   ],
+   "tv_mount_assembly": [
+    "mr-handyman-of-chapel-hill-and-west-durham",
+    "gp-chijcwegx-wsrcqrpnj32ibtuiq",
+    "gp-chijqvm-qcilrikrqokqne3vqcw",
+    "gp-chijiuaw3qpnrikrrs3jtcugpzg",
+    "triangle-services-handyman-appliance-repair"
+   ],
+   "termite_swarm": [
+    "gp-chijeyhyonblrikrzbxdwkxnlfq",
+    "gp-chijq6oalnrjrikrubzwzknwefe",
+    "gp-chijjwlw1o7xrikr3iooipgzqbs",
+    "gp-chijh01rqithrikrfxawzp_dfbc",
+    "gp-chijyehgkf_hrikrcbxztqc3smq"
+   ],
+   "mice_attic": [
+    "gp-chijh01rqithrikrfxawzp_dfbc",
+    "gp-chijeyhyonblrikrzbxdwkxnlfq",
+    "gp-chijyehgkf_hrikrcbxztqc3smq",
+    "gp-chijoqipxt7drikrjgjq-lkzki8",
+    "gp-chijjwlw1o7xrikr3iooipgzqbs"
+   ],
+   "wildlife_attic": [
+    "gp-chijeyhyonblrikrzbxdwkxnlfq",
+    "gp-chijh01rqithrikrfxawzp_dfbc",
+    "gp-chijyehgkf_hrikrcbxztqc3smq",
+    "gp-chijjwlw1o7xrikr3iooipgzqbs",
+    "gp-chijoqipxt7drikrjgjq-lkzki8"
+   ],
+   "mosquito_yard": [
+    "gp-chijoqipxt7drikrjgjq-lkzki8",
+    "gp-chijeyhyonblrikrzbxdwkxnlfq",
+    "gp-chij61jpcl_6rikrewwrxrqba9s",
+    "gp-chijq6oalnrjrikrubzwzknwefe",
+    "gp-chijpyk-qwflrikrv-dppsqr1la"
+   ],
+   "bed_bugs": [
+    "gp-chijeyhyonblrikrzbxdwkxnlfq",
+    "gp-chijh01rqithrikrfxawzp_dfbc",
+    "gp-chijyehgkf_hrikrcbxztqc3smq",
+    "gp-chijpyk-qwflrikrv-dppsqr1la",
+    "gp-chijoqipxt7drikrjgjq-lkzki8"
+   ],
+   "sink_clog_chapel_hill": [
+    "jd-service-now",
+    "brown-brothers-plumbing-heating",
+    "gp-chijuezxstjnrikrmjpypvmskuc",
+    "bar-d-plumbing",
+    "shelton-plumbing-co"
+   ],
+   "storm_flood_cleanup": [
+    "gp-chije2szwmnqrikrbd0o52xpm0q",
+    "gp-chijoz40z7xwrikrnkdpq_e1cm0",
+    "servpro-of-south-durham",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "gp-chijksr5w0rzrikr5wzu5hwoftw"
+   ]
+  },
+  "v3_+bm25": {
+   "basement_storm_standing": [
+    "gp-chiji5btvs3nrikru85q1ftdjmw",
+    "gp-chije2szwmnqrikrbd0o52xpm0q",
+    "gp-chijk73vxw_vrikrctlw-r20tmq",
+    "gp-chijoz40z7xwrikrnkdpq_e1cm0",
+    "gp-chijltzv0lvzrikrmgzgm0cnllk"
+   ],
+   "basement_seep_recurring": [
+    "gp-chijmup32d7srikrlgxrfl_nh94",
+    "gp-chij5awmvl_hrikr3ue4hgngohe",
+    "gp-chij60ymwn_grikrq8m7xbi1bvq",
+    "gp-chijhezgmat6am8rfoqnrz9ibro",
+    "gp-chij32osck08rs4rtsiavtr18-i"
+   ],
+   "sump_pump_failed": [
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "gp-chijywc8ehbjrikr8vz5bjfcmcq",
+    "streamline-services-plumbing-hvac-electrical",
+    "harmon-plumbing",
+    "mr-rooter-plumbing-of-durham-north"
+   ],
+   "ceiling_drip_shower": [
+    "bar-d-plumbing",
+    "jd-service-now",
+    "brown-brothers-plumbing-heating",
+    "streamline-services-plumbing-hvac-electrical",
+    "gp-chijn-xeay_frikrohiyrqpeplg"
+   ],
+   "roof_leak_storm": [
+    "gp-chijqy26qzpxrikratjd5o4htos",
+    "feazel-roofing",
+    "gp-chijs3oygkljrikrgjr26qkn74q",
+    "arac-roof-it-forward",
+    "gp-chijm-njerpjrikrbi0qtfruzf4"
+   ],
+   "no_ac_heatwave": [
+    "alternative-aire-inc",
+    "gp-chijlaw6ptbwleord02g-ftlgwq",
+    "gp-chijzrluukrwrikr0lvajb9b5m4",
+    "gp-chijs0ahimtnrikrgoxbqdqxose",
+    "gp-chijcxhuvi0erykra3ken5bywri"
+   ],
+   "no_heat_winter": [
+    "gp-chijcxhuvi0erykra3ken5bywri",
+    "alternative-aire-inc",
+    "happy-home-services",
+    "gp-chijfv3q8wphrikrghmoqqewxkk",
+    "gp-chijs0ahimtnrikrgoxbqdqxose"
+   ],
+   "outlet_dead": [
+    "gp-chijgew6hrflrikr2r6-kxu7_jc",
+    "gp-chijvwoveo6hpasr0c1l203pk7g",
+    "gp-chijl_6ivowzrykrv4bwf3omz30",
+    "gp-chijaypf5rfjrikru5tlgi2ieps",
+    "gp-chij5bvkhbcgkgur1us23vwmbmw"
+   ],
+   "burning_outlet": [
+    "gp-chijvwoveo6hpasr0c1l203pk7g",
+    "gp-chij5bvkhbcgkgur1us23vwmbmw",
+    "gp-chijaypf5rfjrikru5tlgi2ieps",
+    "bud-matthews-services",
+    "gp-chijdsqt4ljlrikre7jz7vtgdns"
+   ],
+   "water_heater_leak": [
+    "shelton-plumbing-co",
+    "brown-brothers-plumbing-heating",
+    "bar-d-plumbing",
+    "plumbv-inc",
+    "gp-chijd_l-p0fhrikrwk57dwlo9rc"
+   ],
+   "tankless_upgrade": [
+    "shelton-plumbing-co",
+    "gp-chijn-xeay_frikrohiyrqpeplg",
+    "bar-d-plumbing",
+    "gp-chijd_l-p0fhrikrwk57dwlo9rc",
+    "brown-brothers-plumbing-heating"
+   ],
+   "sewer_backup": [
+    "brown-brothers-plumbing-heating",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "bar-d-plumbing",
+    "harmon-plumbing",
+    "streamline-services-plumbing-hvac-electrical"
+   ],
+   "slow_sink": [
+    "gp-chijn-xeay_frikrohiyrqpeplg",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "shelton-plumbing-co",
+    "gp-chijpyoakfxkrikrthpswcgc3ca",
+    "bar-d-plumbing"
+   ],
+   "toilet_running": [
+    "bar-d-plumbing",
+    "brown-brothers-plumbing-heating",
+    "gp-chijl0rkudfjrikr_nmqew_fd-u",
+    "gp-chijd_l-p0fhrikrwk57dwlo9rc",
+    "roto-rooter-plumbing-water-cleanup-durham"
+   ],
+   "low_pressure_yard": [
+    "bar-d-plumbing",
+    "harmon-plumbing",
+    "brown-brothers-plumbing-heating",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "jd-service-now"
+   ],
+   "crawl_encapsulation": [
+    "gp-chijhbgz4cjdrikrigedyfms9ci",
+    "gp-chijre4wskxlrikrqbc4rm5fbzc",
+    "gp-chijpxfoabxfrikrcq8glnj1v6s",
+    "gp-chijevkoqqn3rikrrmrhvirs1ng",
+    "gp-chij60ymwn_grikrq8m7xbi1bvq"
+   ],
+   "foundation_settling": [
+    "gp-chijhezgmat6am8rfoqnrz9ibro",
+    "gp-chij32osck08rs4rtsiavtr18-i",
+    "gp-chij5awmvl_hrikr3ue4hgngohe",
+    "gp-chij60ymwn_grikrq8m7xbi1bvq",
+    "gp-chijmup32d7srikrlgxrfl_nh94"
+   ],
+   "yard_drainage": [
+    "gp-chijpxfoabxfrikrcq8glnj1v6s",
+    "gp-chij32osck08rs4rtsiavtr18-i",
+    "gp-chijmup32d7srikrlgxrfl_nh94",
+    "gp-chijusw1m83lrikrozptv29bpiu",
+    "gp-chij60ymwn_grikrq8m7xbi1bvq"
+   ],
+   "mold_after_leak": [
+    "gp-chijqt4wa9hlrikryxuuiq3hu34",
+    "gp-chiji5btvs3nrikru85q1ftdjmw",
+    "gp-chijk73vxw_vrikrctlw-r20tmq",
+    "gp-chijq3n2brvzrikr_mi6og88n3o",
+    "gp-chijoz40z7xwrikrnkdpq_e1cm0"
+   ],
+   "sewage_overflow_cleanup": [
+    "gp-chije2szwmnqrikrbd0o52xpm0q",
+    "gp-chiji5btvs3nrikru85q1ftdjmw",
+    "gp-chijoz40z7xwrikrnkdpq_e1cm0",
+    "1-800-water-damage-of-n-w-triangle-area",
+    "gp-chijk73vxw_vrikrctlw-r20tmq"
+   ],
+   "gutter_overflow": [
+    "gp-chijxzhzn6gsrikrbbyusuh75xs",
+    "gp-chijg-jagdzjrikrd-ggsij2fqm",
+    "gp-chiji73ni8tcawarxqxyt2ai8am",
+    "gp-chij2ynozxxlrikrlhiesg9ldle",
+    "gp-chijjzmg6gjarikr2t_lzsq0lnk"
+   ],
+   "gutter_detached": [
+    "gp-chiji73ni8tcawarxqxyt2ai8am",
+    "gp-chijxqchoafjrikr-k3tolxjlks",
+    "gp-chij4qawrjjhrikrmjssvrzai4o",
+    "gp-chijjzmg6gjarikr2t_lzsq0lnk",
+    "gp-chijmw3u1obirikrude41q0hxwa"
+   ],
+   "gutter_guards": [
+    "gp-chijxzhzn6gsrikrbbyusuh75xs",
+    "gp-chiji73ni8tcawarxqxyt2ai8am",
+    "gp-chijn9rg29xvrikrpw2tojouxfy",
+    "gp-chij2ynozxxlrikrlhiesg9ldle",
+    "gp-chij4qawrjjhrikrmjssvrzai4o"
+   ],
+   "roof_replacement": [
+    "gp-chijmw3u1obirikrude41q0hxwa",
+    "boxer-roofing",
+    "gp-chijm-njerpjrikrbi0qtfruzf4",
+    "gp-chijz5ubvzt7rikrgitum_dpzje",
+    "gp-chijgqlm70xjrikr58i-xeml3em"
+   ],
+   "flat_roof_porch": [
+    "gp-chij0yb1uarkrikri0kja-ml6wg",
+    "gp-chijqy26qzpxrikratjd5o4htos",
+    "gp-chijuuiuip3hrikr0xqo67npc1e",
+    "gp-chijm-njerpjrikrbi0qtfruzf4",
+    "gp-chijgqlm70xjrikr58i-xeml3em"
+   ],
+   "chimney_leak_hillsborough": [
+    "gp-chijqy26qzpxrikratjd5o4htos",
+    "boxer-roofing",
+    "gp-chij0yb1uarkrikri0kja-ml6wg",
+    "gp-chijuuiuip3hrikr0xqo67npc1e",
+    "gp-chijmw3u1obirikrude41q0hxwa"
+   ],
+   "heat_pump_replace": [
+    "gp-chijhyjnbyd6rikrykpssng91ne",
+    "alternative-aire-inc",
+    "air-innovations-heating-and-cooling-llc",
+    "gp-chijcxhuvi0erykra3ken5bywri",
+    "gp-chijsty4_wxvrikrakf1rccjhjw"
+   ],
+   "mini_split_garage": [
+    "alternative-aire-inc",
+    "gp-chijcxhuvi0erykra3ken5bywri",
+    "gp-chijs0ahimtnrikrgoxbqdqxose",
+    "happy-home-services",
+    "green-horizon-one-hour-heating-air-conditioning"
+   ],
+   "weak_airflow": [
+    "alternative-aire-inc",
+    "gp-chijcxhuvi0erykra3ken5bywri",
+    "happy-home-services",
+    "green-horizon-one-hour-heating-air-conditioning",
+    "gp-chijoxzrmidhrikrsmifu9ebpja"
+   ],
+   "ac_morrisville": [
+    "gp-chijhyjnbyd6rikrykpssng91ne",
+    "air-innovations-heating-and-cooling-llc",
+    "alternative-aire-inc",
+    "gp-chijs0ahimtnrikrgoxbqdqxose",
+    "gp-chij6ri5hodzrikrlpbmrfz_lm0"
+   ],
+   "panel_upgrade": [
+    "gp-chij5bvkhbcgkgur1us23vwmbmw",
+    "gp-chijgew6hrflrikr2r6-kxu7_jc",
+    "gp-chijvwoveo6hpasr0c1l203pk7g",
+    "gp-chijl_6ivowzrykrv4bwf3omz30",
+    "gp-chij3d1mumlhrikroytdlwol150"
+   ],
+   "ev_charger": [
+    "gp-chijgew6hrflrikr2r6-kxu7_jc",
+    "gp-chijvwoveo6hpasr0c1l203pk7g",
+    "bud-matthews-services",
+    "gp-chij5bvkhbcgkgur1us23vwmbmw",
+    "gp-chijl_6ivowzrykrv4bwf3omz30"
+   ],
+   "standby_generator": [
+    "gp-chij5bvkhbcgkgur1us23vwmbmw",
+    "gp-chijl_6ivowzrykrv4bwf3omz30",
+    "gp-chijvwoveo6hpasr0c1l203pk7g",
+    "gp-chij3d1mumlhrikroytdlwol150",
+    "gp-chijgew6hrflrikr2r6-kxu7_jc"
+   ],
+   "ceiling_fans": [
+    "gp-chijl_6ivowzrykrv4bwf3omz30",
+    "gp-chijvwoveo6hpasr0c1l203pk7g",
+    "gp-chij3d1mumlhrikroytdlwol150",
+    "gp-chijaypf5rfjrikru5tlgi2ieps",
+    "gp-chijgew6hrflrikr2r6-kxu7_jc"
+   ],
+   "washer_leak": [
+    "gp-chij0dctmn903y8remfolth6cv8",
+    "gp-chijzbwcw4nmrikrr3-fpcf5jw8",
+    "gp-chijr2x9f4_vrikrvfdkpepyzd0",
+    "gp-chijxagidhdzrikrm6e2dwd4n_s",
+    "gp-chij0ukajlljrikraakw01rp7sa"
+   ],
+   "fridge_warm": [
+    "gp-chijxagidhdzrikrm6e2dwd4n_s",
+    "gp-chijdtlq3dvfemarka3kphg1clq",
+    "gp-chijzbwcw4nmrikrr3-fpcf5jw8",
+    "gp-chijr2x9f4_vrikrvfdkpepyzd0",
+    "gp-chij0ukajlljrikraakw01rp7sa"
+   ],
+   "dishwasher_drain": [
+    "gp-chijxagidhdzrikrm6e2dwd4n_s",
+    "gp-chij0dctmn903y8remfolth6cv8",
+    "gp-chijr2x9f4_vrikrvfdkpepyzd0",
+    "gp-chij0ukajlljrikraakw01rp7sa",
+    "gp-chijvzdarfykjsyrczclepwluks"
+   ],
+   "gas_oven": [
+    "gp-chij0dctmn903y8remfolth6cv8",
+    "gp-chijzbwcw4nmrikrr3-fpcf5jw8",
+    "gp-chij0ukajlljrikraakw01rp7sa",
+    "gp-chijxagidhdzrikrm6e2dwd4n_s",
+    "triangle-services-handyman-appliance-repair"
+   ],
+   "drywall_door": [
+    "mr-handyman-of-chapel-hill-and-west-durham",
+    "gp-chijgwxpjqxtrikronlhssqaejs",
+    "gp-chijqvm-qcilrikrqokqne3vqcw",
+    "gp-chijiuaw3qpnrikrrs3jtcugpzg",
+    "triangle-services-handyman-appliance-repair"
+   ],
+   "tv_mount_assembly": [
+    "mr-handyman-of-chapel-hill-and-west-durham",
+    "gp-chijcwegx-wsrcqrpnj32ibtuiq",
+    "gp-chijqvm-qcilrikrqokqne3vqcw",
+    "gp-chijiuaw3qpnrikrrs3jtcugpzg",
+    "triangle-services-handyman-appliance-repair"
+   ],
+   "termite_swarm": [
+    "gp-chijq6oalnrjrikrubzwzknwefe",
+    "gp-chijeyhyonblrikrzbxdwkxnlfq",
+    "gp-chijyqghwq_wrikrtlh7zzl_ycm",
+    "gp-chijjwlw1o7xrikr3iooipgzqbs",
+    "gp-chij9-n5wmrzrikrn_nt6sf0gv4"
+   ],
+   "mice_attic": [
+    "gp-chijh01rqithrikrfxawzp_dfbc",
+    "gp-chijeyhyonblrikrzbxdwkxnlfq",
+    "gp-chijoqipxt7drikrjgjq-lkzki8",
+    "gp-chijjwlw1o7xrikr3iooipgzqbs",
+    "gp-chijyehgkf_hrikrcbxztqc3smq"
+   ],
+   "wildlife_attic": [
+    "gp-chijeyhyonblrikrzbxdwkxnlfq",
+    "gp-chijh01rqithrikrfxawzp_dfbc",
+    "gp-chijoqipxt7drikrjgjq-lkzki8",
+    "gp-chijjwlw1o7xrikr3iooipgzqbs",
+    "gp-chijyehgkf_hrikrcbxztqc3smq"
+   ],
+   "mosquito_yard": [
+    "gp-chij61jpcl_6rikrewwrxrqba9s",
+    "gp-chijpyk-qwflrikrv-dppsqr1la",
+    "gp-chijoqipxt7drikrjgjq-lkzki8",
+    "gp-chijeyhyonblrikrzbxdwkxnlfq",
+    "gp-chijuqcvuvrvrikrw3clcsio1dg"
+   ],
+   "bed_bugs": [
+    "gp-chijeyhyonblrikrzbxdwkxnlfq",
+    "gp-chijpyk-qwflrikrv-dppsqr1la",
+    "gp-chijyehgkf_hrikrcbxztqc3smq",
+    "gp-chijh01rqithrikrfxawzp_dfbc",
+    "gp-chijybte6jimrikr4psxcw0isku"
+   ],
+   "sink_clog_chapel_hill": [
+    "shelton-plumbing-co",
+    "bar-d-plumbing",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "gp-chijn-xeay_frikrohiyrqpeplg",
+    "gp-chijywc8ehbjrikr8vz5bjfcmcq"
+   ],
+   "storm_flood_cleanup": [
+    "gp-chije2szwmnqrikrbd0o52xpm0q",
+    "gp-chijp9eqldvzrikrgibqqoqk99g",
+    "gp-chijltzv0lvzrikrmgzgm0cnllk",
+    "gp-chiji5btvs3nrikru85q1ftdjmw",
+    "gp-chijq3n2brvzrikr_mi6og88n3o"
+   ]
+  },
+  "v3_+embed": {
+   "basement_storm_standing": [
+    "gp-chije2szwmnqrikrbd0o52xpm0q",
+    "gp-chijoz40z7xwrikrnkdpq_e1cm0",
+    "1-800-water-damage-of-n-w-triangle-area",
+    "gp-chijk73vxw_vrikrctlw-r20tmq",
+    "gp-chijksr5w0rzrikr5wzu5hwoftw"
+   ],
+   "basement_seep_recurring": [
+    "gp-chijmup32d7srikrlgxrfl_nh94",
+    "gp-chij32osck08rs4rtsiavtr18-i",
+    "gp-chij60ymwn_grikrq8m7xbi1bvq",
+    "gp-chijhezgmat6am8rfoqnrz9ibro",
+    "gp-chijusw1m83lrikrozptv29bpiu"
+   ],
+   "sump_pump_failed": [
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "gp-chijywc8ehbjrikr8vz5bjfcmcq",
+    "streamline-services-plumbing-hvac-electrical",
+    "gp-chijswg-fspgrikrrbrqhug8nvm",
+    "harmon-plumbing"
+   ],
+   "ceiling_drip_shower": [
+    "bar-d-plumbing",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "gp-chijn-xeay_frikrohiyrqpeplg",
+    "streamline-services-plumbing-hvac-electrical",
+    "gp-chijywc8ehbjrikr8vz5bjfcmcq"
+   ],
+   "roof_leak_storm": [
+    "gp-chijs3oygkljrikrgjr26qkn74q",
+    "gp-chijm-njerpjrikrbi0qtfruzf4",
+    "gp-chijqy26qzpxrikratjd5o4htos",
+    "gp-chijgqlm70xjrikr58i-xeml3em",
+    "gp-chij5zvfo6nvrikr7llqlvvwnsg"
+   ],
+   "no_ac_heatwave": [
+    "happy-home-services",
+    "all-weather-heating-cooling-inc",
+    "gp-chijzrluukrwrikr0lvajb9b5m4",
+    "gp-chij6ri5hodzrikrlpbmrfz_lm0",
+    "gp-chijlaw6ptbwleord02g-ftlgwq"
+   ],
+   "no_heat_winter": [
+    "happy-home-services",
+    "gp-chijcxhuvi0erykra3ken5bywri",
+    "gp-chijs0ahimtnrikrgoxbqdqxose",
+    "all-weather-heating-cooling-inc",
+    "green-horizon-one-hour-heating-air-conditioning"
+   ],
+   "outlet_dead": [
+    "gp-chijgew6hrflrikr2r6-kxu7_jc",
+    "gp-chij3d1mumlhrikroytdlwol150",
+    "streamline-services-plumbing-hvac-electrical",
+    "gp-chijvwoveo6hpasr0c1l203pk7g",
+    "gp-chijl_6ivowzrykrv4bwf3omz30"
+   ],
+   "burning_outlet": [
+    "gp-chijvwoveo6hpasr0c1l203pk7g",
+    "gp-chijdsqt4ljlrikre7jz7vtgdns",
+    "gp-chijnx4lfrllrikrfuekoyc5qwy",
+    "gp-chijaypf5rfjrikru5tlgi2ieps",
+    "bud-matthews-services"
+   ],
+   "water_heater_leak": [
+    "streamline-services-plumbing-hvac-electrical",
+    "brown-brothers-plumbing-heating",
+    "bar-d-plumbing",
+    "shelton-plumbing-co",
+    "gp-chijuezxstjnrikrmjpypvmskuc"
+   ],
+   "tankless_upgrade": [
+    "brown-brothers-plumbing-heating",
+    "streamline-services-plumbing-hvac-electrical",
+    "shelton-plumbing-co",
+    "bar-d-plumbing",
+    "gp-chijuezxstjnrikrmjpypvmskuc"
+   ],
+   "sewer_backup": [
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "brown-brothers-plumbing-heating",
+    "bar-d-plumbing",
+    "streamline-services-plumbing-hvac-electrical",
+    "gp-chijywc8ehbjrikr8vz5bjfcmcq"
+   ],
+   "slow_sink": [
+    "bar-d-plumbing",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "shelton-plumbing-co",
+    "gp-chijn-xeay_frikrohiyrqpeplg",
+    "gp-chijl0rkudfjrikr_nmqew_fd-u"
+   ],
+   "toilet_running": [
+    "bar-d-plumbing",
+    "gp-chijywc8ehbjrikr8vz5bjfcmcq",
+    "gp-chijl0rkudfjrikr_nmqew_fd-u",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "brown-brothers-plumbing-heating"
+   ],
+   "low_pressure_yard": [
+    "bar-d-plumbing",
+    "streamline-services-plumbing-hvac-electrical",
+    "harmon-plumbing",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "shelton-plumbing-co"
+   ],
+   "crawl_encapsulation": [
+    "gp-chijhbgz4cjdrikrigedyfms9ci",
+    "gp-chijre4wskxlrikrqbc4rm5fbzc",
+    "gp-chijevkoqqn3rikrrmrhvirs1ng",
+    "gp-chijmup32d7srikrlgxrfl_nh94",
+    "gp-chijpxfoabxfrikrcq8glnj1v6s"
+   ],
+   "foundation_settling": [
+    "gp-chij5awmvl_hrikr3ue4hgngohe",
+    "gp-chij32osck08rs4rtsiavtr18-i",
+    "gp-chij60ymwn_grikrq8m7xbi1bvq",
+    "gp-chijhezgmat6am8rfoqnrz9ibro",
+    "gp-chijusw1m83lrikrozptv29bpiu"
+   ],
+   "yard_drainage": [
+    "gp-chij32osck08rs4rtsiavtr18-i",
+    "gp-chijusw1m83lrikrozptv29bpiu",
+    "gp-chijpxfoabxfrikrcq8glnj1v6s",
+    "gp-chijmup32d7srikrlgxrfl_nh94",
+    "gp-chij60ymwn_grikrq8m7xbi1bvq"
+   ],
+   "mold_after_leak": [
+    "gp-chijqt4wa9hlrikryxuuiq3hu34",
+    "gp-chijoz40z7xwrikrnkdpq_e1cm0",
+    "gp-chijk73vxw_vrikrctlw-r20tmq",
+    "gp-chije2szwmnqrikrbd0o52xpm0q",
+    "gp-chijltzv0lvzrikrmgzgm0cnllk"
+   ],
+   "sewage_overflow_cleanup": [
+    "gp-chijoz40z7xwrikrnkdpq_e1cm0",
+    "gp-chije2szwmnqrikrbd0o52xpm0q",
+    "gp-chijk73vxw_vrikrctlw-r20tmq",
+    "1-800-water-damage-of-n-w-triangle-area",
+    "gp-chiji5btvs3nrikru85q1ftdjmw"
+   ],
+   "gutter_overflow": [
+    "gp-chijxzhzn6gsrikrbbyusuh75xs",
+    "gp-chijj6kkqqtxrikr1guyxmqnwju",
+    "gp-chiji73ni8tcawarxqxyt2ai8am",
+    "gp-chij0xd2dydjrikrp_tfsxztvdo",
+    "gp-chijrymyjrd6rikrd5pxisjqy60"
+   ],
+   "gutter_detached": [
+    "gp-chiji73ni8tcawarxqxyt2ai8am",
+    "gp-chijg-jagdzjrikrd-ggsij2fqm",
+    "gp-chij0xd2dydjrikrp_tfsxztvdo",
+    "gp-chijmw3u1obirikrude41q0hxwa",
+    "gp-chij4qawrjjhrikrmjssvrzai4o"
+   ],
+   "gutter_guards": [
+    "gp-chijxzhzn6gsrikrbbyusuh75xs",
+    "gp-chij2ynozxxlrikrlhiesg9ldle",
+    "gp-chijn9rg29xvrikrpw2tojouxfy",
+    "gp-chij4qawrjjhrikrmjssvrzai4o",
+    "gp-chiji73ni8tcawarxqxyt2ai8am"
+   ],
+   "roof_replacement": [
+    "gp-chijmw3u1obirikrude41q0hxwa",
+    "gp-chijs3oygkljrikrgjr26qkn74q",
+    "wjm-roofing",
+    "gp-chijm-njerpjrikrbi0qtfruzf4",
+    "gp-chij1ticdutjrikr_w6fwjtsbl8"
+   ],
+   "flat_roof_porch": [
+    "gp-chijm-njerpjrikrbi0qtfruzf4",
+    "gp-chij0yb1uarkrikri0kja-ml6wg",
+    "gp-chijgqlm70xjrikr58i-xeml3em",
+    "gp-chijqy26qzpxrikratjd5o4htos",
+    "gp-chij73zwdj2-oaarbe2mbjrth5y"
+   ],
+   "chimney_leak_hillsborough": [
+    "gp-chijmw3u1obirikrude41q0hxwa",
+    "gp-chijqy26qzpxrikratjd5o4htos",
+    "gp-chijm-njerpjrikrbi0qtfruzf4",
+    "gp-chij0yb1uarkrikri0kja-ml6wg",
+    "gp-chijs3oygkljrikrgjr26qkn74q"
+   ],
+   "heat_pump_replace": [
+    "air-innovations-heating-and-cooling-llc",
+    "gp-chijhyjnbyd6rikrykpssng91ne",
+    "gp-chijcxhuvi0erykra3ken5bywri",
+    "gp-chijzrluukrwrikr0lvajb9b5m4",
+    "happy-home-services"
+   ],
+   "mini_split_garage": [
+    "alternative-aire-inc",
+    "happy-home-services",
+    "gp-chijs0ahimtnrikrgoxbqdqxose",
+    "gp-chij6ri5hodzrikrlpbmrfz_lm0",
+    "gp-chijcxhuvi0erykra3ken5bywri"
+   ],
+   "weak_airflow": [
+    "happy-home-services",
+    "green-horizon-one-hour-heating-air-conditioning",
+    "alternative-aire-inc",
+    "gp-chijhyjnbyd6rikrykpssng91ne",
+    "gp-chij6ri5hodzrikrlpbmrfz_lm0"
+   ],
+   "ac_morrisville": [
+    "gp-chijhyjnbyd6rikrykpssng91ne",
+    "gp-chij6ri5hodzrikrlpbmrfz_lm0",
+    "air-innovations-heating-and-cooling-llc",
+    "all-weather-heating-cooling-inc",
+    "happy-home-services"
+   ],
+   "panel_upgrade": [
+    "gp-chijgew6hrflrikr2r6-kxu7_jc",
+    "gp-chij5bvkhbcgkgur1us23vwmbmw",
+    "gp-chijvwoveo6hpasr0c1l203pk7g",
+    "gp-chijl_6ivowzrykrv4bwf3omz30",
+    "gp-chij3d1mumlhrikroytdlwol150"
+   ],
+   "ev_charger": [
+    "gp-chijgew6hrflrikr2r6-kxu7_jc",
+    "gp-chijvwoveo6hpasr0c1l203pk7g",
+    "gp-chijl_6ivowzrykrv4bwf3omz30",
+    "gp-chij5bvkhbcgkgur1us23vwmbmw",
+    "bud-matthews-services"
+   ],
+   "standby_generator": [
+    "gp-chijl_6ivowzrykrv4bwf3omz30",
+    "gp-chijgew6hrflrikr2r6-kxu7_jc",
+    "gp-chijaypf5rfjrikru5tlgi2ieps",
+    "gp-chijwqbuhkthrikrm9xrp4ohjvc",
+    "gp-chijvwoveo6hpasr0c1l203pk7g"
+   ],
+   "ceiling_fans": [
+    "streamline-services-plumbing-hvac-electrical",
+    "gp-chijl_6ivowzrykrv4bwf3omz30",
+    "gp-chij3d1mumlhrikroytdlwol150",
+    "gp-chijnx4lfrllrikrfuekoyc5qwy",
+    "jd-service-now"
+   ],
+   "washer_leak": [
+    "gp-chijzbwcw4nmrikrr3-fpcf5jw8",
+    "gp-chij0dctmn903y8remfolth6cv8",
+    "gp-chijr2x9f4_vrikrvfdkpepyzd0",
+    "gp-chij0ukajlljrikraakw01rp7sa",
+    "gp-chijvzdarfykjsyrczclepwluks"
+   ],
+   "fridge_warm": [
+    "gp-chijdtlq3dvfemarka3kphg1clq",
+    "gp-chijxagidhdzrikrm6e2dwd4n_s",
+    "gp-chijvzdarfykjsyrczclepwluks",
+    "gp-chij0dctmn903y8remfolth6cv8",
+    "gp-chijzbwcw4nmrikrr3-fpcf5jw8"
+   ],
+   "dishwasher_drain": [
+    "gp-chijr2x9f4_vrikrvfdkpepyzd0",
+    "gp-chij0dctmn903y8remfolth6cv8",
+    "gp-chijxagidhdzrikrm6e2dwd4n_s",
+    "gp-chijvzdarfykjsyrczclepwluks",
+    "gp-chij0ukajlljrikraakw01rp7sa"
+   ],
+   "gas_oven": [
+    "gp-chijzbwcw4nmrikrr3-fpcf5jw8",
+    "gp-chij0dctmn903y8remfolth6cv8",
+    "gp-chij0ukajlljrikraakw01rp7sa",
+    "gp-chijxagidhdzrikrm6e2dwd4n_s",
+    "gp-chijr2x9f4_vrikrvfdkpepyzd0"
+   ],
+   "drywall_door": [
+    "mr-handyman-of-chapel-hill-and-west-durham",
+    "gp-chijgwxpjqxtrikronlhssqaejs",
+    "triangle-services-handyman-appliance-repair",
+    "do-it-all-dave-s-llc",
+    "gp-chijiuaw3qpnrikrrs3jtcugpzg"
+   ],
+   "tv_mount_assembly": [
+    "gp-chijcwegx-wsrcqrpnj32ibtuiq",
+    "mr-handyman-of-chapel-hill-and-west-durham",
+    "gp-chijiuaw3qpnrikrrs3jtcugpzg",
+    "gp-chijqvm-qcilrikrqokqne3vqcw",
+    "triangle-services-handyman-appliance-repair"
+   ],
+   "termite_swarm": [
+    "gp-chijq6oalnrjrikrubzwzknwefe",
+    "gp-chijeyhyonblrikrzbxdwkxnlfq",
+    "gp-chijyehgkf_hrikrcbxztqc3smq",
+    "gp-chijyqghwq_wrikrtlh7zzl_ycm",
+    "gp-chijh01rqithrikrfxawzp_dfbc"
+   ],
+   "mice_attic": [
+    "gp-chijoqipxt7drikrjgjq-lkzki8",
+    "gp-chijyehgkf_hrikrcbxztqc3smq",
+    "gp-chijh01rqithrikrfxawzp_dfbc",
+    "gp-chijyqghwq_wrikrtlh7zzl_ycm",
+    "gp-chijeyhyonblrikrzbxdwkxnlfq"
+   ],
+   "wildlife_attic": [
+    "gp-chijyehgkf_hrikrcbxztqc3smq",
+    "gp-chijh01rqithrikrfxawzp_dfbc",
+    "gp-chijoqipxt7drikrjgjq-lkzki8",
+    "gp-chijnxtehqxlrikrp4cmxv2fy0o",
+    "gp-chij1yc-lyllrikrh1qmtmh2ipi"
+   ],
+   "mosquito_yard": [
+    "gp-chij61jpcl_6rikrewwrxrqba9s",
+    "gp-chijpyk-qwflrikrv-dppsqr1la",
+    "gp-chijh01rqithrikrfxawzp_dfbc",
+    "gp-chijoqipxt7drikrjgjq-lkzki8",
+    "gp-chijq6oalnrjrikrubzwzknwefe"
+   ],
+   "bed_bugs": [
+    "gp-chijpyk-qwflrikrv-dppsqr1la",
+    "gp-chijeyhyonblrikrzbxdwkxnlfq",
+    "gp-chijh01rqithrikrfxawzp_dfbc",
+    "gp-chijnxtehqxlrikrp4cmxv2fy0o",
+    "gp-chijybte6jimrikr4psxcw0isku"
+   ],
+   "sink_clog_chapel_hill": [
+    "gp-chijn-xeay_frikrohiyrqpeplg",
+    "bar-d-plumbing",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "shelton-plumbing-co",
+    "gp-chijywc8ehbjrikr8vz5bjfcmcq"
+   ],
+   "storm_flood_cleanup": [
+    "gp-chije2szwmnqrikrbd0o52xpm0q",
+    "gp-chijoz40z7xwrikrnkdpq_e1cm0",
+    "1-800-water-damage-of-n-w-triangle-area",
+    "gp-chiji7wfwux0rikrssx1idmgzjm",
+    "gp-chijtz1toot1rikryeaxqn5hmgo"
+   ]
+  },
+  "v4_hybrid": {
+   "basement_storm_standing": [
+    "gp-chije2szwmnqrikrbd0o52xpm0q",
+    "gp-chijoz40z7xwrikrnkdpq_e1cm0",
+    "gp-chijk73vxw_vrikrctlw-r20tmq",
+    "gp-chiji5btvs3nrikru85q1ftdjmw",
+    "1-800-water-damage-of-n-w-triangle-area"
+   ],
+   "basement_seep_recurring": [
+    "gp-chijmup32d7srikrlgxrfl_nh94",
+    "gp-chij32osck08rs4rtsiavtr18-i",
+    "gp-chijhezgmat6am8rfoqnrz9ibro",
+    "gp-chij60ymwn_grikrq8m7xbi1bvq",
+    "gp-chij5awmvl_hrikr3ue4hgngohe"
+   ],
+   "sump_pump_failed": [
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "gp-chijywc8ehbjrikr8vz5bjfcmcq",
+    "streamline-services-plumbing-hvac-electrical",
+    "gp-chijswg-fspgrikrrbrqhug8nvm",
+    "harmon-plumbing"
+   ],
+   "ceiling_drip_shower": [
+    "bar-d-plumbing",
+    "gp-chijn-xeay_frikrohiyrqpeplg",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "streamline-services-plumbing-hvac-electrical",
+    "brown-brothers-plumbing-heating"
+   ],
+   "roof_leak_storm": [
+    "gp-chijqy26qzpxrikratjd5o4htos",
+    "gp-chijs3oygkljrikrgjr26qkn74q",
+    "gp-chijm-njerpjrikrbi0qtfruzf4",
+    "gp-chijgqlm70xjrikr58i-xeml3em",
+    "feazel-roofing"
+   ],
+   "no_ac_heatwave": [
+    "happy-home-services",
+    "gp-chijzrluukrwrikr0lvajb9b5m4",
+    "all-weather-heating-cooling-inc",
+    "gp-chijlaw6ptbwleord02g-ftlgwq",
+    "alternative-aire-inc"
+   ],
+   "no_heat_winter": [
+    "gp-chijcxhuvi0erykra3ken5bywri",
+    "happy-home-services",
+    "gp-chijs0ahimtnrikrgoxbqdqxose",
+    "alternative-aire-inc",
+    "gp-chijlaw6ptbwleord02g-ftlgwq"
+   ],
+   "outlet_dead": [
+    "gp-chijgew6hrflrikr2r6-kxu7_jc",
+    "gp-chijl_6ivowzrykrv4bwf3omz30",
+    "gp-chij3d1mumlhrikroytdlwol150",
+    "gp-chijvwoveo6hpasr0c1l203pk7g",
+    "gp-chij5bvkhbcgkgur1us23vwmbmw"
+   ],
+   "burning_outlet": [
+    "gp-chijvwoveo6hpasr0c1l203pk7g",
+    "gp-chijaypf5rfjrikru5tlgi2ieps",
+    "gp-chij5bvkhbcgkgur1us23vwmbmw",
+    "gp-chijdsqt4ljlrikre7jz7vtgdns",
+    "gp-chijnx4lfrllrikrfuekoyc5qwy"
+   ],
+   "water_heater_leak": [
+    "shelton-plumbing-co",
+    "brown-brothers-plumbing-heating",
+    "bar-d-plumbing",
+    "streamline-services-plumbing-hvac-electrical",
+    "plumbv-inc"
+   ],
+   "tankless_upgrade": [
+    "shelton-plumbing-co",
+    "brown-brothers-plumbing-heating",
+    "streamline-services-plumbing-hvac-electrical",
+    "bar-d-plumbing",
+    "gp-chijd_l-p0fhrikrwk57dwlo9rc"
+   ],
+   "sewer_backup": [
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "brown-brothers-plumbing-heating",
+    "bar-d-plumbing",
+    "streamline-services-plumbing-hvac-electrical",
+    "harmon-plumbing"
+   ],
+   "slow_sink": [
+    "bar-d-plumbing",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "shelton-plumbing-co",
+    "gp-chijn-xeay_frikrohiyrqpeplg",
+    "gp-chijl0rkudfjrikr_nmqew_fd-u"
+   ],
+   "toilet_running": [
+    "bar-d-plumbing",
+    "gp-chijl0rkudfjrikr_nmqew_fd-u",
+    "brown-brothers-plumbing-heating",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "gp-chijd_l-p0fhrikrwk57dwlo9rc"
+   ],
+   "low_pressure_yard": [
+    "bar-d-plumbing",
+    "harmon-plumbing",
+    "streamline-services-plumbing-hvac-electrical",
+    "brown-brothers-plumbing-heating",
+    "shelton-plumbing-co"
+   ],
+   "crawl_encapsulation": [
+    "gp-chijhbgz4cjdrikrigedyfms9ci",
+    "gp-chijre4wskxlrikrqbc4rm5fbzc",
+    "gp-chijevkoqqn3rikrrmrhvirs1ng",
+    "gp-chijpxfoabxfrikrcq8glnj1v6s",
+    "gp-chij60ymwn_grikrq8m7xbi1bvq"
+   ],
+   "foundation_settling": [
+    "gp-chij5awmvl_hrikr3ue4hgngohe",
+    "gp-chij32osck08rs4rtsiavtr18-i",
+    "gp-chijhezgmat6am8rfoqnrz9ibro",
+    "gp-chij60ymwn_grikrq8m7xbi1bvq",
+    "gp-chijusw1m83lrikrozptv29bpiu"
+   ],
+   "yard_drainage": [
+    "gp-chij32osck08rs4rtsiavtr18-i",
+    "gp-chijusw1m83lrikrozptv29bpiu",
+    "gp-chijpxfoabxfrikrcq8glnj1v6s",
+    "gp-chijmup32d7srikrlgxrfl_nh94",
+    "gp-chij60ymwn_grikrq8m7xbi1bvq"
+   ],
+   "mold_after_leak": [
+    "gp-chijqt4wa9hlrikryxuuiq3hu34",
+    "gp-chijoz40z7xwrikrnkdpq_e1cm0",
+    "gp-chijk73vxw_vrikrctlw-r20tmq",
+    "gp-chije2szwmnqrikrbd0o52xpm0q",
+    "gp-chijp9eqldvzrikrgibqqoqk99g"
+   ],
+   "sewage_overflow_cleanup": [
+    "gp-chijoz40z7xwrikrnkdpq_e1cm0",
+    "gp-chije2szwmnqrikrbd0o52xpm0q",
+    "1-800-water-damage-of-n-w-triangle-area",
+    "gp-chiji5btvs3nrikru85q1ftdjmw",
+    "gp-chijk73vxw_vrikrctlw-r20tmq"
+   ],
+   "gutter_overflow": [
+    "gp-chijxzhzn6gsrikrbbyusuh75xs",
+    "gp-chiji73ni8tcawarxqxyt2ai8am",
+    "gp-chijj6kkqqtxrikr1guyxmqnwju",
+    "gp-chijg-jagdzjrikrd-ggsij2fqm",
+    "gp-chij2ynozxxlrikrlhiesg9ldle"
+   ],
+   "gutter_detached": [
+    "gp-chiji73ni8tcawarxqxyt2ai8am",
+    "gp-chij4qawrjjhrikrmjssvrzai4o",
+    "gp-chijmw3u1obirikrude41q0hxwa",
+    "gp-chijg-jagdzjrikrd-ggsij2fqm",
+    "gp-chij0xd2dydjrikrp_tfsxztvdo"
+   ],
+   "gutter_guards": [
+    "gp-chijxzhzn6gsrikrbbyusuh75xs",
+    "gp-chij2ynozxxlrikrlhiesg9ldle",
+    "gp-chijn9rg29xvrikrpw2tojouxfy",
+    "gp-chij4qawrjjhrikrmjssvrzai4o",
+    "gp-chiji73ni8tcawarxqxyt2ai8am"
+   ],
+   "roof_replacement": [
+    "gp-chijmw3u1obirikrude41q0hxwa",
+    "gp-chijm-njerpjrikrbi0qtfruzf4",
+    "wjm-roofing",
+    "gp-chijs3oygkljrikrgjr26qkn74q",
+    "boxer-roofing"
+   ],
+   "flat_roof_porch": [
+    "gp-chij0yb1uarkrikri0kja-ml6wg",
+    "gp-chijm-njerpjrikrbi0qtfruzf4",
+    "gp-chijqy26qzpxrikratjd5o4htos",
+    "gp-chijgqlm70xjrikr58i-xeml3em",
+    "gp-chijuuiuip3hrikr0xqo67npc1e"
+   ],
+   "chimney_leak_hillsborough": [
+    "gp-chijqy26qzpxrikratjd5o4htos",
+    "gp-chijmw3u1obirikrude41q0hxwa",
+    "gp-chij0yb1uarkrikri0kja-ml6wg",
+    "boxer-roofing",
+    "gp-chijm-njerpjrikrbi0qtfruzf4"
+   ],
+   "heat_pump_replace": [
+    "gp-chijhyjnbyd6rikrykpssng91ne",
+    "air-innovations-heating-and-cooling-llc",
+    "gp-chijcxhuvi0erykra3ken5bywri",
+    "alternative-aire-inc",
+    "gp-chijsty4_wxvrikrakf1rccjhjw"
+   ],
+   "mini_split_garage": [
+    "alternative-aire-inc",
+    "happy-home-services",
+    "gp-chijs0ahimtnrikrgoxbqdqxose",
+    "gp-chijcxhuvi0erykra3ken5bywri",
+    "green-horizon-one-hour-heating-air-conditioning"
+   ],
+   "weak_airflow": [
+    "alternative-aire-inc",
+    "happy-home-services",
+    "green-horizon-one-hour-heating-air-conditioning",
+    "gp-chijcxhuvi0erykra3ken5bywri",
+    "gp-chijhyjnbyd6rikrykpssng91ne"
+   ],
+   "ac_morrisville": [
+    "gp-chijhyjnbyd6rikrykpssng91ne",
+    "air-innovations-heating-and-cooling-llc",
+    "gp-chij6ri5hodzrikrlpbmrfz_lm0",
+    "gp-chijs0ahimtnrikrgoxbqdqxose",
+    "all-weather-heating-cooling-inc"
+   ],
+   "panel_upgrade": [
+    "gp-chijgew6hrflrikr2r6-kxu7_jc",
+    "gp-chij5bvkhbcgkgur1us23vwmbmw",
+    "gp-chijvwoveo6hpasr0c1l203pk7g",
+    "gp-chij3d1mumlhrikroytdlwol150",
+    "gp-chijl_6ivowzrykrv4bwf3omz30"
+   ],
+   "ev_charger": [
+    "gp-chijgew6hrflrikr2r6-kxu7_jc",
+    "gp-chijvwoveo6hpasr0c1l203pk7g",
+    "gp-chijl_6ivowzrykrv4bwf3omz30",
+    "gp-chij5bvkhbcgkgur1us23vwmbmw",
+    "bud-matthews-services"
+   ],
+   "standby_generator": [
+    "gp-chijl_6ivowzrykrv4bwf3omz30",
+    "gp-chij5bvkhbcgkgur1us23vwmbmw",
+    "gp-chijvwoveo6hpasr0c1l203pk7g",
+    "gp-chijgew6hrflrikr2r6-kxu7_jc",
+    "gp-chijaypf5rfjrikru5tlgi2ieps"
+   ],
+   "ceiling_fans": [
+    "gp-chijl_6ivowzrykrv4bwf3omz30",
+    "gp-chij3d1mumlhrikroytdlwol150",
+    "gp-chijaypf5rfjrikru5tlgi2ieps",
+    "gp-chijgew6hrflrikr2r6-kxu7_jc",
+    "gp-chijvwoveo6hpasr0c1l203pk7g"
+   ],
+   "washer_leak": [
+    "gp-chijzbwcw4nmrikrr3-fpcf5jw8",
+    "gp-chijr2x9f4_vrikrvfdkpepyzd0",
+    "gp-chij0dctmn903y8remfolth6cv8",
+    "gp-chij0ukajlljrikraakw01rp7sa",
+    "gp-chijxagidhdzrikrm6e2dwd4n_s"
+   ],
+   "fridge_warm": [
+    "gp-chijdtlq3dvfemarka3kphg1clq",
+    "gp-chijxagidhdzrikrm6e2dwd4n_s",
+    "gp-chijvzdarfykjsyrczclepwluks",
+    "gp-chij0dctmn903y8remfolth6cv8",
+    "gp-chijzbwcw4nmrikrr3-fpcf5jw8"
+   ],
+   "dishwasher_drain": [
+    "gp-chijxagidhdzrikrm6e2dwd4n_s",
+    "gp-chijr2x9f4_vrikrvfdkpepyzd0",
+    "gp-chij0dctmn903y8remfolth6cv8",
+    "gp-chijvzdarfykjsyrczclepwluks",
+    "gp-chij0ukajlljrikraakw01rp7sa"
+   ],
+   "gas_oven": [
+    "gp-chijzbwcw4nmrikrr3-fpcf5jw8",
+    "gp-chij0ukajlljrikraakw01rp7sa",
+    "gp-chij0dctmn903y8remfolth6cv8",
+    "gp-chijxagidhdzrikrm6e2dwd4n_s",
+    "gp-chijvzdarfykjsyrczclepwluks"
+   ],
+   "drywall_door": [
+    "mr-handyman-of-chapel-hill-and-west-durham",
+    "gp-chijgwxpjqxtrikronlhssqaejs",
+    "triangle-services-handyman-appliance-repair",
+    "gp-chijiuaw3qpnrikrrs3jtcugpzg",
+    "gp-chijqvm-qcilrikrqokqne3vqcw"
+   ],
+   "tv_mount_assembly": [
+    "mr-handyman-of-chapel-hill-and-west-durham",
+    "gp-chijcwegx-wsrcqrpnj32ibtuiq",
+    "gp-chijqvm-qcilrikrqokqne3vqcw",
+    "gp-chijiuaw3qpnrikrrs3jtcugpzg",
+    "triangle-services-handyman-appliance-repair"
+   ],
+   "termite_swarm": [
+    "gp-chijq6oalnrjrikrubzwzknwefe",
+    "gp-chijeyhyonblrikrzbxdwkxnlfq",
+    "gp-chijyqghwq_wrikrtlh7zzl_ycm",
+    "gp-chijyehgkf_hrikrcbxztqc3smq",
+    "gp-chijjwlw1o7xrikr3iooipgzqbs"
+   ],
+   "mice_attic": [
+    "gp-chijoqipxt7drikrjgjq-lkzki8",
+    "gp-chijh01rqithrikrfxawzp_dfbc",
+    "gp-chijeyhyonblrikrzbxdwkxnlfq",
+    "gp-chijyehgkf_hrikrcbxztqc3smq",
+    "gp-chijjwlw1o7xrikr3iooipgzqbs"
+   ],
+   "wildlife_attic": [
+    "gp-chijeyhyonblrikrzbxdwkxnlfq",
+    "gp-chijh01rqithrikrfxawzp_dfbc",
+    "gp-chijoqipxt7drikrjgjq-lkzki8",
+    "gp-chijyehgkf_hrikrcbxztqc3smq",
+    "gp-chij1yc-lyllrikrh1qmtmh2ipi"
+   ],
+   "mosquito_yard": [
+    "gp-chij61jpcl_6rikrewwrxrqba9s",
+    "gp-chijpyk-qwflrikrv-dppsqr1la",
+    "gp-chijoqipxt7drikrjgjq-lkzki8",
+    "gp-chijeyhyonblrikrzbxdwkxnlfq",
+    "gp-chijuqcvuvrvrikrw3clcsio1dg"
+   ],
+   "bed_bugs": [
+    "gp-chijpyk-qwflrikrv-dppsqr1la",
+    "gp-chijeyhyonblrikrzbxdwkxnlfq",
+    "gp-chijh01rqithrikrfxawzp_dfbc",
+    "gp-chijybte6jimrikr4psxcw0isku",
+    "gp-chijoqipxt7drikrjgjq-lkzki8"
+   ],
+   "sink_clog_chapel_hill": [
+    "bar-d-plumbing",
+    "shelton-plumbing-co",
+    "gp-chijn-xeay_frikrohiyrqpeplg",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "gp-chijywc8ehbjrikr8vz5bjfcmcq"
+   ],
+   "storm_flood_cleanup": [
+    "gp-chije2szwmnqrikrbd0o52xpm0q",
+    "gp-chijp9eqldvzrikrgibqqoqk99g",
+    "gp-chijoz40z7xwrikrnkdpq_e1cm0",
+    "gp-chijltzv0lvzrikrmgzgm0cnllk",
+    "1-800-water-damage-of-n-w-triangle-area"
+   ]
+  },
+  "v5_hybrid+rerank": {
+   "basement_storm_standing": [
+    "gp-chije2szwmnqrikrbd0o52xpm0q",
+    "gp-chijoz40z7xwrikrnkdpq_e1cm0",
+    "gp-chijk73vxw_vrikrctlw-r20tmq",
+    "gp-chiji5btvs3nrikru85q1ftdjmw",
+    "1-800-water-damage-of-n-w-triangle-area"
+   ],
+   "basement_seep_recurring": [
+    "gp-chij32osck08rs4rtsiavtr18-i",
+    "gp-chij5awmvl_hrikr3ue4hgngohe",
+    "gp-chijdbax4f_lrikrwpl-wq9tcwa",
+    "gp-chijmup32d7srikrlgxrfl_nh94",
+    "gp-chijhezgmat6am8rfoqnrz9ibro"
+   ],
+   "sump_pump_failed": [
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "gp-chijywc8ehbjrikr8vz5bjfcmcq",
+    "gp-chijswg-fspgrikrrbrqhug8nvm",
+    "mr-rooter-plumbing-of-durham-north",
+    "harmon-plumbing"
+   ],
+   "ceiling_drip_shower": [
+    "bar-d-plumbing",
+    "brown-brothers-plumbing-heating",
+    "gp-chijywc8ehbjrikr8vz5bjfcmcq",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "shelton-plumbing-co"
+   ],
+   "roof_leak_storm": [
+    "gp-chijs3oygkljrikrgjr26qkn74q",
+    "gp-chijqy26qzpxrikratjd5o4htos",
+    "gp-chijm-njerpjrikrbi0qtfruzf4",
+    "gp-chijgqlm70xjrikr58i-xeml3em",
+    "gp-chijzbbagspprikrusu85siheto"
+   ],
+   "no_ac_heatwave": [
+    "gp-chijzrluukrwrikr0lvajb9b5m4",
+    "gp-chij6ri5hodzrikrlpbmrfz_lm0",
+    "all-weather-heating-cooling-inc",
+    "gp-chijlaw6ptbwleord02g-ftlgwq",
+    "happy-home-services"
+   ],
+   "no_heat_winter": [
+    "happy-home-services",
+    "gp-chijcxhuvi0erykra3ken5bywri",
+    "alternative-aire-inc",
+    "gp-chijfv3q8wphrikrghmoqqewxkk",
+    "green-horizon-one-hour-heating-air-conditioning"
+   ],
+   "outlet_dead": [
+    "gp-chijgew6hrflrikr2r6-kxu7_jc",
+    "gp-chijl_6ivowzrykrv4bwf3omz30",
+    "gp-chij3d1mumlhrikroytdlwol150",
+    "gp-chijvwoveo6hpasr0c1l203pk7g",
+    "gp-chij5bvkhbcgkgur1us23vwmbmw"
+   ],
+   "burning_outlet": [
+    "gp-chijaypf5rfjrikru5tlgi2ieps",
+    "gp-chij5bvkhbcgkgur1us23vwmbmw",
+    "gp-chijvwoveo6hpasr0c1l203pk7g",
+    "gp-chijnx4lfrllrikrfuekoyc5qwy",
+    "gp-chijdsqt4ljlrikre7jz7vtgdns"
+   ],
+   "water_heater_leak": [
+    "shelton-plumbing-co",
+    "bar-d-plumbing",
+    "brown-brothers-plumbing-heating",
+    "plumbv-inc",
+    "gp-chijl0rkudfjrikr_nmqew_fd-u"
+   ],
+   "tankless_upgrade": [
+    "bar-d-plumbing",
+    "gp-chijn-xeay_frikrohiyrqpeplg",
+    "plumbv-inc",
+    "gp-chijl0rkudfjrikr_nmqew_fd-u",
+    "shelton-plumbing-co"
+   ],
+   "sewer_backup": [
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "brown-brothers-plumbing-heating",
+    "streamline-services-plumbing-hvac-electrical",
+    "bar-d-plumbing",
+    "gp-chijywc8ehbjrikr8vz5bjfcmcq"
+   ],
+   "slow_sink": [
+    "bar-d-plumbing",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "brown-brothers-plumbing-heating",
+    "harmon-plumbing",
+    "shelton-plumbing-co"
+   ],
+   "toilet_running": [
+    "bar-d-plumbing",
+    "gp-chijl0rkudfjrikr_nmqew_fd-u",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "gp-chijywc8ehbjrikr8vz5bjfcmcq",
+    "gp-chijd_l-p0fhrikrwk57dwlo9rc"
+   ],
+   "low_pressure_yard": [
+    "bar-d-plumbing",
+    "harmon-plumbing",
+    "mr-rooter-plumbing-of-durham-north",
+    "brown-brothers-plumbing-heating",
+    "shelton-plumbing-co"
+   ],
+   "crawl_encapsulation": [
+    "gp-chijhbgz4cjdrikrigedyfms9ci",
+    "gp-chijpxfoabxfrikrcq8glnj1v6s",
+    "gp-chijevkoqqn3rikrrmrhvirs1ng",
+    "gp-chijre4wskxlrikrqbc4rm5fbzc",
+    "gp-chijmup32d7srikrlgxrfl_nh94"
+   ],
+   "foundation_settling": [
+    "gp-chij32osck08rs4rtsiavtr18-i",
+    "gp-chijdbax4f_lrikrwpl-wq9tcwa",
+    "gp-chij5awmvl_hrikr3ue4hgngohe",
+    "gp-chijhezgmat6am8rfoqnrz9ibro",
+    "gp-chij60ymwn_grikrq8m7xbi1bvq"
+   ],
+   "yard_drainage": [
+    "gp-chijusw1m83lrikrozptv29bpiu",
+    "gp-chij32osck08rs4rtsiavtr18-i",
+    "gp-chijdbax4f_lrikrwpl-wq9tcwa",
+    "gp-chijmup32d7srikrlgxrfl_nh94",
+    "gp-chijpxfoabxfrikrcq8glnj1v6s"
+   ],
+   "mold_after_leak": [
+    "gp-chijqt4wa9hlrikryxuuiq3hu34",
+    "gp-chijoz40z7xwrikrnkdpq_e1cm0",
+    "gp-chijk73vxw_vrikrctlw-r20tmq",
+    "gp-chijltzv0lvzrikrmgzgm0cnllk",
+    "gp-chije2szwmnqrikrbd0o52xpm0q"
+   ],
+   "sewage_overflow_cleanup": [
+    "1-800-water-damage-of-n-w-triangle-area",
+    "gp-chije2szwmnqrikrbd0o52xpm0q",
+    "gp-chijoz40z7xwrikrnkdpq_e1cm0",
+    "gp-chiji5btvs3nrikru85q1ftdjmw",
+    "gp-chijk73vxw_vrikrctlw-r20tmq"
+   ],
+   "gutter_overflow": [
+    "gp-chijxzhzn6gsrikrbbyusuh75xs",
+    "gp-chijrymyjrd6rikrd5pxisjqy60",
+    "gp-chiji73ni8tcawarxqxyt2ai8am",
+    "gp-chijj6kkqqtxrikr1guyxmqnwju",
+    "gp-chij0xd2dydjrikrp_tfsxztvdo"
+   ],
+   "gutter_detached": [
+    "gp-chij0xd2dydjrikrp_tfsxztvdo",
+    "gp-chijg-jagdzjrikrd-ggsij2fqm",
+    "gp-chijxqchoafjrikr-k3tolxjlks",
+    "gp-chiji73ni8tcawarxqxyt2ai8am",
+    "gp-chijmw3u1obirikrude41q0hxwa"
+   ],
+   "gutter_guards": [
+    "gp-chijxzhzn6gsrikrbbyusuh75xs",
+    "gp-chijn9rg29xvrikrpw2tojouxfy",
+    "gp-chij2ynozxxlrikrlhiesg9ldle",
+    "gp-chiji73ni8tcawarxqxyt2ai8am",
+    "gp-chij4qawrjjhrikrmjssvrzai4o"
+   ],
+   "roof_replacement": [
+    "gp-chijmw3u1obirikrude41q0hxwa",
+    "boxer-roofing",
+    "gp-chijm-njerpjrikrbi0qtfruzf4",
+    "wjm-roofing",
+    "gp-chijs3oygkljrikrgjr26qkn74q"
+   ],
+   "flat_roof_porch": [
+    "gp-chijgqlm70xjrikr58i-xeml3em",
+    "gp-chij0yb1uarkrikri0kja-ml6wg",
+    "gp-chijm-njerpjrikrbi0qtfruzf4",
+    "gp-chijuuiuip3hrikr0xqo67npc1e",
+    "gp-chijqy26qzpxrikratjd5o4htos"
+   ],
+   "chimney_leak_hillsborough": [
+    "gp-chij0yb1uarkrikri0kja-ml6wg",
+    "gp-chijm-njerpjrikrbi0qtfruzf4",
+    "boxer-roofing",
+    "gp-chijuuiuip3hrikr0xqo67npc1e",
+    "gp-chijqy26qzpxrikratjd5o4htos"
+   ],
+   "heat_pump_replace": [
+    "gp-chijzrluukrwrikr0lvajb9b5m4",
+    "alternative-aire-inc",
+    "gp-chijcxhuvi0erykra3ken5bywri",
+    "gp-chijk8r18_o7dq4rnae83if3wgg",
+    "gp-chijsty4_wxvrikrakf1rccjhjw"
+   ],
+   "mini_split_garage": [
+    "alternative-aire-inc",
+    "happy-home-services",
+    "gp-chijs0ahimtnrikrgoxbqdqxose",
+    "green-horizon-one-hour-heating-air-conditioning",
+    "gp-chijzrluukrwrikr0lvajb9b5m4"
+   ],
+   "weak_airflow": [
+    "happy-home-services",
+    "alternative-aire-inc",
+    "gp-chijcxhuvi0erykra3ken5bywri",
+    "green-horizon-one-hour-heating-air-conditioning",
+    "all-weather-heating-cooling-inc"
+   ],
+   "ac_morrisville": [
+    "gp-chijhyjnbyd6rikrykpssng91ne",
+    "gp-chij6ri5hodzrikrlpbmrfz_lm0",
+    "gp-chijzrluukrwrikr0lvajb9b5m4",
+    "air-innovations-heating-and-cooling-llc",
+    "all-weather-heating-cooling-inc"
+   ],
+   "panel_upgrade": [
+    "gp-chij5bvkhbcgkgur1us23vwmbmw",
+    "gp-chijgew6hrflrikr2r6-kxu7_jc",
+    "gp-chijl_6ivowzrykrv4bwf3omz30",
+    "gp-chij3d1mumlhrikroytdlwol150",
+    "gp-chijvwoveo6hpasr0c1l203pk7g"
+   ],
+   "ev_charger": [
+    "gp-chijgew6hrflrikr2r6-kxu7_jc",
+    "gp-chijvwoveo6hpasr0c1l203pk7g",
+    "gp-chij5bvkhbcgkgur1us23vwmbmw",
+    "gp-chijl_6ivowzrykrv4bwf3omz30",
+    "gp-chijnx4lfrllrikrfuekoyc5qwy"
+   ],
+   "standby_generator": [
+    "gp-chijl_6ivowzrykrv4bwf3omz30",
+    "gp-chij5bvkhbcgkgur1us23vwmbmw",
+    "gp-chijk1hb6idhrikrdv1xpeecvhc",
+    "gp-chijwqbuhkthrikrm9xrp4ohjvc",
+    "gp-chijgew6hrflrikr2r6-kxu7_jc"
+   ],
+   "ceiling_fans": [
+    "gp-chijl_6ivowzrykrv4bwf3omz30",
+    "gp-chij3d1mumlhrikroytdlwol150",
+    "gp-chijaypf5rfjrikru5tlgi2ieps",
+    "gp-chijvwoveo6hpasr0c1l203pk7g",
+    "gp-chijgew6hrflrikr2r6-kxu7_jc"
+   ],
+   "washer_leak": [
+    "gp-chijzbwcw4nmrikrr3-fpcf5jw8",
+    "gp-chij0dctmn903y8remfolth6cv8",
+    "gp-chijr2x9f4_vrikrvfdkpepyzd0",
+    "gp-chij0ukajlljrikraakw01rp7sa",
+    "gp-chijxagidhdzrikrm6e2dwd4n_s"
+   ],
+   "fridge_warm": [
+    "gp-chijzbwcw4nmrikrr3-fpcf5jw8",
+    "gp-chijr2x9f4_vrikrvfdkpepyzd0",
+    "gp-chij0dctmn903y8remfolth6cv8",
+    "gp-chijxagidhdzrikrm6e2dwd4n_s",
+    "gp-chijdtlq3dvfemarka3kphg1clq"
+   ],
+   "dishwasher_drain": [
+    "gp-chijr2x9f4_vrikrvfdkpepyzd0",
+    "gp-chij0dctmn903y8remfolth6cv8",
+    "gp-chijxagidhdzrikrm6e2dwd4n_s",
+    "gp-chij0ukajlljrikraakw01rp7sa",
+    "bud-matthews-services"
+   ],
+   "gas_oven": [
+    "gp-chij0dctmn903y8remfolth6cv8",
+    "gp-chijr2x9f4_vrikrvfdkpepyzd0",
+    "gp-chij0ukajlljrikraakw01rp7sa",
+    "mr-appliance-of-durham-chapel-hill",
+    "gp-chijxagidhdzrikrm6e2dwd4n_s"
+   ],
+   "drywall_door": [
+    "mr-handyman-of-chapel-hill-and-west-durham",
+    "triangle-services-handyman-appliance-repair",
+    "gp-chijgwxpjqxtrikronlhssqaejs",
+    "gp-chijiuaw3qpnrikrrs3jtcugpzg",
+    "do-it-all-dave-s-llc"
+   ],
+   "tv_mount_assembly": [
+    "mr-handyman-of-chapel-hill-and-west-durham",
+    "gp-chijcwegx-wsrcqrpnj32ibtuiq",
+    "triangle-services-handyman-appliance-repair",
+    "gp-chijqvm-qcilrikrqokqne3vqcw",
+    "gp-chijiuaw3qpnrikrrs3jtcugpzg"
+   ],
+   "termite_swarm": [
+    "gp-chijq6oalnrjrikrubzwzknwefe",
+    "gp-chijeyhyonblrikrzbxdwkxnlfq",
+    "gp-chijyehgkf_hrikrcbxztqc3smq",
+    "gp-chijyqghwq_wrikrtlh7zzl_ycm",
+    "gp-chij61jpcl_6rikrewwrxrqba9s"
+   ],
+   "mice_attic": [
+    "gp-chij1yc-lyllrikrh1qmtmh2ipi",
+    "gp-chijyehgkf_hrikrcbxztqc3smq",
+    "gp-chijnxtehqxlrikrp4cmxv2fy0o",
+    "gp-chij9zjxlw7tgmcrjjal-0v6uqy",
+    "gp-chijoqipxt7drikrjgjq-lkzki8"
+   ],
+   "wildlife_attic": [
+    "gp-chij1yc-lyllrikrh1qmtmh2ipi",
+    "gp-chijh01rqithrikrfxawzp_dfbc",
+    "gp-chijyehgkf_hrikrcbxztqc3smq",
+    "gp-chij9zjxlw7tgmcrjjal-0v6uqy",
+    "gp-chijnxtehqxlrikrp4cmxv2fy0o"
+   ],
+   "mosquito_yard": [
+    "gp-chij61jpcl_6rikrewwrxrqba9s",
+    "gp-chijpyk-qwflrikrv-dppsqr1la",
+    "gp-chijoqipxt7drikrjgjq-lkzki8",
+    "gp-chijuqcvuvrvrikrw3clcsio1dg",
+    "gp-chijeyhyonblrikrzbxdwkxnlfq"
+   ],
+   "bed_bugs": [
+    "gp-chijyehgkf_hrikrcbxztqc3smq",
+    "gp-chijeyhyonblrikrzbxdwkxnlfq",
+    "gp-chijpyk-qwflrikrv-dppsqr1la",
+    "gp-chijybte6jimrikr4psxcw0isku",
+    "gp-chijoqipxt7drikrjgjq-lkzki8"
+   ],
+   "sink_clog_chapel_hill": [
+    "shelton-plumbing-co",
+    "bar-d-plumbing",
+    "gp-chijn-xeay_frikrohiyrqpeplg",
+    "gp-chijuezxstjnrikrmjpypvmskuc",
+    "harmon-plumbing"
+   ],
+   "storm_flood_cleanup": [
+    "gp-chije2szwmnqrikrbd0o52xpm0q",
+    "1-800-water-damage-of-n-w-triangle-area",
+    "servpro-of-south-durham",
+    "gp-chijoz40z7xwrikrnkdpq_e1cm0",
+    "gp-chijp9eqldvzrikrgibqqoqk99g"
+   ]
+  }
+ },
+ "per_query": {
+  "v0_baseline": {
+   "basement_storm_standing": {
+    "ndcg3": 0.5977610919804944,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 11.041778256178302
+   },
+   "basement_seep_recurring": {
+    "ndcg3": 0.2098969608603938,
+    "p3": 0.3333333333333333,
+    "exc1": 0.0,
+    "mrr5": 0.3333333333333333,
+    "no_good3": 0.0,
+    "km3": 14.23367065931139
+   },
+   "sump_pump_failed": {
+    "ndcg3": 0.5977610919804944,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 8.967030898230878
+   },
+   "ceiling_drip_shower": {
+    "ndcg3": 0.42857142857142855,
+    "p3": 0.6666666666666666,
+    "exc1": 0.0,
+    "mrr5": 0.5,
+    "no_good3": 0.0,
+    "km3": 11.09067647372149
+   },
+   "roof_leak_storm": {
+    "ndcg3": 0.8308103365909342,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 17.794456292900804
+   },
+   "no_ac_heatwave": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 13.961133097764266
+   },
+   "no_heat_winter": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 11.685038055917241
+   },
+   "outlet_dead": {
+    "ndcg3": 0.6121358688798993,
+    "p3": 0.6666666666666666,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 8.760262805581082
+   },
+   "burning_outlet": {
+    "ndcg3": 0.42857142857142855,
+    "p3": 0.6666666666666666,
+    "exc1": 0.0,
+    "mrr5": 0.5,
+    "no_good3": 0.0,
+    "km3": 11.94546802523408
+   },
+   "water_heater_leak": {
+    "ndcg3": 0.24239753398612743,
+    "p3": 0.3333333333333333,
+    "exc1": 0.0,
+    "mrr5": 0.3333333333333333,
+    "no_good3": 0.0,
+    "km3": 14.265509355979306
+   },
+   "tankless_upgrade": {
+    "ndcg3": 0.2098969608603938,
+    "p3": 0.3333333333333333,
+    "exc1": 0.0,
+    "mrr5": 0.3333333333333333,
+    "no_good3": 0.0,
+    "km3": 13.606323261957751
+   },
+   "sewer_backup": {
+    "ndcg3": 0.7318407279869963,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 3.376279582029835
+   },
+   "slow_sink": {
+    "ndcg3": 0.5977610919804944,
+    "p3": 0.6666666666666666,
+    "exc1": 0.0,
+    "mrr5": 0.5,
+    "no_good3": 0.0,
+    "km3": 6.705138372962369
+   },
+   "toilet_running": {
+    "ndcg3": 0.34397659686689563,
+    "p3": 0.3333333333333333,
+    "exc1": 0.0,
+    "mrr5": 0.3333333333333333,
+    "no_good3": 0.0,
+    "km3": 9.557620248049671
+   },
+   "low_pressure_yard": {
+    "ndcg3": 0.2944917925649267,
+    "p3": 0.6666666666666666,
+    "exc1": 0.0,
+    "mrr5": 0.5,
+    "no_good3": 0.0,
+    "km3": 11.09067647372149
+   },
+   "crawl_encapsulation": {
+    "ndcg3": 0.14285714285714288,
+    "p3": 0.3333333333333333,
+    "exc1": 0.0,
+    "mrr5": 0.3333333333333333,
+    "no_good3": 0.0,
+    "km3": 6.9392481332649645
+   },
+   "foundation_settling": {
+    "ndcg3": 0.23463936301137825,
+    "p3": 0.3333333333333333,
+    "exc1": 0.0,
+    "mrr5": 0.3333333333333333,
+    "no_good3": 0.0,
+    "km3": 10.698115929444059
+   },
+   "yard_drainage": {
+    "ndcg3": 0.2098969608603938,
+    "p3": 0.3333333333333333,
+    "exc1": 0.0,
+    "mrr5": 0.3333333333333333,
+    "no_good3": 0.0,
+    "km3": 7.96555292091569
+   },
+   "mold_after_leak": {
+    "ndcg3": 0.5977610919804944,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 9.817405053004093
+   },
+   "sewage_overflow_cleanup": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 11.041778256178302
+   },
+   "gutter_overflow": {
+    "ndcg3": 0.5307212739772436,
+    "p3": 0.6666666666666666,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 19.448663168948162
+   },
+   "gutter_detached": {
+    "ndcg3": 0.34397659686689563,
+    "p3": 0.6666666666666666,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 19.6905250301
+   },
+   "gutter_guards": {
+    "ndcg3": 0.42857142857142855,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 25.608121750620988
+   },
+   "roof_replacement": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 16.96766878784483
+   },
+   "flat_roof_porch": {
+    "ndcg3": 0.3615316105681776,
+    "p3": 0.6666666666666666,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 10.581184903259109
+   },
+   "chimney_leak_hillsborough": {
+    "ndcg3": 0.2769367788636447,
+    "p3": 0.3333333333333333,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 27.568748171884152
+   },
+   "heat_pump_replace": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 14.082208204506179
+   },
+   "mini_split_garage": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 10.51191792911452
+   },
+   "weak_airflow": {
+    "ndcg3": 0.6967307005844323,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 11.685038055917241
+   },
+   "ac_morrisville": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 16.588257095153416
+   },
+   "panel_upgrade": {
+    "ndcg3": 0.34397659686689563,
+    "p3": 0.6666666666666666,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 10.109988983909389
+   },
+   "ev_charger": {
+    "ndcg3": 0.2098969608603938,
+    "p3": 0.3333333333333333,
+    "exc1": 0.0,
+    "mrr5": 0.3333333333333333,
+    "no_good3": 0.0,
+    "km3": 14.953722380251417
+   },
+   "standby_generator": {
+    "ndcg3": 0.34397659686689563,
+    "p3": 0.6666666666666666,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 11.134364322127631
+   },
+   "ceiling_fans": {
+    "ndcg3": 0.34397659686689563,
+    "p3": 0.6666666666666666,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 6.19011730551061
+   },
+   "washer_leak": {
+    "ndcg3": 0.39664163797074165,
+    "p3": 0.3333333333333333,
+    "exc1": 0.0,
+    "mrr5": 0.5,
+    "no_good3": 0.0,
+    "km3": 14.404514250051355
+   },
+   "fridge_warm": {
+    "ndcg3": 0.39664163797074165,
+    "p3": 0.3333333333333333,
+    "exc1": 0.0,
+    "mrr5": 0.5,
+    "no_good3": 0.0,
+    "km3": 18.58076920636704
+   },
+   "dishwasher_drain": {
+    "ndcg3": 0.39664163797074165,
+    "p3": 0.3333333333333333,
+    "exc1": 0.0,
+    "mrr5": 0.5,
+    "no_good3": 0.0,
+    "km3": 17.435386267844894
+   },
+   "gas_oven": {
+    "ndcg3": 0.14285714285714288,
+    "p3": 0.0,
+    "exc1": 0.0,
+    "mrr5": 0.25,
+    "no_good3": 1.0,
+    "km3": 11.895287079536496
+   },
+   "drywall_door": {
+    "ndcg3": 0.5626510645779305,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 16.29203304546529
+   },
+   "tv_mount_assembly": {
+    "ndcg3": 0.7318407279869963,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 10.061171801020405
+   },
+   "termite_swarm": {
+    "ndcg3": 0.5307212739772436,
+    "p3": 0.6666666666666666,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 19.84437190010673
+   },
+   "mice_attic": {
+    "ndcg3": 0.3615316105681776,
+    "p3": 0.6666666666666666,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 20.793841440667673
+   },
+   "wildlife_attic": {
+    "ndcg3": 0.3615316105681776,
+    "p3": 0.6666666666666666,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 24.375095138132632
+   },
+   "mosquito_yard": {
+    "ndcg3": 0.5977610919804944,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 19.1277751410458
+   },
+   "bed_bugs": {
+    "ndcg3": 0.42857142857142855,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 15.71799697880773
+   },
+   "sink_clog_chapel_hill": {
+    "ndcg3": 0.42857142857142855,
+    "p3": 0.6666666666666666,
+    "exc1": 0.0,
+    "mrr5": 0.5,
+    "no_good3": 0.0,
+    "km3": 13.606323261957751
+   },
+   "storm_flood_cleanup": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 15.813949297639327
+   }
+  },
+  "v1_distance_bayes": {
+   "basement_storm_standing": {
+    "ndcg3": 0.8308103365909342,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 7.655667699575326
+   },
+   "basement_seep_recurring": {
+    "ndcg3": 0.2769367788636447,
+    "p3": 0.3333333333333333,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 12.63001853258709
+   },
+   "sump_pump_failed": {
+    "ndcg3": 0.5626510645779305,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 7.915764629076226
+   },
+   "ceiling_drip_shower": {
+    "ndcg3": 0.3615316105681776,
+    "p3": 0.6666666666666666,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 7.2747128404031205
+   },
+   "roof_leak_storm": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 13.417393366227547
+   },
+   "no_ac_heatwave": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 10.581557556273856
+   },
+   "no_heat_winter": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 2.921169407062514
+   },
+   "outlet_dead": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 13.353999272120701
+   },
+   "burning_outlet": {
+    "ndcg3": 0.6967307005844323,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 16.199991572259428
+   },
+   "water_heater_leak": {
+    "ndcg3": 0.4175113851126525,
+    "p3": 0.6666666666666666,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 10.265030549888559
+   },
+   "tankless_upgrade": {
+    "ndcg3": 0.2944917925649267,
+    "p3": 0.6666666666666666,
+    "exc1": 0.0,
+    "mrr5": 0.5,
+    "no_good3": 0.0,
+    "km3": 11.890388940299943
+   },
+   "sewer_backup": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 3.334717074514104
+   },
+   "slow_sink": {
+    "ndcg3": 0.5977610919804944,
+    "p3": 0.6666666666666666,
+    "exc1": 0.0,
+    "mrr5": 0.5,
+    "no_good3": 0.0,
+    "km3": 5.639226892987737
+   },
+   "toilet_running": {
+    "ndcg3": 0.5307212739772436,
+    "p3": 0.6666666666666666,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 6.546132095340491
+   },
+   "low_pressure_yard": {
+    "ndcg3": 0.6296908825811814,
+    "p3": 0.6666666666666666,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 7.2747128404031205
+   },
+   "crawl_encapsulation": {
+    "ndcg3": 0.6296908825811814,
+    "p3": 0.6666666666666666,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 6.977489015362988
+   },
+   "foundation_settling": {
+    "ndcg3": 0.04229741585226647,
+    "p3": 0.0,
+    "exc1": 0.0,
+    "mrr5": 0.25,
+    "no_good3": 1.0,
+    "km3": 7.651696285049029
+   },
+   "yard_drainage": {
+    "ndcg3": 0.2274519745616758,
+    "p3": 0.3333333333333333,
+    "exc1": 0.0,
+    "mrr5": 0.5,
+    "no_good3": 0.0,
+    "km3": 10.601500929368846
+   },
+   "mold_after_leak": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 6.423465056177208
+   },
+   "sewage_overflow_cleanup": {
+    "ndcg3": 0.8308103365909342,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 7.655667699575326
+   },
+   "gutter_overflow": {
+    "ndcg3": 0.5626510645779305,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 8.747723791333408
+   },
+   "gutter_detached": {
+    "ndcg3": 0.5307212739772436,
+    "p3": 0.6666666666666666,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 12.672597735311056
+   },
+   "gutter_guards": {
+    "ndcg3": 0.42857142857142855,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 19.29329785749747
+   },
+   "roof_replacement": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 12.672443503792353
+   },
+   "flat_roof_porch": {
+    "ndcg3": 0.42857142857142855,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 11.812673678874171
+   },
+   "chimney_leak_hillsborough": {
+    "ndcg3": 0.42857142857142855,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 19.25779183243742
+   },
+   "heat_pump_replace": {
+    "ndcg3": 0.5626510645779305,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 9.769762897607894
+   },
+   "mini_split_garage": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 7.662283292604944
+   },
+   "weak_airflow": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 1.9438605306399683
+   },
+   "ac_morrisville": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 7.181583364143768
+   },
+   "panel_upgrade": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 9.296059388657454
+   },
+   "ev_charger": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 8.52168206888826
+   },
+   "standby_generator": {
+    "ndcg3": 0.6967307005844323,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 3.120954989680865
+   },
+   "ceiling_fans": {
+    "ndcg3": 0.5626510645779305,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 11.726966244387956
+   },
+   "washer_leak": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 4.8498084647217485
+   },
+   "fridge_warm": {
+    "ndcg3": 0.5626510645779305,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 10.120609865110342
+   },
+   "dishwasher_drain": {
+    "ndcg3": 0.7653606369886218,
+    "p3": 0.6666666666666666,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 12.965060264019268
+   },
+   "gas_oven": {
+    "ndcg3": 0.5027986350243819,
+    "p3": 0.3333333333333333,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 5.022797042414409
+   },
+   "drywall_door": {
+    "ndcg3": 0.5977610919804944,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 9.594936463751877
+   },
+   "tv_mount_assembly": {
+    "ndcg3": 0.5977610919804944,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 4.833352886718893
+   },
+   "termite_swarm": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 9.513205005511267
+   },
+   "mice_attic": {
+    "ndcg3": 0.8308103365909342,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 8.26064052884161
+   },
+   "wildlife_attic": {
+    "ndcg3": 0.5626510645779305,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 10.78244540938109
+   },
+   "mosquito_yard": {
+    "ndcg3": 0.7318407279869963,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 16.22117920251447
+   },
+   "bed_bugs": {
+    "ndcg3": 0.6967307005844323,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 4.664932060731591
+   },
+   "sink_clog_chapel_hill": {
+    "ndcg3": 0.5977610919804944,
+    "p3": 0.6666666666666666,
+    "exc1": 0.0,
+    "mrr5": 0.5,
+    "no_good3": 0.0,
+    "km3": 11.890388940299943
+   },
+   "storm_flood_cleanup": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 10.34570416698025
+   }
+  },
+  "v2_+tags": {
+   "basement_storm_standing": {
+    "ndcg3": 0.8308103365909342,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 7.655667699575326
+   },
+   "basement_seep_recurring": {
+    "ndcg3": 0.5626510645779305,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 15.910097221864273
+   },
+   "sump_pump_failed": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 9.474932490279045
+   },
+   "ceiling_drip_shower": {
+    "ndcg3": 0.3615316105681776,
+    "p3": 0.6666666666666666,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 7.2747128404031205
+   },
+   "roof_leak_storm": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 10.630604230476166
+   },
+   "no_ac_heatwave": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 10.581557556273856
+   },
+   "no_heat_winter": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 2.921169407062514
+   },
+   "outlet_dead": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 13.353999272120701
+   },
+   "burning_outlet": {
+    "ndcg3": 0.8308103365909342,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 14.986214770373198
+   },
+   "water_heater_leak": {
+    "ndcg3": 0.4175113851126525,
+    "p3": 0.6666666666666666,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 10.265030549888559
+   },
+   "tankless_upgrade": {
+    "ndcg3": 0.2944917925649267,
+    "p3": 0.6666666666666666,
+    "exc1": 0.0,
+    "mrr5": 0.5,
+    "no_good3": 0.0,
+    "km3": 11.890388940299943
+   },
+   "sewer_backup": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 3.334717074514104
+   },
+   "slow_sink": {
+    "ndcg3": 0.5977610919804944,
+    "p3": 0.6666666666666666,
+    "exc1": 0.0,
+    "mrr5": 0.5,
+    "no_good3": 0.0,
+    "km3": 5.639226892987737
+   },
+   "toilet_running": {
+    "ndcg3": 0.5307212739772436,
+    "p3": 0.6666666666666666,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 6.546132095340491
+   },
+   "low_pressure_yard": {
+    "ndcg3": 0.6296908825811814,
+    "p3": 0.6666666666666666,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 7.2747128404031205
+   },
+   "crawl_encapsulation": {
+    "ndcg3": 0.8308103365909342,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 7.917275922598403
+   },
+   "foundation_settling": {
+    "ndcg3": 0.7318407279869963,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 16.530983880498464
+   },
+   "yard_drainage": {
+    "ndcg3": 0.5626510645779305,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 13.912840382899995
+   },
+   "mold_after_leak": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 6.423465056177208
+   },
+   "sewage_overflow_cleanup": {
+    "ndcg3": 0.8308103365909342,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 7.655667699575326
+   },
+   "gutter_overflow": {
+    "ndcg3": 0.7318407279869963,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 11.348106101232213
+   },
+   "gutter_detached": {
+    "ndcg3": 0.5307212739772436,
+    "p3": 0.6666666666666666,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 12.672597735311056
+   },
+   "gutter_guards": {
+    "ndcg3": 0.5626510645779305,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 21.242437602941646
+   },
+   "roof_replacement": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 12.672443503792353
+   },
+   "flat_roof_porch": {
+    "ndcg3": 0.5977610919804944,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 7.992106182266437
+   },
+   "chimney_leak_hillsborough": {
+    "ndcg3": 0.42857142857142855,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 15.761935761500212
+   },
+   "heat_pump_replace": {
+    "ndcg3": 0.5626510645779305,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 9.769762897607894
+   },
+   "mini_split_garage": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 7.662283292604944
+   },
+   "weak_airflow": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 2.921169407062514
+   },
+   "ac_morrisville": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 7.181583364143768
+   },
+   "panel_upgrade": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 9.296059388657454
+   },
+   "ev_charger": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 8.52168206888826
+   },
+   "standby_generator": {
+    "ndcg3": 0.8308103365909342,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 5.646462319536052
+   },
+   "ceiling_fans": {
+    "ndcg3": 0.7318407279869963,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 8.109184309477959
+   },
+   "washer_leak": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 10.618838960928187
+   },
+   "fridge_warm": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 17.178166626765908
+   },
+   "dishwasher_drain": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 11.131361846031792
+   },
+   "gas_oven": {
+    "ndcg3": 0.5027986350243819,
+    "p3": 0.3333333333333333,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 6.972457752778146
+   },
+   "drywall_door": {
+    "ndcg3": 0.8308103365909342,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 18.876634036480525
+   },
+   "tv_mount_assembly": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 12.002571542100084
+   },
+   "termite_swarm": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 9.513205005511267
+   },
+   "mice_attic": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 6.567903973180921
+   },
+   "wildlife_attic": {
+    "ndcg3": 0.7318407279869963,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 10.207681481428581
+   },
+   "mosquito_yard": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 16.940103581733133
+   },
+   "bed_bugs": {
+    "ndcg3": 0.8308103365909342,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 5.589342887434065
+   },
+   "sink_clog_chapel_hill": {
+    "ndcg3": 0.5977610919804944,
+    "p3": 0.6666666666666666,
+    "exc1": 0.0,
+    "mrr5": 0.5,
+    "no_good3": 0.0,
+    "km3": 11.890388940299943
+   },
+   "storm_flood_cleanup": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 10.34570416698025
+   }
+  },
+  "v3_+bm25": {
+   "basement_storm_standing": {
+    "ndcg3": 0.7318407279869963,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 8.053751450332607
+   },
+   "basement_seep_recurring": {
+    "ndcg3": 0.5977610919804944,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 15.649136494647163
+   },
+   "sump_pump_failed": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 9.474932490279045
+   },
+   "ceiling_drip_shower": {
+    "ndcg3": 0.34397659686689563,
+    "p3": 0.6666666666666666,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 7.2747128404031205
+   },
+   "roof_leak_storm": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 15.193943430784561
+   },
+   "no_ac_heatwave": {
+    "ndcg3": 0.5626510645779305,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 8.86458156929091
+   },
+   "no_heat_winter": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 2.921169407062514
+   },
+   "outlet_dead": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 13.809676669481172
+   },
+   "burning_outlet": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 13.657336010063219
+   },
+   "water_heater_leak": {
+    "ndcg3": 0.6497722977469499,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 12.287020612630789
+   },
+   "tankless_upgrade": {
+    "ndcg3": 0.7318407279869963,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 13.71806249851464
+   },
+   "sewer_backup": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 3.334717074514104
+   },
+   "slow_sink": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 11.510335067479554
+   },
+   "toilet_running": {
+    "ndcg3": 0.8308103365909342,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 5.070462532960602
+   },
+   "low_pressure_yard": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 5.909407388281361
+   },
+   "crawl_encapsulation": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 14.41301275989841
+   },
+   "foundation_settling": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 13.34074517295236
+   },
+   "yard_drainage": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 17.942886698478627
+   },
+   "mold_after_leak": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 8.265351094830343
+   },
+   "sewage_overflow_cleanup": {
+    "ndcg3": 0.8308103365909342,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 8.326481944340244
+   },
+   "gutter_overflow": {
+    "ndcg3": 0.8308103365909342,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 16.65333133523372
+   },
+   "gutter_detached": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 12.351965756347319
+   },
+   "gutter_guards": {
+    "ndcg3": 0.7318407279869963,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 19.149820757574975
+   },
+   "roof_replacement": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 6.821546251943341
+   },
+   "flat_roof_porch": {
+    "ndcg3": 0.5626510645779305,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 7.992106182266437
+   },
+   "chimney_leak_hillsborough": {
+    "ndcg3": 0.5626510645779305,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 14.29062766379013
+   },
+   "heat_pump_replace": {
+    "ndcg3": 0.5977610919804944,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 9.123752272616802
+   },
+   "mini_split_garage": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 5.885489920212412
+   },
+   "weak_airflow": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 2.921169407062514
+   },
+   "ac_morrisville": {
+    "ndcg3": 0.8308103365909342,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 11.34259821332935
+   },
+   "panel_upgrade": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 15.871116615581505
+   },
+   "ev_charger": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 8.52168206888826
+   },
+   "standby_generator": {
+    "ndcg3": 0.7988805459902473,
+    "p3": 0.6666666666666666,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 15.61118540595381
+   },
+   "ceiling_fans": {
+    "ndcg3": 0.8308103365909342,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 14.520493848794768
+   },
+   "washer_leak": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 4.319600055317141
+   },
+   "fridge_warm": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 18.967433942330825
+   },
+   "dishwasher_drain": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 11.131361846031792
+   },
+   "gas_oven": {
+    "ndcg3": 0.7039180890341348,
+    "p3": 0.6666666666666666,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 6.765192190220258
+   },
+   "drywall_door": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 18.876634036480525
+   },
+   "tv_mount_assembly": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 12.002571542100084
+   },
+   "termite_swarm": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 9.480271321864294
+   },
+   "mice_attic": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 8.423039139195097
+   },
+   "wildlife_attic": {
+    "ndcg3": 0.5977610919804944,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 14.468421142674744
+   },
+   "mosquito_yard": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 13.875469141626217
+   },
+   "bed_bugs": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 6.448000533056262
+   },
+   "sink_clog_chapel_hill": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 14.374326411145125
+   },
+   "storm_flood_cleanup": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 17.71928293637827
+   }
+  },
+  "v3_+embed": {
+   "basement_storm_standing": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 8.49427030980093
+   },
+   "basement_seep_recurring": {
+    "ndcg3": 0.5977610919804944,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 15.910097221864273
+   },
+   "sump_pump_failed": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 9.474932490279045
+   },
+   "ceiling_drip_shower": {
+    "ndcg3": 0.5977610919804944,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 11.144151059534774
+   },
+   "roof_leak_storm": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 11.320333114585267
+   },
+   "no_ac_heatwave": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 10.069799957989273
+   },
+   "no_heat_winter": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 4.6280753696305705
+   },
+   "outlet_dead": {
+    "ndcg3": 0.7988805459902473,
+    "p3": 0.6666666666666666,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 9.34613131011298
+   },
+   "burning_outlet": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 10.709290188654744
+   },
+   "water_heater_leak": {
+    "ndcg3": 0.49493168932408493,
+    "p3": 0.6666666666666666,
+    "exc1": 0.0,
+    "mrr5": 0.5,
+    "no_good3": 0.0,
+    "km3": 16.292776597468496
+   },
+   "tankless_upgrade": {
+    "ndcg3": 0.34397659686689563,
+    "p3": 0.6666666666666666,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 15.363458567154819
+   },
+   "sewer_backup": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 3.334717074514104
+   },
+   "slow_sink": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 10.256578492589664
+   },
+   "toilet_running": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 4.890743727095773
+   },
+   "low_pressure_yard": {
+    "ndcg3": 0.8308103365909342,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 7.5856948914780435
+   },
+   "crawl_encapsulation": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 12.83764022955454
+   },
+   "foundation_settling": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 13.090451294443087
+   },
+   "yard_drainage": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 14.176618448394478
+   },
+   "mold_after_leak": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 6.423465056177208
+   },
+   "sewage_overflow_cleanup": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 9.076293416662253
+   },
+   "gutter_overflow": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 21.696438608472512
+   },
+   "gutter_detached": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 10.641271495544055
+   },
+   "gutter_guards": {
+    "ndcg3": 0.7318407279869963,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 15.538244768922986
+   },
+   "roof_replacement": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 8.206104306882864
+   },
+   "flat_roof_porch": {
+    "ndcg3": 0.8308103365909342,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 4.455623660306731
+   },
+   "chimney_leak_hillsborough": {
+    "ndcg3": 0.5626510645779305,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 18.878584833177243
+   },
+   "heat_pump_replace": {
+    "ndcg3": 0.5626510645779305,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 9.126571709295499
+   },
+   "mini_split_garage": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 6.447934756090875
+   },
+   "weak_airflow": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 5.611823686595215
+   },
+   "ac_morrisville": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 7.438164736946467
+   },
+   "panel_upgrade": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 15.871116615581505
+   },
+   "ev_charger": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 12.980284474320204
+   },
+   "standby_generator": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 10.721693992469314
+   },
+   "ceiling_fans": {
+    "ndcg3": 0.5977610919804944,
+    "p3": 0.6666666666666666,
+    "exc1": 0.0,
+    "mrr5": 0.5,
+    "no_good3": 0.0,
+    "km3": 8.840423740343324
+   },
+   "washer_leak": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 4.319600055317141
+   },
+   "fridge_warm": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 19.693698167228558
+   },
+   "dishwasher_drain": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 11.131361846031792
+   },
+   "gas_oven": {
+    "ndcg3": 0.5307212739772436,
+    "p3": 0.6666666666666666,
+    "exc1": 0.0,
+    "mrr5": 0.5,
+    "no_good3": 0.0,
+    "km3": 6.765192190220258
+   },
+   "drywall_door": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 14.251384075678796
+   },
+   "tv_mount_assembly": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 8.400439135690071
+   },
+   "termite_swarm": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 6.901361605432326
+   },
+   "mice_attic": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 5.4936373966594125
+   },
+   "wildlife_attic": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 12.531538456934065
+   },
+   "mosquito_yard": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 17.435472974548837
+   },
+   "bed_bugs": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 7.297197503881018
+   },
+   "sink_clog_chapel_hill": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 14.014821726765215
+   },
+   "storm_flood_cleanup": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 12.019090261710739
+   }
+  },
+  "v4_hybrid": {
+   "basement_storm_standing": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 9.076293416662253
+   },
+   "basement_seep_recurring": {
+    "ndcg3": 0.7318407279869963,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 18.102604637504648
+   },
+   "sump_pump_failed": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 9.474932490279045
+   },
+   "ceiling_drip_shower": {
+    "ndcg3": 0.5626510645779305,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 11.144151059534774
+   },
+   "roof_leak_storm": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 11.320333114585267
+   },
+   "no_ac_heatwave": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 10.069799957989273
+   },
+   "no_heat_winter": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 4.6280753696305705
+   },
+   "outlet_dead": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 11.186067273767776
+   },
+   "burning_outlet": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 13.657336010063219
+   },
+   "water_heater_leak": {
+    "ndcg3": 0.6497722977469499,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 12.287020612630789
+   },
+   "tankless_upgrade": {
+    "ndcg3": 0.3615316105681776,
+    "p3": 0.6666666666666666,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 15.363458567154819
+   },
+   "sewer_backup": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 3.334717074514104
+   },
+   "slow_sink": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 10.256578492589664
+   },
+   "toilet_running": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 5.070462532960602
+   },
+   "low_pressure_yard": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 7.5856948914780435
+   },
+   "crawl_encapsulation": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 12.83764022955454
+   },
+   "foundation_settling": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 13.34074517295236
+   },
+   "yard_drainage": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 14.176618448394478
+   },
+   "mold_after_leak": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 6.423465056177208
+   },
+   "sewage_overflow_cleanup": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 8.49427030980093
+   },
+   "gutter_overflow": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 21.696438608472512
+   },
+   "gutter_detached": {
+    "ndcg3": 0.6967307005844323,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 11.008927558058629
+   },
+   "gutter_guards": {
+    "ndcg3": 0.7318407279869963,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 15.538244768922986
+   },
+   "roof_replacement": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 7.776662930946112
+   },
+   "flat_roof_porch": {
+    "ndcg3": 0.5977610919804944,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 7.686312164157367
+   },
+   "chimney_leak_hillsborough": {
+    "ndcg3": 0.5626510645779305,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 18.3845124564233
+   },
+   "heat_pump_replace": {
+    "ndcg3": 0.5626510645779305,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 9.126571709295499
+   },
+   "mini_split_garage": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 6.447934756090875
+   },
+   "weak_airflow": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 5.611823686595215
+   },
+   "ac_morrisville": {
+    "ndcg3": 0.8308103365909342,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 7.438164736946467
+   },
+   "panel_upgrade": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 15.871116615581505
+   },
+   "ev_charger": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 12.980284474320204
+   },
+   "standby_generator": {
+    "ndcg3": 0.7988805459902473,
+    "p3": 0.6666666666666666,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 15.61118540595381
+   },
+   "ceiling_fans": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 5.306741449755713
+   },
+   "washer_leak": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 4.319600055317141
+   },
+   "fridge_warm": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 19.693698167228558
+   },
+   "dishwasher_drain": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 11.131361846031792
+   },
+   "gas_oven": {
+    "ndcg3": 0.5307212739772436,
+    "p3": 0.6666666666666666,
+    "exc1": 0.0,
+    "mrr5": 0.5,
+    "no_good3": 0.0,
+    "km3": 6.765192190220258
+   },
+   "drywall_door": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 14.251384075678796
+   },
+   "tv_mount_assembly": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 12.002571542100084
+   },
+   "termite_swarm": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 9.480271321864294
+   },
+   "mice_attic": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 8.423039139195097
+   },
+   "wildlife_attic": {
+    "ndcg3": 0.5977610919804944,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 14.468421142674744
+   },
+   "mosquito_yard": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 13.875469141626217
+   },
+   "bed_bugs": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 7.297197503881018
+   },
+   "sink_clog_chapel_hill": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 13.71806249851464
+   },
+   "storm_flood_cleanup": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 14.343341732852744
+   }
+  },
+  "v5_hybrid+rerank": {
+   "basement_storm_standing": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 9.076293416662253
+   },
+   "basement_seep_recurring": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 15.761685001356971
+   },
+   "sump_pump_failed": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 5.955214212270318
+   },
+   "ceiling_drip_shower": {
+    "ndcg3": 0.5626510645779305,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 6.931459154274764
+   },
+   "roof_leak_storm": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 11.320333114585267
+   },
+   "no_ac_heatwave": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 7.122725799250196
+   },
+   "no_heat_winter": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 2.921169407062514
+   },
+   "outlet_dead": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 11.186067273767776
+   },
+   "burning_outlet": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 13.657336010063219
+   },
+   "water_heater_leak": {
+    "ndcg3": 0.6903187831542703,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 12.287020612630789
+   },
+   "tankless_upgrade": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 14.13786964359415
+   },
+   "sewer_backup": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 2.414873085302615
+   },
+   "slow_sink": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 7.915764629076226
+   },
+   "toilet_running": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 5.985493945464676
+   },
+   "low_pressure_yard": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 5.102895719174609
+   },
+   "crawl_encapsulation": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 16.351162183833235
+   },
+   "foundation_settling": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 10.641325089336235
+   },
+   "yard_drainage": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 9.891553512164286
+   },
+   "mold_after_leak": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 6.423465056177208
+   },
+   "sewage_overflow_cleanup": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 8.49427030980093
+   },
+   "gutter_overflow": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 20.6151219409958
+   },
+   "gutter_detached": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 7.491364131678654
+   },
+   "gutter_guards": {
+    "ndcg3": 0.7318407279869963,
+    "p3": 1.0,
+    "exc1": 0.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 15.538244768922986
+   },
+   "roof_replacement": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 6.821546251943341
+   },
+   "flat_roof_porch": {
+    "ndcg3": 0.8308103365909342,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 4.455623660306731
+   },
+   "chimney_leak_hillsborough": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 13.92539261092789
+   },
+   "heat_pump_replace": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 15.393785230500816
+   },
+   "mini_split_garage": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 6.447934756090875
+   },
+   "weak_airflow": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 2.921169407062514
+   },
+   "ac_morrisville": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 7.181583364143768
+   },
+   "panel_upgrade": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 9.296059388657454
+   },
+   "ev_charger": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 11.21520591204592
+   },
+   "standby_generator": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 7.372096350060733
+   },
+   "ceiling_fans": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 5.306741449755713
+   },
+   "washer_leak": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 4.319600055317141
+   },
+   "fridge_warm": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 13.373588443497603
+   },
+   "dishwasher_drain": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 11.131361846031792
+   },
+   "gas_oven": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 9.41461185881171
+   },
+   "drywall_door": {
+    "ndcg3": 0.8308103365909342,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 14.251384075678796
+   },
+   "tv_mount_assembly": {
+    "ndcg3": 0.8659203639934981,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 7.050255051971924
+   },
+   "termite_swarm": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 6.901361605432326
+   },
+   "mice_attic": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 8.870702307785876
+   },
+   "wildlife_attic": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 9.589021019768342
+   },
+   "mosquito_yard": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 13.875469141626217
+   },
+   "bed_bugs": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 6.448000533056262
+   },
+   "sink_clog_chapel_hill": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 13.71806249851464
+   },
+   "storm_flood_cleanup": {
+    "ndcg3": 1.0,
+    "p3": 1.0,
+    "exc1": 1.0,
+    "mrr5": 1.0,
+    "no_good3": 0.0,
+    "km3": 9.005379612497093
+   }
+  }
+ }
+}

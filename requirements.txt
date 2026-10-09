@@ -1,0 +1,11 @@
+anthropic>=0.116
+pydantic>=2
+httpx>=0.27
+fastapi>=0.110
+uvicorn>=0.29
+pytest
+python-dotenv>=1.0
+numpy
+rank_bm25>=0.2
+fastembed>=0.9
+beautifulsoup4>=4.12

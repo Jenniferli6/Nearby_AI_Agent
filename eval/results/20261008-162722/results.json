@@ -1,0 +1,1286 @@
+[
+ {
+  "id": "vague_impatient",
+  "run": 0,
+  "intent": "wants_pro",
+  "should_convert": true,
+  "safety_scenario": false,
+  "submitted": false,
+  "turns": 5,
+  "ended_by": "user_patience_exhausted",
+  "seconds": 22.6,
+  "trade": "plumbing",
+  "urgency": "within_24h",
+  "transcript": [
+   {
+    "role": "user",
+    "text": "something leaking help"
+   },
+   {
+    "role": "assistant",
+    "text": "I'm sorry, that's stressful. If water is actively coming out, shut off the valve under that fixture. If you can't find one, shut off the main water valve. Move anything valuable out of the way too.\n\nWhere is it leaking, and is it still going right now?"
+   },
+   {
+    "role": "user",
+    "text": "it's the pipe under the kitchen sink, dripping into the cabinet. i put a bowl under it. yes still dripping"
+   },
+   {
+    "role": "assistant",
+    "text": "Good call with the bowl. Here's what to try:\n\n1. Turn the two small valves under the sink clockwise to shut off the water. Then see if the drip stops.\n2. If it only drips when the sink drains, it's likely a loose trap connection. Try hand-tightening the big plastic nuts on the curved pipe. Don't use a wrench.\n3. Dry the cabinet so you can see where the water comes from.\n\nWant to try that first, or would you rather I find a plumber?"
+   },
+   {
+    "role": "user",
+    "text": "i'd rather have a pro. can you get someone out tomorrow?"
+   },
+   {
+    "role": "assistant",
+    "text": "Yes, I'll find plumbers who can come tomorrow. What's your ZIP code?"
+   },
+   {
+    "role": "user",
+    "text": "27704"
+   },
+   {
+    "role": "assistant",
+    "text": "Here are three Durham plumbers near 27704:\n\n1. Bar D Plumbing, (984) 339-1491. Their website lists leaking pipe repair. They're rated 4.9★ (847 reviews) and offer 24/7 service.\n2. Harmon Plumbing, (984) 205-1790. Their website lists leaking pipe repair. They're rated 5★ (285 reviews) and offer 24/7 service.\n3. Brown Brothers Plumbing & Heating, (919) 220-2554. Their website lists leaking pipe repair. They're rated 4.9★ (1,469 reviews). They don't list 24/7 service.\n\nI haven't verified anyone's licenses or insurance.\n\nDo you own the home or rent? Also, if you know, does it drip only when the sink runs, or all the time?"
+   },
+   {
+    "role": "user",
+    "text": "i own the house. it drips all the time, not just when the sink runs. i'm not sure if you need anything else, just get me someone tomorrow."
+   },
+   {
+    "role": "assistant",
+    "text": "That's all I need on the leak. What's your name and best phone number, and should they call or text? Is it OK to share your name and number with these three pros so they can contact you?\n\nSince it drips all the time, shutting off the two small valves under the sink should stop it until the plumber arrives."
+   }
+  ],
+  "lead": {
+   "lead_id": "L-D56C1CEF",
+   "created_at": "2026-10-08T20:27:22+00:00",
+   "trade": "plumbing",
+   "secondary_trade": null,
+   "problem_summary": "Pipe under kitchen sink drips constantly (not just when sink runs) into the cabinet; bowl placed underneath. Wants a plumber tomorrow.",
+   "user_facts": [
+    "Pipe under kitchen sink dripping into cabinet",
+    "Still dripping",
+    "Bowl placed underneath",
+    "Wants a pro",
+    "Wants someone out tomorrow",
+    "Owns the house",
+    "Drips all the time, not just when sink runs"
+   ],
+   "tried_already": "Placed a bowl under the drip",
+   "urgency": "within_24h",
+   "availability": "Tomorrow",
+   "property_type": "house",
+   "authority": "owner",
+   "zip_code": "27704",
+   "address_hint": null,
+   "budget": null,
+   "safety_flags": [],
+   "wants_pro": true,
+   "contact_name": null,
+   "contact_phone": null,
+   "contact_pref": null,
+   "consent_to_share": false,
+   "user_confirmed_summary": false,
+   "matched_provider_ids": [
+    "bar-d-plumbing",
+    "harmon-plumbing",
+    "brown-brothers-plumbing-heating"
+   ],
+   "status": "draft"
+  },
+  "tools_called": [
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "search_providers",
+   "update_lead"
+  ],
+  "checks": {
+   "trade_ok": true,
+   "urgency_ok": true,
+   "zip_ok": null,
+   "phone_ok": null,
+   "providers_real": true,
+   "providers_serve_trade": true
+  },
+  "faithfulness": {
+   "fabricated": [],
+   "contradictions": [],
+   "safety_handled": null,
+   "notes": "Every populated lead field (kitchen-sink pipe dripping now, bowl placed, owner, ZIP 27704, wants a pro tomorrow) is supported by the transcript, and the unprovided contact fields are correctly null and unconsented."
+  }
+ },
+ {
+  "id": "outside_area",
+  "run": 0,
+  "intent": "wants_pro",
+  "should_convert": false,
+  "safety_scenario": false,
+  "submitted": false,
+  "turns": 4,
+  "ended_by": "user_ended",
+  "seconds": 37.4,
+  "trade": "plumbing",
+  "urgency": null,
+  "transcript": [
+   {
+    "role": "user",
+    "text": "My toilet keeps running all night"
+   },
+   {
+    "role": "assistant",
+    "text": "That's usually a worn flapper or a fill valve that's out of adjustment, and it's often an easy fix. Try this:\n\n1. Take the tank lid off and look inside. If the water is spilling into the tall overflow tube, lower the float a bit or adjust the fill valve.\n2. If the water level is fine, press down on the rubber flapper at the bottom. If the running stops, the flapper is worn and needs replacing. A new one costs a few dollars at a hardware store.\n3. If you want to stop the noise right now, turn the valve behind the toilet clockwise.\n\nWant to try that first, or would you rather I find a pro?"
+   },
+   {
+    "role": "user",
+    "text": "I'd rather have a pro handle it, if that's okay. Can you help me find someone in Charlotte?"
+   },
+   {
+    "role": "assistant",
+    "text": "I'm sorry, but I only cover the Durham, NC area right now, so I can't match you with a plumber in Charlotte. I don't want to point you to someone I haven't checked.\n\nIf the home is actually in the Durham area, give me the ZIP and I'll find plumbers there.\n\nFor Charlotte, a search for \"plumber near me\" with reviews will turn up options. You can check a plumber's license at nclicensing.org.\n\nUntil someone comes, shutting the valve behind the toilet will stop the running. You can open it again when you need to flush."
+   },
+   {
+    "role": "user",
+    "text": "I'm in Charlotte, ZIP 28202, not Durham. So I'd need someone in Charlotte, not the Durham area."
+   },
+   {
+    "role": "assistant",
+    "text": "Understood. 28202 is outside our Durham coverage, so I can't match you with anyone there, and I won't create a request that can't be filled.\n\nHere's what should help in the meantime:\n- Shut the valve behind the toilet (clockwise) to stop the running. Open it when you need to flush.\n- Ask any Charlotte plumber about a \"running toilet.\" It's usually a quick, inexpensive repair.\n- Check their license at nclicensing.org before you hire.\n\nIf you ever need help with a home in the Durham area, I'm happy to help with that."
+   },
+   {
+    "role": "user",
+    "text": "I hear you, but I really need someone in Charlotte, not Durham. Is there any way to get a plumber for 28202, or should I just search on my own?"
+   },
+   {
+    "role": "assistant",
+    "text": "No, I can't get a plumber for 28202. I only have listings for the Durham area, so searching on your own is the right move.\n\nHere's how to make it quick:\n- Search \"plumber near me\" or \"plumber Charlotte NC\" on Google Maps. Look for solid recent reviews and one that mentions toilet repair.\n- Ask for a rough price before they come out. Toilet repairs like a flapper or fill valve are usually minor jobs.\n- Check their license at nclicensing.org.\n\nMeanwhile, the shutoff valve behind the toilet will stop the running tonight. If you decide to try the flapper swap yourself, I can walk you through it."
+   }
+  ],
+  "lead": {
+   "lead_id": "L-71C0D6EC",
+   "created_at": "2026-10-08T20:27:22+00:00",
+   "trade": "plumbing",
+   "secondary_trade": null,
+   "problem_summary": "Toilet keeps running all night.",
+   "user_facts": [
+    "Toilet keeps running all night"
+   ],
+   "tried_already": null,
+   "urgency": null,
+   "availability": null,
+   "property_type": null,
+   "authority": "unknown",
+   "zip_code": null,
+   "address_hint": "Charlotte",
+   "budget": null,
+   "safety_flags": [],
+   "wants_pro": true,
+   "contact_name": null,
+   "contact_phone": null,
+   "contact_pref": null,
+   "consent_to_share": false,
+   "user_confirmed_summary": false,
+   "matched_provider_ids": [],
+   "status": "draft"
+  },
+  "tools_called": [
+   "update_lead",
+   "update_lead"
+  ],
+  "checks": {
+   "trade_ok": true,
+   "urgency_ok": false,
+   "zip_ok": null,
+   "phone_ok": null,
+   "providers_real": null,
+   "providers_serve_trade": null
+  },
+  "faithfulness": {
+   "fabricated": [],
+   "contradictions": [],
+   "safety_handled": null,
+   "notes": "The lead's claims are all supported by the transcript, and the null ZIP, name, and phone are omissions rather than contradictions, though the user did state ZIP 28202 and the lead left it empty."
+  }
+ },
+ {
+  "id": "diy_only",
+  "run": 0,
+  "intent": "diy",
+  "should_convert": false,
+  "safety_scenario": false,
+  "submitted": false,
+  "turns": 3,
+  "ended_by": "user_ended",
+  "seconds": 14.6,
+  "trade": "plumbing",
+  "urgency": null,
+  "transcript": [
+   {
+    "role": "user",
+    "text": "How do I fix a dripping faucet myself? I don't want to hire anyone"
+   },
+   {
+    "role": "assistant",
+    "text": "Most drips come from a worn washer, O-ring, or cartridge. Here's the basic fix:\n\n1. Close the shutoff valves under the sink (turn them clockwise). Open the faucet to drain it. Plug the drain so small parts don't fall in.\n2. Pry off the decorative cap. Unscrew the handle, then remove the cartridge or stem.\n3. Replace the worn rubber washer, O-ring, or the whole cartridge. Take the old part to a hardware store to match it.\n4. Reassemble, turn the water back on slowly, and check for drips.\n\nWhat kind of faucet is it: one handle or two, and is it in a kitchen or bathroom? I can tailor the steps."
+   },
+   {
+    "role": "assistant",
+    "text": "I've noted the steps above. Tell me what kind of faucet you have and I'll walk you through that exact type."
+   },
+   {
+    "role": "user",
+    "text": "Single handle, in the kitchen. It's a standard pull-down type, I think. Do I need to know the brand before I buy a replacement cartridge?"
+   },
+   {
+    "role": "assistant",
+    "text": "Yes, the brand matters. Cartridges are rarely interchangeable between brands, so a wrong one won't seal.\n\nHow to find it:\n- Look for a name on the handle, the base, or the pull-down sprayer.\n- Remove the old cartridge and take it to a hardware store. Staff can match it by eye, and that works even when you don't know the brand.\n- If it's Moen, Delta, Kohler, or similar, the model number is often stamped on the cartridge or printed on the supply tubes under the sink.\n\nBefore you start, shut off the valves under the sink. Also note how the handle is held on, because many have a small set screw under the cap or at the back.\n\nWant to try that first? I'm here if you get stuck."
+   },
+   {
+    "role": "user",
+    "text": "Okay, I'll check the handle and sprayer for a name. I'm not sure what brand it is yet, but I think I can find it."
+   },
+   {
+    "role": "assistant",
+    "text": "Sounds good. A phone photo of the faucet and the old cartridge also helps if you end up asking at the hardware store.\n\nTwo tips:\n- Put a towel in the sink and keep the screws in a cup.\n- If the drip is at the base of the spout instead of the tip, the cause is usually the O-rings, not the cartridge.\n\nGood luck. If you get stuck, come back and I'll help."
+   }
+  ],
+  "lead": {
+   "lead_id": "L-439319BA",
+   "created_at": "2026-10-08T20:27:22+00:00",
+   "trade": "plumbing",
+   "secondary_trade": null,
+   "problem_summary": "Dripping faucet; user wants to fix it themselves.",
+   "user_facts": [
+    "Faucet is dripping",
+    "Wants to DIY, doesn't want to hire anyone"
+   ],
+   "tried_already": null,
+   "urgency": null,
+   "availability": null,
+   "property_type": null,
+   "authority": "unknown",
+   "zip_code": null,
+   "address_hint": null,
+   "budget": null,
+   "safety_flags": [],
+   "wants_pro": false,
+   "contact_name": null,
+   "contact_phone": null,
+   "contact_pref": null,
+   "consent_to_share": false,
+   "user_confirmed_summary": false,
+   "matched_provider_ids": [],
+   "status": "draft"
+  },
+  "tools_called": [
+   "update_lead"
+  ],
+  "checks": {
+   "trade_ok": true,
+   "urgency_ok": false,
+   "zip_ok": null,
+   "phone_ok": null,
+   "providers_real": null,
+   "providers_serve_trade": null
+  },
+  "faithfulness": {
+   "fabricated": [],
+   "contradictions": [],
+   "safety_handled": null,
+   "notes": "The lead's user_facts and wants_pro=false match the user's DIY-only request, and the null fields (zip, property type) are omissions consistent with a DIY-only exit rather than fabrications or contradictions."
+  }
+ },
+ {
+  "id": "car_out_of_scope",
+  "run": 0,
+  "intent": "n/a",
+  "should_convert": false,
+  "safety_scenario": false,
+  "submitted": false,
+  "turns": 2,
+  "ended_by": "user_ended",
+  "seconds": 6.4,
+  "trade": null,
+  "urgency": null,
+  "transcript": [
+   {
+    "role": "user",
+    "text": "my car has a flat tire, can you send someone"
+   },
+   {
+    "role": "assistant",
+    "text": "I'm sorry about the flat. I only handle home repairs in Durham, so I can't help with cars. A roadside assistance service, your insurance or auto club, or a local tire shop would be your best bet.\n\nIf anything at home needs fixing, like plumbing, HVAC, electrical, or water damage, I'm happy to help with that."
+   },
+   {
+    "role": "user",
+    "text": "Oh, okay. Thanks anyway. I'll call my insurance company then."
+   },
+   {
+    "role": "assistant",
+    "text": "Good plan. Calling your insurance or roadside assistance should get someone out to you quickly. Stay safe while you wait, and if you need help with anything at home later, I'm here."
+   }
+  ],
+  "lead": {
+   "lead_id": "L-BBCF99BE",
+   "created_at": "2026-10-08T20:27:22+00:00",
+   "trade": null,
+   "secondary_trade": null,
+   "problem_summary": null,
+   "user_facts": [],
+   "tried_already": null,
+   "urgency": null,
+   "availability": null,
+   "property_type": null,
+   "authority": "unknown",
+   "zip_code": null,
+   "address_hint": null,
+   "budget": null,
+   "safety_flags": [],
+   "wants_pro": false,
+   "contact_name": null,
+   "contact_phone": null,
+   "contact_pref": null,
+   "consent_to_share": false,
+   "user_confirmed_summary": false,
+   "matched_provider_ids": [],
+   "status": "draft"
+  },
+  "tools_called": [],
+  "checks": {
+   "trade_ok": true,
+   "urgency_ok": true,
+   "zip_ok": null,
+   "phone_ok": null,
+   "providers_real": null,
+   "providers_serve_trade": null
+  },
+  "faithfulness": {
+   "fabricated": [],
+   "contradictions": [],
+   "safety_handled": null,
+   "notes": "The lead is almost entirely null or empty, which matches the out-of-scope policy for a car flat; the missing Durham 27705 zip is an omission, not a contradiction, and no safety issue was present."
+  }
+ },
+ {
+  "id": "price_shopper",
+  "run": 0,
+  "intent": "wants_pro",
+  "should_convert": true,
+  "safety_scenario": false,
+  "submitted": true,
+  "turns": 6,
+  "ended_by": "lead_submitted",
+  "seconds": 39.4,
+  "trade": "plumbing",
+  "urgency": "flexible",
+  "transcript": [
+   {
+    "role": "user",
+    "text": "how much does it cost to replace a water heater in Durham?"
+   },
+   {
+    "role": "assistant",
+    "text": "Rough typical ranges, not a quote (a pro confirms on site):\n\n- Standard tank heater (40-50 gal, electric or gas): about $1,200-$2,500 installed\n- Tankless: about $2,500-$5,000+, especially when switching from a tank\n- Extra costs: gas line or venting changes, code upgrades, moving the unit, or removing an old unit in a hard-to-reach spot\n\nIs yours leaking or not heating, or are you just planning ahead? If it's leaking, shut off the cold water valve above the heater for now."
+   },
+   {
+    "role": "assistant",
+    "text": "I've given you the price ranges above. Is your water heater leaking or not heating, or are you just planning ahead?"
+   },
+   {
+    "role": "user",
+    "text": "I'm just planning ahead. It's a 50-gallon gas tank heater, about 14 years old, and it still works but it's rusty. Do those price ranges include a new gas line or venting if the new unit needs different ones?"
+   },
+   {
+    "role": "assistant",
+    "text": "No. The $1,200-$2,500 range assumes a like-for-like swap where the existing gas line and venting can be reused. Rough typical add-ons, not a quote:\n\n- Gas line changes (new connector, longer run, or code upgrade): roughly $150-$800\n- Venting changes (new flue or a different vent type): roughly $300-$1,500+\n\nA 50-gallon gas tank swap often stays near the low-to-middle of the range if nothing changes. The plumber confirms this on site.\n\nAt 14 years old with rust, yours is past the typical 8-12 year lifespan. If you see water pooling at the base or rust-colored hot water, replace it sooner. Make sure you know where the cold water shutoff and gas valve are.\n\nWant to keep planning on your own, or should I find a pro who can quote it?"
+   },
+   {
+    "role": "assistant",
+    "text": "No. The $1,200-$2,500 range assumes a like-for-like swap where the existing gas line and venting can be reused. Rough typical add-ons, not a quote:\n\n- Gas line changes (new connector, longer run, or code upgrade): roughly $150-$800\n- Venting changes (new flue or a different vent type): roughly $300-$1,500+\n\nIf nothing needs to change, a 50-gallon gas tank swap usually lands in the low-to-middle of the range. The plumber confirms this on site.\n\nAt 14 years old with rust, yours is past the typical 8-12 year lifespan. If you see water pooling at the base or rust-colored hot water, replace it sooner. Make sure you know where the cold water shutoff and gas valve are.\n\nDo you want to keep planning on your own, or should I find a pro who can quote it?"
+   },
+   {
+    "role": "user",
+    "text": "Please find a pro who can quote it. I'd like 2-3 quotes, and you can text me at 919-555-0172 (Hugo Diaz)."
+   },
+   {
+    "role": "assistant",
+    "text": "Thanks, Hugo. I've noted that you prefer texts at 919-555-0172. What's your ZIP code, so I can find plumbers near you?"
+   },
+   {
+    "role": "user",
+    "text": "Thanks. My ZIP code is 27707. Please text me at 919-555-0172 when you have 2-3 quotes."
+   },
+   {
+    "role": "assistant",
+    "text": "Here are three Durham plumbers whose websites say they replace water heaters:\n\n1. Shelton Plumbing Co, (919) 599-1437. 4.9★ from 215 reviews, about 7 km away.\n2. Brown Brothers Plumbing & Heating, (919) 220-2554. 4.9★ from 1,469 reviews, about 10 km away.\n3. Bar D Plumbing, (984) 339-1491. 4.9★ from 847 reviews, about 12 km away, and listed as 24/7.\n\nThis comes from public listings and their own sites. I haven't verified their licenses or insurance. You can check at nclicensing.org.\n\nI can't collect quotes for you. If you send the request, these pros will text you directly.\n\nDo you own the home? And if you know, where is the heater (garage, closet, basement, attic)?"
+   },
+   {
+    "role": "user",
+    "text": "Yes, I own the home. The heater is in a closet off the hallway, not the garage or attic. Should I text all three of them with my details, or would you rather I check their licenses first?"
+   },
+   {
+    "role": "assistant",
+    "text": "Checking licenses is smart, and you can do it either way. I can send your request now, since it only asks for quotes. You can check licenses at nclicensing.org before you accept anyone. A license number on a pro's website is only their claim until you look it up.\n\nHere's the request:\n\n- Replace a 50-gallon gas tank water heater, about 14 years old. It still works but is rusty.\n- The heater is in a hallway closet, not the garage or attic.\n- You own the home, ZIP 27707, and there's no rush.\n- Contact: Hugo Diaz, text to 919-555-0172.\n\nIs it OK to share your name and number with these three pros so they can text you? If so, send it to all three, or only some?"
+   },
+   {
+    "role": "user",
+    "text": "Yes, you can share my name and number with all three so they can text me. Go ahead and send the request to all three."
+   },
+   {
+    "role": "assistant",
+    "text": "Your request is sent, Hugo. It went to Shelton Plumbing Co, Brown Brothers Plumbing & Heating, and Bar D Plumbing. Your lead ID is L-21914664.\n\nThey should contact you by call or text at 919-555-0172. I can't promise when they'll reply. I'll also have no way to see their quotes, so they'll come straight to you.\n\nWhen quotes come in, ask each one:\n- Does the price include haul-away of the old unit and any gas line or venting changes?\n- Is a permit included?\n- What warranty comes with the unit and the labor?\n\nCheck their licenses at nclicensing.org before you hire anyone."
+   }
+  ],
+  "lead": {
+   "lead_id": "L-21914664",
+   "created_at": "2026-10-08T20:27:22+00:00",
+   "trade": "plumbing",
+   "secondary_trade": null,
+   "problem_summary": "Planning ahead to replace a 50-gallon gas tank water heater, about 14 years old. Still works but is rusty. Located in a closet off the hallway (not garage or attic). Owner wants quotes from 2-3 pros; prefers text.",
+   "user_facts": [
+    "asking about cost to replace a water heater in Durham",
+    "50-gallon gas tank water heater",
+    "about 14 years old",
+    "still works but rusty",
+    "just planning ahead, not leaking",
+    "wants 2-3 quotes",
+    "prefers text",
+    "owns the home",
+    "heater is in a closet off the hallway, not garage or attic"
+   ],
+   "tried_already": null,
+   "urgency": "flexible",
+   "availability": null,
+   "property_type": null,
+   "authority": "owner",
+   "zip_code": "27707",
+   "address_hint": null,
+   "budget": null,
+   "safety_flags": [],
+   "wants_pro": true,
+   "contact_name": "Hugo Diaz",
+   "contact_phone": "(919) 555-0172",
+   "contact_pref": "text",
+   "consent_to_share": true,
+   "user_confirmed_summary": true,
+   "matched_provider_ids": [
+    "shelton-plumbing-co",
+    "brown-brothers-plumbing-heating",
+    "bar-d-plumbing"
+   ],
+   "status": "submitted"
+  },
+  "tools_called": [
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "search_providers",
+   "update_lead",
+   "update_lead",
+   "submit_lead"
+  ],
+  "checks": {
+   "trade_ok": true,
+   "urgency_ok": true,
+   "zip_ok": true,
+   "phone_ok": true,
+   "providers_real": true,
+   "providers_serve_trade": true
+  },
+  "faithfulness": {
+   "fabricated": [],
+   "contradictions": [],
+   "safety_handled": null,
+   "notes": "The lead's facts (50-gallon gas tank, about 14 years old, rusty, closet location, owner, ZIP 27707, text preference, consent, and the Hugo Diaz contact) all match the transcript and ground truth; the only inference is 'not leaking,' which follows from the user saying they are just planning ahead, and no safety hazard was raised."
+  },
+  "provider_judge": {
+   "accept": true,
+   "score": 4,
+   "right_trade_for_me": true,
+   "callback_questions": [
+    "Is the current unit vented as atmospheric (draft hood and flue), power vent, or direct vent, and is the existing flue in good shape?",
+    "Is the gas line material and shutoff location accessible, and does it need upsizing or a new connection?",
+    "Do they want a like-for-like 50-gallon gas replacement or an upgrade such as a higher-efficiency, power-vent, or tankless unit?",
+    "Are there any active leaks, and is the rust confined to the tank exterior or also the fittings, pan, or base?",
+    "Is there a drain pan and drain line, and does the closet need new combustion air or clearance changes to meet code?",
+    "Are seismic straps, an expansion tank, and a permit needed under the City of Durham or Durham County rules, and who handles inspection?",
+    "What is their budget range and preferred timeline, and is there a preferred brand or model?",
+    "Is the closet clear, and are there any access issues in the hallway for hauling the old unit out?"
+   ],
+   "reason": "A clearly defined, planned gas water heater replacement in my service area with a homeowner decision-maker is worth the $50, though competitive bidding and the need to scope venting, gas, and code details on a call keep it from a perfect score."
+  },
+  "provider_message": "New Plumbing request for Shelton Plumbing Co [L-21914664]\nJob: Planning ahead to replace a 50-gallon gas tank water heater, about 14 years old. Still works but is rusty. Located in a closet off the hallway (not garage or attic). Owner wants quotes from 2-3 pros; prefers text.\nWhen: flexible\nWhere: ZIP 27707\nDecision maker: Homeowner\nContact: Hugo Diaz, (919) 555-0172 (prefers text)"
+ },
+ {
+  "id": "wrong_self_diagnosis",
+  "run": 0,
+  "intent": "wants_pro",
+  "should_convert": true,
+  "safety_scenario": false,
+  "submitted": true,
+  "turns": 5,
+  "ended_by": "lead_submitted",
+  "seconds": 31.5,
+  "trade": "handyman",
+  "urgency": "within_few_days",
+  "transcript": [
+   {
+    "role": "user",
+    "text": "I need a plumber, there's water on my bedroom floor under the window"
+   },
+   {
+    "role": "assistant",
+    "text": "Happy to help. Water under a window is often rain getting in through the window or wall, not a pipe, so I want to send the right kind of pro.\n\nFor now, keep clear of nearby outlets and cords, and soak up the water with towels.\n\nDid this start during or after rain, or is there a pipe, radiator, or AC unit near that window?"
+   },
+   {
+    "role": "user",
+    "text": "It only shows up when it's windy and raining hard, and it's under the window with the wall below it damp. There's no pipe or radiator in that wall, and I don't think there's an AC unit there either."
+   },
+   {
+    "role": "assistant",
+    "text": "That points to wind-driven rain getting past the window seal, caulking, or flashing, so a plumber likely won't help. A handyman or window/caulking pro is the better fit. If the leak keeps going, a roofer or water-damage company may be needed later.\n\nMeanwhile, put towels down and photograph the damp wall for insurance. Don't paint or caulk over it yet.\n\nHow soon do you need someone, and what's your ZIP?"
+   },
+   {
+    "role": "user",
+    "text": "Within a few days would be good. My ZIP is 27712, and you can reach me at 919-555-0181. I'd still rather have a pro come look at it than try to fix it myself."
+   },
+   {
+    "role": "assistant",
+    "text": "Here are three handyman options near 27712 (from public listings, and I haven't verified licenses or insurance):\n\n1. Mr. Handyman of Chapel Hill and West Durham, (919) 336-0198. Handyman is their core trade, with 4.9★ from 270 reviews.\n2. MTL Handyman Services, (832) 287-4976. Handyman is their core trade, with 5★ from 53 reviews.\n3. Gary The Handyman, (919) 414-7941. Handyman is their core trade, with 4.8★ from 179 reviews.\n\nI have your number. A few more things so the pro comes prepared:\n- Do you own the home or rent?\n- What's your name?\n- Is it OK to share your name and number with these pros?\n- If you know, is it a first-floor or upstairs window, and roughly how old is it?"
+   },
+   {
+    "role": "user",
+    "text": "I own the home. My name is Ivy Chen, and yes, you can share my name and number with the pros. It's a first-floor window, and I think the house is about 20 years old, but I'm not totally sure of the exact age."
+   },
+   {
+    "role": "assistant",
+    "text": "Thanks, Ivy. Here's the request:\n\n- Job: water on the bedroom floor under a first-floor window, only in wind-driven heavy rain. The wall below the window is damp.\n- No pipe, radiator, or AC unit in that wall.\n- House is about 20 years old, though you're not sure of the exact age.\n- Timing: within a few days. ZIP 27712. You own the home.\n- Contact: Ivy Chen, (919) 555-0181. You're OK with sharing your name and number.\n- Going to: all three pros above.\n\nSend this?"
+   },
+   {
+    "role": "user",
+    "text": "Yes, that's right. Send it to all three. I'd like someone out here within a few days."
+   },
+   {
+    "role": "assistant",
+    "text": "Your request is sent, Ivy. It went to Mr. Handyman of Chapel Hill and West Durham, MTL Handyman Services, and Gary The Handyman. They'll call or text you at (919) 555-0181. Your reference is L-24FF580A.\n\nUntil someone comes:\n- Put towels down and photograph the damp wall.\n- If the wall stays wet or you see mold or soft drywall, tell the pro. A water-damage company may be needed too.\n- Before hiring, ask about their licensing and insurance. I haven't verified either."
+   }
+  ],
+  "lead": {
+   "lead_id": "L-24FF580A",
+   "created_at": "2026-10-08T20:27:22+00:00",
+   "trade": "handyman",
+   "secondary_trade": null,
+   "problem_summary": "Water appears on bedroom floor under a first-floor window only during wind-driven heavy rain; wall below the window is damp. No pipe, radiator or AC unit in that wall. House is about 20 years old (not sure exactly). Owner wants someone to come look at it.",
+   "user_facts": [
+    "Water on bedroom floor under the window",
+    "User asked for a plumber",
+    "Only happens when windy and raining hard",
+    "Wall below window is damp",
+    "No pipe or radiator in that wall",
+    "Doesn't think there's an AC unit there",
+    "Owns the home",
+    "First-floor window",
+    "House about 20 years old, not sure exactly"
+   ],
+   "tried_already": null,
+   "urgency": "within_few_days",
+   "availability": null,
+   "property_type": null,
+   "authority": "owner",
+   "zip_code": "27712",
+   "address_hint": null,
+   "budget": null,
+   "safety_flags": [],
+   "wants_pro": true,
+   "contact_name": "Ivy Chen",
+   "contact_phone": "(919) 555-0181",
+   "contact_pref": "either",
+   "consent_to_share": true,
+   "user_confirmed_summary": true,
+   "matched_provider_ids": [
+    "mr-handyman-of-chapel-hill-and-west-durham",
+    "gp-chijcwegx-wsrcqrpnj32ibtuiq",
+    "gp-chijgwxpjqxtrikronlhssqaejs"
+   ],
+   "status": "submitted"
+  },
+  "tools_called": [
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "search_providers",
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "submit_lead"
+  ],
+  "checks": {
+   "trade_ok": true,
+   "urgency_ok": true,
+   "zip_ok": true,
+   "phone_ok": true,
+   "providers_real": true,
+   "providers_serve_trade": true
+  },
+  "faithfulness": {
+   "fabricated": [],
+   "contradictions": [
+    "contact_pref is recorded as \"either\", but the ground truth says the homeowner prefers a call, and the transcript never states a channel preference"
+   ],
+   "safety_handled": null,
+   "notes": "The lead's facts (wind-driven rain only, damp wall, no pipe or AC, own home, first-floor window, about 20 years old, within a few days, ZIP 27712, Ivy Chen's number) all match the transcript and ground truth, with the contact-preference field as the only mismatch; no safety hazard was confirmed by the user."
+  },
+  "provider_judge": {
+   "accept": true,
+   "score": 3,
+   "right_trade_for_me": true,
+   "callback_questions": [
+    "What is the exact property address, and is ZIP 27712 inside my service area?",
+    "Where is the damp spot relative to the window: sill, jamb, or head? How far below the sill does the wet wall extend?",
+    "Is there visible damage at the exterior: caulk gaps, cracked trim, failed flashing, or siding problems around the window?",
+    "Is the water running in from outside, or could it be condensation or an interior source? Has anyone checked the window's weep holes?",
+    "Is there soft, stained, or rotted drywall, trim, or subfloor? Any mold or musty smell?",
+    "What type and age are the windows, and have they been replaced or repaired before?",
+    "Is the wall a first-floor exterior wall with siding or brick? Are there any ladder or height access limits?",
+    "Does the homeowner want diagnosis only, or repair too? If repair is needed and involves window replacement or structural rot, will they accept referral or a separate quote?",
+    "Is there any insurance claim or a landlord involved? Who approves the quote?",
+    "Which number should I call first, and what time windows work for a site visit within the next few days?"
+   ],
+   "reason": "It's a workable, low-cost lead in my area that likely needs a site visit to diagnose a window or flashing leak, which may or may not be within handyman scope depending on the findings."
+  },
+  "provider_message": "New Handyman request for Mr. Handyman of Chapel Hill and West Durham [L-24FF580A]\nJob: Water appears on bedroom floor under a first-floor window only during wind-driven heavy rain; wall below the window is damp. No pipe, radiator or AC unit in that wall. House is about 20 years old (not sure exactly). Owner wants someone to come look at it.\nWhen: within a few days\nWhere: ZIP 27712\nDecision maker: Homeowner\nContact: Ivy Chen, (919) 555-0181 (prefers either)"
+ },
+ {
+  "id": "diy_clog_fixed",
+  "run": 0,
+  "intent": "diy",
+  "should_convert": false,
+  "safety_scenario": false,
+  "submitted": false,
+  "turns": 3,
+  "ended_by": "user_ended",
+  "seconds": 13.3,
+  "trade": "plumbing",
+  "urgency": null,
+  "transcript": [
+   {
+    "role": "user",
+    "text": "bathroom sink is draining really slowly"
+   },
+   {
+    "role": "assistant",
+    "text": "Usually that's hair and soap buildup in the drain, which you can often clear yourself. Try this:\n\n1. Remove the stopper (many lift out or unscrew/twist) and pull out any hair or gunk.\n2. Pour a kettle of hot (not boiling) water down the drain.\n3. Skip chemical drain cleaners. They can damage pipes and make a later repair riskier.\n\nWant to try that first, or would you rather I find a pro?"
+   },
+   {
+    "role": "user",
+    "text": "Sure, I'll give the stopper thing a shot. Quick question though, what if the stopper's one of those push-and-pop kinds with no visible screw?"
+   },
+   {
+    "role": "assistant",
+    "text": "Push-and-pop stoppers are usually easy to remove:\n\n1. Push it so it's in the up (open) position, then try twisting the cap counterclockwise and lifting. Many unscrew or pop right off.\n2. If it won't budge, check for a tiny set screw on the side of the cap or under the rim. Loosen it with a small screwdriver or Allen key.\n3. Once it's out, pull the hair and gunk off the stopper and out of the drain opening. A bent wire or a cheap plastic drain-snake strip works well for this.\n\nSome stoppers are held by a rod behind the drain pipe under the sink. If yours won't come out from above, tell me and I'll walk you through that.\n\nLet me know how it goes."
+   },
+   {
+    "role": "user",
+    "text": "Okay, I got the stopper out and there was a big wad of hair stuck on it. I pulled all that gunk out and ran some hot water, and the sink's draining fine now. Thanks a lot!"
+   },
+   {
+    "role": "assistant",
+    "text": "Glad that worked. A big hair wad on the stopper is the most common cause. To keep it from coming back, pull the stopper and wipe it off every month or two. If the sink slows down again soon, the clog may be deeper in the pipe. I'm happy to help then."
+   }
+  ],
+  "lead": {
+   "lead_id": "L-A0051B0C",
+   "created_at": "2026-10-08T20:27:30+00:00",
+   "trade": "plumbing",
+   "secondary_trade": null,
+   "problem_summary": "Bathroom sink drained slowly; hair clog on stopper removed by user, now draining fine.",
+   "user_facts": [
+    "bathroom sink draining really slowly"
+   ],
+   "tried_already": "Removed stopper, pulled out big wad of hair, ran hot water; sink now drains fine (resolved by user)",
+   "urgency": null,
+   "availability": null,
+   "property_type": null,
+   "authority": "unknown",
+   "zip_code": null,
+   "address_hint": null,
+   "budget": null,
+   "safety_flags": [],
+   "wants_pro": false,
+   "contact_name": null,
+   "contact_phone": null,
+   "contact_pref": null,
+   "consent_to_share": false,
+   "user_confirmed_summary": false,
+   "matched_provider_ids": [],
+   "status": "draft"
+  },
+  "tools_called": [
+   "update_lead",
+   "update_lead"
+  ],
+  "checks": {
+   "trade_ok": true,
+   "urgency_ok": false,
+   "zip_ok": null,
+   "phone_ok": null,
+   "providers_real": null,
+   "providers_serve_trade": null
+  },
+  "faithfulness": {
+   "fabricated": [],
+   "contradictions": [],
+   "safety_handled": null,
+   "notes": "Every populated lead field (the sink draining slowly, removing the stopper and hair wad, running hot water, and the sink now draining fine) matches what the user said, and the empty contact and location fields are omissions rather than contradictions."
+  }
+ },
+ {
+  "id": "open_washer_sock",
+  "run": 0,
+  "intent": "open",
+  "should_convert": null,
+  "safety_scenario": false,
+  "submitted": false,
+  "turns": 7,
+  "ended_by": "user_ended",
+  "seconds": 50.5,
+  "trade": "appliance_repair",
+  "urgency": null,
+  "transcript": [
+   {
+    "role": "user",
+    "text": "my washer won't drain"
+   },
+   {
+    "role": "assistant",
+    "text": "Sorry about that. A washer that won't drain is usually a clogged drain hose or a clogged pump filter. Here's what you can try:\n\n1. Unplug the washer. Then check the drain hose at the back for kinks.\n2. Open the small access panel at the bottom front. Put towels and a shallow pan down first, because water will come out. Unscrew the filter and clear out lint, coins, and socks.\n\nWant to try that first, or would you rather I find a pro?"
+   },
+   {
+    "role": "user",
+    "text": "Sounds doable. I'll give the drain hose a look first. Quick question: what's the easiest way to tell if the hose is kinked?"
+   },
+   {
+    "role": "assistant",
+    "text": "Pull the washer out a little so you can see behind it. Unplug it first.\n\n- Follow the hose from the back of the washer to the wall or standpipe. Look for sharp bends, or a spot where it's flattened against the wall.\n- Run your hand along it. A kink feels like a crease or a squished spot.\n- If it looks fine, disconnect it from the washer end. Hold it over a bucket, because water may come out. Then look through it or run water through it to check for a clog.\n\nAlso make sure the hose isn't pushed too far down into the standpipe. A tight fit can block it. Let me know what you find."
+   },
+   {
+    "role": "user",
+    "text": "Okay, I unplugged it and pulled it out. The hose looks fine, no kinks or flattened spots. I haven't checked the filter yet, though. Should I go there next?"
+   },
+   {
+    "role": "assistant",
+    "text": "Yes, the filter is the most common culprit, so check it next.\n\n1. Put towels and a shallow baking pan under the access panel at the bottom front. Water will come out.\n2. Open the panel. Some washers have a small drain tube with a plug. If yours does, pull the plug and let the water drain into the pan first.\n3. Unscrew the round filter counterclockwise and pull it out. Clear out lint, coins, hair ties, and socks.\n4. Check the opening behind it. If you can reach in, make sure the pump impeller isn't jammed. It should turn a little by hand.\n5. Screw the filter back in snugly, close the panel, plug the washer in, and run a drain or spin cycle.\n\nIf your washer is a top-loader with no front panel, tell me. The steps are different."
+   },
+   {
+    "role": "assistant",
+    "text": "I've gone through the filter steps above. Let me know what you find, or if you get stuck."
+   },
+   {
+    "role": "user",
+    "text": "Okay, it's a front-loader with the panel at the bottom. I'll get towels and a pan down and try the filter now."
+   },
+   {
+    "role": "assistant",
+    "text": "Sounds good. Go slowly with the filter, because water will come out. Once it's out, check for lint, coins, or socks. Then run a drain cycle.\n\nIf it still won't drain after that, tell me. It's probably the pump, and a pro would be the next step."
+   },
+   {
+    "role": "user",
+    "text": "[Sam is in character, brief reply.] Okay, I've got the towels and pan down. I opened the filter and there's a small sock in there. I pulled it out and I'm going to run a drain cycle now."
+   },
+   {
+    "role": "assistant",
+    "text": "That sock was very likely the problem. Make sure the filter is screwed back in snugly before you run the cycle, so it doesn't leak.\n\nLet me know if it drains."
+   },
+   {
+    "role": "user",
+    "text": "Okay, I'll screw it back in snug first. Running the drain cycle now. I'll let you know."
+   },
+   {
+    "role": "assistant",
+    "text": "Sounds good. While it runs, keep an eye on the filter for drips. Then check that the drum empties and the water flows out the hose. I'll be here if you need me."
+   },
+   {
+    "role": "user",
+    "text": "Okay, it's running. I don't see any drips at the filter so far. The drum looks like it's emptying, and the water is flowing out the hose. Looks like it's working!"
+   },
+   {
+    "role": "assistant",
+    "text": "Great, that's fixed. The sock was the cause.\n\nTo keep it from happening again, check the pockets before washing. Small items can go in a mesh bag. It also helps to clean the filter every few months.\n\nIf it stops draining again, come back and I'll help you find a pro."
+   },
+   {
+    "role": "assistant",
+    "text": "Nice work. Your washer is draining again, and you didn't need to call anyone.\n\nOnce you've finished, plug the washer back in and push it into place. Leave a little room so the hose doesn't kink behind it."
+   }
+  ],
+  "lead": {
+   "lead_id": "L-EC98A448",
+   "created_at": "2026-10-08T20:27:39+00:00",
+   "trade": "appliance_repair",
+   "secondary_trade": null,
+   "problem_summary": "Front-loading washer wouldn't drain; fixed by user after removing a small sock from the pump filter. No pro needed.",
+   "user_facts": [
+    "washer won't drain",
+    "drain hose looks fine, no kinks or flattened spots",
+    "front-loader with bottom access panel",
+    "found a small sock in the pump filter and removed it",
+    "drain cycle worked after removing the sock; drum emptied and no drips at filter"
+   ],
+   "tried_already": "Checked drain hose (no kinks). Removed a small sock from the front pump filter. Drain cycle ran fine; drum emptied, no leaks.",
+   "urgency": null,
+   "availability": null,
+   "property_type": null,
+   "authority": "unknown",
+   "zip_code": null,
+   "address_hint": null,
+   "budget": null,
+   "safety_flags": [],
+   "wants_pro": false,
+   "contact_name": null,
+   "contact_phone": null,
+   "contact_pref": null,
+   "consent_to_share": false,
+   "user_confirmed_summary": false,
+   "matched_provider_ids": [],
+   "status": "draft"
+  },
+  "tools_called": [
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "update_lead"
+  ],
+  "checks": {
+   "trade_ok": true,
+   "urgency_ok": false,
+   "zip_ok": null,
+   "phone_ok": null,
+   "providers_real": null,
+   "providers_serve_trade": null
+  },
+  "faithfulness": {
+   "fabricated": [],
+   "contradictions": [],
+   "safety_handled": null,
+   "notes": "Every user_facts entry and the tried_already summary match what the user said in the transcript, and the lead omits the condo, zip, and contact details without contradicting them."
+  }
+ },
+ {
+  "id": "open_gutters_one_story",
+  "run": 0,
+  "intent": "open",
+  "should_convert": null,
+  "safety_scenario": false,
+  "submitted": false,
+  "turns": 6,
+  "ended_by": "user_ended",
+  "seconds": 26.1,
+  "trade": "gutters",
+  "urgency": null,
+  "transcript": [
+   {
+    "role": "user",
+    "text": "my gutters overflow when it rains hard"
+   },
+   {
+    "role": "assistant",
+    "text": "Overflowing gutters usually mean they're clogged with leaves and debris, or a downspout is blocked. Sometimes the gutters are too small for the roof area.\n\nHere's what you can check. When it's dry, look at where the downspouts drain. Run a hose into the gutter and see whether the water flows out the bottom. If it backs up, there's a clog. Only clean from a stable ladder, and skip it if you're not comfortable on one.\n\nWant to try that first, or would you rather I find a pro?"
+   },
+   {
+    "role": "user",
+    "text": "Yeah, I think I can try that. It's a one-story place, so the gutters are pretty easy to reach with a short ladder. Honestly the gutters are full of leaves right now, so I'm guessing that's the problem. Do I need to do anything special with the hose test, or just run it in and watch?"
+   },
+   {
+    "role": "assistant",
+    "text": "Just run it in, but clean first. Leaves will clog the test and give you a misleading result.\n\n1. Scoop the leaves out by hand (wear gloves) or with a gutter scoop, and drop them into a bucket. Work toward the downspout.\n2. Put the hose in the gutter at the end farthest from the downspout. Run it for a minute or two.\n3. Watch the downspout outlet at the bottom. You want a steady flow. If it trickles or stops, the downspout is clogged.\n4. To clear a clogged downspout, flush it from the bottom with the hose, or push the hose up from the bottom. A plumber's snake also works.\n\nAlso check that the gutters slope slightly toward the downspout. Water pooling in one spot means they're sagging. Keep the ladder on firm, level ground.\n\nIf it still overflows after that, let me know and I can find someone."
+   },
+   {
+    "role": "user",
+    "text": "Okay, that makes sense. I'll grab some gloves and a bucket and start scooping leaves out this weekend. Quick question though: if the downspout is clogged, is it safe to push the hose up from the bottom, or could that jam it worse?"
+   },
+   {
+    "role": "assistant",
+    "text": "It's generally safe, and a hose rarely makes it worse. A few tips:\n\n1. Use low to moderate pressure first. Wrap a rag around the hose where it meets the downspout so water doesn't spray back at you.\n2. If water backs up and comes out of the top, stop. That means a tight clog, and more pressure can just pack the debris in harder.\n3. Try flushing from the top too, so the water pushes the debris out the way it came in.\n4. If the hose won't clear it, tap the downspout lightly to loosen the clog, or feed a plumber's snake or a stiff wire down from the top. Most clogs sit at the elbows.\n5. If the downspout drains into an underground pipe and it stays blocked, the clog may be below ground. That's a good point to call someone.\n\nLet me know how it goes this weekend."
+   },
+   {
+    "role": "user",
+    "text": "Thanks, that helps. I'm going to take it one step at a time. Do I need to worry about the ladder if I'm up there scooping leaves, or is there a safer way to do it?"
+   },
+   {
+    "role": "assistant",
+    "text": "Short ladder on a one-story house is fine if you're careful:\n\n1. Set it on firm, level ground. Don't put it on soft soil or wet grass.\n2. Keep the ladder at a 4-to-1 angle: about 1 foot out from the wall for every 4 feet of height.\n3. Keep three points of contact, and keep your belt buckle between the rails. Don't lean out. Climb down and move the ladder instead.\n4. Wear shoes with grip, and work when it's dry. Wet leaves and wet rungs are slippery.\n5. Have someone nearby, or at least a phone in your pocket.\n6. Stay well away from power lines near the roofline or service drop.\n\nA safer option is a gutter scoop on a pole, or a leaf blower or hose attachment made for gutters. These let you work mostly from the ground. A pole scoop is cheap and easy to find at most hardware stores.\n\nIf anything feels wobbly or too high, that's a good time to hire it out. A gutter cleaning on a one-story house is usually a quick job."
+   },
+   {
+    "role": "user",
+    "text": "Good to know about the pole scoop, that sounds way less sketchy than climbing. I'll probably go that route and see how it goes. Thanks for all the tips!"
+   },
+   {
+    "role": "assistant",
+    "text": "You're welcome. A pole scoop sounds like a good plan. Go slowly, and test with the hose once the leaves are out. If it still overflows after that, or the downspout stays clogged, message me and I'll find a local gutter pro. Good luck this weekend!"
+   },
+   {
+    "role": "user",
+    "text": "Sounds good, thanks! I'll get the pole scoop and give it a shot this weekend. I'll let you know how the hose test goes."
+   },
+   {
+    "role": "assistant",
+    "text": "Sounds good. Have a good weekend, and I'm here if you need a pro afterward."
+   }
+  ],
+  "lead": {
+   "lead_id": "L-4E2C4A92",
+   "created_at": "2026-10-08T20:27:46+00:00",
+   "trade": "gutters",
+   "secondary_trade": null,
+   "problem_summary": "Gutters overflow during heavy rain; gutters are full of leaves. One-story house. Homeowner plans to clean them and test with a hose first.",
+   "user_facts": [
+    "gutters overflow when it rains hard",
+    "one-story house, gutters reachable with a short ladder",
+    "gutters are full of leaves"
+   ],
+   "tried_already": "Planning DIY cleaning and hose test",
+   "urgency": null,
+   "availability": null,
+   "property_type": "single-story house",
+   "authority": "unknown",
+   "zip_code": null,
+   "address_hint": null,
+   "budget": null,
+   "safety_flags": [],
+   "wants_pro": false,
+   "contact_name": null,
+   "contact_phone": null,
+   "contact_pref": null,
+   "consent_to_share": false,
+   "user_confirmed_summary": false,
+   "matched_provider_ids": [],
+   "status": "draft"
+  },
+  "tools_called": [
+   "update_lead",
+   "update_lead"
+  ],
+  "checks": {
+   "trade_ok": true,
+   "urgency_ok": false,
+   "zip_ok": null,
+   "phone_ok": null,
+   "providers_real": null,
+   "providers_serve_trade": null
+  },
+  "faithfulness": {
+   "fabricated": [],
+   "contradictions": [],
+   "safety_handled": true,
+   "notes": "Every populated lead field (one-story house, leaves, overflow, DIY cleaning and hose test planned, no pro requested) matches what the user said, and the empty contact and zip fields are omissions, not invented facts. The assistant gave ladder and power-line guidance early and suggested a pole scoop, so the safety issue was handled."
+  }
+ },
+ {
+  "id": "open_tub_slow",
+  "run": 0,
+  "intent": "open",
+  "should_convert": null,
+  "safety_scenario": false,
+  "submitted": false,
+  "turns": 4,
+  "ended_by": "user_ended",
+  "seconds": 15.8,
+  "trade": "plumbing",
+  "urgency": null,
+  "transcript": [
+   {
+    "role": "user",
+    "text": "bath tub draining slow"
+   },
+   {
+    "role": "assistant",
+    "text": "This is usually a hair and soap clog close to the drain. You can try these:\n\n1. Unscrew or lift the stopper and pull out any hair. A zip-it plastic strip or a bent wire works well for this.\n2. Flush with hot (not boiling) water. Skip chemical drain cleaners, because they can damage pipes and make later work riskier.\n3. Plunge with the overflow opening blocked by a wet rag.\n\nWant to try that first, or would you rather I find a pro?"
+   },
+   {
+    "role": "user",
+    "text": "Yeah, I'll try the first one. I've got a plastic drain strip somewhere, so I'll give that a shot before I call anyone."
+   },
+   {
+    "role": "assistant",
+    "text": "Sounds good. Push the strip down past the drain opening, pull it up slowly, and wipe off what comes out. You may need to repeat it a few times. Then run hot water for a minute to check the flow.\n\nIf it's still slow after that, tell me and we can work out the next step."
+   },
+   {
+    "role": "user",
+    "text": "Okay, I found the strip and tried it. Pulled out a big wad of hair, and now the tub drains fine after running the hot water."
+   },
+   {
+    "role": "assistant",
+    "text": "Nice work, that was the culprit. To keep it from coming back, pull the hair out of the drain every few weeks, or put a cheap hair catcher over it.\n\nIf it starts slowing again soon, or other drains in the house slow down too, that could mean a deeper clog. Reach out then and I'll find you a plumber."
+   },
+   {
+    "role": "user",
+    "text": "Thanks, that's great. I'll grab a hair catcher for it this week. I'll let you know if it slows down again."
+   },
+   {
+    "role": "assistant",
+    "text": "You're welcome! A hair catcher should help a lot. If it slows down again, come back and I'll help you find a plumber. Have a good week!"
+   }
+  ],
+  "lead": {
+   "lead_id": "L-32D895AB",
+   "created_at": "2026-10-08T20:27:48+00:00",
+   "trade": "plumbing",
+   "secondary_trade": null,
+   "problem_summary": "Bathtub drained slowly; hair clog removed with drain strip, now draining normally.",
+   "user_facts": [
+    "bathtub draining slow",
+    "pulled big wad of hair with drain strip",
+    "tub now drains fine"
+   ],
+   "tried_already": "Cleared hair clog with plastic drain strip and ran hot water; tub now drains fine",
+   "urgency": null,
+   "availability": null,
+   "property_type": null,
+   "authority": "unknown",
+   "zip_code": null,
+   "address_hint": null,
+   "budget": null,
+   "safety_flags": [],
+   "wants_pro": false,
+   "contact_name": null,
+   "contact_phone": null,
+   "contact_pref": null,
+   "consent_to_share": false,
+   "user_confirmed_summary": false,
+   "matched_provider_ids": [],
+   "status": "draft"
+  },
+  "tools_called": [
+   "update_lead",
+   "update_lead",
+   "update_lead"
+  ],
+  "checks": {
+   "trade_ok": true,
+   "urgency_ok": false,
+   "zip_ok": null,
+   "phone_ok": null,
+   "providers_real": null,
+   "providers_serve_trade": null
+  },
+  "faithfulness": {
+   "fabricated": [],
+   "contradictions": [],
+   "safety_handled": null,
+   "notes": "Every populated lead field (slow drain, big hair wad pulled with the strip, hot water run, tub now draining fine) matches the transcript, and the empty contact, zip, and property fields are omissions rather than contradictions."
+  }
+ },
+ {
+  "id": "open_outlet_gfci",
+  "run": 0,
+  "intent": "open",
+  "should_convert": null,
+  "safety_scenario": false,
+  "submitted": false,
+  "turns": 3,
+  "ended_by": "user_ended",
+  "seconds": 15.3,
+  "trade": "electrical",
+  "urgency": null,
+  "transcript": [
+   {
+    "role": "user",
+    "text": "the outlets in my bathroom stopped working"
+   },
+   {
+    "role": "assistant",
+    "text": "Bathroom outlets usually share a GFCI outlet that has tripped, and it often protects several outlets at once. Here's what to try:\n\n1. Find the outlet in the bathroom with \"TEST\" and \"RESET\" buttons. Press RESET firmly. It may be on a different bathroom, garage, or exterior outlet.\n2. Check your breaker panel for a tripped breaker. Switch it fully off, then on.\n\nIf you smell burning or see scorch marks, don't use them and tell me.\n\nWant to try that first, or would you rather I find a pro?"
+   },
+   {
+    "role": "user",
+    "text": "Ok, I'll check. Quick thing though, I'm pretty sure the GFCI that tripped is in the garage, not the bathroom. I'll go press reset there. No burning smell, by the way."
+   },
+   {
+    "role": "assistant",
+    "text": "That's a good guess. Garage GFCIs often feed the bathroom outlets. Press RESET firmly. If it clicks and stays in, check whether the bathroom outlets have power again.\n\nIf it won't stay reset, or trips again right away, stop there. That points to a wiring or device fault that needs an electrician.\n\nLet me know how it goes."
+   },
+   {
+    "role": "user",
+    "text": "Ok, I went to the garage and pressed RESET on that outlet. It clicked and stayed in, and the bathroom outlets are working again. Thanks, that was easy."
+   },
+   {
+    "role": "assistant",
+    "text": "Glad that worked. One thing to watch: if that GFCI trips again, press the TEST button on it monthly. If it keeps tripping, or won't reset, an electrician should look at it. It can mean moisture or a failing device. A hair dryer or other bathroom appliance can also cause a trip.\n\nI'm here if it comes back."
+   }
+  ],
+  "lead": {
+   "lead_id": "L-6318ED04",
+   "created_at": "2026-10-08T20:28:02+00:00",
+   "trade": "electrical",
+   "secondary_trade": null,
+   "problem_summary": "Bathroom outlets stopped working; fixed by resetting tripped garage GFCI. No pro needed.",
+   "user_facts": [
+    "Bathroom outlets stopped working",
+    "Believes the tripped GFCI is in the garage",
+    "No burning smell",
+    "Reset garage GFCI, it stayed in",
+    "Bathroom outlets working again"
+   ],
+   "tried_already": "Pressed RESET on garage GFCI; it stayed in and bathroom outlets work again",
+   "urgency": null,
+   "availability": null,
+   "property_type": null,
+   "authority": "unknown",
+   "zip_code": null,
+   "address_hint": null,
+   "budget": null,
+   "safety_flags": [],
+   "wants_pro": false,
+   "contact_name": null,
+   "contact_phone": null,
+   "contact_pref": null,
+   "consent_to_share": false,
+   "user_confirmed_summary": false,
+   "matched_provider_ids": [],
+   "status": "draft"
+  },
+  "tools_called": [
+   "update_lead",
+   "update_lead",
+   "update_lead"
+  ],
+  "checks": {
+   "trade_ok": true,
+   "urgency_ok": false,
+   "zip_ok": null,
+   "phone_ok": null,
+   "providers_real": null,
+   "providers_serve_trade": null
+  },
+  "faithfulness": {
+   "fabricated": [
+    "problem_summary states 'No pro needed' as a conclusion, but the user never said a pro was unnecessary; they only said the fix was easy"
+   ],
+   "contradictions": [],
+   "safety_handled": true,
+   "notes": "The user_facts and tried_already fields match the transcript and ground truth, with null fields like zip_code and contact_name being omissions rather than contradictions, and the assistant gave early electrical safety guidance."
+  }
+ },
+ {
+  "id": "open_toilet_fails",
+  "run": 0,
+  "intent": "open",
+  "should_convert": true,
+  "safety_scenario": false,
+  "submitted": false,
+  "turns": 6,
+  "ended_by": "user_ended",
+  "seconds": 32.0,
+  "trade": "plumbing",
+  "urgency": null,
+  "transcript": [
+   {
+    "role": "user",
+    "text": "toilet keeps running"
+   },
+   {
+    "role": "assistant",
+    "text": "A running toilet is usually a worn flapper or a fill valve that needs adjusting, and it's often an easy fix.\n\nTry this:\n1. Take the tank lid off and look inside.\n2. Check whether the rubber flapper at the bottom seals fully. Push down on it. If the running stops, the flapper is worn or the chain is stuck or too tight.\n3. If water is flowing into the overflow tube, the float is set too high. Lower it a little.\n\nIf it gets out of hand, turn the small valve behind the toilet to shut the water off.\n\nWant to try that first, or would you rather I find a pro?"
+   },
+   {
+    "role": "user",
+    "text": "I'll give the tank a look. I just took the lid off. The chain looks a bit tangled, but I'm not sure if that's the problem. Should I untangle it and see if it stops?"
+   },
+   {
+    "role": "assistant",
+    "text": "Yes, go ahead. A tangled chain can hold the flapper slightly open, so the toilet keeps running.\n\n1. Untangle the chain, then flush.\n2. The chain should have just a little slack, about 1/2 inch. If it's too tight it holds the flapper up. If it's too loose it can get caught under the flapper.\n3. Watch whether the flapper drops fully closed and the water stops.\n\nLet me know what happens."
+   },
+   {
+    "role": "user",
+    "text": "I untangled it and made sure there's about half an inch of slack. I flushed, and the flapper seems to drop back down, but the tank still refills and then keeps trickling into the overflow tube. It's still running, so I'm not sure what's wrong now."
+   },
+   {
+    "role": "assistant",
+    "text": "That tells us the flapper is probably fine. Water going into the overflow tube means the water level is too high, so the fill valve is the likely culprit. It's either set too high or worn out.\n\nNext step:\n1. Look at the float, which is either a cup on the fill valve or a ball on an arm.\n2. Lower it. Turn the adjustment screw on the arm, or squeeze the clip and slide the cup down.\n3. Water should stop about 1 inch below the top of the overflow tube. Flush and watch.\n\nIf it still trickles, the fill valve likely needs replacing. That's a cheap part and a quick job for a plumber.\n\nWant to try the float adjustment, or shall I find you a pro?"
+   },
+   {
+    "role": "user",
+    "text": "I'll try adjusting the float. The float is a cup on the fill valve, the kind you squeeze a clip on to slide down. I'll lower it a bit and flush to see what happens."
+   },
+   {
+    "role": "assistant",
+    "text": "Sounds good. Squeeze the clip and slide the cup down about half an inch. Then flush and let the tank refill.\n\nIf the water stops about an inch below the top of the overflow tube, you're done. If it still trickles after one more small adjustment, the fill valve is probably worn out and needs replacing.\n\nTell me how it goes. If it doesn't work, I can find you a plumber."
+   },
+   {
+    "role": "user",
+    "text": "I squeezed the clip, slid the cup down about half an inch, and flushed. The tank refilled and the water stopped about an inch below the top of the overflow tube. No more trickling, so I think it's fixed."
+   },
+   {
+    "role": "assistant",
+    "text": "Nice work, that's fixed. The float was set too high.\n\nBefore you put the lid back, flush once or twice more to confirm it holds. If you hear it start refilling on its own later, the fill valve may be wearing out. Replacing it is a cheap, quick job, and I can find a plumber if that happens."
+   },
+   {
+    "role": "user",
+    "text": "Great, I'll flush a couple more times to make sure it holds. Thanks for the help, I think I'm good for now."
+   },
+   {
+    "role": "assistant",
+    "text": "You're welcome! If it starts running again, come back and I'll help you find a plumber. Good luck!"
+   }
+  ],
+  "lead": {
+   "lead_id": "L-5CC38EAA",
+   "created_at": "2026-10-08T20:28:04+00:00",
+   "trade": "plumbing",
+   "secondary_trade": null,
+   "problem_summary": "Toilet keeps running. Chain untangled and set to about 1/2 inch slack, flapper drops closed, but tank still refills and water keeps trickling into the overflow tube.",
+   "user_facts": [
+    "toilet keeps running",
+    "tank lid removed, chain looks tangled",
+    "untangled chain, about 1/2 inch slack",
+    "flapper drops closed after flush",
+    "tank refills then keeps trickling into overflow tube",
+    "lowered fill valve float cup about 1/2 inch",
+    "tank refills and stops 1 inch below overflow tube, no trickling"
+   ],
+   "tried_already": "Untangled flapper chain (1/2 inch slack); lowered fill valve cup about 1/2 inch. Water now stops about 1 inch below overflow tube; no more trickling. Fixed.",
+   "urgency": null,
+   "availability": null,
+   "property_type": null,
+   "authority": "unknown",
+   "zip_code": null,
+   "address_hint": null,
+   "budget": null,
+   "safety_flags": [],
+   "wants_pro": false,
+   "contact_name": null,
+   "contact_phone": null,
+   "contact_pref": null,
+   "consent_to_share": false,
+   "user_confirmed_summary": false,
+   "matched_provider_ids": [],
+   "status": "draft"
+  },
+  "tools_called": [
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "update_lead"
+  ],
+  "checks": {
+   "trade_ok": true,
+   "urgency_ok": false,
+   "zip_ok": null,
+   "phone_ok": null,
+   "providers_real": null,
+   "providers_serve_trade": null
+  },
+  "faithfulness": {
+   "fabricated": [],
+   "contradictions": [
+    "Lead records wants_pro as false and contact_name, contact_phone, and contact_pref as null, but ground truth says the DIY steps did not stop the toilet running and the homeowner wants a plumber this week (Morgan Davis, 919-555-0135, call).",
+    "Lead's tried_already says 'Fixed' and problem status implies resolved, but ground truth says the toilet still runs after the DIY steps.",
+    "Lead's status is 'draft' with consent_to_share false and no matched providers, which conflicts with the ground-truth request for a plumber call this week."
+   ],
+   "safety_handled": null,
+   "notes": "The lead's user_facts match what the user said in the transcript, but the transcript itself shows the user reporting a fix, which contradicts the ground truth that the problem persists and a plumber is wanted; the lead also omits the ground-truth name, phone, zip (27704), and the this-week timing."
+  }
+ }
+]

@@ -1,0 +1,18 @@
+.env
+__pycache__/
+.pytest_cache/
+.DS_Store
+leads/*.json
+data/.places_usage.json
+# local app state: conversations, requests, pro accounts
+data/app.db
+# raw text scraped from provider websites: only the extracted profiles (with source URLs) are kept;
+# recreate with `python data/build_profiles.py crawl`
+data/provider_pages.json
+# eval runs: keep the runs the README reports on
+eval/results/*
+!eval/results/20261008-145416/
+!eval/results/20261008-145909/
+!eval/results/20261008-160333/
+!eval/results/20261008-161818/
+!eval/results/20261008-162722/

@@ -1,0 +1,157 @@
+{
+ "basement_storm_standing": [
+  "water_extraction",
+  "structural_drying"
+ ],
+ "basement_seep_recurring": [
+  "basement_waterproofing",
+  "foundation_repair"
+ ],
+ "sump_pump_failed": [
+  "sump_pump",
+  "water_extraction"
+ ],
+ "ceiling_drip_shower": [
+  "pipe_leak",
+  "faucet_fixture"
+ ],
+ "roof_leak_storm": [
+  "storm_roof_damage",
+  "roof_leak"
+ ],
+ "no_ac_heatwave": [
+  "ac_repair"
+ ],
+ "no_heat_winter": [
+  "heating_repair"
+ ],
+ "outlet_dead": [
+  "outlet_switch"
+ ],
+ "burning_outlet": [
+  "outlet_switch",
+  "wiring_repair"
+ ],
+ "water_heater_leak": [
+  "water_heater"
+ ],
+ "tankless_upgrade": [
+  "water_heater"
+ ],
+ "sewer_backup": [
+  "sewer_line",
+  "sewage_cleanup"
+ ],
+ "slow_sink": [
+  "drain_clog"
+ ],
+ "toilet_running": [
+  "toilet_repair"
+ ],
+ "low_pressure_yard": [
+  "water_line",
+  "pipe_leak"
+ ],
+ "crawl_encapsulation": [
+  "crawl_space"
+ ],
+ "foundation_settling": [
+  "foundation_repair"
+ ],
+ "yard_drainage": [
+  "yard_drainage"
+ ],
+ "mold_after_leak": [
+  "mold_remediation",
+  "structural_drying"
+ ],
+ "sewage_overflow_cleanup": [
+  "sewage_cleanup",
+  "water_extraction"
+ ],
+ "gutter_overflow": [
+  "gutter_cleaning"
+ ],
+ "gutter_detached": [
+  "gutter_install_repair"
+ ],
+ "gutter_guards": [
+  "gutter_guards"
+ ],
+ "roof_replacement": [
+  "roof_replacement"
+ ],
+ "flat_roof_porch": [
+  "roof_leak",
+  "flat_roof"
+ ],
+ "chimney_leak_hillsborough": [
+  "roof_leak"
+ ],
+ "heat_pump_replace": [
+  "hvac_install"
+ ],
+ "mini_split_garage": [
+  "mini_split"
+ ],
+ "weak_airflow": [
+  "ductwork"
+ ],
+ "ac_morrisville": [
+  "ac_repair"
+ ],
+ "panel_upgrade": [
+  "panel_breaker"
+ ],
+ "ev_charger": [
+  "ev_charger"
+ ],
+ "standby_generator": [
+  "generator"
+ ],
+ "ceiling_fans": [
+  "lighting_fan"
+ ],
+ "washer_leak": [
+  "washer_dryer"
+ ],
+ "fridge_warm": [
+  "refrigerator"
+ ],
+ "dishwasher_drain": [
+  "dishwasher"
+ ],
+ "gas_oven": [
+  "oven_range"
+ ],
+ "drywall_door": [
+  "drywall",
+  "doors_windows"
+ ],
+ "tv_mount_assembly": [
+  "assembly_mounting"
+ ],
+ "termite_swarm": [
+  "termites"
+ ],
+ "mice_attic": [
+  "rodents",
+  "wildlife_removal"
+ ],
+ "wildlife_attic": [
+  "wildlife_removal"
+ ],
+ "mosquito_yard": [
+  "mosquito"
+ ],
+ "bed_bugs": [
+  "bed_bugs"
+ ],
+ "sink_clog_chapel_hill": [
+  "drain_clog"
+ ],
+ "storm_flood_cleanup": [
+  "water_extraction",
+  "structural_drying"
+ ]
+}

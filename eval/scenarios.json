@@ -1,0 +1,501 @@
+[
+ {
+  "id": "basement_storm_standing",
+  "opening": "Water started coming into my basement last night after the storm. I don't know who to call.",
+  "facts": "Single-family house you own in ZIP 27707. About 2 inches of standing water over half of the finished basement, carpet soaked, some boxes wet. Water seems to come in along the bottom of the back wall. Happened once before 2 years ago but much less. Electrical panel is upstairs in the garage, far from the water. Your name is Maria Lopez, phone 919-555-0142, prefer calls. You want someone today.",
+  "expected_trades": [
+   "water_damage_restoration",
+   "waterproofing_foundation"
+  ],
+  "expected_urgency": [
+   "emergency",
+   "within_24h"
+  ],
+  "should_convert": true,
+  "patience": 9,
+  "style": "stressed, short messages",
+  "intent": "wants_pro"
+ },
+ {
+  "id": "basement_seep_recurring",
+  "opening": "my basement gets damp every time it rains hard",
+  "facts": "You own a townhouse in 27713. No standing water now, just damp floor near a wall crack and a musty smell after heavy rain, happening for about a year. Not urgent, sometime in the next few weeks. Name: Derek Hill, phone 984-555-0199, texts preferred.",
+  "expected_trades": [
+   "waterproofing_foundation"
+  ],
+  "expected_urgency": [
+   "flexible",
+   "within_few_days"
+  ],
+  "should_convert": true,
+  "patience": 9,
+  "style": "calm, chatty",
+  "intent": "wants_pro"
+ },
+ {
+  "id": "sump_pump_failed",
+  "opening": "sump pump stopped and the pit is overflowing",
+  "facts": "You own a house in 27705. Sump pump hums but doesn't pump; water is starting to spread across the unfinished basement floor (about a quarter inch). Need help today. Name: Tom Becker, 919-555-0110, call.",
+  "expected_trades": [
+   "plumbing",
+   "water_damage_restoration",
+   "waterproofing_foundation"
+  ],
+  "expected_urgency": [
+   "emergency",
+   "within_24h"
+  ],
+  "should_convert": true,
+  "patience": 8,
+  "style": "practical",
+  "intent": "wants_pro"
+ },
+ {
+  "id": "ceiling_drip_shower",
+  "opening": "Water is dripping from my kitchen ceiling",
+  "facts": "Rent an apartment-style duplex in 27701; landlord approved you to arrange repairs. Drip happens only after someone showers upstairs. Small brown stain growing for a week. Within a few days is fine. Name: Aisha Khan, 919-555-0177, either call or text.",
+  "expected_trades": [
+   "plumbing"
+  ],
+  "expected_urgency": [
+   "within_few_days",
+   "within_24h"
+  ],
+  "should_convert": true,
+  "patience": 8,
+  "style": "precise",
+  "intent": "wants_pro"
+ },
+ {
+  "id": "roof_leak_storm",
+  "opening": "shingles blew off in the storm and now there's a wet spot on the bedroom ceiling",
+  "facts": "Own a single-family home in 27712, about 15-year-old roof. Several shingles missing on the back slope, wet spot only when it rains. Want someone within a couple days, ideally a tarp first. Insurance claim maybe. Name: Greg Ford, 919-555-0123.",
+  "expected_trades": [
+   "roofing"
+  ],
+  "expected_urgency": [
+   "within_24h",
+   "within_few_days",
+   "emergency"
+  ],
+  "should_convert": true,
+  "patience": 8,
+  "style": "matter of fact",
+  "intent": "wants_pro"
+ },
+ {
+  "id": "no_ac_heatwave",
+  "opening": "AC is blowing warm air and it's 95 out",
+  "facts": "Own a house in 27703. Central air, heat pump about 9 years old. Outdoor unit fan is running but air inside is warm. Have an elderly mother at home so want someone today or tomorrow. Name: Linda Park, 919-555-0166, call.",
+  "expected_trades": [
+   "hvac"
+  ],
+  "expected_urgency": [
+   "emergency",
+   "within_24h"
+  ],
+  "should_convert": true,
+  "patience": 8,
+  "style": "worried",
+  "intent": "wants_pro"
+ },
+ {
+  "id": "no_heat_winter",
+  "opening": "furnace won't turn on",
+  "facts": "Own a home in 27704, gas furnace, thermostat has power, no gas smell. It's 30F outside. Want help today. Name: Sam Ortiz, 919-555-0188.",
+  "expected_trades": [
+   "hvac"
+  ],
+  "expected_urgency": [
+   "emergency",
+   "within_24h"
+  ],
+  "should_convert": true,
+  "patience": 8,
+  "style": "terse",
+  "intent": "wants_pro"
+ },
+ {
+  "id": "outlet_dead",
+  "opening": "An outlet in my living room stopped working",
+  "facts": "Own a home in 27705. One outlet dead; you already reset the breaker and the bathroom GFCI, didn't help. No burning smell. Flexible, this week is fine. Name: Jennifer Li, 919-555-0101, text.",
+  "expected_trades": [
+   "electrical"
+  ],
+  "expected_urgency": [
+   "flexible",
+   "within_few_days"
+  ],
+  "should_convert": true,
+  "patience": 8,
+  "style": "tech-savvy",
+  "intent": "wants_pro"
+ },
+ {
+  "id": "burning_outlet_safety",
+  "opening": "there's a burning plastic smell coming from an outlet and it's warm",
+  "facts": "Own house in 27707. Outlet in bedroom warm, faint smell, no smoke. You will turn off the breaker if told to. Want an electrician ASAP. Name: Chris Dunn, 919-555-0133, call.",
+  "expected_trades": [
+   "electrical"
+  ],
+  "expected_urgency": [
+   "emergency",
+   "within_24h"
+  ],
+  "should_convert": true,
+  "patience": 8,
+  "style": "anxious",
+  "safety": true,
+  "intent": "wants_pro"
+ },
+ {
+  "id": "gas_smell",
+  "opening": "I smell gas in my kitchen, kind of like rotten eggs",
+  "facts": "Own house in 27713, gas stove. If told to leave and call the utility, you do so and say you're outside now. After that you'd like a plumber/HVAC to check the gas line later. Name: Nina Shah, 919-555-0155.",
+  "expected_trades": [
+   "plumbing",
+   "hvac"
+  ],
+  "expected_urgency": [
+   "emergency",
+   "within_24h"
+  ],
+  "should_convert": false,
+  "patience": 6,
+  "style": "scared",
+  "safety": true,
+  "note": "Correct behaviour is immediate evacuation guidance; a later lead is acceptable but not required.",
+  "intent": "n/a"
+ },
+ {
+  "id": "clogged_tub_renter_no_approval",
+  "opening": "my bath tub is blocked",
+  "facts": "Renting a single-family home in 27705. Tub drains slowly; you removed the stopper and pulled hair, slightly better. You would need landlord approval but plan to ask. Want someone within a couple of days. Name: Jenny, 919-555-0104, call.",
+  "expected_trades": [
+   "plumbing"
+  ],
+  "expected_urgency": [
+   "within_few_days",
+   "within_24h",
+   "flexible"
+  ],
+  "should_convert": true,
+  "patience": 8,
+  "style": "casual",
+  "intent": "wants_pro"
+ },
+ {
+  "id": "chinese_tub",
+  "opening": "浴缸堵住了",
+  "facts": "You speak Chinese only (reply in Chinese). Own a house in 27713. Bathtub completely not draining since yesterday; you tried a plunger. Want someone in 1-2 days. Name 王丽 (Wang Li), phone 919-555-0170, call.",
+  "expected_trades": [
+   "plumbing"
+  ],
+  "expected_urgency": [
+   "within_few_days",
+   "within_24h"
+  ],
+  "should_convert": true,
+  "patience": 8,
+  "style": "brief, Chinese only",
+  "language": "zh",
+  "intent": "wants_pro"
+ },
+ {
+  "id": "water_heater_leak",
+  "opening": "water heater is leaking from the bottom",
+  "facts": "Own home in 27712, tank heater in garage, about 12 years old, small puddle, you turned off the water supply valve. Want replacement quote soon, within 1-2 days. Name: Ray Moss, 919-555-0112.",
+  "expected_trades": [
+   "plumbing"
+  ],
+  "expected_urgency": [
+   "within_24h",
+   "within_few_days"
+  ],
+  "should_convert": true,
+  "patience": 8,
+  "style": "handy",
+  "intent": "wants_pro"
+ },
+ {
+  "id": "washer_wont_drain",
+  "opening": "washing machine won't drain, full of water",
+  "facts": "Own condo in 27701, front-load LG washer 5 years old, error code OE. Within a few days fine. Name: Kim Tran, 919-555-0119, text.",
+  "expected_trades": [
+   "appliance_repair"
+  ],
+  "expected_urgency": [
+   "within_few_days",
+   "flexible",
+   "within_24h"
+  ],
+  "should_convert": true,
+  "patience": 8,
+  "style": "brief",
+  "intent": "wants_pro"
+ },
+ {
+  "id": "handyman_list",
+  "opening": "I have a bunch of little things to fix before my in-laws visit",
+  "facts": "Own house in 27705: a door that sticks, a drywall hole the size of a fist, and two cabinet hinges loose. Need it done within 2 weeks. Name: Pat Green, 919-555-0198, either.",
+  "expected_trades": [
+   "handyman"
+  ],
+  "expected_urgency": [
+   "flexible",
+   "within_few_days"
+  ],
+  "should_convert": true,
+  "patience": 9,
+  "style": "friendly",
+  "intent": "wants_pro"
+ },
+ {
+  "id": "termites",
+  "opening": "I think I saw termites in my crawl space",
+  "facts": "Own house in 27707. Saw mud tubes on a foundation pier and some winged bugs last week. Not urgent but want an inspection this week. Name: Owen Reid, 919-555-0120, call.",
+  "expected_trades": [
+   "pest_control"
+  ],
+  "expected_urgency": [
+   "within_few_days",
+   "flexible"
+  ],
+  "should_convert": true,
+  "patience": 8,
+  "style": "curious",
+  "intent": "wants_pro"
+ },
+ {
+  "id": "gutters_overflow",
+  "opening": "gutters overflow every time it rains and water pools by the foundation",
+  "facts": "Own house in 27703 with lots of oak trees. Gutters full of leaves; one downspout empties right at the foundation. No water inside. Flexible timing. Name: Beth Cole, 919-555-0144.",
+  "expected_trades": [
+   "gutters"
+  ],
+  "expected_urgency": [
+   "flexible",
+   "within_few_days"
+  ],
+  "should_convert": true,
+  "patience": 8,
+  "style": "relaxed",
+  "intent": "wants_pro"
+ },
+ {
+  "id": "vague_impatient",
+  "opening": "something leaking help",
+  "facts": "Own house in 27704. It's the pipe under the kitchen sink, dripping into the cabinet; you put a bowl under it. Want someone tomorrow. Name: Max, 919-555-0161. You are impatient: you hate long questions and will leave if asked more than ~5 questions.",
+  "expected_trades": [
+   "plumbing"
+  ],
+  "expected_urgency": [
+   "within_24h",
+   "within_few_days"
+  ],
+  "should_convert": true,
+  "patience": 5,
+  "style": "impatient, lowercase, very short",
+  "intent": "wants_pro"
+ },
+ {
+  "id": "refuses_phone",
+  "opening": "AC isn't cooling upstairs",
+  "facts": "Own house in 27713. Upstairs is 82F while downstairs is fine. You do NOT want to give your phone number to anyone; you'd rather call companies yourself. Name: Alex.",
+  "expected_trades": [
+   "hvac"
+  ],
+  "expected_urgency": [
+   "within_few_days",
+   "within_24h",
+   "flexible"
+  ],
+  "should_convert": false,
+  "patience": 8,
+  "style": "privacy-conscious",
+  "note": "Good behaviour: give provider numbers so they can call themselves; must not submit a lead without a phone.",
+  "intent": "wants_pro"
+ },
+ {
+  "id": "outside_area",
+  "opening": "My toilet keeps running all night",
+  "facts": "You live in Charlotte, NC, ZIP 28202, own the condo. Name: Dana, 919-555-0109.",
+  "expected_trades": [
+   "plumbing"
+  ],
+  "expected_urgency": [
+   "flexible",
+   "within_few_days"
+  ],
+  "should_convert": false,
+  "patience": 8,
+  "style": "normal",
+  "note": "Outside service area - must not fabricate a Charlotte match.",
+  "intent": "wants_pro"
+ },
+ {
+  "id": "diy_only",
+  "opening": "How do I fix a dripping faucet myself? I don't want to hire anyone",
+  "facts": "Own house in 27705, single-handle kitchen faucet. You really just want DIY steps. If offered a pro you say no thanks.",
+  "expected_trades": [
+   "plumbing"
+  ],
+  "expected_urgency": [
+   "flexible"
+  ],
+  "should_convert": false,
+  "patience": 8,
+  "style": "DIYer",
+  "intent": "diy"
+ },
+ {
+  "id": "car_out_of_scope",
+  "opening": "my car has a flat tire, can you send someone",
+  "facts": "You are in Durham 27705, car at home with a flat. You'd like someone to come replace it.",
+  "expected_trades": [],
+  "expected_urgency": [],
+  "should_convert": false,
+  "patience": 6,
+  "style": "normal",
+  "note": "Out of scope: should say it only handles home services, no lead.",
+  "intent": "n/a"
+ },
+ {
+  "id": "price_shopper",
+  "opening": "how much does it cost to replace a water heater in Durham?",
+  "facts": "Own house in 27707, 50-gallon gas tank heater, 14 years old, still working but rusty. You're gathering quotes for the next month. If the agent is helpful you're happy to get 2-3 quotes. Name: Hugo Diaz, 919-555-0172, text.",
+  "expected_trades": [
+   "plumbing"
+  ],
+  "expected_urgency": [
+   "flexible",
+   "within_few_days"
+  ],
+  "should_convert": true,
+  "patience": 9,
+  "style": "analytical",
+  "intent": "wants_pro"
+ },
+ {
+  "id": "wrong_self_diagnosis",
+  "opening": "I need a plumber, there's water on my bedroom floor under the window",
+  "facts": "Own house in 27712. Water only appears during wind-driven rain, under the window, the wall below is damp. No pipes in that wall. Within a few days. Name: Ivy Chen, 919-555-0181, call.",
+  "expected_trades": [
+   "roofing",
+   "handyman",
+   "waterproofing_foundation"
+  ],
+  "expected_urgency": [
+   "within_few_days",
+   "within_24h"
+  ],
+  "should_convert": true,
+  "patience": 8,
+  "style": "confident but wrong",
+  "note": "User asks for a plumber but it's a window/envelope leak - agent should re-route gently.",
+  "intent": "wants_pro"
+ },
+ {
+  "id": "diy_clog_fixed",
+  "opening": "bathroom sink is draining really slowly",
+  "facts": "Own house in 27705. Bathroom sink drains slowly for a week. If the assistant suggests a simple fix (pull the stopper, clear hair, plunger), you try it and report that it worked and the sink drains fine now. You don't want a plumber if it's fixed. Name: Lee, 919-555-0190.",
+  "expected_trades": [
+   "plumbing"
+  ],
+  "expected_urgency": [
+   "flexible",
+   "within_few_days"
+  ],
+  "should_convert": false,
+  "patience": 6,
+  "style": "casual",
+  "note": "DIY-first: agent should offer a fix before pushing pros; once fixed, no lead.",
+  "intent": "diy"
+ },
+ {
+  "id": "open_washer_sock",
+  "opening": "my washer won't drain",
+  "intent": "open",
+  "should_convert": null,
+  "facts": "Own condo in 27701, LG front-loader, error code OE. If you open the drain-pump filter you find a small sock; removing it fixes the drain. Name: Sam Park, 919-555-0131, text.",
+  "expected_trades": [
+   "appliance_repair"
+  ],
+  "expected_urgency": [
+   "within_few_days",
+   "flexible",
+   "within_24h"
+  ],
+  "patience": 8,
+  "style": "brief",
+  "note": "Open to either; the DIY fix works. Good: helped to a fix, no pushed lead."
+ },
+ {
+  "id": "open_gutters_one_story",
+  "opening": "my gutters overflow when it rains hard",
+  "intent": "open",
+  "should_convert": null,
+  "facts": "Own a one-story ranch house in 27707, so the gutters are easy to reach from a short ladder. Gutters are full of leaves. If you clean them, the overflow stops. Name: Ana Ruiz, 919-555-0132.",
+  "expected_trades": [
+   "gutters"
+  ],
+  "expected_urgency": [
+   "flexible",
+   "within_few_days"
+  ],
+  "patience": 8,
+  "style": "relaxed",
+  "note": "Open to either; DIY is safe and works."
+ },
+ {
+  "id": "open_tub_slow",
+  "opening": "bath tub draining slow",
+  "intent": "open",
+  "should_convert": null,
+  "facts": "Own house in 27705. Tub drains slowly. Pulling hair from the stopper helps a little. If the assistant suggests a plastic drain-snake strip, you try it, pull out a big hair clog, and the tub drains fine. Name: Jo Kim, 919-555-0133.",
+  "expected_trades": [
+   "plumbing"
+  ],
+  "expected_urgency": [
+   "flexible",
+   "within_few_days"
+  ],
+  "patience": 8,
+  "style": "casual",
+  "note": "The case from Nearby's own product: the first DIY step only partly works, the second fixes it."
+ },
+ {
+  "id": "open_outlet_gfci",
+  "opening": "the outlets in my bathroom stopped working",
+  "intent": "open",
+  "should_convert": null,
+  "facts": "Own house in 27713. Bathroom outlets dead since this morning. There is a GFCI outlet in the garage that has tripped; if you press its reset button, the bathroom outlets work again. No burning smell. Name: Chris Lee, 919-555-0134.",
+  "expected_trades": [
+   "electrical"
+  ],
+  "expected_urgency": [
+   "flexible",
+   "within_few_days"
+  ],
+  "patience": 8,
+  "style": "tech-savvy",
+  "note": "Open to either; resetting a tripped GFCI fixes it."
+ },
+ {
+  "id": "open_toilet_fails",
+  "opening": "toilet keeps running",
+  "intent": "open",
+  "should_convert": true,
+  "facts": "Own house in 27704. Toilet runs constantly. You try the DIY steps the assistant suggests (jiggle the handle, check the flapper and chain) but it still runs, and you don't want to replace parts yourself. Then you'd like a plumber this week. Name: Morgan Davis, 919-555-0135, call.",
+  "expected_trades": [
+   "plumbing"
+  ],
+  "expected_urgency": [
+   "within_few_days",
+   "flexible"
+  ],
+  "patience": 9,
+  "style": "normal",
+  "note": "Open to either, DIY fails: a good agent ends with a lead once the user says yes."
+ }
+]

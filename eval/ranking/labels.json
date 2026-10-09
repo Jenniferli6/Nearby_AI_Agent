@@ -1,0 +1,2164 @@
+{
+ "no_ac_heatwave": {
+  "all-weather-heating-cooling-inc": {
+   "label": 3,
+   "reason": "HVAC is core trade; site lists AC repair and states 24/7 emergency support, within about 7 km, residential service."
+  },
+  "alternative-aire-inc": {
+   "label": 2,
+   "reason": "Right trade with AC repair and residential service in Durham area, but no 24-hour or emergency service stated."
+  },
+  "gp-chij6ri5hodzrikrlpbmrfz_lm0": {
+   "label": 3,
+   "reason": "AC repair listed explicitly, site says available 24/7 with emergency AC repairs, residential focus, about 8 km away."
+  },
+  "gp-chijcxhuvi0erykra3ken5bywri": {
+   "label": 2,
+   "reason": "Residential AC repair in Durham with after-hours on-call repair stated; about 14 km away, so good but not fully confirmed for emergency 24/7."
+  },
+  "gp-chijlaw6ptbwleord02g-ftlgwq": {
+   "label": 2,
+   "reason": "Residential AC repair and emergency HVAC repair listed, within about 6 km; 24/7 availability not clearly stated."
+  },
+  "gp-chijs0ahimtnrikrgoxbqdqxose": {
+   "label": 2,
+   "reason": "AC repair with 7-day operation and emergency service in Durham; about 17 km away, somewhat farther but within reasonable range."
+  },
+  "gp-chijzrluukrwrikr0lvajb9b5m4": {
+   "label": 3,
+   "reason": "Air conditioning repair is core service, 24/7 emergency service stated, residential, about 7 km away."
+  },
+  "happy-home-services": {
+   "label": 3,
+   "reason": "AC repair and maintenance listed, claims 24/7 emergency repairs and serves Durham residential homes, though about 17 km away."
+  },
+  "streamline-services-plumbing-hvac-electrical": {
+   "label": 2,
+   "reason": "AC repair listed in Durham, about 6 km away, but emergency availability not stated and page text is incomplete."
+  }
+ },
+ "basement_storm_standing": {
+  "1-800-water-damage-of-n-w-triangle-area": {
+   "label": 3,
+   "reason": "Water damage restoration franchise in Durham, 6.4 km away, with explicit 24/7 emergency service and water extraction, flood, and residential service stated on its site."
+  },
+  "gp-chije2szwmnqrikrbd0o52xpm0q": {
+   "label": 3,
+   "reason": "Durham water damage restoration with 24/7 emergency response, basement water extraction and structural drying explicitly listed, about 10 km away, residential service stated."
+  },
+  "gp-chiji5btvs3nrikru85q1ftdjmw": {
+   "label": 2,
+   "reason": "Water damage restoration with 24/7 emergency response and residential service, and Durham is in its service area, but the listing is Chapel Hill and the site text is centered on West Raleigh and lacks basement-specific wording."
+  },
+  "gp-chijk73vxw_vrikrctlw-r20tmq": {
+   "label": 3,
+   "reason": "Advertises 24/7/365 water damage response, water extraction and structural drying, serves Durham, about 8 km away, with insurance claim help."
+  },
+  "gp-chijkcv8bl3zrikru8br_yi6qqy": {
+   "label": 2,
+   "reason": "Listed as water damage restoration in Morrisville about 18 km away with 24/7 hours on its listing, but the website has no body content to confirm services or emergency response."
+  },
+  "gp-chijksr5w0rzrikr5wzu5hwoftw": {
+   "label": 1,
+   "reason": "Raleigh-based and about 34 km away, which is beyond the typical service radius, though it does list Durham service and 24/7 water restoration."
+  },
+  "gp-chijltzv0lvzrikrmgzgm0cnllk": {
+   "label": 3,
+   "reason": "24/7 emergency water damage restoration in Cary, with basement flood cleanup and Durham in its service area, though it is about 24 km away."
+  },
+  "gp-chijoz40z7xwrikrnkdpq_e1cm0": {
+   "label": 3,
+   "reason": "Durham-listed 24/7 water extraction, structural drying and sewage/flood cleanup for residential properties, about 9 km away, with emergency service stated."
+  },
+  "gp-chijq3n2brvzrikr_mi6og88n3o": {
+   "label": 2,
+   "reason": "24/7 family-owned water damage restoration with extraction and drying serving Triangle area, but it is about 28 km away and Durham is not explicitly listed in its service area."
+  },
+  "roto-rooter-plumbing-water-cleanup-durham": {
+   "label": 2,
+   "reason": "Durham plumber with 24/7 emergency service and explicit water damage and floodwater cleanup, though plumbing is its core trade and basement water extraction is less specialized."
+  },
+  "servpro-of-south-durham": {
+   "label": 2,
+   "reason": "24/7 emergency water extraction and drying franchise in Durham about 8 km away, but the site lacks a stated local service area and text is largely national copy."
+  }
+ },
+ "basement_seep_recurring": {
+  "gp-chij32osck08rs4rtsiavtr18-i": {
+   "label": 3,
+   "reason": "Basement waterproofing and drainage, sealing and foundation repair for homes in Durham within about 17 km; no emergency service stated, but this is a plainly core residential service."
+  },
+  "gp-chij5awmvl_hrikr3ue4hgngohe": {
+   "label": 3,
+   "reason": "Diagnoses and repairs foundation cracks and offers basement waterproofing and sealing in Durham about 16 km away; the website explicitly covers this job, though it lists weekday hours only."
+  },
+  "gp-chij60ymwn_grikrq8m7xbi1bvq": {
+   "label": 2,
+   "reason": "Ram Jack Durham lists basement waterproofing and basement repair with residential service and a nearby service area, but is mainly a large foundation contractor and emergency service is not stated."
+  },
+  "gp-chijaalxrex3rikrnvoi6hxttoe": {
+   "label": 2,
+   "reason": "Crawl space and basement contractor in Raleigh offering foundation crack repair and waterproofing with 24/7 scheduling, but about 30 km away and the site is multi-state focused."
+  },
+  "gp-chijdbax4f_lrikrwpl-wq9tcwa": {
+   "label": 3,
+   "reason": "Durham locally owned company offering basement waterproofing, bowing basement wall repair and foundation repair about 14 km away, working with engineers; emergency service not stated."
+  },
+  "gp-chijhbgz4cjdrikrigedyfms9ci": {
+   "label": 2,
+   "reason": "Triangle crawl space firm in Hillsborough about 26 km away; focuses on crawl space work, drainage and sump pumps, with basement waterproofing not explicitly named."
+  },
+  "gp-chijhezgmat6am8rfoqnrz9ibro": {
+   "label": 3,
+   "reason": "Revive lists basement waterproofing and foundation crack repair for Raleigh and Durham about 23 km away with free inspections; emergency service not stated."
+  },
+  "gp-chijmup32d7srikrlgxrfl_nh94": {
+   "label": 2,
+   "reason": "Cary crawlspace company about 14 km away offering drainage systems and sump pumps, but its site centers on crawlspaces rather than basement wall cracks."
+  },
+  "gp-chijre4wskxlrikrqbc4rm5fbzc": {
+   "label": 1,
+   "reason": "Family crawl space business focused on renovation, encapsulation and cleaning; no service area stated and no sign of basement wall or water intrusion work."
+  },
+  "gp-chijusw1m83lrikrozptv29bpiu": {
+   "label": 3,
+   "reason": "Durham family waterproofing and drainage company about 14 km away that lists basement flooding and foundation work; emergency service not stated."
+  },
+  "roto-rooter-plumbing-water-cleanup-durham": {
+   "label": 1,
+   "reason": "Plumbing company with 24/7 emergency service and sump pump work, but basement wall crack waterproofing is not a listed service; it is an adjacent trade for this need."
+  },
+  "streamline-services-plumbing-hvac-electrical": {
+   "label": 1,
+   "reason": "HVAC, plumbing and electrical firm whose site lists no waterproofing or foundation work; the basement waterproofing tag is not supported by its services."
+  }
+ },
+ "roof_leak_storm": {
+  "arac-roof-it-forward": {
+   "label": 2,
+   "reason": "Roofing with listed emergency roof repair, roof leak repair and a 24/7 phone line at about 16 km, but the website's service area is mostly outside North Carolina and does not clearly show local Durham work."
+  },
+  "feazel-roofing": {
+   "label": 3,
+   "reason": "Durham roofing contractor at about 18 km offering roof repair and storm damage restoration; the Google listing shows open 24 hours, which counts as emergency availability."
+  },
+  "gp-chij5zvfo6nvrikr7llqlvvwnsg": {
+   "label": 2,
+   "reason": "Roofing company serving Raleigh-Durham offering storm repairs at about 16 km, with a 24-hour Google listing, but the website does not state emergency service or leak tarping."
+  },
+  "gp-chijgqlm70xjrikr58i-xeml3em": {
+   "label": 3,
+   "reason": "Durham-based residential roofer at about 4.5 km that explicitly lists emergency roofing services, roof repair and storm damage repair, and covers ZIP 27704."
+  },
+  "gp-chijm-njerpjrikrbi0qtfruzf4": {
+   "label": 3,
+   "reason": "Durham roofing contractor at about 7 km that lists emergency repairs, roof leak work, flashing and storm damage, and serves the Durham area."
+  },
+  "gp-chijmw3u1obirikrude41q0hxwa": {
+   "label": 2,
+   "reason": "Durham roofer at about 3 km with roof repair and a full-time roofing repairman, but its core focus is windows and siding and it does not state emergency service."
+  },
+  "gp-chijqy26qzpxrikratjd5o4htos": {
+   "label": 3,
+   "reason": "Roofing company at about 22 km that explicitly offers emergency tarping and storm-related roof repair, with a 24-hour Google listing and service in Durham and Chapel Hill."
+  },
+  "gp-chijs3oygkljrikrgjr26qkn74q": {
+   "label": 3,
+   "reason": "Family-owned Durham roofer at about 5 km that offers same-day emergency leak inspection and emergency tarping after NC storms, with a 24-hour listing."
+  },
+  "gp-chijz5ubvzt7rikrgitum_dpzje": {
+   "label": 2,
+   "reason": "Durham roofer at about 13 km with a 24-hour location and emergency service stated, but its listed services focus on installation and replacement rather than leak repair or tarping."
+  },
+  "gp-chijzbbagspprikrusu85siheto": {
+   "label": 3,
+   "reason": "Durham roofing company at about 20 km that advertises 24/7 leak response and emergency roof repair, plus storm and insurance work, with Durham in its service area."
+  }
+ },
+ "sump_pump_failed": {
+  "bar-d-plumbing": {
+   "label": 2,
+   "reason": "Plumbing contractor at 7.7 km with 24/7 hours stated, but sump pump work is not in its listed services, so the fit is plausible rather than explicit."
+  },
+  "brown-brothers-plumbing-heating": {
+   "label": 2,
+   "reason": "Plumbing and heating firm at 8.3 km with emergency service stated and sewer pumps listed, but no sump pump work is named."
+  },
+  "gp-chijswg-fspgrikrrbrqhug8nvm": {
+   "label": 3,
+   "reason": "Pure-Line Plumbing at 0.9 km lists sump pump repair and replacement explicitly and states 24/7 emergency service."
+  },
+  "gp-chijt8onncjhrikropcuhiikf0s": {
+   "label": 2,
+   "reason": "Plumbing provider at 2.5 km with a 24-hour listing, but no website text is available to confirm sump pump work."
+  },
+  "gp-chijywc8ehbjrikr8vz5bjfcmcq": {
+   "label": 3,
+   "reason": "Jordan Plumbing at 9.2 km advertises basement water removal and 24/7 emergency plumbing, which directly covers standing water in a basement."
+  },
+  "happy-home-services": {
+   "label": 3,
+   "reason": "Plumbing provider at 1.1 km whose site names sump pumps and claims 24/7 emergency repairs, though its main focus is HVAC."
+  },
+  "harmon-plumbing": {
+   "label": 3,
+   "reason": "Plumbing company at 10.5 km listing sump pumps explicitly, with 24/7 emergency service claimed."
+  },
+  "mr-rooter-plumbing-of-durham-north": {
+   "label": 3,
+   "reason": "Local plumber at 7.6 km listing sump pump services and emergency plumbing, with 24/7 scheduling stated."
+  },
+  "roto-rooter-plumbing-water-cleanup-durham": {
+   "label": 3,
+   "reason": "Plumber at 7.7 km listing sump pump repair and replacement, floodwater cleanup, and 24/7 availability."
+  },
+  "shelton-plumbing-co": {
+   "label": 2,
+   "reason": "Plumbing company at 15.3 km with emergency service stated, but no sump pump work is listed."
+  },
+  "streamline-services-plumbing-hvac-electrical": {
+   "label": 2,
+   "reason": "Plumbing is a listed trade at 11.5 km with drain and sewer services, but the site is mainly HVAC, sump pumps are not mentioned, and emergency service is not stated."
+  }
+ },
+ "ceiling_drip_shower": {
+  "bar-d-plumbing": {
+   "label": 2,
+   "reason": "Durham plumber within about 5 km with residential plumbing, drain, and fixture work and a stated 24/7 line, but no explicit shower or ceiling-leak service is listed."
+  },
+  "brown-brothers-plumbing-heating": {
+   "label": 2,
+   "reason": "Established residential plumbing company about 8 km away that says it handles clogs and backups, but no specific shower or ceiling-leak work is named."
+  },
+  "gp-chijn-xeay_frikrohiyrqpeplg": {
+   "label": 2,
+   "reason": "Hillsborough plumber about 18 km away offering drain, faucet, and bathroom remodel work with emergency service, but no explicit shower-leak service."
+  },
+  "gp-chijywc8ehbjrikr8vz5bjfcmcq": {
+   "label": 3,
+   "reason": "Durham plumber about 9 km away that lists leak detection, tub and shower service, and 24/7 emergency plumbing, all closely matching this leak-from-shower problem."
+  },
+  "harmon-plumbing": {
+   "label": 3,
+   "reason": "Family-owned Durham plumber about 6 km away with leak detection, general repairs, and claimed 24/7 emergency service, a strong fit for locating a shower-related leak."
+  },
+  "jd-service-now": {
+   "label": 1,
+   "reason": "Lists plumbing as a trade, but the website services are almost entirely HVAC and electrical with no plumbing work shown."
+  },
+  "plumbv-inc": {
+   "label": 1,
+   "reason": "Website content belongs to a different company (Happy Home Services), so the plumbing offering and distance are unverified; the listing is unreliable."
+  },
+  "roto-rooter-plumbing-water-cleanup-durham": {
+   "label": 3,
+   "reason": "Durham plumber about 11 km away with 24/7 emergency service, leak and water damage work, and toilet and fixture repair, well suited to this ceiling leak."
+  },
+  "shelton-plumbing-co": {
+   "label": 3,
+   "reason": "Family-owned Durham plumber about 23 km away offering shower, tub, and fixture replacement, drain work, and 24/7 emergency service."
+  },
+  "streamline-services-plumbing-hvac-electrical": {
+   "label": 2,
+   "reason": "Durham company about 13 km away listing plumbing and drain services, though the site is mostly HVAC and no emergency availability is stated."
+  }
+ },
+ "no_heat_winter": {
+  "all-weather-heating-cooling-inc": {
+   "label": 3,
+   "reason": "HVAC company in Durham, about 11 km away, lists heating repair and states 24/7 emergency support."
+  },
+  "alternative-aire-inc": {
+   "label": 3,
+   "reason": "Durham HVAC company about 4 km away, lists furnace repair and heat pump installation, and states emergency service."
+  },
+  "gp-chij6ri5hodzrikrlpbmrfz_lm0": {
+   "label": 3,
+   "reason": "Heat pump and furnace repair specialist at about 25 km, with 24/7 emergency heating repair stated on its site."
+  },
+  "gp-chijcxhuvi0erykra3ken5bywri": {
+   "label": 3,
+   "reason": "Durham HVAC contractor about 4 km away that explicitly offers heat pump repair and states 24/7 HVAC service."
+  },
+  "gp-chijfv3q8wphrikrghmoqqewxkk": {
+   "label": 3,
+   "reason": "Durham HVAC company about 2 km away, lists heat pumps and heating repair, and states 24/7 emergency services."
+  },
+  "gp-chijlaw6ptbwleord02g-ftlgwq": {
+   "label": 3,
+   "reason": "Residential HVAC company about 14 km away, lists heat pump repair and emergency HVAC repair among its services."
+  },
+  "gp-chijs0ahimtnrikrgoxbqdqxose": {
+   "label": 3,
+   "reason": "Durham HVAC provider about 9 km away, lists heat pump and heating repair, operates 7 days, and offers emergency service."
+  },
+  "gp-chijzrluukrwrikr0lvajb9b5m4": {
+   "label": 3,
+   "reason": "Family HVAC company about 23 km away, lists heat pump and heating repair with 24/7 emergency service."
+  },
+  "green-horizon-one-hour-heating-air-conditioning": {
+   "label": 3,
+   "reason": "Heating and AC company about 12 km away, lists heat pumps, heater repair and 24/7 emergency HVAC calls."
+  },
+  "happy-home-services": {
+   "label": 3,
+   "reason": "Durham HVAC company about 1 km away, lists heat pump services and claims 24/7 emergency repairs."
+  },
+  "streamline-services-plumbing-hvac-electrical": {
+   "label": 2,
+   "reason": "HVAC provider about 12 km away with general HVAC repair listed, but no heat pump specialty and emergency service is not stated."
+  }
+ },
+ "burning_outlet": {
+  "all-weather-heating-cooling-inc": {
+   "label": 3,
+   "reason": "Electrical listed, Durham 6.9 km, site lists circuits, wiring and troubleshooting plus 24/7 emergency support, residential service."
+  },
+  "bud-matthews-services": {
+   "label": 2,
+   "reason": "Electrical is listed and 24-hour emergency is stated, but electrical is secondary to its HVAC focus and no outlet or wiring fault work is named; Chapel Hill 12.9 km."
+  },
+  "gp-chij5bvkhbcgkgur1us23vwmbmw": {
+   "label": 3,
+   "reason": "Licensed electrical contractor with emergency electrician, breaker box replacement and repair services, Durham 11.7 km, residential work."
+  },
+  "gp-chijaypf5rfjrikru5tlgi2ieps": {
+   "label": 3,
+   "reason": "Electrical specialist with emergency electrical services and repairs advertised 24/7, Durham 9 km, residential."
+  },
+  "gp-chijdsqt4ljlrikre7jz7vtgdns": {
+   "label": 3,
+   "reason": "Electrician covering domestic work, fuse board repairs and rewiring, states emergency repair, Durham 6.5 km."
+  },
+  "gp-chijnx4lfrllrikrfuekoyc5qwy": {
+   "label": 2,
+   "reason": "Durham electrical contractor doing residential wiring and repairs at 5.3 km with 24h listing, but emergency service is not stated on the website."
+  },
+  "gp-chijvwoveo6hpasr0c1l203pk7g": {
+   "label": 3,
+   "reason": "Electrical contractor offering outlet installations and repairs and circuit breakers, with 24/7 emergency service stated, though 20.3 km away in Cary."
+  },
+  "jd-service-now": {
+   "label": 2,
+   "reason": "Lists electrical repair in Durham at 8.7 km, but emergency availability is not stated and electrical is one of several trades."
+  },
+  "streamline-services-plumbing-hvac-electrical": {
+   "label": 1,
+   "reason": "Electrical is listed as a trade, but the website services shown are almost all HVAC and drain work, with no electrical details and no emergency stated."
+  },
+  "touchstone-electric-raleigh": {
+   "label": 2,
+   "reason": "Electrical contractor with a 24-hour listing at 15.3 km, but no website text is available to confirm residential repair work."
+  }
+ },
+ "outlet_dead": {
+  "bud-matthews-services": {
+   "label": 2,
+   "reason": "Electrical is listed among services at about 12.9 km, but the website names no outlet or circuit repair work and its focus is HVAC and appliances."
+  },
+  "gp-chij3d1mumlhrikroytdlwol150": {
+   "label": 3,
+   "reason": "Electrical contractor serving Durham and Chapel Hill at about 12.4 km with explicit repair and maintenance and service work for residential homes."
+  },
+  "gp-chij5bvkhbcgkgur1us23vwmbmw": {
+   "label": 3,
+   "reason": "Electrical repair services and emergency electrician work are listed, residential service is offered, and it is about 11.7 km away."
+  },
+  "gp-chijaypf5rfjrikru5tlgi2ieps": {
+   "label": 3,
+   "reason": "Residential electrical services and emergency repairs are listed, advertised as 24/7, at about 9 km in Durham."
+  },
+  "gp-chijgew6hrflrikr2r6-kxu7_jc": {
+   "label": 3,
+   "reason": "General repairs, breaker replacement and residential work are listed at about 6.8 km, though emergency availability is not stated."
+  },
+  "gp-chijl_6ivowzrykrv4bwf3omz30": {
+   "label": 3,
+   "reason": "Lists outlet and switch replacement and troubleshooting/repair for residential work at about 14.3 km, a close match for this job."
+  },
+  "gp-chijvwoveo6hpasr0c1l203pk7g": {
+   "label": 3,
+   "reason": "Lists outlet installations and repairs with residential service, and claims 24/7 emergency service, but at about 20.3 km it is somewhat farther out."
+  },
+  "jd-service-now": {
+   "label": 3,
+   "reason": "Electrical repair is explicitly listed for residential homes in Durham at about 8.7 km, with a large review base."
+  },
+  "streamline-services-plumbing-hvac-electrical": {
+   "label": 1,
+   "reason": "Electrical is listed as a trade, but the website's services are plumbing, drain and HVAC only, so electrical capability is unclear."
+  },
+  "touchstone-electric-raleigh": {
+   "label": 2,
+   "reason": "Electrical contractor with 24-hour listing at about 15.3 km, but no website text describes the specific services."
+  },
+  "triad-electrical-services": {
+   "label": 2,
+   "reason": "Electrical contractor in Cary with strong reviews, but no website text and no distance is available to confirm the service area."
+  }
+ },
+ "sewer_backup": {
+  "bar-d-plumbing": {
+   "label": 3,
+   "reason": "Plumber with drain and sewer cleaning, sewer repair, and hydro jetting listed, states 24/7 hours, and is about 6 km away."
+  },
+  "brown-brothers-plumbing-heating": {
+   "label": 3,
+   "reason": "Established Durham plumbing company that says it handles emergency clogs and backups, with sewer pump and city sewer connection work, about 3 km away."
+  },
+  "gp-chijt8onncjhrikropcuhiikf0s": {
+   "label": 2,
+   "reason": "Listed as a plumber with 24-hour listing and a Durham location, but no website text confirms sewer or drain backup work."
+  },
+  "gp-chiju0h1bgjxjuwr5tn1b6pjb_q": {
+   "label": 2,
+   "reason": "Listed as a plumber with 24-hour listing about 5 km away, but no website text confirms sewer or drain backup work."
+  },
+  "gp-chijywc8ehbjrikr8vz5bjfcmcq": {
+   "label": 3,
+   "reason": "Durham plumber stating 24/7 emergency service, with clogged drain, sewer line repair, and basement water removal services, about 3 km away."
+  },
+  "happy-home-services": {
+   "label": 2,
+   "reason": "Plumbing is a listed trade with drains and sewer lines and claimed 24/7 repairs, but the site is mainly HVAC-focused."
+  },
+  "harmon-plumbing": {
+   "label": 3,
+   "reason": "Plumbing company with drain cleaning, sewer lines, hydro jetting, camera inspection, and claimed 24/7 emergency service, about 7 km away."
+  },
+  "roto-rooter-plumbing-water-cleanup-durham": {
+   "label": 3,
+   "reason": "Durham plumber with drain cleaning, sewer line repair, emergency plumbing, 24/7 availability, and water cleanup, less than 1 km away."
+  },
+  "streamline-services-plumbing-hvac-electrical": {
+   "label": 2,
+   "reason": "Offers drain clearing, sewer line repair, and hydro jetting in Durham, but emergency service is not stated and its site is mainly HVAC."
+  }
+ },
+ "tankless_upgrade": {
+  "bar-d-plumbing": {
+   "label": 3,
+   "reason": "Explicitly lists tankless water heater install and replacement, residential service, 24/7 hours, and Durham-area service within about 16.5 km."
+  },
+  "brown-brothers-plumbing-heating": {
+   "label": 2,
+   "reason": "Plumbing and heating firm that lists hot water heaters, but does not specifically mention tankless units; serves Durham and the Triangle about 16 km away."
+  },
+  "gp-chijd_l-p0fhrikrwk57dwlo9rc": {
+   "label": 2,
+   "reason": "Residential plumber offering water heater replacement, but no tankless mention and emergency service is not stated; about 17 km away."
+  },
+  "gp-chijl0rkudfjrikr_nmqew_fd-u": {
+   "label": 3,
+   "reason": "Explicitly lists tankless water heater installation, residential service, and emergency plumbing, serving Chapel Hill and Durham about 19.5 km away."
+  },
+  "gp-chijn-xeay_frikrohiyrqpeplg": {
+   "label": 3,
+   "reason": "Explicitly lists tankless water heaters and water heater installation for residential customers, with emergency service, about 12 km away."
+  },
+  "gp-chijt8onncjhrikropcuhiikf0s": {
+   "label": 2,
+   "reason": "Plumbing business about 9 km away with 24-hour listing, but no website text is available to confirm tankless or water heater work."
+  },
+  "gp-chijuezxstjnrikrmjpypvmskuc": {
+   "label": 2,
+   "reason": "Plumber with 24/7 service and water heater work serving Chapel Hill and Carrboro about 10 km away, but water heater repair is listed rather than tankless installation or replacement."
+  },
+  "jd-service-now": {
+   "label": 1,
+   "reason": "Lists plumbing as a trade, but the website only shows HVAC and electrical services with no plumbing or water heater work."
+  },
+  "plumbv-inc": {
+   "label": 2,
+   "reason": "Plumbing business listing tankless water heater installation and 24/7 emergency repairs in Durham and Chapel Hill, though the website text belongs to a differently named company and distance is unknown."
+  },
+  "roto-rooter-plumbing-water-cleanup-durham": {
+   "label": 2,
+   "reason": "Plumber with 24/7 service about 14 km away that lists water heater repair, but tankless or replacement work is not stated and the focus is partly on water damage."
+  },
+  "shelton-plumbing-co": {
+   "label": 2,
+   "reason": "Residential plumber with 24/7 emergency service about 13 km away that lists water heater repairs and installations and upgrades, but tankless work is not named."
+  },
+  "streamline-services-plumbing-hvac-electrical": {
+   "label": 1,
+   "reason": "Plumbing is listed, but the website focuses on HVAC, drain and sewer work with no water heater services shown."
+  }
+ },
+ "slow_sink": {
+  "bar-d-plumbing": {
+   "label": 3,
+   "reason": "Plumber in Durham 7.7 km away that explicitly lists drain cleaning and sewer work, and states 24/7 availability."
+  },
+  "brown-brothers-plumbing-heating": {
+   "label": 3,
+   "reason": "Established Durham plumber 8.3 km away whose site says it handles routine and emergency clogs and backups, with residential plumbing."
+  },
+  "gp-chijl0rkudfjrikr_nmqew_fd-u": {
+   "label": 3,
+   "reason": "Durham plumber 12.1 km away offering clogged drain service, snake cleaning, and emergency plumbing."
+  },
+  "gp-chijn-xeay_frikrohiyrqpeplg": {
+   "label": 3,
+   "reason": "Hillsborough plumber 11.5 km away that lists drain clearing and drain cleaning plus emergency plumbing service in Durham."
+  },
+  "gp-chijpyoakfxkrikrthpswcgc3ca": {
+   "label": 3,
+   "reason": "Hillsborough plumber 14.6 km away that lists drain cleaning and vanity and sink replacement for residential customers in Durham."
+  },
+  "gp-chijt8onncjhrikropcuhiikf0s": {
+   "label": 2,
+   "reason": "Durham plumbing business 2.5 km away with a 24-hour listing, but no website text confirms drain work specifically."
+  },
+  "harmon-plumbing": {
+   "label": 3,
+   "reason": "Durham family plumber 10.5 km away that lists drain cleaning and hydro jetting and claims 24/7 emergency service."
+  },
+  "jd-service-now": {
+   "label": 1,
+   "reason": "Listed as plumbing, but the website only describes HVAC and electrical services with no plumbing work mentioned."
+  },
+  "plumbv-inc": {
+   "label": 1,
+   "reason": "Website belongs to a different company (Happy Home Services), distance is unknown, so there is little evidence of this business itself doing residential drain work."
+  },
+  "roto-rooter-plumbing-water-cleanup-durham": {
+   "label": 3,
+   "reason": "Durham Roto-Rooter 7.7 km away that explicitly offers drain cleaning, toilet and fixture repair, and 24/7 emergency service."
+  },
+  "shelton-plumbing-co": {
+   "label": 3,
+   "reason": "Durham family plumber 15.3 km away offering drain cleaning and fixture repairs, with 24/7 emergency service stated."
+  },
+  "streamline-services-plumbing-hvac-electrical": {
+   "label": 3,
+   "reason": "Durham business 11.5 km away that explicitly lists drain clearing and rooter service, though its emergency availability is not stated."
+  }
+ },
+ "water_heater_leak": {
+  "bar-d-plumbing": {
+   "label": 3,
+   "reason": "Explicitly offers water heater installation and replacement, gas water heaters, 24/7 hours, about 19 km away, residential service."
+  },
+  "brown-brothers-plumbing-heating": {
+   "label": 2,
+   "reason": "Plumbing company in Durham listing hot water heaters, residential service and emergency service, about 17 km away, but water heater replacement is not explicitly stated."
+  },
+  "gp-chijd_l-p0fhrikrwk57dwlo9rc": {
+   "label": 3,
+   "reason": "Owner-operated residential plumber in Durham offering water heater maintenance, repair and replacement, about 22 km away; emergency availability not stated, which is fine for a non-emergency job."
+  },
+  "gp-chijl0rkudfjrikr_nmqew_fd-u": {
+   "label": 2,
+   "reason": "Durham plumber offering hot water heater repair and tankless installation with emergency service, about 18 km away, but gas tank replacement is not explicitly listed."
+  },
+  "gp-chiju0h1bgjxjuwr5tn1b6pjb_q": {
+   "label": 2,
+   "reason": "Listed as a Durham plumber about 10 km away with a 5-star rating, but no website text is available to confirm water heater work."
+  },
+  "gp-chijuezxstjnrikrmjpypvmskuc": {
+   "label": 2,
+   "reason": "Roto-Rooter plumber about 10 km away listing water heaters, 24/7 availability and residential service, though the site names Chapel Hill and Carrboro and does not explicitly mention replacement."
+  },
+  "jd-service-now": {
+   "label": 1,
+   "reason": "Plumbing is listed, but the website's services are HVAC and electrical only, with no evident water heater or plumbing work."
+  },
+  "plumbv-inc": {
+   "label": 1,
+   "reason": "The website shown belongs to Happy Home Services rather than PlumbV, so the water heater and 24/7 claims cannot be attributed to this business; distance is unknown."
+  },
+  "roto-rooter-plumbing-water-cleanup-durham": {
+   "label": 2,
+   "reason": "Durham Roto-Rooter about 13 km away with 24/7 emergency service and water heater repair listed, but replacement is not explicitly stated."
+  },
+  "shelton-plumbing-co": {
+   "label": 2,
+   "reason": "Family-owned Durham plumber about 1 km away with water heater repairs, installations and upgrades, and 24/7 emergency service; replacement is implied but not explicitly stated."
+  },
+  "streamline-services-plumbing-hvac-electrical": {
+   "label": 1,
+   "reason": "Plumbing is listed, but the website's services are drain, sewer and HVAC, with no water heater work mentioned."
+  }
+ },
+ "toilet_running": {
+  "bar-d-plumbing": {
+   "label": 3,
+   "reason": "Lists toilet installation, replacement and repair, residential service, 6.9 km away, and states 24/7 hours."
+  },
+  "brown-brothers-plumbing-heating": {
+   "label": 2,
+   "reason": "Residential plumbing company 5.7 km away with emergency service, but toilet work is not specifically listed."
+  },
+  "gp-chijd_l-p0fhrikrwk57dwlo9rc": {
+   "label": 3,
+   "reason": "Residential plumber 10.4 km away that explicitly offers toilet repair; emergency availability is not needed for this job."
+  },
+  "gp-chijl0rkudfjrikr_nmqew_fd-u": {
+   "label": 3,
+   "reason": "Lists toilet installation and emergency plumbing, serves Durham, and is 2.6 km away."
+  },
+  "gp-chijywc8ehbjrikr8vz5bjfcmcq": {
+   "label": 3,
+   "reason": "Lists toilet repairs and 24/7 emergency service for residential customers, 5.2 km away."
+  },
+  "harmon-plumbing": {
+   "label": 2,
+   "reason": "Established residential plumber 4.0 km away offering general plumbing repairs, though toilet work is not specifically mentioned."
+  },
+  "jd-service-now": {
+   "label": 1,
+   "reason": "Lists plumbing as a trade, but the website describes only HVAC and electrical services with no plumbing work shown."
+  },
+  "plumbv-inc": {
+   "label": 1,
+   "reason": "The website shown belongs to Happy Home Services rather than PlumbV, so the plumbing evidence is unreliable; it also has no distance and no toilet work listed."
+  },
+  "roto-rooter-plumbing-water-cleanup-durham": {
+   "label": 3,
+   "reason": "Explicitly offers toilet repair and replacement, residential Durham service, 8.5 km away, with 24/7 availability stated."
+  },
+  "streamline-services-plumbing-hvac-electrical": {
+   "label": 1,
+   "reason": "Website focuses on HVAC and drain/sewer work with no toilet services mentioned and no emergency service stated, so it is a weak fit for a toilet job."
+  }
+ },
+ "low_pressure_yard": {
+  "bar-d-plumbing": {
+   "label": 3,
+   "reason": "Plumbing contractor in Durham, 4.6 km away, whose website lists water main/well line repair and states 24/7 hours."
+  },
+  "brown-brothers-plumbing-heating": {
+   "label": 2,
+   "reason": "Plumbing company 7.6 km away with general plumbing repairs and city water connections, but no explicit water main leak repair listed."
+  },
+  "harmon-plumbing": {
+   "label": 3,
+   "reason": "Plumbing company 5.5 km away that lists water lines and leak detection, with 24/7 emergency service claimed."
+  },
+  "jd-service-now": {
+   "label": 1,
+   "reason": "Listed as plumbing, but the website services are almost entirely HVAC and electrical, with no plumbing work shown."
+  },
+  "mr-rooter-plumbing-of-durham-north": {
+   "label": 2,
+   "reason": "Local plumber 5.2 km away offering leaking pipes, water shut-off and 24/7 emergency plumbing, but no explicit water main repair listed."
+  },
+  "plumbv-inc": {
+   "label": 1,
+   "reason": "The linked website belongs to Happy Home Services rather than PlumbV, so the business's own service claims cannot be verified; distance is unknown."
+  },
+  "roto-rooter-plumbing-water-cleanup-durham": {
+   "label": 2,
+   "reason": "Durham plumber offering leak and water damage work with 24/7 availability, 11 km away, but no explicit water main line repair listed."
+  },
+  "shelton-plumbing-co": {
+   "label": 3,
+   "reason": "Durham plumber listing water line repair/replacement and 24/7 emergency service, 23.1 km away, within range."
+  },
+  "streamline-services-plumbing-hvac-electrical": {
+   "label": 2,
+   "reason": "Plumbing is a listed trade 12.7 km away with sewer line and drain work, but no water supply line repair is shown and the site is HVAC-focused."
+  }
+ },
+ "foundation_settling": {
+  "gp-chij32osck08rs4rtsiavtr18-i": {
+   "label": 3,
+   "reason": "Foundation repair and basement waterproofing for homes, Durham 9.3 km away, with helical piers and sistering joists suited to settling; no emergency service stated."
+  },
+  "gp-chij5awmvl_hrikr3ue4hgngohe": {
+   "label": 3,
+   "reason": "Explicitly diagnoses and repairs foundation cracks and settling in Durham, 13.6 km away; weekday hours only, emergency not stated."
+  },
+  "gp-chij60ymwn_grikrq8m7xbi1bvq": {
+   "label": 3,
+   "reason": "Foundation repair specialist with Durham service area, 16.4 km away, free evaluations and 24-hour listing; residential and commercial work."
+  },
+  "gp-chijaalxrex3rikrnvoi6hxttoe": {
+   "label": 2,
+   "reason": "Crawl space and basement contractor with foundation crack repair and structural repair in Raleigh, 24.1 km away; no explicit settling diagnosis on site."
+  },
+  "gp-chijdbax4f_lrikrwpl-wq9tcwa": {
+   "label": 3,
+   "reason": "Durham foundation repair company working with licensed engineers, 9.1 km away, offering bowing wall and structural repair with free estimates."
+  },
+  "gp-chijhbgz4cjdrikrigedyfms9ci": {
+   "label": 1,
+   "reason": "Focuses on crawl space vapor barriers, dehumidifiers and mold rather than structural foundation repair; 28.8 km away."
+  },
+  "gp-chijhezgmat6am8rfoqnrz9ibro": {
+   "label": 3,
+   "reason": "Foundation repair including cracks, settling and sagging floors, serving Raleigh, Durham and Chapel Hill, 17.2 km away with free inspections."
+  },
+  "gp-chijmup32d7srikrlgxrfl_nh94": {
+   "label": 2,
+   "reason": "Crawlspace company focused on encapsulation, drainage and supports in Cary, 23.1 km away; does not clearly state foundation crack repair."
+  },
+  "gp-chijre4wskxlrikrqbc4rm5fbzc": {
+   "label": 1,
+   "reason": "Crawl space renovation and encapsulation with house cleaning and duct services; no foundation repair and no stated service area."
+  },
+  "gp-chijusw1m83lrikrozptv29bpiu": {
+   "label": 2,
+   "reason": "Durham waterproofing and drainage company that also lists foundations and structural repairs, 4.6 km away; weekday hours only."
+  },
+  "roto-rooter-plumbing-water-cleanup-durham": {
+   "label": 0,
+   "reason": "Plumbing and water cleanup company; does not do foundation repair or structural work."
+  },
+  "streamline-services-plumbing-hvac-electrical": {
+   "label": 0,
+   "reason": "HVAC, plumbing and electrical company; foundation work is not supported by its service list."
+  }
+ },
+ "crawl_encapsulation": {
+  "gp-chij32osck08rs4rtsiavtr18-i": {
+   "label": 3,
+   "reason": "Durham-area foundation firm at 10.2 km that explicitly lists crawl space encapsulation and basement waterproofing for residential homes. No dehumidifier or mold work is stated."
+  },
+  "gp-chij60ymwn_grikrq8m7xbi1bvq": {
+   "label": 2,
+   "reason": "Foundation repair specialist 1.6 km away with crawl space repair and basement waterproofing listed, but it is structure-focused with no encapsulation, dehumidifier or mold work stated."
+  },
+  "gp-chijaalxrex3rikrnvoi6hxttoe": {
+   "label": 1,
+   "reason": "Offers encapsulation, mold removal and dehumidifiers, but at 40.8 km it is well beyond the ~30 km service radius."
+  },
+  "gp-chijevkoqqn3rikrrmrhvirs1ng": {
+   "label": 3,
+   "reason": "Durham crawl space specialist at 16.4 km that explicitly offers encapsulation, crawl space mold removal, and humidity and moisture control."
+  },
+  "gp-chijh01rqithrikrfxawzp_dfbc": {
+   "label": 0,
+   "reason": "Pest control company; dehumidification and vapor barriers are listed only as add-ons within a pest-control business, so it is not a crawl space contractor."
+  },
+  "gp-chijhbgz4cjdrikrigedyfms9ci": {
+   "label": 3,
+   "reason": "Crawl space specialist 11.6 km away that explicitly offers dehumidifier installation, encapsulation, mold remediation and vapor barriers, covering Durham."
+  },
+  "gp-chijmup32d7srikrlgxrfl_nh94": {
+   "label": 2,
+   "reason": "Cary crawl space firm offering encapsulation, dehumidifiers and mold remediation, but at 30.3 km it sits right at the edge of the service radius."
+  },
+  "gp-chijpxfoabxfrikrcq8glnj1v6s": {
+   "label": 3,
+   "reason": "Local crawl space encapsulation contractor 21.1 km away that explicitly lists encapsulation, vapor barriers, mold remediation and crawl space dehumidifier installation."
+  },
+  "gp-chijre4wskxlrikrqbc4rm5fbzc": {
+   "label": 3,
+   "reason": "Durham family crawl space business 10.6 km away that explicitly offers encapsulation and insulation, with over 10 years of experience. Mold and dehumidifier work are not mentioned and the service area is unstated."
+  },
+  "roto-rooter-plumbing-water-cleanup-durham": {
+   "label": 1,
+   "reason": "Plumbing company with 24/7 service and mold remediation, but its core is plumbing and water cleanup, not crawl space encapsulation or dehumidifiers."
+  },
+  "streamline-services-plumbing-hvac-electrical": {
+   "label": 0,
+   "reason": "HVAC, plumbing and electrical business whose listed services have no crawl space, encapsulation, mold or waterproofing work."
+  }
+ },
+ "sewage_overflow_cleanup": {
+  "1-800-water-damage-of-n-w-triangle-area": {
+   "label": 3,
+   "reason": "Water damage restoration franchise in Durham, 6.4 km away; website explicitly lists sewage cleanup, toilet overflow cleanup, and sanitizing-related biohazard work, residential service, and 24/7 emergency service."
+  },
+  "gp-chije2szwmnqrikrbd0o52xpm0q": {
+   "label": 3,
+   "reason": "Durham restoration company 10 km away; site lists sewage damage cleanup, biohazard cleanup, residential water damage, and 24/7 emergency response."
+  },
+  "gp-chiji5btvs3nrikru85q1ftdjmw": {
+   "label": 2,
+   "reason": "Restoration company listing Durham in service area, about 6 km away; lists sewage damage cleanup and biohazard cleanup with 24/7 emergency response, though the site text is focused on West Raleigh and Chapel Hill branding."
+  },
+  "gp-chijk73vxw_vrikrctlw-r20tmq": {
+   "label": 3,
+   "reason": "Water restoration company serving Durham 8 km away; lists sewage backup cleanup, water extraction, structural drying, and 24/7 emergency service for residential clients."
+  },
+  "gp-chijkcv8bl3zrikru8br_yi6qqy": {
+   "label": 2,
+   "reason": "Water damage restoration business in Morrisville about 18 km away with strong reviews; website has no body content so services are unverified, but the listed trade fits and 24/7 open listing is shown."
+  },
+  "gp-chijoz40z7xwrikrnkdpq_e1cm0": {
+   "label": 3,
+   "reason": "Restoration company 9 km away in Durham; site explicitly lists sewage backup removal, clogged drain overflows, 24/7 emergency service, and residential-focused work."
+  },
+  "gp-chijq3n2brvzrikr_mi6og88n3o": {
+   "label": 2,
+   "reason": "Family-owned 24/7 restoration company in Apex, about 28 km away, which is near the distance limit; lists sewage damage cleanup and residential water work, but Durham is not in its stated service area."
+  },
+  "roto-rooter-plumbing-water-cleanup-durham": {
+   "label": 3,
+   "reason": "Durham plumber and water cleanup provider 6.5 km away; site lists water damage cleanup, toilet repair, floodwater cleanup, mold remediation, and 24/7 emergency availability."
+  },
+  "servpro-of-south-durham": {
+   "label": 2,
+   "reason": "SERVPRO franchise 8 km away offering 24/7 water damage extraction and cleanup, and sanitizing-related biohazard work; Durham service area is not explicitly stated and site copy is generic."
+  }
+ },
+ "gutter_detached": {
+  "gp-chij0xd2dydjrikrp_tfsxztvdo": {
+   "label": 3,
+   "reason": "Gutter repair, replacement and downspout installation are listed explicitly; Durham-based at about 6.6 km; residential home contractor since 1989. No emergency service stated."
+  },
+  "gp-chij2ynozxxlrikrlhiesg9ldle": {
+   "label": 2,
+   "reason": "Gutter installation and repair offered in Durham at about 13.5 km, but the site centers on gutter guards and lists a multi-state service area, so specific pulled-away gutter repair is less clearly its core."
+  },
+  "gp-chij4qawrjjhrikrmjssvrzai4o": {
+   "label": 2,
+   "reason": "Gutter installation listed among painting and roofing services in Durham at about 12.8 km; gutter repair is not specifically named, so fit is plausible but not explicit."
+  },
+  "gp-chijg-jagdzjrikrd-ggsij2fqm": {
+   "label": 3,
+   "reason": "Gutter repair, replacement and maintenance explicitly listed; Durham-based at about 8.5 km; lists 24-hour open status, though emergency service is not explicitly stated for this job."
+  },
+  "gp-chiji73ni8tcawarxqxyt2ai8am": {
+   "label": 3,
+   "reason": "Gutter installation and drainage extensions to reroute water away from foundation are explicitly listed, matching both the detached gutter and the downspout problem; Raleigh-based at about 16.8 km serving Durham."
+  },
+  "gp-chijjzmg6gjarikr2t_lzsq0lnk": {
+   "label": 2,
+   "reason": "Gutter repair is listed and emergency service is claimed 24/7, but it is about 29.6 km away and the stated service area is Raleigh only, so Durham coverage is uncertain."
+  },
+  "gp-chijmw3u1obirikrude41q0hxwa": {
+   "label": 2,
+   "reason": "Lists gutters among trades in Durham at about 3.4 km, but its website emphasizes windows, siding and roofing; gutter repair is not specifically detailed."
+  },
+  "gp-chijxqchoafjrikr-k3tolxjlks": {
+   "label": 3,
+   "reason": "Gutter repair and seamless gutter installation are explicitly listed; Durham-based at about 7.4 km since 2017 with a residential focus; no emergency service stated."
+  },
+  "gp-chijxzhzn6gsrikrbbyusuh75xs": {
+   "label": 1,
+   "reason": "Primarily a cleaning company offering gutter cleaning and guards rather than gutter repair or reattachment; does not do the needed repair, though it is nearby and open 24 hours."
+  }
+ },
+ "yard_drainage": {
+  "gp-chij32osck08rs4rtsiavtr18-i": {
+   "label": 3,
+   "reason": "Waterproofing and drainage specialist in Durham, about 11 km away, with interior or exterior drainage systems listed and residential service."
+  },
+  "gp-chij60ymwn_grikrq8m7xbi1bvq": {
+   "label": 2,
+   "reason": "Foundation repair firm in Durham with exterior drainage systems listed, but its focus is structural lifting and piers, and it also serves commercial work."
+  },
+  "gp-chijaalxrex3rikrnvoi6hxttoe": {
+   "label": 1,
+   "reason": "Explicitly offers French drains, but its Raleigh base is about 34 km away, beyond the ~30 km range."
+  },
+  "gp-chijdbax4f_lrikrwpl-wq9tcwa": {
+   "label": 2,
+   "reason": "Durham waterproofing company listing drainage systems, about 8 km away, but its emphasis is crawl space and foundation work rather than yard grading or French drains."
+  },
+  "gp-chijh01rqithrikrfxawzp_dfbc": {
+   "label": 0,
+   "reason": "Pest control company, which cannot do drainage or regrading work."
+  },
+  "gp-chijhbgz4cjdrikrigedyfms9ci": {
+   "label": 2,
+   "reason": "Triangle crawl space company about 19 km away offering sump pumps and other drainage solutions, though it is crawl-space focused."
+  },
+  "gp-chijmup32d7srikrlgxrfl_nh94": {
+   "label": 2,
+   "reason": "Cary crawlspace company about 22 km away listing exterior drainage and drainage systems, though primarily crawlspace work."
+  },
+  "gp-chijpxfoabxfrikrcq8glnj1v6s": {
+   "label": 3,
+   "reason": "Central NC contractor about 21 km away that explicitly offers French drains and sump pumps for residential homes."
+  },
+  "gp-chijre4wskxlrikrqbc4rm5fbzc": {
+   "label": 1,
+   "reason": "Durham crawl space business with encapsulation and insulation only; no drainage or grading services and no stated service area."
+  },
+  "gp-chijusw1m83lrikrozptv29bpiu": {
+   "label": 3,
+   "reason": "Family-owned Durham waterproofing and drainage company about 11 km away that explicitly handles wet yards and poor drainage for residences."
+  },
+  "roto-rooter-plumbing-water-cleanup-durham": {
+   "label": 1,
+   "reason": "Plumbing company offering sump pump service and water cleanup, but no French drain or yard regrading work; adjacent trade."
+  },
+  "streamline-services-plumbing-hvac-electrical": {
+   "label": 1,
+   "reason": "HVAC, plumbing and electrical company listing waterproofing only in its trade tags, with no drainage or grading services on its site."
+  }
+ },
+ "gutter_overflow": {
+  "gp-chij0xd2dydjrikrp_tfsxztvdo": {
+   "label": 3,
+   "reason": "Durham gutter contractor at 9 km that explicitly lists gutter cleaning among its services."
+  },
+  "gp-chij2ynozxxlrikrlhiesg9ldle": {
+   "label": 3,
+   "reason": "Durham gutter specialist at 12 km that lists gutter cleaning and gutter guards, with a free estimate."
+  },
+  "gp-chij4qawrjjhrikrmjssvrzai4o": {
+   "label": 2,
+   "reason": "Painting and roofing company at 1.2 km that offers gutter installation and guards; gutter cleaning is not explicitly listed."
+  },
+  "gp-chijg-jagdzjrikrd-ggsij2fqm": {
+   "label": 2,
+   "reason": "Exterior contractor at 7.6 km that offers gutter maintenance and repair; cleaning is implied but not named."
+  },
+  "gp-chiji73ni8tcawarxqxyt2ai8am": {
+   "label": 3,
+   "reason": "Gutter company at 24.9 km, within range, that explicitly offers regular gutter cleaning and maintenance for Durham."
+  },
+  "gp-chijj6kkqqtxrikr1guyxmqnwju": {
+   "label": 3,
+   "reason": "Roofing and gutter contractor at 22.7 km that explicitly lists clogged gutter cleaning as a service."
+  },
+  "gp-chijjzmg6gjarikr2t_lzsq0lnk": {
+   "label": 1,
+   "reason": "Gutter cleaning is offered, but the company is about 39.7 km away, beyond the ~30 km range."
+  },
+  "gp-chijmw3u1obirikrude41q0hxwa": {
+   "label": 2,
+   "reason": "Durham window, siding and roofing installer at 11 km that lists gutters as a trade; cleaning is not mentioned on the site."
+  },
+  "gp-chijqy26qzpxrikratjd5o4htos": {
+   "label": 2,
+   "reason": "Roofing company at 11.6 km that lists gutters among its services; cleaning is not explicitly named."
+  },
+  "gp-chijrymyjrd6rikrd5pxisjqy60": {
+   "label": 3,
+   "reason": "Durham gutter-cleaning specialist at 19.5 km whose only listed service is gutter cleaning, with 30 years of experience."
+  },
+  "gp-chijxzhzn6gsrikrbbyusuh75xs": {
+   "label": 3,
+   "reason": "Durham exterior cleaning company at 17.5 km that explicitly offers gutter cleaning and gutter guard installation for residences."
+  }
+ },
+ "mold_after_leak": {
+  "gp-chije2szwmnqrikrbd0o52xpm0q": {
+   "label": 3,
+   "reason": "Water damage restoration firm within about 16 km that lists mold inspection and removal, residential service, 24/7 emergency response, and Durham in its service area."
+  },
+  "gp-chiji5btvs3nrikru85q1ftdjmw": {
+   "label": 3,
+   "reason": "Water damage restoration company about 10 km away that lists mold remediation and residential service, with Durham in its stated service area and 24/7 emergency response."
+  },
+  "gp-chijk73vxw_vrikrctlw-r20tmq": {
+   "label": 3,
+   "reason": "Water restoration company about 8 km away that explicitly lists mold removal and remediation, residential water damage work, 24/7 response, and Durham service."
+  },
+  "gp-chijkcv8bl3zrikru8br_yi6qqy": {
+   "label": 2,
+   "reason": "Listed as water damage restoration in Morrisville about 12.5 km away with 24-hour listing, but the website has no body content to confirm mold work or service area."
+  },
+  "gp-chijltzv0lvzrikrmgzgm0cnllk": {
+   "label": 3,
+   "reason": "Water damage restoration firm about 17 km away that states mold remediation and appliance leak repair for homes, with 24/7 emergency service and Durham in its service area."
+  },
+  "gp-chijoz40z7xwrikrnkdpq_e1cm0": {
+   "label": 3,
+   "reason": "Restoration company about 4 km away that explicitly offers black mold remediation, mold inspections, and appliance leak cleanup for homes, with 24/7 service."
+  },
+  "gp-chijp9eqldvzrikrgibqqoqk99g": {
+   "label": 2,
+   "reason": "Water and mold remediation company listing Durham service and 24/7 response, but at about 26 km it is at the edge of the preferred distance."
+  },
+  "gp-chijq3n2brvzrikr_mi6og88n3o": {
+   "label": 2,
+   "reason": "Family-owned 24/7 water and mold removal company about 20 km away with residential-relevant services, though Durham is not named in its service area."
+  },
+  "gp-chijqt4wa9hlrikryxuuiq3hu34": {
+   "label": 3,
+   "reason": "Durham mold remediation specialist about 7 km away whose core services are mold remediation and water damage remediation for homes; emergency availability is not stated but this is not an emergency."
+  },
+  "roto-rooter-plumbing-water-cleanup-durham": {
+   "label": 2,
+   "reason": "Durham plumber about 13 km away that lists water damage cleanup and mold remediation with 24/7 availability, but its core business is plumbing rather than restoration."
+  },
+  "servpro-of-south-durham": {
+   "label": 2,
+   "reason": "Restoration franchise about 11.5 km away offering mold inspection and removal and water damage cleanup with 24/7 service, though the local service area is not stated and the copy is generic."
+  }
+ },
+ "gutter_guards": {
+  "gp-chij2ynozxxlrikrlhiesg9ldle": {
+   "label": 3,
+   "reason": "Gutters trade; website sells and installs micro-mesh gutter guards, residential, Durham, 15.7 km away. Strong match for clog prevention."
+  },
+  "gp-chij4qawrjjhrikrmjssvrzai4o": {
+   "label": 2,
+   "reason": "Gutters trade; lists Gutter Guards among services, Durham area, 21.5 km away. Painting/roofing focus is generic for gutter guard job, emergency unstated."
+  },
+  "gp-chijg-jagdzjrikrd-ggsij2fqm": {
+   "label": 2,
+   "reason": "Gutters trade; lists gutter installation, replacement and maintenance but not gutter guards specifically. Durham, 20.6 km away; 24h listing but site doesn't state emergency service."
+  },
+  "gp-chiji73ni8tcawarxqxyt2ai8am": {
+   "label": 3,
+   "reason": "Gutter specialist with gutter guard style Gutter Shutter System and no-clog guarantee, Raleigh area 26.5 km away, residential focus."
+  },
+  "gp-chijjzmg6gjarikr2t_lzsq0lnk": {
+   "label": 2,
+   "reason": "Gutter company listing gutter guards, residential; service area is Raleigh, about 39.6 km away, beyond the ~30 km threshold."
+  },
+  "gp-chijmw3u1obirikrude41q0hxwa": {
+   "label": 1,
+   "reason": "Roofing and gutters listed but website focuses on windows, siding and roofing; no gutter guard service mentioned. Durham 27.8 km away."
+  },
+  "gp-chijn9rg29xvrikrpw2tojouxfy": {
+   "label": 3,
+   "reason": "Specialist in patented clog-free gutter guard systems with free evaluation and lifetime warranty; Durham 15.2 km away, residential."
+  },
+  "gp-chijqy26qzpxrikratjd5o4htos": {
+   "label": 1,
+   "reason": "Roofing company with gutters as a secondary service; no gutter guard mention. Chapel Hill 9.6 km away, mixed residential/commercial focus."
+  },
+  "gp-chijxzhzn6gsrikrbbyusuh75xs": {
+   "label": 2,
+   "reason": "Offers gutter guard installation and gutter cleaning for residential homes in Durham, 15.7 km away; primarily an exterior cleaning company, so gutter guard install is a secondary service."
+  }
+ },
+ "roof_replacement": {
+  "boxer-roofing": {
+   "label": 3,
+   "reason": "Roofing contractor 8.3 km away that lists roof replacement and asphalt shingle installation for residential homes."
+  },
+  "carolina-united-roofing-construction-llc": {
+   "label": 3,
+   "reason": "Chapel Hill roofer at about 22 km that lists residential roof replacement and includes Durham in its service area."
+  },
+  "feazel-roofing": {
+   "label": 3,
+   "reason": "Durham roofer at about 24.5 km that lists roof replacement and GAF Master Elite status for residential work."
+  },
+  "gp-chij0yb1uarkrikri0kja-ml6wg": {
+   "label": 3,
+   "reason": "Durham roofing company 7.5 km away with roofing as its core trade, serving Durham and offering residential installs with free estimates."
+  },
+  "gp-chij1ticdutjrikr_w6fwjtsbl8": {
+   "label": 3,
+   "reason": "Durham roofer 10.5 km away that lists shingle roofs, roof replacement and residential roofing."
+  },
+  "gp-chije5mrs17mrikrcjzpxgd4bsw": {
+   "label": 2,
+   "reason": "Roofing trade listed in Durham about 15.5 km away, but no website text to confirm shingle replacement work."
+  },
+  "gp-chijgqlm70xjrikr58i-xeml3em": {
+   "label": 3,
+   "reason": "Durham roofer 6.7 km away that lists roof replacement and residential roofing, with 27712 in its service zips."
+  },
+  "gp-chijkbe_dpvtrikro5xuil5lvic": {
+   "label": 1,
+   "reason": "Roofer offers residential replacement, but it is about 39.8 km away, beyond the ~30 km range."
+  },
+  "gp-chijm-njerpjrikrbi0qtfruzf4": {
+   "label": 3,
+   "reason": "Durham roofer 6.2 km away that lists full roof replacement, shingle roofing and residential service."
+  },
+  "gp-chijmw3u1obirikrude41q0hxwa": {
+   "label": 3,
+   "reason": "Durham-based installer 6 km away that lists shingle roofing and roof replacement, with a full-time roofing repairman on staff."
+  },
+  "gp-chijqy26qzpxrikratjd5o4htos": {
+   "label": 3,
+   "reason": "Chapel Hill roofer about 22 km away that lists residential roof replacement and covers Durham."
+  },
+  "gp-chijs3oygkljrikrgjr26qkn74q": {
+   "label": 3,
+   "reason": "Durham family roofer 7.5 km away that lists residential roof replacements and storm and leak repairs."
+  },
+  "gp-chijuuiuip3hrikr0xqo67npc1e": {
+   "label": 3,
+   "reason": "Durham exterior contractor 10.2 km away that lists asphalt shingle roof replacement and residential roof work."
+  },
+  "gp-chijz5ubvzt7rikrgitum_dpzje": {
+   "label": 3,
+   "reason": "Durham roofer about 20 km away that lists asphalt shingle roof replacement and residential service."
+  },
+  "wjm-roofing": {
+   "label": 2,
+   "reason": "Durham residential roofer 11.1 km away that lists roof installation and upgrades, though full replacement is not stated explicitly."
+  }
+ },
+ "chimney_leak_hillsborough": {
+  "boxer-roofing": {
+   "label": 2,
+   "reason": "Roofing contractor about 8 km away with roof repair and inspection services and residential service, but no explicit chimney flashing work is listed."
+  },
+  "carolina-united-roofing-construction-llc": {
+   "label": 2,
+   "reason": "Residential roof repair and free inspections within about 19 km, but no chimney or flashing work is stated."
+  },
+  "feazel-roofing": {
+   "label": 1,
+   "reason": "Lists chimney protection and repair, but it is about 31.7 km away, beyond the roughly 30 km range."
+  },
+  "gp-chij0yb1uarkrikri0kja-ml6wg": {
+   "label": 3,
+   "reason": "Roofing contractor about 16 km away that explicitly lists chimney flashing and residential service."
+  },
+  "gp-chije5mrs17mrikrcjzpxgd4bsw": {
+   "label": 2,
+   "reason": "Roofing contractor about 18 km away with a good rating, but there is no website text to confirm flashing or chimney work."
+  },
+  "gp-chijkbe_dpvtrikro5xuil5lvic": {
+   "label": 1,
+   "reason": "Roofing contractor, but about 40.6 km away, beyond the roughly 30 km range, and flashing work is not specifically listed."
+  },
+  "gp-chijm-njerpjrikrbi0qtfruzf4": {
+   "label": 3,
+   "reason": "Roofing contractor about 17.5 km away that lists roof leaks, flashing, chimney repair and residential service, with emergency repairs stated."
+  },
+  "gp-chijmw3u1obirikrude41q0hxwa": {
+   "label": 2,
+   "reason": "Residential roof repair roofer about 20.5 km away with a full-time roofing repairman, but chimney flashing is not mentioned."
+  },
+  "gp-chijqy26qzpxrikratjd5o4htos": {
+   "label": 2,
+   "reason": "Residential roof repair and emergency tarping about 18.6 km away, but chimney or flashing work is not specifically stated."
+  },
+  "gp-chijs3oygkljrikrgjr26qkn74q": {
+   "label": 3,
+   "reason": "Roofing company about 19.5 km away that lists flashing work, leak repairs, residential service and same-day emergency leak inspection."
+  },
+  "gp-chijuuiuip3hrikr0xqo67npc1e": {
+   "label": 2,
+   "reason": "Roof leak repair with residential service about 14.6 km away, but no chimney flashing work is listed and emergency hours are not stated."
+  },
+  "gp-chijz5ubvzt7rikrgitum_dpzje": {
+   "label": 1,
+   "reason": "Roofing company that mainly installs and replaces roofs, about 30.5 km away, with no repair or flashing work stated."
+  }
+ },
+ "mini_split_garage": {
+  "alternative-aire-inc": {
+   "label": 3,
+   "reason": "Lists ductless mini split installation as a core service, is based in Durham about 7 km away, and serves residential homes."
+  },
+  "gp-chij6ri5hodzrikrlpbmrfz_lm0": {
+   "label": 3,
+   "reason": "Lists ductless mini splits and heat pumps, is about 19 km away in Raleigh, and states 24/7 service with residential focus."
+  },
+  "gp-chijcxhuvi0erykra3ken5bywri": {
+   "label": 3,
+   "reason": "Website summary states it offers mini-splits, is a Durham residential HVAC company about 7 km away, and offers 24/7 service."
+  },
+  "gp-chijrsftr8pgrikryqpenueemvy": {
+   "label": 2,
+   "reason": "HVAC company in Durham about 9 km away, but no website text confirms ductless mini split work."
+  },
+  "gp-chijs0ahimtnrikrgoxbqdqxose": {
+   "label": 3,
+   "reason": "Lists ductless mini-split installation, is about 3.5 km away in Durham, and states it is open 7 days a week with emergency service."
+  },
+  "gp-chijzrluukrwrikr0lvajb9b5m4": {
+   "label": 3,
+   "reason": "Lists ductless HVAC mini-split installation and maintenance, serves residential homes, and offers 24/7 service, though it is about 18 km away."
+  },
+  "green-horizon-one-hour-heating-air-conditioning": {
+   "label": 3,
+   "reason": "Lists ductless mini split as a service, is about 5 km away in Durham, and offers 24/7 emergency HVAC calls."
+  },
+  "happy-home-services": {
+   "label": 3,
+   "reason": "Lists ductless mini split systems as a specific service, is about 9 km away in Durham, and claims 24/7 repairs."
+  },
+  "jd-service-now": {
+   "label": 3,
+   "reason": "Lists ductless mini splits as a specific service, is about 9 km away in Durham, and serves residential customers; emergency availability is not stated."
+  },
+  "streamline-services-plumbing-hvac-electrical": {
+   "label": 3,
+   "reason": "Lists ductless installation as a specific service and serves Durham about 9 km away; website text is cut off and emergency service is not stated."
+  }
+ },
+ "flat_roof_porch": {
+  "carolina-united-roofing-construction-llc": {
+   "label": 2,
+   "reason": "Roofing contractor 14.3 km away with residential roof repair and TPO/PVC single-ply flat roofing, but EPDM is not named."
+  },
+  "feazel-roofing": {
+   "label": 2,
+   "reason": "Roofing contractor 14 km away with roof repair and commercial roof work, but no flat or EPDM roofing is listed."
+  },
+  "gp-chij0yb1uarkrikri0kja-ml6wg": {
+   "label": 2,
+   "reason": "Durham roofing company 4.2 km away offering roofing and gutters, but no flat roof or EPDM work is stated."
+  },
+  "gp-chij73zwdj2-oaarbe2mbjrth5y": {
+   "label": 2,
+   "reason": "Roofing company with roof repairs and flashing repair serving NC, plausibly able to fix seams, but no flat roofing is stated."
+  },
+  "gp-chije5mrs17mrikrcjzpxgd4bsw": {
+   "label": 2,
+   "reason": "Durham roofer 7 km away with good ratings, but no website text is available to confirm flat roof work."
+  },
+  "gp-chijgqlm70xjrikr58i-xeml3em": {
+   "label": 3,
+   "reason": "Durham roofer 4.7 km away that explicitly lists EPDM roofing, flat roofing, roof repair, and emergency roofing services."
+  },
+  "gp-chijkbe_dpvtrikro5xuil5lvic": {
+   "label": 2,
+   "reason": "Roofing contractor doing residential and commercial roof repairs, but it is 29.3 km away and does not mention flat or EPDM roofing."
+  },
+  "gp-chijm-njerpjrikrbi0qtfruzf4": {
+   "label": 3,
+   "reason": "Durham roofer 4.5 km away that lists flat roofs, roof leaks, flashing, and emergency repairs."
+  },
+  "gp-chijmw3u1obirikrude41q0hxwa": {
+   "label": 2,
+   "reason": "Durham roofing and window company 6.7 km away that lists roof repair, but its focus is windows and siding and it names no flat roof work."
+  },
+  "gp-chijqy26qzpxrikratjd5o4htos": {
+   "label": 2,
+   "reason": "Residential roofer 14.4 km away with roof repair and emergency tarping, but no flat or EPDM roofing is listed."
+  },
+  "gp-chijuuiuip3hrikr0xqo67npc1e": {
+   "label": 3,
+   "reason": "Durham exterior contractor 5.4 km away that lists flat roofing, rubber roofing, and roof leak repair, which fits this EPDM leak."
+  },
+  "gp-chijz5ubvzt7rikrgitum_dpzje": {
+   "label": 1,
+   "reason": "Durham roofer 11 km away that is open 24 hours, but it focuses on asphalt shingle and metal roofing with no flat roof work."
+  },
+  "mj-s-roofing-remodeling": {
+   "label": 2,
+   "reason": "Durham roofing business 5.4 km away, but the website shows only a title, so flat roof capability is unknown."
+  }
+ },
+ "heat_pump_replace": {
+  "air-innovations-heating-and-cooling-llc": {
+   "label": 2,
+   "reason": "Right trade, very close (0.6 km) and serves Durham; lists AC installations and furnace maintenance, but heat pump installation is not stated."
+  },
+  "alternative-aire-inc": {
+   "label": 3,
+   "reason": "Explicitly lists heat pump installation, AC installation and furnace installation for residential homes in Durham at about 15 km."
+  },
+  "gp-chij6ri5hodzrikrlpbmrfz_lm0": {
+   "label": 3,
+   "reason": "Explicitly offers heat pumps, AC replacement and furnace replacement and installation, serving Raleigh and Durham at about 17 km."
+  },
+  "gp-chijcxhuvi0erykra3ken5bywri": {
+   "label": 3,
+   "reason": "Lists heat pump services, furnace replacement and AC installation and replacement for Durham homes at about 15 km."
+  },
+  "gp-chijhyjnbyd6rikrykpssng91ne": {
+   "label": 2,
+   "reason": "Offers AC and heating installation and replacement with free estimates on complete system replacement at about 12 km, but heat pumps are not named."
+  },
+  "gp-chijk8r18_o7dq4rnae83if3wgg": {
+   "label": 3,
+   "reason": "Lists heat pump installation, gas furnaces and AC installation, with geothermal and ductless systems, serving the RDU area at about 6 km."
+  },
+  "gp-chijs0ahimtnrikrgoxbqdqxose": {
+   "label": 2,
+   "reason": "Offers AC installation, heating installation and heat pump repair in Durham at about 8 km, but heat pump installation is not explicitly listed."
+  },
+  "gp-chijsty4_wxvrikrakf1rccjhjw": {
+   "label": 3,
+   "reason": "Explicitly offers heat pumps, furnace installation, A/C installation and dual fuel hybrid systems, with a Durham office at about 3.5 km."
+  },
+  "gp-chijzrluukrwrikr0lvajb9b5m4": {
+   "label": 3,
+   "reason": "Lists heat pump installation, furnace installation and AC installation for residential Raleigh and Triangle homes at about 16 km."
+  },
+  "green-horizon-one-hour-heating-air-conditioning": {
+   "label": 3,
+   "reason": "Explicitly lists heat pumps, furnaces, AC installation and replacement, serving Durham and Raleigh at about 7 km."
+  },
+  "happy-home-services": {
+   "label": 3,
+   "reason": "Lists AC installation and replacement, heat pump services, gas furnace services and dual fuel hybrid systems in Durham at about 17 km."
+  },
+  "jd-service-now": {
+   "label": 2,
+   "reason": "Right trade in Durham with AC replacement and heating installation, but heat pump installation is not stated (only heat pump repair) at about 17 km."
+  },
+  "streamline-services-plumbing-hvac-electrical": {
+   "label": 2,
+   "reason": "Lists HVAC install and AC install in Durham at about 13 km, but the business is plumbing-led and heat pump work is not mentioned."
+  }
+ },
+ "weak_airflow": {
+  "all-weather-heating-cooling-inc": {
+   "label": 3,
+   "reason": "Durham HVAC company 11.4 km away that lists indoor air quality and duct upgrades, residential service, and 24/7 emergency support."
+  },
+  "alternative-aire-inc": {
+   "label": 3,
+   "reason": "Durham residential HVAC firm 3.8 km away that explicitly lists ductwork and zone system upgrades, plus same-day appointments."
+  },
+  "gp-chij6ri5hodzrikrlpbmrfz_lm0": {
+   "label": 2,
+   "reason": "Established HVAC provider at about 25 km with 24/7 service and residential focus, but its site does not specifically mention ductwork or airflow fixes."
+  },
+  "gp-chijcxhuvi0erykra3ken5bywri": {
+   "label": 3,
+   "reason": "Durham family HVAC contractor 3.8 km away that lists ductwork services and residential HVAC, with after-hours service mentioned."
+  },
+  "gp-chijhyjnbyd6rikrykpssng91ne": {
+   "label": 2,
+   "reason": "Licensed residential HVAC company about 22 km away that offers duct cleaning and heating/AC work, though it does not clearly list duct repair or upgrades and emergency service is not stated."
+  },
+  "gp-chijoxzrmidhrikrsmifu9ebpja": {
+   "label": 3,
+   "reason": "Durham HVAC company 1 km away that lists home zoning, which directly addresses uneven upstairs temperatures, along with indoor air quality and residential service."
+  },
+  "gp-chijrsftr8pgrikryqpenueemvy": {
+   "label": 2,
+   "reason": "Very close Durham HVAC business with strong reviews, but no website text, so the specific ductwork capability is unconfirmed."
+  },
+  "gp-chijs0ahimtnrikrgoxbqdqxose": {
+   "label": 2,
+   "reason": "Durham residential HVAC provider 9 km away with 7-day service and emergency service, though it does not explicitly list ductwork or airflow work."
+  },
+  "green-horizon-one-hour-heating-air-conditioning": {
+   "label": 3,
+   "reason": "Independent Durham-area HVAC firm about 12 km away that lists duct repair and ductwork installation, with 24/7 emergency HVAC service."
+  },
+  "happy-home-services": {
+   "label": 3,
+   "reason": "Durham HVAC and plumbing company 1.1 km away that lists air duct installation, zoning systems, and residential service with 24/7 emergency repairs."
+  },
+  "jd-service-now": {
+   "label": 3,
+   "reason": "Durham residential HVAC provider 0.9 km away that lists zoned HVAC systems and air duct cleaning, which address uneven upstairs airflow, though emergency service is not stated."
+  },
+  "streamline-services-plumbing-hvac-electrical": {
+   "label": 2,
+   "reason": "Durham HVAC provider about 11.5 km away that lists air duct cleaning and HVAC repair, but the site text is cut off and emergency service is not stated."
+  }
+ },
+ "ev_charger": {
+  "bud-matthews-services": {
+   "label": 2,
+   "reason": "Electrical is listed and the website names electrical work, but EV charger installation is not specifically mentioned. Chapel Hill is 8.4 km away and 24-hour emergency service is listed. The company is mainly HVAC and appliance focused, so the fit is generic."
+  },
+  "gp-chij5bvkhbcgkgur1us23vwmbmw": {
+   "label": 3,
+   "reason": "The website explicitly lists EV Charger Installation, is a licensed electrical contractor for residential work, serves Durham and nearby Triangle areas including Chapel Hill, is 16.5 km away, and states emergency service."
+  },
+  "gp-chijgew6hrflrikr2r6-kxu7_jc": {
+   "label": 3,
+   "reason": "Core specialty is electrical with a dedicated EV Charging Stations service, residential clients, a license shown, Durham-based at 4.4 km, and a 5.0 rating. Emergency service is not stated, which does not matter for this non-emergency job."
+  },
+  "gp-chijl_6ivowzrykrv4bwf3omz30": {
+   "label": 3,
+   "reason": "The website lists Residential EV Chargers as a service, it is a residential electrician in Durham at 21.8 km, and it serves the Durham and Raleigh area. Emergency service is not claimed, which is acceptable for a non-emergency install."
+  },
+  "gp-chijnx4lfrllrikrfuekoyc5qwy": {
+   "label": 3,
+   "reason": "The website explicitly lists EV charger installation, says it is licensed and permits work, serves residential clients in Durham at 10.1 km, and has 24-hour listing status."
+  },
+  "gp-chijvwoveo6hpasr0c1l203pk7g": {
+   "label": 3,
+   "reason": "Electric Vehicle Chargers is a listed service, it is a veteran-owned residential electrical contractor for over 15 years, and it serves Cary and Durham at 12.7 km. It also states 24/7 emergency service on its Apex page."
+  },
+  "jd-service-now": {
+   "label": 1,
+   "reason": "Electrical is listed, but the website only says electrical repair and installation generally, with no EV charger mention. The company is primarily an HVAC business and has no stated emergency service."
+  },
+  "streamline-services-plumbing-hvac-electrical": {
+   "label": 1,
+   "reason": "Electrical is in the listed trades, but the website text is cut off and the listed services are almost entirely plumbing, drain and HVAC. There is no specific electrical or EV charger service on the site."
+  },
+  "touchstone-electric-raleigh": {
+   "label": 2,
+   "reason": "It is an electrical contractor in Morrisville, 12.1 km away, with 24-hour listing status and strong reviews. No website text is available, so the EV charger capability cannot be confirmed."
+  },
+  "triad-electrical-services": {
+   "label": 2,
+   "reason": "It is an electrical contractor in Cary with a 5.0 rating and 905 reviews, so the trade is right. No website text or distance is available, so the specific EV charger job and service area cannot be confirmed."
+  }
+ },
+ "ac_morrisville": {
+  "air-innovations-heating-and-cooling-llc": {
+   "label": 2,
+   "reason": "Right trade within about 10 km and serves Durham, but the site lists general HVAC repair rather than explicitly naming AC repair."
+  },
+  "all-weather-heating-cooling-inc": {
+   "label": 3,
+   "reason": "Explicitly lists AC repair, serves Durham and the Triangle about 13 km away, and is a residential HVAC company."
+  },
+  "alternative-aire-inc": {
+   "label": 3,
+   "reason": "Explicitly lists AC Repair, is a Durham HVAC company about 20 km away, and serves residential customers with same-day appointments."
+  },
+  "gp-chij6ri5hodzrikrlpbmrfz_lm0": {
+   "label": 3,
+   "reason": "Explicitly lists AC Repair, is about 9 km away in Raleigh, and offers 24/7 service for residential homes."
+  },
+  "gp-chijhyjnbyd6rikrykpssng91ne": {
+   "label": 3,
+   "reason": "Explicitly lists AC Repair for homes, has a Morrisville office about 4 km away, and serves the local area."
+  },
+  "gp-chijs0ahimtnrikrgoxbqdqxose": {
+   "label": 3,
+   "reason": "Explicitly lists AC Repair, is about 18 km away in Durham, and states 7-day operation with emergency service."
+  },
+  "gp-chijzrluukrwrikr0lvajb9b5m4": {
+   "label": 3,
+   "reason": "Explicitly lists air conditioning repair, is about 9 km away in Raleigh, and is a family-owned residential company with 24/7 service."
+  },
+  "green-horizon-one-hour-heating-air-conditioning": {
+   "label": 3,
+   "reason": "Explicitly lists AC Repair, serves Morrisville, Cary and Durham about 11 km away, and is a residential HVAC business."
+  },
+  "happy-home-services": {
+   "label": 3,
+   "reason": "Explicitly lists AC Repair & Maintenance for homeowners, is about 23 km away, and states 24/7 emergency repairs."
+  },
+  "jd-service-now": {
+   "label": 3,
+   "reason": "Explicitly lists AC Repair for residential customers and is about 23 km away in Durham, though its service area is limited to Durham."
+  },
+  "streamline-services-plumbing-hvac-electrical": {
+   "label": 3,
+   "reason": "Explicitly lists AC Repair for residential customers, is about 15 km away in Durham, and serves Raleigh and Fuquay Varina."
+  }
+ },
+ "panel_upgrade": {
+  "bud-matthews-services": {
+   "label": 2,
+   "reason": "Lists electrical work and 24-hour emergency service, but panel upgrades are not named, electrical is secondary to its HVAC focus, and it is about 27 km away."
+  },
+  "gp-chij3d1mumlhrikroytdlwol150": {
+   "label": 3,
+   "reason": "Electrical contractor that explicitly lists panel upgrades and replacements for residential work, about 10 km away with a 5-star rating."
+  },
+  "gp-chij5bvkhbcgkgur1us23vwmbmw": {
+   "label": 3,
+   "reason": "Explicitly offers electrical panel upgrades and breaker box replacement for residential customers, about 4 km away, with emergency service."
+  },
+  "gp-chijgew6hrflrikr2r6-kxu7_jc": {
+   "label": 3,
+   "reason": "Explicitly offers panel and service upgrades and replacing circuit breakers for residential clients, about 16 km away."
+  },
+  "gp-chijl_6ivowzrykrv4bwf3omz30": {
+   "label": 3,
+   "reason": "Explicitly offers panel and sub-panel upgrades and service upgrades for residential work, about 8 km away."
+  },
+  "gp-chijvwoveo6hpasr0c1l203pk7g": {
+   "label": 2,
+   "reason": "Explicitly offers service panels and circuit breakers with 24/7 emergency service, but at about 28 km it is beyond the ~25 km band for a top grade."
+  },
+  "jd-service-now": {
+   "label": 2,
+   "reason": "Electrical repair and installation are listed, but panel upgrades are not named; it is a generalist home services company about 13 km away."
+  },
+  "streamline-services-plumbing-hvac-electrical": {
+   "label": 1,
+   "reason": "Electrical is listed as a trade, but the website shows only plumbing, drain and HVAC services with no electrical work described."
+  },
+  "touchstone-electric-raleigh": {
+   "label": 2,
+   "reason": "Electrical contractor about 17 km away with 24-hour listing; no website text to confirm panel work, but the trade fits."
+  },
+  "triad-electrical-services": {
+   "label": 2,
+   "reason": "Electrical contractor in Cary with strong reviews; distance is unknown and there is no website text to confirm panel work."
+  }
+ },
+ "ceiling_fans": {
+  "bud-matthews-services": {
+   "label": 2,
+   "reason": "Electrical is a listed core trade and the site describes residential electrical work in Chapel Hill, but ceiling fans are not named and it is about 19.6 km away."
+  },
+  "gp-chij3d1mumlhrikroytdlwol150": {
+   "label": 3,
+   "reason": "Its website explicitly lists Ceiling Fans and residential service, and it is about 6.3 km away in Durham."
+  },
+  "gp-chijaypf5rfjrikru5tlgi2ieps": {
+   "label": 3,
+   "reason": "Its website explicitly lists fan installation and residential electrical work, and it is only about 0.9 km away."
+  },
+  "gp-chijgew6hrflrikr2r6-kxu7_jc": {
+   "label": 2,
+   "reason": "It is a residential electrical contractor that lists adding lighting fixtures, which is close to this job, but ceiling fans are not named and it is about 14.7 km away."
+  },
+  "gp-chijl_6ivowzrykrv4bwf3omz30": {
+   "label": 3,
+   "reason": "Its website explicitly lists Ceiling Fan Installation and Repair for residential clients, and it is about 8.8 km away in Durham."
+  },
+  "gp-chijnx4lfrllrikrfuekoyc5qwy": {
+   "label": 2,
+   "reason": "It offers residential lighting installation and wiring in Durham, about 9.9 km away, but ceiling fans are not named."
+  },
+  "gp-chijvwoveo6hpasr0c1l203pk7g": {
+   "label": 2,
+   "reason": "Its website explicitly lists Ceiling Fan Installations for residential clients, but it is about 28.5 km away, beyond the close-range band."
+  },
+  "jd-service-now": {
+   "label": 2,
+   "reason": "It lists Electrical Installation for residential Durham customers about 0.9 km away, but electrical is secondary to its HVAC focus and fans are not named."
+  },
+  "streamline-services-plumbing-hvac-electrical": {
+   "label": 1,
+   "reason": "Electrical is listed as a trade, but the website services shown are almost entirely drain, sewer, and HVAC work with no electrical services named."
+  },
+  "touchstone-electric-raleigh": {
+   "label": 2,
+   "reason": "It is a listed electrical contractor about 22 km away, but there is no website text to confirm ceiling fan or residential work."
+  },
+  "triad-electrical-services": {
+   "label": 2,
+   "reason": "It is a listed electrical contractor with strong reviews, but distance and website details are missing, so only general fit can be inferred."
+  }
+ },
+ "standby_generator": {
+  "bud-matthews-services": {
+   "label": 2,
+   "reason": "Right trade (electrical listed, plus 24-hour emergency service), but the site does not mention generators, and at 29.1 km it is near the distance limit."
+  },
+  "gp-chij3d1mumlhrikroytdlwol150": {
+   "label": 2,
+   "reason": "Electrician about 4 km away that lists generator transfer switches, which are part of a standby install, but does not clearly advertise whole-house generator installation; no emergency service stated."
+  },
+  "gp-chij5bvkhbcgkgur1us23vwmbmw": {
+   "label": 3,
+   "reason": "Electrician about 11 km away that explicitly lists generator installation and residential work, with emergency service and 24-hour listing."
+  },
+  "gp-chijaypf5rfjrikru5tlgi2ieps": {
+   "label": 3,
+   "reason": "Licensed residential electrician about 10 km away that lists generator setup, with advertised 24/7 emergency service."
+  },
+  "gp-chijgew6hrflrikr2r6-kxu7_jc": {
+   "label": 3,
+   "reason": "Durham electrical contractor about 21 km away with a dedicated Generator Installation service and residential work; emergency availability not stated."
+  },
+  "gp-chijk1hb6idhrikrdv1xpeecvhc": {
+   "label": 3,
+   "reason": "Electrical company about 9 km away that is an authorized Generac dealer offering home generator installation and repair for residential customers."
+  },
+  "gp-chijl_6ivowzrykrv4bwf3omz30": {
+   "label": 3,
+   "reason": "Family electrical business 2 km away that explicitly lists traditional and battery backup generator installations for homes."
+  },
+  "gp-chijvwoveo6hpasr0c1l203pk7g": {
+   "label": 1,
+   "reason": "Lists Generac home generator installation and 24/7 service, but at 34.2 km it is beyond the roughly 30 km range."
+  },
+  "gp-chijwqbuhkthrikrm9xrp4ohjvc": {
+   "label": 3,
+   "reason": "Electrical contractor about 9 km away with residential service and an explicit generator installation and service line."
+  },
+  "jd-service-now": {
+   "label": 2,
+   "reason": "Electrical trade in Durham about 10 km away and residential-focused, but no generator work is listed."
+  },
+  "streamline-services-plumbing-hvac-electrical": {
+   "label": 1,
+   "reason": "Electrical is listed, but the website centers on HVAC, plumbing and drain work, with no generator or electrical installation evidence."
+  },
+  "touchstone-electric-raleigh": {
+   "label": 2,
+   "reason": "Electrical contractor about 24 km away with a 24-hour listing; no website text to confirm generator work."
+  },
+  "triad-electrical-services": {
+   "label": 2,
+   "reason": "Electrical trade in Cary with strong reviews, but distance is unknown and there is no website text to confirm generator work."
+  }
+ },
+ "washer_leak": {
+  "gp-chij0dctmn903y8remfolth6cv8": {
+   "label": 3,
+   "reason": "Explicitly repairs washers, is 4 km away, serves Durham and the Triangle, and states 24/7 service."
+  },
+  "gp-chij0ukajlljrikraakw01rp7sa": {
+   "label": 3,
+   "reason": "Explicitly offers washing machine repair in Durham, includes zip 27713 and nearby areas, and is 8.2 km away; emergency service is not stated."
+  },
+  "gp-chijr2x9f4_vrikrvfdkpepyzd0": {
+   "label": 3,
+   "reason": "Specifically lists front load washer repair, covers zip 27707 and Durham, is 6.8 km away, and runs a residential business with a diagnostic fee and guarantee."
+  },
+  "gp-chijt5uhgh3nrikrsqv3msrnhcq": {
+   "label": 2,
+   "reason": "Listed for appliance repair in Durham 8.4 km away, but the website has no text to confirm washer work."
+  },
+  "gp-chijvzdarfykjsyrczclepwluks": {
+   "label": 2,
+   "reason": "Appliance repair company that lists washer repair and serves Durham, but it is about 27 km away and the site contains spam text."
+  },
+  "gp-chijxagidhdzrikrm6e2dwd4n_s": {
+   "label": 3,
+   "reason": "Franchise that explicitly offers washing machine repair for residential customers, lists a 24-hour listing, and is about 25.7 km away, close to the ~25 km target; its service area is Cary rather than Durham."
+  },
+  "gp-chijzbwcw4nmrikrr3-fpcf5jw8": {
+   "label": 3,
+   "reason": "Durham in-home repair specialist that explicitly services washers, is 2.1 km away, and serves the Triangle."
+  },
+  "happy-home-services": {
+   "label": 1,
+   "reason": "Listed for appliance repair, but the website focuses on HVAC and plumbing and does not list any appliance services, making it an adjacent trade for a washer job."
+  },
+  "jd-service-now": {
+   "label": 1,
+   "reason": "Listed for appliance repair, but the website covers HVAC, electrical and plumbing without any appliance services, so it is an adjacent trade for this washer job."
+  },
+  "triangle-services-handyman-appliance-repair": {
+   "label": 2,
+   "reason": "Offers general appliance repairs and garbage disposals in the Durham area, but washers are not named and the business is primarily handyman work."
+  }
+ },
+ "fridge_warm": {
+  "gp-chij025madb7rikracmz31acbbs": {
+   "label": 2,
+   "reason": "Appliance repair in Durham at 3.3 km with no website text, so refrigerator repair is plausible but unconfirmed."
+  },
+  "gp-chij0dctmn903y8remfolth6cv8": {
+   "label": 3,
+   "reason": "Website explicitly lists refrigerator and freezer repair, residential service, 24/7 emergency service, and Durham/Triangle coverage at 17.3 km."
+  },
+  "gp-chij0ukajlljrikraakw01rp7sa": {
+   "label": 3,
+   "reason": "Website explicitly lists refrigerator repair, serves Durham areas at 11.6 km, though emergency service is not stated."
+  },
+  "gp-chijdtlq3dvfemarka3kphg1clq": {
+   "label": 3,
+   "reason": "Website lists refrigerator and freezer repair for residential customers, serves Durham, and states emergency service at 22.6 km."
+  },
+  "gp-chijr2x9f4_vrikrvfdkpepyzd0": {
+   "label": 3,
+   "reason": "Website explicitly lists refrigerator and freezer repair, covers zip 27703 and Durham at 10.2 km, with residential focus."
+  },
+  "gp-chijt5uhgh3nrikrsqv3msrnhcq": {
+   "label": 2,
+   "reason": "Appliance repair in Durham at 5.5 km with no website text, so refrigerator repair is plausible but unconfirmed."
+  },
+  "gp-chijvzdarfykjsyrczclepwluks": {
+   "label": 3,
+   "reason": "Website explicitly lists refrigerator repair for homes, serves Durham, and is about 14.8 km away."
+  },
+  "gp-chijxagidhdzrikrm6e2dwd4n_s": {
+   "label": 3,
+   "reason": "Website explicitly lists refrigerator and freezer repair for residential customers, with a 24-hour listing at 21.6 km."
+  },
+  "gp-chijzbwcw4nmrikrr3-fpcf5jw8": {
+   "label": 3,
+   "reason": "In-home repair of refrigerators in Durham at 12.7 km is explicitly stated, with a residential focus."
+  },
+  "happy-home-services": {
+   "label": 1,
+   "reason": "Primarily HVAC and plumbing; appliance repair is listed as a trade but the website describes no appliance repair services."
+  },
+  "jd-service-now": {
+   "label": 1,
+   "reason": "Primarily HVAC, electrical and plumbing; appliance repair is listed but the website shows no appliance repair services."
+  },
+  "triangle-services-handyman-appliance-repair": {
+   "label": 2,
+   "reason": "Handyman company that generically offers appliance repairs and serves Durham, though refrigerator repair is not named and distance is unknown."
+  }
+ },
+ "dishwasher_drain": {
+  "bud-matthews-services": {
+   "label": 3,
+   "reason": "Website explicitly lists dishwasher appliance repair, 8.4 km away, with emergency service stated and a residential focus."
+  },
+  "gp-chij0dctmn903y8remfolth6cv8": {
+   "label": 3,
+   "reason": "Appliance-only owner-operated firm that explicitly repairs dishwashers, 10.3 km away, with 24/7 service stated."
+  },
+  "gp-chij0ukajlljrikraakw01rp7sa": {
+   "label": 3,
+   "reason": "Explicit dishwasher repair service, ZIP 27713 is in its listed service area, and it is 15.4 km away; emergency availability not stated."
+  },
+  "gp-chijr2x9f4_vrikrvfdkpepyzd0": {
+   "label": 3,
+   "reason": "Explicit dishwasher repair, ZIP 27713 listed in service area, 4.4 km away, with a stated diagnostic fee and guarantee."
+  },
+  "gp-chijt5uhgh3nrikrsqv3msrnhcq": {
+   "label": 2,
+   "reason": "Appliance repair business in Durham 12 km away, but no website text confirms dishwasher work."
+  },
+  "gp-chijvzdarfykjsyrczclepwluks": {
+   "label": 3,
+   "reason": "Explicitly lists dishwasher repair for residential homes, serves Durham and Raleigh area, about 25 km away."
+  },
+  "gp-chijxagidhdzrikrm6e2dwd4n_s": {
+   "label": 3,
+   "reason": "Franchise explicitly offers dishwasher repair, 18.7 km away, with a 24-hour open listing."
+  },
+  "gp-chijzbwcw4nmrikrr3-fpcf5jw8": {
+   "label": 0,
+   "reason": "Website explicitly states it does not service dishwashers."
+  },
+  "happy-home-services": {
+   "label": 1,
+   "reason": "Lists appliance repair as a trade but the website describes only HVAC, plumbing and air quality services with no appliance work."
+  },
+  "jd-service-now": {
+   "label": 1,
+   "reason": "Lists appliance repair as a trade but the website describes only HVAC, electrical and plumbing services."
+  },
+  "triangle-services-handyman-appliance-repair": {
+   "label": 2,
+   "reason": "Handyman and appliance repair company serving Durham and Chapel Hill; mentions appliance repairs generally but not dishwashers specifically, and distance is unknown."
+  }
+ },
+ "gas_oven": {
+  "gp-chij0dctmn903y8remfolth6cv8": {
+   "label": 3,
+   "reason": "Appliance repair in Durham (about 7 km) that explicitly lists gas/electric stoves and wall ovens, with owner-operated residential service and 24/7 availability."
+  },
+  "gp-chij0ukajlljrikraakw01rp7sa": {
+   "label": 3,
+   "reason": "Durham appliance repair (about 6 km) with dedicated oven, range and cooktop repair service pages covering Durham zip codes."
+  },
+  "gp-chijr2x9f4_vrikrvfdkpepyzd0": {
+   "label": 3,
+   "reason": "Locally owned company (about 15 km) that explicitly repairs ovens and ranges, serves Durham and zip 27705, and offers a diagnostic fee and 90-day guarantee."
+  },
+  "gp-chijt5uhgh3nrikrsqv3msrnhcq": {
+   "label": 2,
+   "reason": "Appliance repair business about 12 km away with good ratings, but no website text confirms oven or gas repair."
+  },
+  "gp-chijvzdarfykjsyrczclepwluks": {
+   "label": 1,
+   "reason": "Lists oven repair and serves Durham, but it is about 32 km away, beyond the preferred distance."
+  },
+  "gp-chijxagidhdzrikrm6e2dwd4n_s": {
+   "label": 1,
+   "reason": "Offers oven and range repair, but it is about 34 km away and is largely a commercial-plus-residential franchise farther out."
+  },
+  "gp-chijzbwcw4nmrikrr3-fpcf5jw8": {
+   "label": 0,
+   "reason": "Its website explicitly says it does not service gas appliances, so it cannot handle a gas oven."
+  },
+  "happy-home-services": {
+   "label": 1,
+   "reason": "Nearby (about 1 km) and offers 24/7 service, but its core is HVAC and plumbing; appliance repair is only in its listed trades and the site shows no oven work."
+  },
+  "jd-service-now": {
+   "label": 1,
+   "reason": "Very close (about 1 km) but primarily HVAC, electrical and plumbing; appliance repair is listed as a trade without any oven service shown on the website."
+  },
+  "mr-appliance-of-durham-chapel-hill": {
+   "label": 2,
+   "reason": "Explicitly offers oven, stove and range repair and gas dryer service in Durham and the Triangle, but distance is unknown and emergency availability is not stated."
+  },
+  "triangle-services-handyman-appliance-repair": {
+   "label": 1,
+   "reason": "Primarily a handyman and drywall/deck company; appliance work is limited to garbage disposals and nothing indicates gas oven repair."
+  }
+ },
+ "tv_mount_assembly": {
+  "bud-matthews-services": {
+   "label": 1,
+   "reason": "Listed as Handyman, but the website centers on HVAC, appliance, plumbing and electrical work with no TV mounting or furniture assembly listed."
+  },
+  "mr-handyman-of-chapel-hill-and-west-durham": {
+   "label": 3,
+   "reason": "Explicitly lists TV Wall Mount Installation and assembly services, is locally based in Chapel Hill and West Durham at about 3.8 km."
+  },
+  "gp-chijcwegx-wsrcqrpnj32ibtuiq": {
+   "label": 3,
+   "reason": "Explicitly offers TV mounting and furniture assembly as core residential handyman services in Durham at about 10.3 km."
+  },
+  "gp-chijgbg9wfrvrikrw0_qfhqnj0y": {
+   "label": 2,
+   "reason": "Handyman trade at about 4.4 km, but the website text is only a URL so the specific jobs cannot be confirmed."
+  },
+  "gp-chijgwxpjqxtrikronlhssqaejs": {
+   "label": 2,
+   "reason": "General handyman and carpentry business serving Durham and Cary at about 6.2 km, though TV mounting and furniture assembly are not explicitly listed."
+  },
+  "gp-chijiuaw3qpnrikrrs3jtcugpzg": {
+   "label": 2,
+   "reason": "Handyman business serving Chapel Hill and Durham at about 11.1 km with general home repair, though its focus is remodeling and TV mounting or assembly are not listed."
+  },
+  "gp-chijqvm-qcilrikrqokqne3vqcw": {
+   "label": 3,
+   "reason": "Explicitly lists furniture assembly as a residential service in Raleigh at about 21.9 km, within range, though TV mounting is not listed."
+  },
+  "triangle-services-handyman-appliance-repair": {
+   "label": 2,
+   "reason": "Handyman company serving Chapel Hill and the Triangle with residential repairs, but its listed services focus on drywall, decks and appliances rather than TV mounting or assembly; distance unknown."
+  }
+ },
+ "drywall_door": {
+  "bud-matthews-services": {
+   "label": 1,
+   "reason": "Listed trades include Handyman, but the website focuses on HVAC, appliance, plumbing and electrical work with no drywall, painting or door repair mentioned."
+  },
+  "do-it-all-dave-s-llc": {
+   "label": 3,
+   "reason": "Handyman business 2.3 km away whose site explicitly lists drywall, painting, handyman work and door reframing, serving Durham."
+  },
+  "gp-chijcwegx-wsrcqrpnj32ibtuiq": {
+   "label": 2,
+   "reason": "Residential handyman in Durham, 8 km away, but the listed services do not explicitly mention drywall, painting or door latch repair."
+  },
+  "gp-chijgbg9wfrvrikrw0_qfhqnj0y": {
+   "label": 2,
+   "reason": "Handyman listing 9.8 km away with a strong rating, but the website text is only a URL so the services cannot be confirmed."
+  },
+  "gp-chijgwxpjqxtrikronlhssqaejs": {
+   "label": 3,
+   "reason": "Handyman 17.5 km away whose site explicitly lists sheetrock, drywall, painting, and window and door work, serving Durham."
+  },
+  "gp-chijiuaw3qpnrikrrs3jtcugpzg": {
+   "label": 2,
+   "reason": "Durham handyman 7.6 km away offering painting and general home repair, though drywall and door work are not explicitly listed."
+  },
+  "gp-chijqvm-qcilrikrqokqne3vqcw": {
+   "label": 2,
+   "reason": "Residential handyman franchise listing drywall patching and door repair, but at about 28 km it is slightly beyond the preferred range."
+  },
+  "mohandymen-llc": {
+   "label": 3,
+   "reason": "Durham handyman 7.1 km away that explicitly lists drywall, interior painting and handyman services for residential work."
+  },
+  "mr-handyman-of-chapel-hill-and-west-durham": {
+   "label": 3,
+   "reason": "Locally owned handyman 11 km away that explicitly lists drywall patching and repair, and has a 24-hour listing."
+  },
+  "triangle-services-handyman-appliance-repair": {
+   "label": 2,
+   "reason": "Handyman that explicitly lists drywall hole and patch repair, texture matching and door work, serving Raleigh and Durham, though distance is unknown."
+  }
+ },
+ "termite_swarm": {
+  "aruza-pest-control": {
+   "label": 2,
+   "reason": "Pest control is the right trade and the Apex base is local, but there is no website text confirming termite work and the distance is unknown."
+  },
+  "gp-chij61jpcl_6rikrewwrxrqba9s": {
+   "label": 3,
+   "reason": "Website explicitly lists termite control for residential homes in Durham at about 13.5 km, with same-day service advertised."
+  },
+  "gp-chij9-n5wmrzrikrn_nt6sf0gv4": {
+   "label": 2,
+   "reason": "Clearly offers termite inspections, baiting and liquid barriers, but at about 29 km it is past the ~25 km ideal and no emergency service is stated."
+  },
+  "gp-chijeyhyonblrikrzbxdwkxnlfq": {
+   "label": 3,
+   "reason": "Termite baiting and moisture control are advertised, the firm has served the Triangle since 1993, and it is about 6.4 km away."
+  },
+  "gp-chijh01rqithrikrfxawzp_dfbc": {
+   "label": 3,
+   "reason": "Termite control is a core service, the firm is about 12.5 km away, and its listing shows 24-hour availability, which suits a swarm concern."
+  },
+  "gp-chijjwlw1o7xrikr3iooipgzqbs": {
+   "label": 3,
+   "reason": "Termite control is listed for residential customers, Durham is in its service area, and same-day service is advertised, though the distance is about 17 km."
+  },
+  "gp-chijq6oalnrjrikrubzwzknwefe": {
+   "label": 3,
+   "reason": "Termite control and termite inspections are core services for residential customers, about 5.1 km away, with 40 years in business."
+  },
+  "gp-chijyehgkf_hrikrcbxztqc3smq": {
+   "label": 3,
+   "reason": "Dedicated termite solutions including Sentricon, plus a 60-year history and Durham base about 9.2 km away."
+  },
+  "gp-chijyqghwq_wrikrtlh7zzl_ycm": {
+   "label": 3,
+   "reason": "Offers termite inspection, bait stations and wood treatment for homes, and Durham and Apex are in its service area at about 17 km."
+  },
+  "triangle-pest-control": {
+   "label": 1,
+   "reason": "About 34.6 km away, beyond the ~30 km limit, and there is no website text showing termite or residential work."
+  }
+ },
+ "mice_attic": {
+  "aruza-pest-control": {
+   "label": 2,
+   "reason": "Pest control in Apex with strong reviews, but no website text and no distance, so the rodent work and service area are unconfirmed."
+  },
+  "gp-chij1yc-lyllrikrh1qmtmh2ipi": {
+   "label": 3,
+   "reason": "Franchise explicitly offers mice and rat control, attic repair and exclusion for homes, and serves Apex within about 11 km."
+  },
+  "gp-chij61jpcl_6rikrewwrxrqba9s": {
+   "label": 3,
+   "reason": "Durham residential pest company that lists rodent control and same-day service about 5.6 km away, though attic exclusion is not stated."
+  },
+  "gp-chij9zjxlw7tgmcrjjal-0v6uqy": {
+   "label": 3,
+   "reason": "Lists rodent exclusion, entry-point sealing and wildlife removal for homes, states 24/7-style emergency service, and serves Apex, though it is about 21 km away."
+  },
+  "gp-chijeyhyonblrikrzbxdwkxnlfq": {
+   "label": 3,
+   "reason": "Long-established residential pest company with explicit rodent control, serving Durham and Apex about 13.5 km away."
+  },
+  "gp-chijh01rqithrikrfxawzp_dfbc": {
+   "label": 3,
+   "reason": "Terminix lists rodent control, exclusion and wildlife removal for homes, has a 24-hour listing, and is about 1.4 km away, though its stated service area is mainly eastern NC and Virginia."
+  },
+  "gp-chijjwlw1o7xrikr3iooipgzqbs": {
+   "label": 3,
+   "reason": "ClearDefense Raleigh branch lists rodent control and same-day residential service, and covers Durham, though it is about 25 km away."
+  },
+  "gp-chijlxvcdllhrikr4vmwouxqop8": {
+   "label": 1,
+   "reason": "Mosquito Authority is a mosquito specialist, an adjacent specialty for mice in the kitchen and attic, and there is no website text to show otherwise."
+  },
+  "gp-chijnxtehqxlrikrp4cmxv2fy0o": {
+   "label": 3,
+   "reason": "Durham pest company offering rodent and wildlife exclusion and attic-relevant wildlife control for homes, with a 24-hour listing, about 10.5 km away."
+  },
+  "gp-chijoqipxt7drikrjgjq-lkzki8": {
+   "label": 3,
+   "reason": "Residential pest company listing rodent control and attic TAP insulation work, serving Durham and Chapel Hill about 10 km away."
+  },
+  "gp-chijq6oalnrjrikrubzwzknwefe": {
+   "label": 2,
+   "reason": "Established residential pest company about 10 km away, but rodent control is not explicitly listed, only general pest and termite services."
+  },
+  "gp-chijyehgkf_hrikrcbxztqc3smq": {
+   "label": 3,
+   "reason": "Durham pest company about 4.7 km away that explicitly lists rodent control and wildlife control for residential homes."
+  },
+  "gp-chijyqghwq_wrikrtlh7zzl_ycm": {
+   "label": 3,
+   "reason": "Raleigh-area residential pest company listing rodent control, serving Apex and Durham, about 24 km away, though its focus is exterior barrier plans."
+  },
+  "triangle-pest-control": {
+   "label": 1,
+   "reason": "Apex-based pest control with no website text, but about 31.8 km from the user, beyond the approximately 30 km threshold."
+  }
+ },
+ "wildlife_attic": {
+  "aruza-pest-control": {
+   "label": 2,
+   "reason": "Pest control in Apex with a strong reputation, but no website text or distance is shown, so the wildlife removal and sealing fit cannot be confirmed."
+  },
+  "gp-chij1yc-lyllrikrh1qmtmh2ipi": {
+   "label": 3,
+   "reason": "Critter Control of the Triangle lists animal removal, animal exclusion, entry-point repair and attic repair, serves Durham and Apex, and is about 11.7 km away."
+  },
+  "gp-chij61jpcl_6rikrewwrxrqba9s": {
+   "label": 2,
+   "reason": "ClearDefense Durham offers residential rodent control but no wildlife removal or exclusion, and is about 13.8 km away."
+  },
+  "gp-chij9zjxlw7tgmcrjjal-0v6uqy": {
+   "label": 3,
+   "reason": "Attic to Basement Pest Control advertises wildlife removal, entry point sealing, rodent exclusion and hardware cloth installation, serves Apex and Durham, and is about 22.2 km away."
+  },
+  "gp-chijeyhyonblrikrzbxdwkxnlfq": {
+   "label": 2,
+   "reason": "Pest & Termite Consultants offers general pest and rodent control in the Triangle but does not mention wildlife removal or exclusion; about 13.5 km away."
+  },
+  "gp-chijh01rqithrikrfxawzp_dfbc": {
+   "label": 3,
+   "reason": "Terminix lists wildlife removal, dead animal removal and exclusion services, is about 9.4 km away, and has 24-hour availability, though its stated service area is mainly Eastern NC and Hampton Roads."
+  },
+  "gp-chijjwlw1o7xrikr3iooipgzqbs": {
+   "label": 2,
+   "reason": "ClearDefense Raleigh offers residential rodent control and wasp removal but no wildlife removal or exclusion; it is about 25.5 km away."
+  },
+  "gp-chijnxtehqxlrikrp4cmxv2fy0o": {
+   "label": 3,
+   "reason": "Bug Out lists wildlife control and rodent and wildlife exclusion for Durham homes, has 24-hour listing status, and is about 12.8 km away."
+  },
+  "gp-chijoqipxt7drikrjgjq-lkzki8": {
+   "label": 2,
+   "reason": "Economy Exterminators offers rodent control and attic insulation work but no explicit wildlife removal; about 20.5 km away."
+  },
+  "gp-chijq6oalnrjrikrubzwzknwefe": {
+   "label": 2,
+   "reason": "Kil Mor Pest Management offers general pest, termite and moisture control serving Durham and Raleigh, but no rodent or wildlife removal is listed; about 9.4 km away."
+  },
+  "gp-chijyehgkf_hrikrcbxztqc3smq": {
+   "label": 3,
+   "reason": "Clegg's Termite & Pest Control Durham lists wildlife control and rodent control for residential homes, serves Durham, and is about 7.7 km away."
+  },
+  "triangle-pest-control": {
+   "label": 1,
+   "reason": "Triangle Pest Control in Apex is about 39.3 km away, beyond the ~30 km limit, and no website text shows the specific job."
+  }
+ },
+ "mosquito_yard": {
+  "aruza-pest-control": {
+   "label": 2,
+   "reason": "Pest control in Apex, which is local to zip 27517, but there is no website text and no distance, so the mosquito and tick yard job is unconfirmed."
+  },
+  "gp-chij61jpcl_6rikrewwrxrqba9s": {
+   "label": 3,
+   "reason": "Residential pest control in Durham (16.6 km) that explicitly lists mosquito control and yard granulation, with 30-day return visits suited to a recurring plan. Tick work is not mentioned."
+  },
+  "gp-chijeyhyonblrikrzbxdwkxnlfq": {
+   "label": 3,
+   "reason": "Explicitly offers mosquito control and flea and tick control, serves Apex and Durham, and is about 23.5 km away."
+  },
+  "gp-chijh01rqithrikrfxawzp_dfbc": {
+   "label": 2,
+   "reason": "Terminix lists mosquito protection, but its stated service area is Eastern NC and Hampton Roads, and Durham is not named. Tick work is not mentioned."
+  },
+  "gp-chijjwlw1o7xrikr3iooipgzqbs": {
+   "label": 2,
+   "reason": "Explicitly offers mosquito control and yard granulation and serves Durham, Cary and Wake County, but at about 26.3 km it is slightly beyond the preferred range and tick work is not mentioned."
+  },
+  "gp-chijoqipxt7drikrjgjq-lkzki8": {
+   "label": 3,
+   "reason": "Chapel Hill company (10.7 km) that explicitly lists mosquito treatment and tick pest control for residential customers, with free inspections."
+  },
+  "gp-chijpyk-qwflrikrv-dppsqr1la": {
+   "label": 3,
+   "reason": "Orkin Durham (14.3 km) explicitly offers mosquito service and tick services for residential homes, with a service area covering Chapel Hill and Durham and 24/7 call answering."
+  },
+  "gp-chijq6oalnrjrikrubzwzknwefe": {
+   "label": 3,
+   "reason": "Explicitly lists mosquito control for residential customers in Chapel Hill and Durham, about 23.8 km away. Tick work is not mentioned."
+  },
+  "gp-chijuqcvuvrvrikrw3clcsio1dg": {
+   "label": 3,
+   "reason": "HomeTeam Pest Defense (13.9 km) explicitly offers mosquito control, including the Oasys repellent solution suited to ongoing yard protection, and serves Apex, Chapel Hill and Durham. Tick work is not mentioned."
+  },
+  "triangle-pest-control": {
+   "label": 2,
+   "reason": "Apex pest control company (14.4 km) with a large Google review base, but no website text, so the mosquito and tick yard job is unconfirmed."
+  }
+ },
+ "bed_bugs": {
+  "aruza-pest-control": {
+   "label": 2,
+   "reason": "Listed as pest control in Apex with strong reviews, but there is no website text confirming bed bug work and no distance is given."
+  },
+  "gp-chij61jpcl_6rikrewwrxrqba9s": {
+   "label": 2,
+   "reason": "Residential pest control in Durham about 5.8 km away, but bed bug service is not listed among its services."
+  },
+  "gp-chijeyhyonblrikrzbxdwkxnlfq": {
+   "label": 3,
+   "reason": "Explicitly lists Bed Bug Control, serves residential customers in Durham about 5.4 km away, and has been operating since 1993."
+  },
+  "gp-chijh01rqithrikrfxawzp_dfbc": {
+   "label": 2,
+   "reason": "Explicitly offers bed bug control for residential homes, but its stated service area is Eastern NC and Hampton Roads and does not name Durham."
+  },
+  "gp-chijjwlw1o7xrikr3iooipgzqbs": {
+   "label": 2,
+   "reason": "Residential pest control serving Durham, but about 17 km away and bed bug service is not listed."
+  },
+  "gp-chijnxtehqxlrikrp4cmxv2fy0o": {
+   "label": 3,
+   "reason": "Durham-based residential pest company about 2.6 km away that explicitly lists Bed Bug Service."
+  },
+  "gp-chijoqipxt7drikrjgjq-lkzki8": {
+   "label": 3,
+   "reason": "Explicitly lists bed bug treatment for residential customers, serves Durham, and is about 13 km away."
+  },
+  "gp-chijpyk-qwflrikrv-dppsqr1la": {
+   "label": 3,
+   "reason": "Orkin Durham branch lists Bed Bug Services for residential homes and says its team answers calls 24/7."
+  },
+  "gp-chijq6oalnrjrikrubzwzknwefe": {
+   "label": 2,
+   "reason": "Residential pest control in Durham about 2.7 km away, but bed bug service is not listed."
+  },
+  "gp-chijybte6jimrikr4psxcw0isku": {
+   "label": 3,
+   "reason": "Family-owned Durham company about 7 km away that explicitly offers residential bed bug control and same-day or next-day service."
+  },
+  "gp-chijyehgkf_hrikrcbxztqc3smq": {
+   "label": 3,
+   "reason": "Durham company about 4.4 km away that explicitly offers residential bed bug detection, fumigation and heat treatments."
+  },
+  "triangle-pest-control": {
+   "label": 2,
+   "reason": "Pest control in Apex about 28.7 km away with no website text, so bed bug service is unconfirmed."
+  }
+ },
+ "sink_clog_chapel_hill": {
+  "bar-d-plumbing": {
+   "label": 3,
+   "reason": "Plumbing contractor that explicitly lists garbage disposal repair and drain cleaning, states 24/7 hours, and is about 16.5 km away."
+  },
+  "brown-brothers-plumbing-heating": {
+   "label": 3,
+   "reason": "Residential plumbing company that lists garbage disposals and clog handling with emergency service, about 16 km away."
+  },
+  "gp-chijn-xeay_frikrohiyrqpeplg": {
+   "label": 3,
+   "reason": "Hillsborough plumber offering drain clearing and drain cleaning plus emergency plumbing, about 12 km away. Garbage disposal work is not listed."
+  },
+  "gp-chijt8onncjhrikropcuhiikf0s": {
+   "label": 2,
+   "reason": "Plumbing listing with 24-hour status and about 9 km distance, but no website text to confirm drain or disposal work."
+  },
+  "gp-chijuezxstjnrikrmjpypvmskuc": {
+   "label": 3,
+   "reason": "Roto-Rooter plumber advertising 24/7 drain cleaning and sink service, about 10 km away. Garbage disposal work is not listed."
+  },
+  "gp-chijywc8ehbjrikr8vz5bjfcmcq": {
+   "label": 3,
+   "reason": "Plumbing company listing clogged drain services and garbage disposal services with 24-hour emergency service, about 17 km away."
+  },
+  "harmon-plumbing": {
+   "label": 3,
+   "reason": "Family plumbing company offering drain cleaning with 24/7 emergency service claimed, about 19 km away. Garbage disposal work is not listed."
+  },
+  "jd-service-now": {
+   "label": 1,
+   "reason": "Website describes mainly HVAC and electrical work with no plumbing services shown, so the plumbing listing is a weak match."
+  },
+  "plumbv-inc": {
+   "label": 1,
+   "reason": "Website text belongs to a different company (Happy Home Services), so there is little evidence of PlumbV's own residential drain work; distance is unknown."
+  },
+  "roto-rooter-plumbing-water-cleanup-durham": {
+   "label": 3,
+   "reason": "Durham Roto-Rooter explicitly lists drain cleaning, garbage disposal repair and replacement, and 24/7 emergency plumbing, about 14 km away."
+  },
+  "shelton-plumbing-co": {
+   "label": 3,
+   "reason": "Family plumbing company listing garbage disposal replacements and repairs, drain cleaning, and 24/7 emergency service, about 13 km away."
+  },
+  "streamline-services-plumbing-hvac-electrical": {
+   "label": 2,
+   "reason": "Lists drain clearing and rooter service, about 17 km away, but the site is mostly HVAC and emergency availability is not stated."
+  }
+ },
+ "storm_flood_cleanup": {
+  "1-800-water-damage-of-n-w-triangle-area": {
+   "label": 3,
+   "reason": "Water damage restoration franchise 13.6 km away, states 24/7 emergency service and lists flood damage restoration, water extraction, and residential service in Durham."
+  },
+  "gp-chije2szwmnqrikrbd0o52xpm0q": {
+   "label": 3,
+   "reason": "Durham company 4.7 km away with 24/7 emergency response and explicitly lists basement and crawlspace water extraction and structural drying."
+  },
+  "gp-chiji5btvs3nrikru85q1ftdjmw": {
+   "label": 3,
+   "reason": "Water damage restoration company 20.3 km away with 24/7 emergency response, water extraction and drying, and Durham in its listed service area."
+  },
+  "gp-chiji7wfwux0rikrssx1idmgzjm": {
+   "label": 3,
+   "reason": "Raleigh disaster restoration firm 19.2 km away with 24/7 emergency response and listed water extraction and water damage restoration."
+  },
+  "gp-chijkcv8bl3zrikru8br_yi6qqy": {
+   "label": 2,
+   "reason": "Listed as water damage restoration in Morrisville 21.3 km away with 24/7 listing, but the website has no body content to verify services."
+  },
+  "gp-chijksr5w0rzrikr5wzu5hwoftw": {
+   "label": 2,
+   "reason": "Water damage restoration company about 29 km away with 24/7 service, flood cleanup, and Durham in its service area, though the distance is somewhat beyond ideal."
+  },
+  "gp-chijltzv0lvzrikrmgzgm0cnllk": {
+   "label": 2,
+   "reason": "Water damage restoration company about 27.8 km away with 24/7 emergency service, crawlspace repair and basement flood cleanup, and Durham in its service area."
+  },
+  "gp-chijoz40z7xwrikrnkdpq_e1cm0": {
+   "label": 3,
+   "reason": "Water damage restoration company 17.7 km away with 24/7 service, water extraction, structural drying, and flood damage cleanup for residences."
+  },
+  "gp-chijp9eqldvzrikrgibqqoqk99g": {
+   "label": 3,
+   "reason": "Water damage company 20.6 km away with 24/7 service, flood cleanup, water extraction, drying, crawl space work, and Durham in its service area."
+  },
+  "gp-chijq3n2brvzrikr_mi6og88n3o": {
+   "label": 1,
+   "reason": "Restoration company with flood and crawl space mold work and 24/7 service, but it is about 35 km away, beyond the preferred range."
+  },
+  "gp-chijtz1toot1rikryeaxqn5hmgo": {
+   "label": 1,
+   "reason": "Water damage restoration with 24/7 service and flood work, but its listed base is Raleigh about 36 km away, beyond the preferred range."
+  },
+  "roto-rooter-plumbing-water-cleanup-durham": {
+   "label": 3,
+   "reason": "Durham plumber 8.5 km away with 24/7 emergency service that explicitly lists floodwater cleanup, restoration, and water damage cleanup, though plumbing is the core trade."
+  },
+  "servpro-of-south-durham": {
+   "label": 3,
+   "reason": "Restoration franchise 8.6 km away with 24/7 emergency water extraction and drying, though the local Durham service area is not stated on the site."
+  }
+ }
+}

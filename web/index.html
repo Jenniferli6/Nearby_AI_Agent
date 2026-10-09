@@ -1,0 +1,169 @@
+<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Nearby: help for your home</title>
+<link rel="stylesheet" href="/static/style.css">
+<style>
+body{display:flex;height:100vh;overflow:hidden}
+#sidebar{width:270px;flex:none;border-right:1px solid var(--line);background:#fff;display:flex;flex-direction:column}
+#sidebar .top{padding:16px;display:flex;flex-direction:column;gap:12px}
+#convs{flex:1;overflow:auto;padding:0 8px}
+.conv{padding:9px 10px;border-radius:8px;cursor:pointer;margin-bottom:2px}
+.conv:hover{background:#f6f3ef}.conv.on{background:var(--accent-soft)}
+.conv .t{font-size:14px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.conv .m{display:flex;justify-content:space-between;align-items:center;margin-top:3px}
+#sidebar .foot{padding:14px 16px;border-top:1px solid var(--line);font-size:14px}
+#main{flex:1;display:flex;flex-direction:column;min-width:0}
+#chatview{flex:1;display:flex;min-height:0}
+#chatcol{flex:3;display:flex;flex-direction:column;min-width:0;padding:16px 20px}
+#log{flex:1;overflow:auto;padding-right:6px}
+.msg{margin:10px 0;display:flex}.msg span{padding:9px 13px;border-radius:14px;max-width:80%;white-space:pre-wrap}
+.msg.user{justify-content:flex-end}.msg.user span{background:var(--accent-soft)}
+.msg.assistant span{background:#fff;border:1px solid var(--line)}
+#f{display:flex;gap:8px;margin-top:10px}#f input{flex:1}
+#side{flex:2;max-width:400px;overflow:auto;padding:16px 20px 16px 0}
+.row{display:flex;gap:8px;padding:5px 0;border-top:1px solid #f3efe9;font-size:14px}.row:first-of-type{border-top:0}
+.row .ic{width:16px;flex:none}.row.done .ic{color:var(--ok)}.row.todo .ic,.row.todo .lbl{color:#aaa}.row .lbl{width:110px;flex:none}
+.bar{height:6px;background:#eee;border-radius:3px;margin:8px 0 10px}.bar div{height:6px;background:var(--accent);border-radius:3px}
+.pro{display:flex;gap:10px;padding:10px 0;border-top:1px solid #f3efe9}.pro:first-of-type{border-top:0}
+.pro input{width:auto;margin-top:3px}.pro .why{font-size:13px;color:var(--muted);margin-top:3px}
+#reqview{flex:1;overflow:auto;padding:20px;display:none}
+.req .head{display:flex;justify-content:space-between;align-items:center;gap:10px}
+.req .prorow{display:flex;justify-content:space-between;gap:10px;padding:7px 0;border-top:1px solid #f3efe9;font-size:14px}
+.debug{display:none}body.dbg .debug{display:block}
+#probtn:disabled{background:#ece9e4;border-color:#ece9e4;color:#8a847c;opacity:1;cursor:default}
+.stages{list-style:none;display:flex;justify-content:space-between;margin:12px 0 0;padding:0;position:relative}
+.stages:before{content:"";position:absolute;top:6px;left:8%;right:8%;height:2px;background:#e7e2db}
+.stages li{flex:1;text-align:center;font-size:11px;color:#aaa;position:relative}
+.stages li:before{content:"";display:block;width:12px;height:12px;border-radius:50%;background:#e7e2db;margin:0 auto 4px;border:2px solid #fff}
+.stages li.done{color:var(--ink)}.stages li.done:before{background:var(--accent)}
+.stages li.now{color:var(--accent);font-weight:600}.stages li.now:before{background:#fff;border-color:var(--accent)}
+@media(max-width:900px){body{flex-direction:column;overflow:auto;height:auto}#sidebar{width:auto}#convs{max-height:160px}#chatview{flex-direction:column}#side{max-width:none;padding:0 20px 20px}#log{height:55vh}}
+</style></head><body>
+<aside id="sidebar">
+  <div class="top"><div class="brand">Near<span>by</span></div><button class="primary" id="newc">+ New conversation</button></div>
+  <div id="convs"></div>
+  <div class="foot">Run a home-services business? <a href="/pro">For pros →</a></div>
+</aside>
+<main id="main">
+  <nav class="tabs"><button data-tab="chat" class="on">Chat</button><button data-tab="req">My requests</button></nav>
+  <section id="chatview">
+    <div id="chatcol"><div id="log"></div>
+      <form id="f"><input id="t" placeholder="Describe what's wrong, e.g. water is coming into my basement after the storm" autocomplete="off"><button class="primary">Send</button></form></div>
+    <div id="side">
+      <div class="card" id="reqcard"><h3>Your request</h3><div class="muted" id="reqhint">Nothing is sent until you say so.</div>
+        <div class="bar"><div id="prog" style="width:0"></div></div><div id="rows"></div>
+        <div id="probox" style="margin-top:12px;border-top:1px solid var(--line);padding-top:12px">
+          <button class="primary" id="probtn" style="width:100%">Find me a pro now</button>
+          <div class="muted" id="prohint" style="margin-top:6px;text-align:center"></div>
+          <ol class="stages" id="stages"></ol></div></div>
+      <div class="card" id="proscard" style="display:none"><h3>Matched local pros</h3>
+        <div class="muted" id="proshint"></div><div id="pros"></div></div>
+      <div class="card debug"><h3>Developer view</h3><div class="muted">Shown because of ?debug=1</div>
+        <b>Dispatch checks still failing</b><ul id="gaps"></ul><b>Lead JSON</b><pre id="leadjson"></pre></div>
+    </div>
+  </section>
+  <section id="reqview"></section>
+</main>
+<script>
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const $=id=>document.getElementById(id);
+// developer view: http://localhost:8000/?debug=1 shows the "Developer view" card (lead JSON + dispatch checks)
+if(new URLSearchParams(location.search).has('debug'))document.body.classList.add('dbg');
+let owner=null;try{owner=localStorage.getItem('nearby_owner');if(!owner){owner=crypto.randomUUID();localStorage.setItem('nearby_owner',owner)}}catch(e){owner=owner||'guest-'+Math.random().toString(36).slice(2)}
+let cid=null,busy=false;
+const TRADE={plumbing:'Plumber',water_damage_restoration:'Water damage cleanup',waterproofing_foundation:'Basement waterproofing',roofing:'Roofer',gutters:'Gutter service',hvac:'Heating & AC',electrical:'Electrician',appliance_repair:'Appliance repair',handyman:'Handyman',pest_control:'Pest control'};
+const URG={emergency:'Today (emergency)',within_24h:'Within 24 hours',within_few_days:'Within a few days',flexible:'Flexible'};
+const AUTH={owner:'Owner',renter_landlord_approved:'Renter, landlord approved',renter_needs_approval:'Renter, needs landlord OK',property_manager:'Property manager'};
+const STATUS={draft:'Draft',sent:'Sent',viewed:'Viewed',matched:'Matched',no_match:'No pro yet',closed:'Closed',submitted:'Sent'};
+const ago=t=>{const s=(Date.now()/1000-t);return s<60?'just now':s<3600?Math.round(s/60)+' min ago':s<86400?Math.round(s/3600)+' h ago':new Date(t*1000).toLocaleDateString()};
+async function api(path,body){const r=await fetch(path,body?{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)}:{});
+  if(!r.ok)throw new Error((await r.text())||('Server error '+r.status));return r.json()}
+
+function add(role,text){const d=document.createElement('div');d.className='msg '+role;const s=document.createElement('span');s.textContent=text;d.appendChild(s);$('log').appendChild(d);$('log').scrollTop=1e9;return d}
+function greet(){$('log').innerHTML='';add('assistant',"Hi! Tell me what's going on at home. I'll help you work out what's wrong, and find a local pro in the Durham area if you need one.")}
+
+async function loadConvs(){
+  const cs=await api('/api/conversations?owner='+owner);
+  $('convs').innerHTML=cs.length?cs.map(c=>`<div class="conv ${c.id===cid?'on':''}" data-id="${c.id}"><div class="t">${esc(c.title)}</div>
+    <div class="m"><span class="muted">${ago(c.updated_at)}</span><span class="pill ${c.status}">${STATUS[c.status]||esc(c.status)}</span></div></div>`).join('')
+    :'<div class="muted" style="padding:10px">Your conversations will appear here.</div>';
+  document.querySelectorAll('.conv').forEach(el=>el.onclick=()=>openConv(el.dataset.id));
+}
+async function openConv(id){cid=id;tab('chat');const v=await api(`/api/conversations/${id}?owner=${owner}`);
+  greet();v.transcript.forEach(m=>add(m.role,m.text));render(v);loadConvs()}
+function newConv(){cid=null;tab('chat');greet();render(null);loadConvs();$('t').focus()}
+
+function render(v){
+  const L=v?v.lead:{matched_provider_ids:[],status:'draft'};
+  const items=[['The problem',L.problem_summary],['Type of pro',TRADE[L.trade]&&(TRADE[L.trade]+(L.secondary_trade?' (+ '+TRADE[L.secondary_trade]+' later)':''))],
+    ['How soon',URG[L.urgency]],['ZIP code',L.zip_code],['Own or rent',AUTH[L.authority]],
+    ['Contact',L.contact_name&&L.contact_phone&&(L.contact_name+', '+L.contact_phone)],['OK to share',L.consent_to_share&&'Yes, with the pros you pick'],
+    ['Pros',L.matched_provider_ids.length&&(L.matched_provider_ids.length+' selected')],['Confirmed',L.user_confirmed_summary&&'Yes']];
+  const done=items.filter(i=>i[1]).length;$('prog').style.width=Math.round(100*done/items.length)+'%';
+  $('rows').innerHTML=items.map(([k,x])=>`<div class="row ${x?'done':'todo'}"><span class="ic">${x?'✓':'○'}</span><span class="lbl">${k}</span><span>${x?esc(x):'not yet'}</span></div>`).join('');
+  const sent=L.status==='submitted';
+  stage(L,v?.request);
+  $('reqhint').innerHTML=sent?`<span class="pill ${v.request?.status||'sent'}">${STATUS[v.request?.status]||'Sent'}</span> request ${esc(L.lead_id)}`:'Nothing is sent until you say so. '+done+' of '+items.length+' done.';
+  const ms=v?v.matches:[];$('proscard').style.display=ms.length?'block':'none';
+  const st=Object.fromEntries((v?.request?.pros||[]).map(p=>[p.provider_id,p]));
+  $('proshint').textContent=sent?'Your request went to the pros below.':'Untick anyone you don\'t want to hear from. Their phone numbers are public, so you can also call them yourself.';
+  $('pros').innerHTML=ms.map(p=>`<div class="pro">${sent?'':`<input type="checkbox" data-pid="${p.provider_id}" ${p.selected?'checked':''}>`}
+    <div style="flex:1"><b>${esc(p.name)}</b> · <a href="tel:${esc(p.phone)}">${esc(p.phone)}</a>
+    ${st[p.provider_id]?`<span class="pill ${st[p.provider_id].status}" style="float:right">${esc(st[p.provider_id].label)}</span>`:''}
+    <div class="why">${esc(p.why)}</div>
+    <div class="why">${p.website?`<a href="${esc(p.website.startsWith('http')?p.website:'https://'+p.website)}" target="_blank">Website</a> · `:''}<a href="${esc(p.maps_url)}" target="_blank">Map</a></div></div></div>`).join('');
+  document.querySelectorAll('#pros input[type=checkbox]').forEach(cb=>cb.onchange=async()=>{
+    const ids=[...document.querySelectorAll('#pros input:checked')].map(x=>x.dataset.pid);
+    if(!ids.length){cb.checked=true;return alert('Keep at least one pro selected.')}
+    render(await api(`/api/conversations/${cid}/select`,{owner,provider_ids:ids}))});
+  $('gaps').innerHTML=(v?v.gaps:[]).map(g=>'<li>'+esc(g)+'</li>').join('')||'<li>none: dispatchable</li>';
+  $('leadjson').textContent=JSON.stringify(L,null,1);
+}
+
+// The button asks for a pro once; after that it stays visible but greyed out, its label and the tracker below it
+// following the request: pro requested -> pros matched -> sent -> a pro accepted.
+const STEPS=['Pro requested','Pros matched','Request sent','Pro accepted'];
+function stage(L,req){
+  const st=req?.status, n=!L.wants_pro?0:!L.matched_provider_ids.length?1:L.status!=='submitted'?2:st==='matched'?4:3;
+  const [label,hint]=[
+    ['Find me a pro now','Skip the DIY steps. Nothing is sent until you confirm.'],
+    ['Pro requested','Answer a few questions in the chat so the right pros can be matched.'],
+    ['Pros matched','Pick who gets it on the right, then confirm the summary in the chat to send.'],
+    st==='no_match'?['No pro available yet','The pros you picked couldn\'t take it. Start a new conversation to find others.']
+      :st==='closed'?['Request closed','You closed this request.']
+      :st==='viewed'?['Request sent','A pro has viewed your request. Waiting for an answer.']:['Request sent','Waiting for the pros to answer. This page updates on its own.'],
+    ['Matched with a pro','A pro accepted. They have your number and will contact you.']][n];
+  $('probtn').textContent=label;$('probtn').disabled=n>0;$('prohint').textContent=hint;
+  $('stages').innerHTML=STEPS.map((s,i)=>`<li class="${i+1<n||(n===4&&i===3)?'done':i+1===n?'now':''}">${s}</li>`).join('');
+}
+
+async function send(text,wants_pro=false){if(busy||!text)return;
+  add('user',text);const wait=add('assistant','…');busy=true;
+  try{const v=await api('/api/chat',{owner,text,conversation_id:cid,wants_pro});cid=v.conversation_id;wait.remove();add('assistant',v.reply);render(v);loadConvs()}
+  catch(err){wait.remove();add('assistant','⚠ '+err.message)}finally{busy=false}}
+$('f').onsubmit=e=>{e.preventDefault();const text=$('t').value.trim();$('t').value='';send(text)};
+// an explicit request for a pro, shown in the chat as the user's own message
+$('probtn').onclick=()=>send(cid?"I'd like a pro to help with this.":"I'd like a pro to help with something at home.",true);
+
+async function loadRequests(){
+  const {requests,drafts}=await api('/api/requests?owner='+owner);
+  const dr=drafts.map(d=>`<div class="card req"><div class="head"><h3>${esc(d.title)}</h3><span class="pill draft">Not sent yet</span></div>
+    <div>${esc(d.summary||'')}</div><div class="muted" style="margin:6px 0">Pros: ${esc(d.pros.join(', '))}. Still needed: ${esc(d.missing.join(', ')||'nothing')}.</div>
+    <button class="primary" onclick="openConv('${d.conversation_id}')">Finish this request</button></div>`).join('');
+  const rq=requests.map(r=>`<div class="card req"><div class="head"><h3>${esc(r.trade)} · ZIP ${esc(r.zip)}</h3><span class="pill ${r.status}">${STATUS[r.status]}</span></div>
+    <div class="muted">Request ${esc(r.lead_id)} · sent ${ago(r.created_at)} · ${esc(URG[r.urgency]||'')}</div><div style="margin:8px 0">${esc(r.summary)}</div>
+    ${r.pros.map(p=>`<div class="prorow"><span><b>${esc(p.name)}</b> · ${esc(p.phone)}</span><span class="pill ${p.status}">${esc(p.label)}</span></div>`).join('')}
+    <div style="margin-top:10px;display:flex;gap:8px"><button onclick="openConv('${r.conversation_id}')">Open conversation</button>
+    ${r.status!=='closed'?`<button class="ghost" onclick="closeReq('${r.lead_id}')">Close request</button>`:''}</div></div>`).join('');
+  $('reqview').innerHTML=(dr?'<h3>Not sent yet</h3>'+dr:'')+'<h3>Sent requests</h3>'+(rq||'<div class="empty">No requests sent yet. Start a conversation and I\'ll match you with local pros.</div>');
+}
+async function closeReq(id){if(!confirm('Close this request? Pros will see it\'s closed.'))return;await api(`/api/requests/${id}/close`,{owner});loadRequests();loadConvs()}
+function tab(t){document.querySelectorAll('.tabs button').forEach(b=>b.classList.toggle('on',b.dataset.tab===t));
+  $('chatview').style.display=t==='chat'?'flex':'none';$('reqview').style.display=t==='req'?'block':'none';if(t==='req')loadRequests()}
+document.querySelectorAll('.tabs button').forEach(b=>b.onclick=()=>tab(b.dataset.tab));
+$('newc').onclick=newConv;
+greet();render(null);loadConvs();
+// pick up pros' answers without a reload: refresh a sent request's status every 15 s while it's on screen
+setInterval(async()=>{if(busy||document.hidden)return;
+  if($('reqview').style.display==='block')return loadRequests();
+  if(cid&&$('reqhint').querySelector('.pill')){render(await api(`/api/conversations/${cid}?owner=${owner}`));loadConvs()}},15000);
+</script></body></html>

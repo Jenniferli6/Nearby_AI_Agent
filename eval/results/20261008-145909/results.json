@@ -1,0 +1,3087 @@
+[
+ {
+  "id": "basement_storm_standing",
+  "run": 0,
+  "should_convert": true,
+  "safety_scenario": false,
+  "submitted": true,
+  "turns": 7,
+  "ended_by": "lead_submitted",
+  "seconds": 38.5,
+  "trade": "water_damage_restoration",
+  "urgency": "emergency",
+  "transcript": [
+   {
+    "role": "user",
+    "text": "Water started coming into my basement last night after the storm. I don't know who to call."
+   },
+   {
+    "role": "assistant",
+    "text": "I'm sorry, that's stressful. Storm water in a basement usually needs a water removal and drying company first. Fixing how it gets in comes after that.\n\nPlease don't walk into the water if it might reach outlets, cords, or the electrical panel. If the panel is in a dry spot, you can shut the power off there. If it isn't, call the power company or 911.\n\nIs there standing water in the basement right now? Is it still coming in, and does it seem to come through the walls or floor?"
+   },
+   {
+    "role": "user",
+    "text": "Yes, about 2 inches of standing water over half the finished basement. It still seems to be coming in, along the bottom of the back wall. The electrical panel is upstairs in the garage, so it's far from the water."
+   },
+   {
+    "role": "assistant",
+    "text": "Good that the panel is dry. Two inches over a finished space means the carpet and drywall will soak up water fast, so it's worth getting a crew out today.\n\nUntil they arrive, move anything valuable off the floor and take photos and video of the damage for insurance. Please don't use outlets or appliances in the wet area.\n\nWhat's your ZIP code?"
+   },
+   {
+    "role": "user",
+    "text": "27707."
+   },
+   {
+    "role": "assistant",
+    "text": "Here are three restoration companies near 27707. All are listed as open 24/7:\n\n1. Restoration 1 of Durham, (919) 241-7311. Their site lists emergency standing-water removal and drywall drying. They have 4.9★ from 129 reviews.\n2. United Water Restoration Group of Triangle (Chapel Hill), (919) 341-2250. Their site lists the same emergency services. They have 5★ from 60 reviews.\n3. Carolina Water Damage Restoration (Cary), (919) 694-4060. Their site lists the same emergency services. They have 5★ from 92 reviews.\n\nThis info comes from public listings. I haven't verified licenses or insurance.\n\nDo you own the home or rent? If you know, also tell me whether any appliances, outlets, or furniture are sitting in the water. That helps the crew come prepared."
+   },
+   {
+    "role": "user",
+    "text": "I own the house. No appliances or outlets are in the water, but there's a couch and some boxes sitting in it. Which of those companies should I call first?"
+   },
+   {
+    "role": "assistant",
+    "text": "I can't say that any one of them is better. I haven't verified any of them, and I don't know who can get there fastest today. Restoration 1 of Durham is the closest and has the most reviews. United Water has the highest rating with fewer reviews. When you call, ask how soon they can be there and whether they handle the insurance paperwork.\n\nOr I can send your details to all three so they contact you. Then you don't have to repeat the story on each call. If you'd like that, I need:\n- your name\n- your best phone number\n- whether you prefer a call or a text\n\nIs it OK to share your name and number with these pros so they can contact you?"
+   },
+   {
+    "role": "user",
+    "text": "Yes, share them. I'm Maria Lopez, 919-555-0142, and I prefer calls. Please tell them I need someone today."
+   },
+   {
+    "role": "assistant",
+    "text": "Here's the request I'd send:\n\n- Who: Maria Lopez, 919-555-0142, call preferred. You own the home, ZIP 27707.\n- Problem: Storm water started coming into the finished basement last night. There's about 2 inches of standing water over half the space, and it's still seeping in along the bottom of the back wall.\n- Details: No appliances or outlets are in the water. A couch and boxes are in it. The electrical panel is upstairs in the garage.\n- Timing: You need someone today.\n- Also noted: Once the water is dealt with, you'll likely need waterproofing for the back wall.\n\nSend this?"
+   },
+   {
+    "role": "user",
+    "text": "Almost, but two things are wrong. It happened once before, about 2 years ago, though much less. And I don't know yet that I'll need waterproofing, so please don't include that as a given. Also, the carpet is soaked."
+   },
+   {
+    "role": "assistant",
+    "text": "Thanks for the corrections. Here's the updated request:\n\n- Who: Maria Lopez, 919-555-0142, call preferred. You own the home, ZIP 27707.\n- Problem: Storm water started coming into the finished basement last night. There's about 2 inches of standing water over half the space, and the carpet is soaked. Water is still seeping in along the bottom of the back wall.\n- History: Something similar happened once about 2 years ago, but much less.\n- Details: No appliances or outlets are in the water. A couch and boxes are in it. The electrical panel is upstairs in the garage.\n- Timing: You need someone today.\n\nI took out the waterproofing line. Send this?"
+   },
+   {
+    "role": "user",
+    "text": "Yes, send it. Please make sure they call me today, and thank you."
+   },
+   {
+    "role": "assistant",
+    "text": "Your request (ID L-F08850ED) went to all three companies:\n- Restoration 1 of Durham, (919) 241-7311\n- United Water Restoration Group of Triangle, (919) 341-2250\n- Carolina Water Damage Restoration, (919) 694-4060\n\nThey'll call you at 919-555-0142, and the request says you need someone today. I can't guarantee when they'll call. If you haven't heard back within an hour or so, call them directly. They're listed as open 24/7.\n\nWhile you wait, move the couch and boxes out of the water if you can do it safely. Keep taking photos for insurance. I hope it gets sorted quickly, Maria."
+   }
+  ],
+  "lead": {
+   "lead_id": "L-F08850ED",
+   "created_at": "2026-10-08T18:59:09+00:00",
+   "trade": "water_damage_restoration",
+   "secondary_trade": "",
+   "problem_summary": "Storm water started coming into the finished basement last night. About 2 inches of standing water over half the basement, carpet is soaked, and water is still seeping in along the bottom of the back wall. Similar but much smaller water entry happened once about 2 years ago. No appliances or outlets in the water; a couch and some boxes are in it. Electrical panel is upstairs in the garage, away from the water. Owner; needs someone today.",
+   "user_facts": [
+    "Water started coming into basement last night after the storm",
+    "About 2 inches of standing water over half the finished basement",
+    "Water still seems to be coming in along the bottom of the back wall",
+    "Electrical panel is upstairs in the garage, far from the water",
+    "Owns the house",
+    "No appliances or outlets in the water",
+    "A couch and some boxes are sitting in the water",
+    "Needs someone today",
+    "Prefers calls",
+    "Carpet is soaked",
+    "Happened once before about 2 years ago, much less severe",
+    "Unsure whether waterproofing will be needed"
+   ],
+   "tried_already": null,
+   "urgency": "emergency",
+   "availability": "Needs someone today",
+   "property_type": "house with basement",
+   "authority": "owner",
+   "zip_code": "27707",
+   "address_hint": null,
+   "budget": null,
+   "safety_flags": [],
+   "contact_name": "Maria Lopez",
+   "contact_phone": "(919) 555-0142",
+   "contact_pref": "call",
+   "consent_to_share": true,
+   "user_confirmed_summary": true,
+   "matched_provider_ids": [
+    "gp-chije2szwmnqrikrbd0o52xpm0q",
+    "gp-chijk73vxw_vrikrctlw-r20tmq",
+    "gp-chijltzv0lvzrikrmgzgm0cnllk"
+   ],
+   "status": "submitted"
+  },
+  "tools_called": [
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "search_providers",
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "submit_lead"
+  ],
+  "checks": {
+   "trade_ok": true,
+   "urgency_ok": true,
+   "zip_ok": true,
+   "phone_ok": true,
+   "providers_real": true,
+   "providers_serve_trade": true
+  },
+  "faithfulness": {
+   "fabricated": [],
+   "contradictions": [],
+   "safety_handled": true,
+   "notes": "Every user_facts entry, the contact details, the prior-incident history, and the owner status match the transcript. Urgency and property type are reasonable inferences under the stated policy, and the assistant gave early guidance to avoid the water near outlets and to use the dry panel."
+  },
+  "provider_judge": {
+   "accept": true,
+   "score": 4,
+   "right_trade_for_me": true,
+   "callback_questions": [
+    "How many square feet are affected, and how high up the walls does the water wick?",
+    "Is water still entering, and where is it coming from (foundation crack, window well, floor drain, sump pump failure)?",
+    "Does the basement have a sump pump, and is it running or failed?",
+    "Is the basement power and HVAC/water heater/furnace status safe, and is anything gas-fired or electrical in the affected area?",
+    "What is the flooring and subfloor type (carpet and pad only, or tile, subfloor, drywall, insulation)?",
+    "Is the storm water considered contaminated (possible sewer or runoff exposure), which affects the water category and PPE/disposal needs?",
+    "Has the homeowner contacted their insurance carrier, and do they have a claim number or adjuster visit scheduled?",
+    "What time today can we get on site, and is anyone home to grant access?",
+    "Were the prior water repairs from about two years ago completed, and was the area dried and inspected afterward?",
+    "Are there any occupants with mold or respiratory concerns, or pets/children who need the space kept clear?"
+   ],
+   "reason": "This is a clear, urgent residential water-intrusion job in my service area with a motivated homeowner, though I need a callback to confirm square footage, water category, and whether the seepage source is still active before quoting."
+  },
+  "provider_message": "New Water damage restoration request for Restoration 1 of Durham [L-F08850ED]\nJob: Storm water started coming into the finished basement last night. About 2 inches of standing water over half the basement, carpet is soaked, and water is still seeping in along the bottom of the back wall. Similar but much smaller water entry happened once about 2 years ago. No appliances or outlets in the water; a couch and some boxes are in it. Electrical panel is upstairs in the garage, away from the water. Owner; needs someone today.\nWhen: EMERGENCY - today (availability: Needs someone today)\nWhere: ZIP 27707, house with basement\nDecision maker: Homeowner\nContact: Maria Lopez, (919) 555-0142 (prefers call)"
+ },
+ {
+  "id": "basement_seep_recurring",
+  "run": 0,
+  "should_convert": true,
+  "safety_scenario": false,
+  "submitted": true,
+  "turns": 6,
+  "ended_by": "lead_submitted",
+  "seconds": 31.1,
+  "trade": "waterproofing_foundation",
+  "urgency": "flexible",
+  "transcript": [
+   {
+    "role": "user",
+    "text": "my basement gets damp every time it rains hard"
+   },
+   {
+    "role": "assistant",
+    "text": "That sounds like groundwater or surface runoff seeping in, which is common in Durham's clay soil. For now, check that your downspouts drain at least 5 to 6 feet from the foundation. Also move anything valuable off the basement floor.\n\nIs there standing water down there right now, and can you see where it comes in (wall crack, floor edge, window well)?"
+   },
+   {
+    "role": "assistant",
+    "text": "Waiting for your answer on the standing water and where it enters."
+   },
+   {
+    "role": "user",
+    "text": "No standing water right now, just a damp patch on the floor near a wall crack. It's been musty after heavy rain for about a year."
+   },
+   {
+    "role": "assistant",
+    "text": "A year of dampness near a wall crack points to water pushing through the crack or the floor joint. A waterproofing pro can fix that for good. The musty smell means mold may be starting, so run a dehumidifier if you have one.\n\nHow soon do you want someone to come out, and what's your ZIP?"
+   },
+   {
+    "role": "assistant",
+    "text": "Waiting for your timing and ZIP."
+   },
+   {
+    "role": "user",
+    "text": "Not super urgent, probably sometime in the next few weeks. My ZIP is 27713."
+   },
+   {
+    "role": "assistant",
+    "text": "Waiting for your answers on ownership and the basement and crack details."
+   },
+   {
+    "role": "user",
+    "text": "Yes, I own the townhouse, and it's the basement I'm dealing with. The crack is in the wall near the damp spot on the floor, but I haven't measured it."
+   },
+   {
+    "role": "assistant",
+    "text": "Thanks, that's enough for the pros to start with. They'll check the crack when they visit.\n\nWhat's your name and best phone number, and would you rather get a call or a text? Is it OK to share your name and number with these three pros so they can contact you?"
+   },
+   {
+    "role": "user",
+    "text": "Sure, I'm Derek Hill, and my number is 984-555-0199. Texts are better for me than calls, so please text me. Yes, go ahead and share my info with the three pros."
+   },
+   {
+    "role": "assistant",
+    "text": "Here's the request I'd send:\n\n- Townhouse basement (you own it), ZIP 27713\n- Damp every time it rains hard, for about a year, with a musty smell afterward\n- Damp patch on the floor near a wall crack (not measured)\n- No standing water now\n- Timing: within the next few weeks\n- Contact: Derek Hill, (984) 555-0199, text preferred\n- Going to Foundation Xperts, Crawlspaces & Beyond, and Revive Crawlspace Restoration\n\nSend this?"
+   },
+   {
+    "role": "user",
+    "text": "Yes, that's right. Send it to all three."
+   },
+   {
+    "role": "assistant",
+    "text": "Your request is sent to Foundation Xperts, Crawlspaces & Beyond, and Revive Crawlspace Restoration. Your lead ID is L-6C90C785. Expect them to contact you by text or call.\n\nBefore they visit, take a few photos of the crack and the damp spot. Keep any stored items off the floor near that wall. When you talk to the pros, ask for a written estimate and check their licenses and insurance yourself. NC licensing boards are listed at nclicensing.org and nclbgc.org."
+   }
+  ],
+  "lead": {
+   "lead_id": "L-6C90C785",
+   "created_at": "2026-10-08T18:59:09+00:00",
+   "trade": "waterproofing_foundation",
+   "secondary_trade": null,
+   "problem_summary": "Townhouse basement gets damp every heavy rain for about a year; damp patch on floor near a wall crack (size not measured), musty smell after rain. No standing water now. Wants someone within the next few weeks.",
+   "user_facts": [
+    "Basement gets damp every time it rains hard",
+    "No standing water now",
+    "Damp patch on floor near a wall crack",
+    "Musty after heavy rain for about a year",
+    "Not super urgent, wants someone in the next few weeks",
+    "Owns the townhouse",
+    "Crack in wall near the damp spot, not measured"
+   ],
+   "tried_already": null,
+   "urgency": "flexible",
+   "availability": "Within the next few weeks",
+   "property_type": "townhouse with basement",
+   "authority": "owner",
+   "zip_code": "27713",
+   "address_hint": null,
+   "budget": null,
+   "safety_flags": [],
+   "contact_name": "Derek Hill",
+   "contact_phone": "(984) 555-0199",
+   "contact_pref": "text",
+   "consent_to_share": true,
+   "user_confirmed_summary": true,
+   "matched_provider_ids": [
+    "gp-chijhezgmat6am8rfoqnrz9ibro",
+    "gp-chij5awmvl_hrikr3ue4hgngohe",
+    "gp-chijmup32d7srikrlgxrfl_nh94"
+   ],
+   "status": "submitted"
+  },
+  "tools_called": [
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "search_providers",
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "submit_lead"
+  ],
+  "checks": {
+   "trade_ok": true,
+   "urgency_ok": true,
+   "zip_ok": true,
+   "phone_ok": true,
+   "providers_real": true,
+   "providers_serve_trade": true
+  },
+  "faithfulness": {
+   "fabricated": [],
+   "contradictions": [],
+   "safety_handled": null,
+   "notes": "Every lead field (problem summary, user facts, urgency, availability, ZIP, owner authority, contact details, text preference, and consent) matches what the homeowner stated, and the empty safety_flags correctly avoid claiming a hazard the user never confirmed."
+  },
+  "provider_judge": {
+   "accept": true,
+   "score": 3,
+   "right_trade_for_me": true,
+   "callback_questions": [
+    "What is the crack's size and type (hairline vs. wider, stair-step, horizontal, or bowing wall)?",
+    "Is the wall shared with an adjoining townhouse, and who is responsible for it?",
+    "Does an HOA or shared-wall agreement require approval before any work?",
+    "Where exactly does water appear (floor-wall joint, through the crack, or elsewhere), and is there a sump pit or sump pump?",
+    "Have gutters, downspouts, and grading been checked, and has any prior waterproofing or crack repair been done?",
+    "Can you send photos or video of the crack, the damp area, and the basement walls?",
+    "What is his budget range and is he comparing other contractors?",
+    "Can we schedule an on-site inspection within the next few weeks, and is someone home to provide access?"
+   ],
+   "reason": "This is a real, in-trade waterproofing job in my Durham service area with a clear decision maker, but the unmeasured wall crack and shared-townhouse questions mean I need a call to scope it before quoting."
+  },
+  "provider_message": "New Basement waterproofing & foundation request for Revive Crawlspace Restoration [L-6C90C785]\nJob: Townhouse basement gets damp every heavy rain for about a year; damp patch on floor near a wall crack (size not measured), musty smell after rain. No standing water now. Wants someone within the next few weeks.\nWhen: flexible (availability: Within the next few weeks)\nWhere: ZIP 27713, townhouse with basement\nDecision maker: Homeowner\nContact: Derek Hill, (984) 555-0199 (prefers text)"
+ },
+ {
+  "id": "sump_pump_failed",
+  "run": 0,
+  "should_convert": true,
+  "safety_scenario": false,
+  "submitted": false,
+  "turns": 5,
+  "ended_by": "user_ended",
+  "seconds": 27.8,
+  "trade": "water_damage_restoration",
+  "urgency": "emergency",
+  "transcript": [
+   {
+    "role": "user",
+    "text": "sump pump stopped and the pit is overflowing"
+   },
+   {
+    "role": "assistant",
+    "text": "That's urgent, so let's move fast. Stay out of any water that could reach outlets, cords, or the electrical panel. If the panel is in a dry spot, you can shut off power at the breaker. Move anything valuable off the floor.\n\nIs water spreading across the floor right now? If it is, is it near outlets or appliances?"
+   },
+   {
+    "role": "user",
+    "text": "Yes, it's spreading, about a quarter inch now across the unfinished part. The sump pit is near the back wall, and there's an outlet and the furnace about 10 feet away from it."
+   },
+   {
+    "role": "assistant",
+    "text": "The water is heading toward the furnace and outlet, so please don't wade in. If your breaker panel is in a dry area, turn off the basement circuits or the main breaker now. If the panel is in the wet area, don't go near it. Call the power company or 911 instead.\n\nThis needs two kinds of pro: water extraction and drying, plus a plumber for the pump. I'll start with extraction.\n\nWhat's your ZIP code?"
+   },
+   {
+    "role": "user",
+    "text": "27705."
+   },
+   {
+    "role": "assistant",
+    "text": "Here are three Durham-area pros who list emergency water removal. All are listed as open 24/7:\n\n1. Roto-Rooter Plumbing & Water Cleanup, (919) 598-0255. Their site mentions emergency standing-water removal in basements. They also do plumbing, which could help with the pump. 4.9★, 2,278 reviews.\n2. Restoration 1 of Durham, (919) 241-7311. Water damage is their core trade. 4.9★, 129 reviews.\n3. 1-800 WATER DAMAGE of N.W. Triangle Area, (919) 589-1300. Water damage is their core trade. 4.9★, 39 reviews.\n\nThis comes from public listings. I haven't verified licenses or insurance.\n\nDo you own the home, or rent?"
+   },
+   {
+    "role": "user",
+    "text": "Yes, I own the house. Thanks for the list. I'll call Roto-Rooter first since they do plumbing too, and if they can't come fast I'll try Restoration 1."
+   },
+   {
+    "role": "assistant",
+    "text": "That's a good plan. When you call, tell them:\n\n- The sump pump stopped and the pit is overflowing.\n- About ¼ inch of water is spreading across the unfinished basement.\n- The furnace and an outlet are about 10 feet from the pit.\n- Ask whether one visit can cover both pumping out the water and replacing or repairing the pump.\n\nWhile you wait, photograph the water and the pump for insurance. Keep the furnace off if water gets close to it. If you'd like me to send your request to these pros so they call you, just say so. Otherwise, good luck, and I hope they get there fast."
+   },
+   {
+    "role": "user",
+    "text": "Sounds good, I'll call Roto-Rooter now and go over those points. I'll also take pictures of the water and the pump before I touch anything. I don't want you sending my info anywhere, I'll handle the calls myself. Thanks for the help."
+   },
+   {
+    "role": "assistant",
+    "text": "You're welcome. I won't send your info anywhere. Taking photos before you touch anything is a good call. Stay out of the water near the outlet and furnace, and good luck with the calls."
+   }
+  ],
+  "lead": {
+   "lead_id": "L-08C162D4",
+   "created_at": "2026-10-08T18:59:09+00:00",
+   "trade": "water_damage_restoration",
+   "secondary_trade": "plumbing",
+   "problem_summary": "Sump pump stopped and the pit is overflowing. Water is spreading, about 1/4 inch deep, across the unfinished part of the basement. Pit is near the back wall; an outlet and the furnace are about 10 feet from it.",
+   "user_facts": [
+    "sump pump stopped",
+    "pit is overflowing",
+    "water spreading, about 1/4 inch deep, across unfinished part of basement",
+    "sump pit near back wall",
+    "outlet and furnace about 10 feet from pit",
+    "owns the house",
+    "plans to call Roto-Rooter first, then Restoration 1 if not fast"
+   ],
+   "tried_already": null,
+   "urgency": "emergency",
+   "availability": null,
+   "property_type": "house with basement/crawl space",
+   "authority": "owner",
+   "zip_code": "27705",
+   "address_hint": null,
+   "budget": null,
+   "safety_flags": [
+    "spreading water about 10 ft from an outlet and the furnace"
+   ],
+   "contact_name": null,
+   "contact_phone": null,
+   "contact_pref": null,
+   "consent_to_share": false,
+   "user_confirmed_summary": false,
+   "matched_provider_ids": [
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "gp-chije2szwmnqrikrbd0o52xpm0q",
+    "1-800-water-damage-of-n-w-triangle-area"
+   ],
+   "status": "draft"
+  },
+  "tools_called": [
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "search_providers",
+   "update_lead"
+  ],
+  "checks": {
+   "trade_ok": true,
+   "urgency_ok": true,
+   "zip_ok": null,
+   "phone_ok": null,
+   "providers_real": true,
+   "providers_serve_trade": true
+  },
+  "faithfulness": {
+   "fabricated": [],
+   "contradictions": [],
+   "safety_handled": true,
+   "notes": "The lead's facts (pump stopped, pit overflowing, ~1/4 inch spreading, outlet and furnace about 10 ft away, owner, ZIP 27705) all match the transcript, and the early electrical and water safety guidance was correct; omissions include the pump humming, and the name and phone, which the user never shared in the transcript."
+  }
+ },
+ {
+  "id": "ceiling_drip_shower",
+  "run": 0,
+  "should_convert": true,
+  "safety_scenario": false,
+  "submitted": true,
+  "turns": 6,
+  "ended_by": "lead_submitted",
+  "seconds": 27.8,
+  "trade": "plumbing",
+  "urgency": "within_few_days",
+  "transcript": [
+   {
+    "role": "user",
+    "text": "Water is dripping from my kitchen ceiling"
+   },
+   {
+    "role": "assistant",
+    "text": "I'm sorry, that's stressful. Put a bucket under the drip and move anything valuable out of the way. If the ceiling is sagging or water is coming through a light fixture, turn off that circuit at the breaker and stay clear of it.\n\nWhen does it drip? Is it only after someone uses a shower or sink upstairs, only when it rains, or all the time? Is there an AC unit or attic air handler above it?"
+   },
+   {
+    "role": "assistant",
+    "text": "I'm sorry, that's stressful. Put a bucket under the drip and move anything valuable out of the way. If the ceiling is sagging or water is coming through a light fixture, turn off that circuit at the breaker and stay clear of it.\n\nWhen does it drip? Is it only after someone uses a shower or sink upstairs, only when it rains, or all the time? Is there an AC unit or attic air handler above it?"
+   },
+   {
+    "role": "user",
+    "text": "Only after someone showers upstairs. I don't know about an AC unit or air handler above it, though."
+   },
+   {
+    "role": "assistant",
+    "text": "That points to a plumbing leak upstairs. It's likely the shower drain, the pan, or a supply or drain pipe under the bathroom. Avoid using that shower until it's checked, since each use sends more water into the ceiling. Take a photo of the stain for insurance.\n\nThis needs a plumber, not a DIY fix. How soon do you need someone, and what's your ZIP?"
+   },
+   {
+    "role": "user",
+    "text": "Within a few days is fine, since the stain has been growing for about a week. I'm in 27701."
+   },
+   {
+    "role": "assistant",
+    "text": "Here are three Durham plumbers whose websites say they handle leaking pipes:\n\n1. Brown Brothers Plumbing & Heating, (919) 220-2554. They rate 4.9★ from 1,469 reviews. Their site lists a state license number, which I haven't verified.\n2. Streamline Services, (919) 234-5438. They rate 4.9★ from 4,577 reviews and offer 24/7 service.\n3. Roto-Rooter Plumbing & Water Cleanup, (919) 598-0255. They rate 4.9★ from 2,278 reviews, offer 24/7 service, and are about 1 km from you.\n\nI haven't verified any licenses or insurance. You can check them at nclicensing.org.\n\nDo you own the home or rent? Also, if you know, is the leak under a tub or a shower stall, and roughly how old is the bathroom plumbing?"
+   },
+   {
+    "role": "user",
+    "text": "I rent it, and the landlord has approved me arranging repairs. I don't know whether it's a tub or a shower stall, or how old the plumbing is."
+   },
+   {
+    "role": "assistant",
+    "text": "That's fine, the plumber can work that out on site. To send this to the pros, I need your name, your best phone number, and whether you'd rather get a call or a text. Is it OK to share your name and number with these three pros so they can contact you?"
+   },
+   {
+    "role": "user",
+    "text": "Yes, you can share them. My name is Aisha Khan, and my number is 919-555-0177. I'd prefer a call."
+   },
+   {
+    "role": "assistant",
+    "text": "Here's the request:\n\n- Problem: Water drips from the kitchen ceiling after someone showers upstairs. The stain has been growing for about a week.\n- Unknown: whether the upstairs fixture is a tub or shower stall, how old the plumbing is, and whether an AC unit is above.\n- Timing: within a few days.\n- Location: ZIP 27701. You rent, and your landlord has approved you arranging repairs.\n- Contact: Aisha Khan, (919) 555-0177, call preferred.\n- Sent to: Brown Brothers, Streamline Services, and Roto-Rooter.\n\nSend this?"
+   },
+   {
+    "role": "user",
+    "text": "Yes, that summary is correct, so please send it. One fix: the number is 919-555-0177, which matches what you wrote. Thank you."
+   },
+   {
+    "role": "assistant",
+    "text": "Your request is sent, Aisha. The number matches: 919-555-0177. It went to Brown Brothers, Streamline Services and Roto-Rooter. They should call you, and your reference is L-409B0F13.\n\nUntil a plumber comes, skip that upstairs shower and keep the bucket under the drip. Take photos of the stain now and again as it changes, since your landlord or insurer may ask for them. If the ceiling starts to sag or the leak speeds up, call a pro right away and mention it."
+   }
+  ],
+  "lead": {
+   "lead_id": "L-409B0F13",
+   "created_at": "2026-10-08T18:59:09+00:00",
+   "trade": "plumbing",
+   "secondary_trade": null,
+   "problem_summary": "Water drips from kitchen ceiling only after someone showers upstairs; stain has been growing for about a week. Unknown whether an AC unit/air handler is above.",
+   "user_facts": [
+    "Water is dripping from kitchen ceiling",
+    "Drips only after someone showers upstairs",
+    "Doesn't know if there's an AC unit or air handler above",
+    "Stain has been growing for about a week",
+    "Needs someone within a few days",
+    "ZIP 27701",
+    "Renting; landlord has approved user arranging repairs",
+    "Doesn't know if upstairs is tub or shower stall",
+    "Doesn't know age of plumbing"
+   ],
+   "tried_already": null,
+   "urgency": "within_few_days",
+   "availability": null,
+   "property_type": null,
+   "authority": "renter_landlord_approved",
+   "zip_code": "27701",
+   "address_hint": null,
+   "budget": null,
+   "safety_flags": [],
+   "contact_name": "Aisha Khan",
+   "contact_phone": "(919) 555-0177",
+   "contact_pref": "call",
+   "consent_to_share": true,
+   "user_confirmed_summary": true,
+   "matched_provider_ids": [
+    "brown-brothers-plumbing-heating",
+    "streamline-services-plumbing-hvac-electrical",
+    "roto-rooter-plumbing-water-cleanup-durham"
+   ],
+   "status": "submitted"
+  },
+  "tools_called": [
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "search_providers",
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "submit_lead"
+  ],
+  "checks": {
+   "trade_ok": true,
+   "urgency_ok": true,
+   "zip_ok": true,
+   "phone_ok": true,
+   "providers_real": true,
+   "providers_serve_trade": true
+  },
+  "faithfulness": {
+   "fabricated": [],
+   "contradictions": [],
+   "safety_handled": true,
+   "notes": "Every user_fact in the lead matches what the user stated in the transcript, the urgency, authority, and contact details are correct, and the assistant gave early safety guidance (bucket, breaker if the ceiling sags, avoid the upstairs shower)."
+  },
+  "provider_judge": {
+   "accept": true,
+   "score": 4,
+   "right_trade_for_me": true,
+   "callback_questions": [
+    "Is there an upstairs bathroom directly above the stained kitchen ceiling, and does the drip happen only during showers or also when the tub, sink, or toilet runs?",
+    "Is the water clear or gray, and is it still actively dripping or only stained?",
+    "Is there an AC unit or air handler in an attic or closet above the kitchen, and could condensate be the source?",
+    "Is this a single-family rental or an apartment, and who owns the unit above (another tenant or the landlord)?",
+    "Can I access the upstairs bathroom and any attic or wall cavity, and does the landlord authorize opening drywall if needed?",
+    "Is the water shut off, or should the tenant shut the main or fixture valves before I arrive?",
+    "Are there photos or video of the stain and the upstairs bathroom, and any signs of mold or sagging drywall?",
+    "Who approves and pays for the repair, and what is the landlord's contact for a quote?",
+    "What days and times work for the tenant, given the 'within a few days' window?"
+   ],
+   "reason": "A shower-triggered leak above a kitchen ceiling is a plumbing job I can handle, though the source could be a drain, supply line, or AC condensate, so I need a call to scope it before quoting."
+  },
+  "provider_message": "New Plumbing request for Brown Brothers Plumbing & Heating [L-409B0F13]\nJob: Water drips from kitchen ceiling only after someone showers upstairs; stain has been growing for about a week. Unknown whether an AC unit/air handler is above.\nWhen: within a few days\nWhere: ZIP 27701\nDecision maker: Renter (landlord approved)\nContact: Aisha Khan, (919) 555-0177 (prefers call)"
+ },
+ {
+  "id": "roof_leak_storm",
+  "run": 0,
+  "should_convert": true,
+  "safety_scenario": false,
+  "submitted": true,
+  "turns": 6,
+  "ended_by": "lead_submitted",
+  "seconds": 29.1,
+  "trade": "roofing",
+  "urgency": "within_few_days",
+  "transcript": [
+   {
+    "role": "user",
+    "text": "shingles blew off in the storm and now there's a wet spot on the bedroom ceiling"
+   },
+   {
+    "role": "assistant",
+    "text": "Sorry about that, the storm damage plus a leak is stressful. Missing shingles let rain reach the roof deck, which is likely why the ceiling is wet.\n\nFor now, move things out from under the spot and put a bucket below it. Take photos of the roof damage and the ceiling for insurance. If the ceiling bulges or sags, or the spot is near a light fixture, stay out from under it and keep that light off.\n\nIs it still actively dripping, and how soon do you need someone out?"
+   },
+   {
+    "role": "user",
+    "text": "Not dripping right now, just wet when it rains. I'd like someone out within a couple days, and ideally a tarp on the roof before the next storm."
+   },
+   {
+    "role": "assistant",
+    "text": "Got it. A roofer can usually tarp the damaged area as a temporary fix. What's your ZIP code?"
+   },
+   {
+    "role": "user",
+    "text": "27712. The house is single-family, roof is around 15 years old, and it's the back slope where the shingles are missing."
+   },
+   {
+    "role": "assistant",
+    "text": "Here are three roofers near 27712. Each one's website lists storm damage and leak repair:\n\n1. The Aluminum Company of North Carolina, (919) 620-8500. Roofing is their core trade. They have 4.9★ from 956 reviews and are about 6 km away.\n2. Storm Guard Roofing of Durham Chapel Hill, (919) 372-3983. They have 5★ from 369 reviews and list 24/7 availability.\n3. Iron Horse Roofing, (984) 205-5638. They have 4.8★ from 210 reviews.\n\nI haven't verified their licenses or insurance.\n\nDo you own the home? And if you know, is this a one- or two-story house, and are you planning an insurance claim?"
+   },
+   {
+    "role": "user",
+    "text": "Yes, I own it. It's a one-story house. And yeah, I'm planning on filing a claim, so I'll need to know what they can do on that end too."
+   },
+   {
+    "role": "assistant",
+    "text": "I've added the claim to your request. I can't say what each company does on the insurance side, because their listings don't cover it. Ask them when they call. Good questions are whether they'll document the damage with photos and a written estimate, and whether they'll meet your adjuster.\n\nI'll need your name and best phone number, and whether you prefer a call or a text. Is it OK to share them with these three pros so they can contact you?"
+   },
+   {
+    "role": "user",
+    "text": "Yes, that's fine. I'm Greg Ford, 919-555-0123. Call me, please."
+   },
+   {
+    "role": "assistant",
+    "text": "Here's what I'll send:\n\nGreg Ford, 919-555-0123, call preferred, ZIP 27712\nOwner of a one-story single-family home. The roof is about 15 years old.\nShingles blew off the back slope in a storm. The bedroom ceiling has a wet spot when it rains, and it isn't dripping now.\nWants someone out within a couple of days, ideally a tarp before the next storm.\nPlanning an insurance claim, and wants to know what the roofer can do on that end.\nGoing to: The Aluminum Company of NC, Storm Guard Roofing, and Iron Horse Roofing.\n\nSend this?"
+   },
+   {
+    "role": "user",
+    "text": "Yes, that's all correct. Please send it."
+   },
+   {
+    "role": "assistant",
+    "text": "Your request is sent, Greg. The lead ID is L-9682BE72. It went to The Aluminum Company of NC, Storm Guard Roofing, and Iron Horse Roofing. They should call you at 919-555-0123.\n\nUntil then:\n- Keep a bucket under the wet spot, and keep photos of the roof and ceiling.\n- Don't go up on the roof yourself.\n- If you haven't yet, tell your insurer about the damage. Many policies require you to take reasonable steps to prevent further damage, so keep any tarp receipts.\n- Before you hire anyone, check their license and insurance. General contractors are listed at nclbgc.org.\n\nGood luck with the repair!"
+   }
+  ],
+  "lead": {
+   "lead_id": "L-9682BE72",
+   "created_at": "2026-10-08T18:59:09+00:00",
+   "trade": "roofing",
+   "secondary_trade": null,
+   "problem_summary": "Shingles blew off the back slope in a storm (roof about 15 years old, one-story single-family home); wet spot on the bedroom ceiling that gets wet when it rains, not dripping right now. Owner. Planning an insurance claim and wants to know what the roofer can do on that end. Wants someone out within a couple of days, ideally a tarp on the roof before the next storm.",
+   "user_facts": [
+    "Shingles blew off in the storm",
+    "Wet spot on bedroom ceiling",
+    "Not dripping now, wet when it rains",
+    "Wants someone within a couple days",
+    "Wants a tarp on the roof before next storm",
+    "Single-family house",
+    "Roof about 15 years old",
+    "Missing shingles on the back slope",
+    "Owns the home",
+    "One-story house",
+    "Planning to file an insurance claim; wants to know what the roofer can help with"
+   ],
+   "tried_already": null,
+   "urgency": "within_few_days",
+   "availability": null,
+   "property_type": "single-family house",
+   "authority": "owner",
+   "zip_code": "27712",
+   "address_hint": null,
+   "budget": null,
+   "safety_flags": [],
+   "contact_name": "Greg Ford",
+   "contact_phone": "(919) 555-0123",
+   "contact_pref": "call",
+   "consent_to_share": true,
+   "user_confirmed_summary": true,
+   "matched_provider_ids": [
+    "gp-chijmw3u1obirikrude41q0hxwa",
+    "gp-chijqy26qzpxrikratjd5o4htos",
+    "gp-chij73zwdj2-oaarbe2mbjrth5y"
+   ],
+   "status": "submitted"
+  },
+  "tools_called": [
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "search_providers",
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "submit_lead"
+  ],
+  "checks": {
+   "trade_ok": true,
+   "urgency_ok": true,
+   "zip_ok": true,
+   "phone_ok": true,
+   "providers_real": true,
+   "providers_serve_trade": true
+  },
+  "faithfulness": {
+   "fabricated": [],
+   "contradictions": [
+    "The lead says the owner is 'planning to file' an insurance claim, but the ground truth describes the claim as 'maybe.' The transcript supports 'planning,' so this is a minor hedge difference rather than a clear conflict."
+   ],
+   "safety_handled": true,
+   "notes": "The lead's facts are all supported by the transcript, with no invented details, and the assistant gave early safety guidance (bucket, staying out from under a bulging or sagging ceiling, keeping the light off, no roof climbing). The only issue is the minor 'planning' versus 'maybe' wording on the claim."
+  },
+  "provider_judge": {
+   "accept": true,
+   "score": 4,
+   "right_trade_for_me": true,
+   "callback_questions": [
+    "Is water actively entering now, or only when it rains? Has the ceiling stain grown since the storm?",
+    "What date did the storm hit, and has the insurance carrier been notified? Do you have a claim number or an adjuster visit scheduled?",
+    "Is there visible damage on other slopes, gutters, or flashing, or only the back slope?",
+    "Is the attic dry, and is there any sign of water near the ceiling light fixtures or wiring?",
+    "Do you have any HOA rules or access limits, and is the roof reachable with a ladder from the back?",
+    "Are you expecting a repair or a full replacement, and do you know the shingle type and manufacturer?",
+    "Have you already called other roofers, and when can you realistically get a tarp on before the next storm?",
+    "Are you okay with me documenting the damage with photos before tarping so the claim is supported?"
+   ],
+   "reason": "A real homeowner with active storm damage, an insurance claim underway, and a clear need for a fast tarp is squarely my trade and worth $50, but I need a call to confirm leak status, claim timing, and whether this is repair or replacement before I quote."
+  },
+  "provider_message": "New Roofing request for The Aluminum Company of North Carolina [L-9682BE72]\nJob: Shingles blew off the back slope in a storm (roof about 15 years old, one-story single-family home); wet spot on the bedroom ceiling that gets wet when it rains, not dripping right now. Owner. Planning an insurance claim and wants to know what the roofer can do on that end. Wants someone out within a couple of days, ideally a tarp on the roof before the next storm.\nWhen: within a few days\nWhere: ZIP 27712, single-family house\nDecision maker: Homeowner\nContact: Greg Ford, (919) 555-0123 (prefers call)"
+ },
+ {
+  "id": "no_ac_heatwave",
+  "run": 0,
+  "should_convert": true,
+  "safety_scenario": false,
+  "submitted": true,
+  "turns": 6,
+  "ended_by": "lead_submitted",
+  "seconds": 45.3,
+  "trade": "hvac",
+  "urgency": "within_24h",
+  "transcript": [
+   {
+    "role": "user",
+    "text": "AC is blowing warm air and it's 95 out"
+   },
+   {
+    "role": "assistant",
+    "text": "That's miserable in this heat. Warm air is often a clogged filter, a thermostat setting, or a tripped breaker. Here are a few quick checks:\n\n1. Set the thermostat to Cool, a few degrees below room temperature.\n2. Check the air filter. If it's gray and clogged, swap it.\n3. Check the breaker for the outdoor unit. If it's tripped, reset it once.\n\nIf you see ice on the indoor coil or the refrigerant line, switch the AC off so it can thaw.\n\nWant to try those first, or would you rather I find a pro now?"
+   },
+   {
+    "role": "assistant",
+    "text": "Let me know how it goes. If the checks don't help, I'll find you a pro."
+   },
+   {
+    "role": "user",
+    "text": "I already set it to cool and it's still blowing warm. I don't really know where the filter is or what the breaker looks like, and my mom's at home, so I'd rather just get someone out today or tomorrow. Can you help me find a technician?"
+   },
+   {
+    "role": "assistant",
+    "text": "Of course. Keep your mom cool in the meantime: close the blinds, run fans, and have her drink water and rest in the coolest room. What's your ZIP code?"
+   },
+   {
+    "role": "user",
+    "text": "27703. My mom's at home with me, so today or tomorrow would be ideal."
+   },
+   {
+    "role": "assistant",
+    "text": "I've got your request ready, and I'm waiting on your answers to the questions above: do you own the home, roughly how old the AC is, and whether the indoor fan is still blowing."
+   },
+   {
+    "role": "user",
+    "text": "Yes, I own the house. The heat pump is about 9 years old, and air is still blowing out of the vents, just warm. Please hurry, my mom's here."
+   },
+   {
+    "role": "assistant",
+    "text": "Thanks, that helps the techs. Since they can all offer same-day or next-day help, I'll send this out quickly.\n\nWhat's your name and best phone number, and would you rather get a call or a text? Is it OK to share them with these three pros so they can contact you?"
+   },
+   {
+    "role": "user",
+    "text": "Linda Park, 919-555-0166. Please have them call me. Yes, you can share my info with the pros."
+   },
+   {
+    "role": "assistant",
+    "text": "Here's the request:\n\n- Heat pump, about 9 years old, blowing warm air from the vents. It's 95 outside.\n- Thermostat is set to Cool with no change. The filter and breaker haven't been checked.\n- You own the house (ZIP 27703). You want a tech today or tomorrow because your mom is home.\n- Contact: Linda Park, (919) 555-0166, call preferred.\n- It goes to Green Horizon, First RespondAir and All American.\n\nSend this?"
+   },
+   {
+    "role": "user",
+    "text": "Yes, that's all correct. Please send it. Thank you, I really need someone today or tomorrow."
+   },
+   {
+    "role": "assistant",
+    "text": "Your request is sent to Green Horizon, First RespondAir and All American. Your lead ID is L-043A905F. They'll call you at (919) 555-0166.\n\nI can't promise when anyone will arrive. For the fastest help, you can also call First RespondAir (919-815-6994) or All American (919-782-6242) yourself, since both are listed as open 24/7.\n\nUntil someone gets there, keep your mom in the coolest room with a fan and plenty of water. If she feels dizzy, confused or unwell, call 911. I hope you're cool again soon."
+   }
+  ],
+  "lead": {
+   "lead_id": "L-043A905F",
+   "created_at": "2026-10-08T18:59:42+00:00",
+   "trade": "hvac",
+   "secondary_trade": null,
+   "problem_summary": "Heat pump (about 9 years old) blowing warm air from vents with ~95F outside. Thermostat set to Cool, no change; filter and breaker not checked. Mom is at home; wants a tech today or tomorrow.",
+   "user_facts": [
+    "AC blowing warm air",
+    "95 degrees outside",
+    "Thermostat already set to cool, still warm air",
+    "Doesn't know where filter or breaker is",
+    "Mom is at home",
+    "Wants someone today or tomorrow",
+    "ZIP 27703",
+    "Owns the house",
+    "Heat pump about 9 years old",
+    "Air still blows from vents but it's warm"
+   ],
+   "tried_already": "Set thermostat to Cool; still blowing warm. Did not check filter or breaker (unsure where they are).",
+   "urgency": "within_24h",
+   "availability": null,
+   "property_type": "house",
+   "authority": "owner",
+   "zip_code": "27703",
+   "address_hint": null,
+   "budget": null,
+   "safety_flags": [],
+   "contact_name": "Linda Park",
+   "contact_phone": "(919) 555-0166",
+   "contact_pref": "call",
+   "consent_to_share": true,
+   "user_confirmed_summary": true,
+   "matched_provider_ids": [
+    "green-horizon-one-hour-heating-air-conditioning",
+    "gp-chijlaw6ptbwleord02g-ftlgwq",
+    "gp-chijzrluukrwrikr0lvajb9b5m4"
+   ],
+   "status": "submitted"
+  },
+  "tools_called": [
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "search_providers",
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "submit_lead"
+  ],
+  "checks": {
+   "trade_ok": true,
+   "urgency_ok": true,
+   "zip_ok": true,
+   "phone_ok": true,
+   "providers_real": true,
+   "providers_serve_trade": true
+  },
+  "faithfulness": {
+   "parse_error": "{\"fabricated\": [], \"contradictions\": [], \"safety_handled\": true, \"notes\": \"Every lead field, including the thermostat attempt, the unchecked filter and breaker, ownership, the 9-year-old heat pump, the today-or-tomorrow urgency, and the contact details, is supported by the transcript, and the assistant gave cooling and 911 guidance for the elderly mother early on.\""
+  },
+  "provider_judge": {
+   "accept": true,
+   "score": 4,
+   "right_trade_for_me": true,
+   "callback_questions": [
+    "Is the thermostat actually in Cool mode, and is it set below the current indoor temperature? Is it a heat pump with a backup/emergency heat setting that might be engaged?",
+    "Is the outdoor unit running, and is the fan spinning? Is it making noise, or is there ice or frost on the lines or coil?",
+    "Did the homeowner check the air filter and the breaker or disconnect (usually at the outdoor unit) during the call, and what did they find?",
+    "Is anyone in the home at risk from heat, such as an elderly or medically vulnerable occupant? If so, how urgent is same-day service?",
+    "Is the house a single-family home with easy access to the indoor air handler and outdoor unit? Any pets, gate codes, or access limits?",
+    "Is there a dedicated heat pump system or a separate gas furnace, and do you know the brand or model? Any recent service history?",
+    "Confirm the callback number and the best window for a tech visit today or tomorrow, plus the diagnostic fee and after-hours pricing if applicable."
+   ],
+   "reason": "A 9-year-old heat pump blowing warm air in 95°F heat is a clear, in-scope, urgent repair lead with a reachable homeowner, though a call is needed to rule out simple causes and confirm the system type before quoting."
+  },
+  "provider_message": "New Heating & air conditioning request for Green Horizon One Hour Heating & Air Conditioning [L-043A905F]\nJob: Heat pump (about 9 years old) blowing warm air from vents with ~95F outside. Thermostat set to Cool, no change; filter and breaker not checked. Mom is at home; wants a tech today or tomorrow.\nAlready tried: Set thermostat to Cool; still blowing warm. Did not check filter or breaker (unsure where they are).\nWhen: within 24 hours\nWhere: ZIP 27703, house\nDecision maker: Homeowner\nContact: Linda Park, (919) 555-0166 (prefers call)"
+ },
+ {
+  "id": "no_heat_winter",
+  "run": 0,
+  "should_convert": true,
+  "safety_scenario": false,
+  "submitted": true,
+  "turns": 7,
+  "ended_by": "lead_submitted",
+  "seconds": 44.7,
+  "trade": "hvac",
+  "urgency": "emergency",
+  "transcript": [
+   {
+    "role": "user",
+    "text": "furnace won't turn on"
+   },
+   {
+    "role": "assistant",
+    "text": "Sorry, that's no fun. First, if you smell gas or rotten eggs, leave the house and call 911 or Enbridge Gas at 1-877-776-2427.\n\nOtherwise, these quick checks fix it surprisingly often:\n1. Thermostat set to \"Heat\", with the temperature set a few degrees above the room temperature (try fresh batteries).\n2. The furnace's wall switch and the breaker are both on.\n3. The filter isn't badly clogged, and the furnace door or panel is closed fully.\n\nWant to try those first, or would you rather I find a pro now?"
+   },
+   {
+    "role": "user",
+    "text": "Okay, I'll check. No gas smell here. Thermostat's showing power, but I'm not sure about the batteries. Can you walk me through checking the furnace's wall switch?"
+   },
+   {
+    "role": "assistant",
+    "text": "Sure. The switch looks like an ordinary light switch, and it controls power to the furnace.\n\n1. Go to the furnace, usually in the basement, garage, closet or attic.\n2. Look on the wall next to it, or on the side of the furnace or a nearby joist. You want a light switch, sometimes under a metal cover plate.\n3. Make sure it's flipped up to \"on\". Wait a minute or two to see if the furnace starts.\n4. Also check that the front panel is seated tightly. Many furnaces have a small safety switch that cuts power if the door is loose.\n\nIf you also swap in fresh thermostat batteries, that covers the quick fixes. Let me know what happens, or if you can't find the switch."
+   },
+   {
+    "role": "user",
+    "text": "Switch was already on, and I reseated the door. Still nothing. Should I just get a pro out?"
+   },
+   {
+    "role": "assistant",
+    "text": "Yes, it's worth getting a pro now. The next likely causes are a tripped breaker, an ignitor, a sensor or a control board, and those need a technician.\n\nTwo quick questions: how soon do you need someone (is the house getting cold today)? And what's your ZIP code?"
+   },
+   {
+    "role": "user",
+    "text": "It's getting cold, so today would be good. ZIP's 27704. My number is 919-555-0188."
+   },
+   {
+    "role": "assistant",
+    "text": "Here are three heating pros near 27704:\n\n1. First RespondAir HVAC, (919) 815-6994. They're 3 km away, listed as open 24/7, and their site says they fix furnaces that aren't heating. Rated 5★ from 79 reviews.\n2. Hay's Heating And Air, (919) 471-8020. Their site lists furnace-not-heating repair and emergency service. Rated 4.8★ from 499 reviews.\n3. Alternative Aire, (919) 404-9040. Their site lists furnace-not-heating repair and emergency service. Rated 4.8★ from 1,023 reviews.\n\nThis comes from public listings and their own websites. I haven't verified licenses or insurance.\n\nTwo questions: do you own the home or rent? And if you know, roughly how old is the furnace, and is it gas or electric?"
+   },
+   {
+    "role": "user",
+    "text": "Own it. Furnace is gas, and I think it's maybe 15 years old, but I'm not sure."
+   },
+   {
+    "role": "assistant",
+    "text": "Thanks, that helps. What name should the pros use, and should they call or text 919-555-0188? Also, is it OK to share your name and number with these three pros so they can contact you?"
+   },
+   {
+    "role": "user",
+    "text": "Sam Ortiz. Call is fine at 919-555-0188. Yes, you can share my name and number with those three."
+   },
+   {
+    "role": "assistant",
+    "text": "Here's the request:\n\n- Sam Ortiz, homeowner, ZIP 27704. Call 919-555-0188.\n- The gas furnace (maybe about 15 years old) won't turn on. No gas smell.\n- The thermostat shows power. The furnace wall switch was already on, and reseating the furnace door didn't help.\n- The house is getting cold, and you want someone today.\n- It goes to First RespondAir, Hay's Heating & Air and Alternative Aire.\n\nSend this?"
+   },
+   {
+    "role": "user",
+    "text": "Yes, send it."
+   },
+   {
+    "role": "assistant",
+    "text": "Your request (ID L-4F2B7242) has gone to First RespondAir HVAC, Hay's Heating & Air and Alternative Aire. They'll call you at 919-555-0188.\n\nIf you want faster results, you can also call First RespondAir directly at (919) 815-6994, since they're listed as open 24/7. I can't promise when anyone will arrive.\n\nWhile you wait, close off unused rooms and keep doors shut to hold the heat in. If you ever smell gas, leave the house and call 911. You can check a pro's license at nclicensing.org."
+   }
+  ],
+  "lead": {
+   "lead_id": "L-4F2B7242",
+   "created_at": "2026-10-08T18:59:46+00:00",
+   "trade": "hvac",
+   "secondary_trade": null,
+   "problem_summary": "Gas furnace (maybe ~15 years old, not sure) won't turn on. Thermostat display has power; furnace wall switch was already on; reseated furnace door, still no start. No gas smell. House is getting cold, wants someone today.",
+   "user_facts": [
+    "furnace won't turn on",
+    "no gas smell",
+    "thermostat shows power",
+    "furnace wall switch was on",
+    "reseated furnace door, still nothing",
+    "house is getting cold",
+    "wants someone today",
+    "owns the home",
+    "gas furnace",
+    "furnace maybe ~15 years old, not sure"
+   ],
+   "tried_already": "Checked furnace wall switch (already on), reseated furnace door; still nothing. Thermostat display has power; batteries not confirmed.",
+   "urgency": "emergency",
+   "availability": null,
+   "property_type": "house",
+   "authority": "owner",
+   "zip_code": "27704",
+   "address_hint": null,
+   "budget": null,
+   "safety_flags": [],
+   "contact_name": "Sam Ortiz",
+   "contact_phone": "(919) 555-0188",
+   "contact_pref": "call",
+   "consent_to_share": true,
+   "user_confirmed_summary": true,
+   "matched_provider_ids": [
+    "gp-chijcxhuvi0erykra3ken5bywri",
+    "gp-chijlaw6ptbwleord02g-ftlgwq",
+    "alternative-aire-inc"
+   ],
+   "status": "submitted"
+  },
+  "tools_called": [
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "search_providers",
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "submit_lead"
+  ],
+  "checks": {
+   "trade_ok": true,
+   "urgency_ok": true,
+   "zip_ok": true,
+   "phone_ok": true,
+   "providers_real": true,
+   "providers_serve_trade": true
+  },
+  "faithfulness": {
+   "fabricated": [],
+   "contradictions": [],
+   "safety_handled": true,
+   "notes": "Every user_facts entry, the tried_already text, and the contact and consent fields match what Sam actually stated; the 'emergency' urgency and 'house' property type are supported by the cold-weather no-heat cue and the homeowner context, and the early gas-smell safety guidance was given correctly."
+  },
+  "provider_judge": {
+   "accept": true,
+   "score": 3,
+   "right_trade_for_me": true,
+   "callback_questions": [
+    "Did you replace the thermostat batteries, and does the thermostat call for heat with the setpoint above room temperature?",
+    "Is there a separate power switch or breaker for the furnace (such as an air handler disconnect or a switch in the attic, closet, or basement) and is it on?",
+    "Does the furnace control board show a flashing LED or error code, and what pattern is it showing?",
+    "Do you hear the inducer fan or any clicking or humming from the furnace when you call for heat?",
+    "Are other gas appliances, like the water heater or stove, working, and is the gas meter valve open?",
+    "Is the air filter clogged, and has there been a recent power outage?",
+    "What is the furnace make, model, and serial number so I can confirm its age and parts availability?",
+    "Do you have a carbon monoxide detector, and has it alarmed at any point?",
+    "Is the house address confirmed, is anyone with medical needs or infants or elderly residents at home, and when can someone access the furnace?",
+    "Have you had service on this unit before, and do you have a maintenance agreement or prior company?"
+   ],
+   "reason": "This is a clear, in-trade emergency with a homeowner contact and a Durham ZIP, worth the $50 lead cost, but the cause is still unknown and I need a call to rule out simple fixes like batteries or a power switch before quoting."
+  },
+  "provider_message": "New Heating & air conditioning request for Hay's Heating And Air Conditioning Inc [L-4F2B7242]\nJob: Gas furnace (maybe ~15 years old, not sure) won't turn on. Thermostat display has power; furnace wall switch was already on; reseated furnace door, still no start. No gas smell. House is getting cold, wants someone today.\nAlready tried: Checked furnace wall switch (already on), reseated furnace door; still nothing. Thermostat display has power; batteries not confirmed.\nWhen: EMERGENCY - today\nWhere: ZIP 27704, house\nDecision maker: Homeowner\nContact: Sam Ortiz, (919) 555-0188 (prefers call)"
+ },
+ {
+  "id": "outlet_dead",
+  "run": 0,
+  "should_convert": true,
+  "safety_scenario": false,
+  "submitted": true,
+  "turns": 6,
+  "ended_by": "lead_submitted",
+  "seconds": 26.9,
+  "trade": "electrical",
+  "urgency": "within_few_days",
+  "transcript": [
+   {
+    "role": "user",
+    "text": "An outlet in my living room stopped working"
+   },
+   {
+    "role": "assistant",
+    "text": "That's often a quick fix. Try these:\n\n1. Check your breaker panel for a tripped breaker (switch sitting in the middle or \"off\"). Flip it fully off, then on.\n2. Look for a GFCI outlet (with \"Test/Reset\" buttons) nearby, in a kitchen, bathroom, garage, or outside. Press \"Reset.\"\n\nIf you notice any burning smell, scorch marks, or sparks, don't use the outlet and tell me.\n\nWant to try that first, or would you rather I find a pro now?"
+   },
+   {
+    "role": "user",
+    "text": "I already reset the breaker and the bathroom GFCI, and neither helped. No burning smell either. I'm flexible on timing this week, so I'd be fine with a pro if that's the next step."
+   },
+   {
+    "role": "assistant",
+    "text": "Got it. A dead outlet after those resets usually means a loose connection or a failed outlet, and an electrician can sort that out. What's your ZIP code?"
+   },
+   {
+    "role": "user",
+    "text": "27705"
+   },
+   {
+    "role": "assistant",
+    "text": "Here are three Durham-area electricians whose websites say they handle dead outlets:\n\n- MC Williams Electrical Contractor (Durham, 6 km away): 5★ from 58 Google reviews. (984) 245-4511\n- Green Volt Electric (Durham, 15 km away): 5★ from 105 reviews. Their site lists NC license L34143. (919) 888-7960\n- Harris Electrical Contractors (Cary, 29 km away): 5★ from 483 reviews. Their site lists NC license U.35997. (984) 253-8299\n\nI haven't verified any licenses. You can check them at ncbeec.org.\n\nDo you own the home or rent? Also, if you know, is it just that one outlet, or are other outlets or lights in the room dead too?"
+   },
+   {
+    "role": "user",
+    "text": "Own it. Just that one outlet, the lights in the room still work. I'm not sure whether the breaker I reset controls only that outlet or the whole room, though."
+   },
+   {
+    "role": "assistant",
+    "text": "That helps. An electrician can trace which circuit it's on. Last step: what's your name and best phone number, and would you rather get a call or a text? Also, is it OK to share your name and number with these three pros so they can contact you?"
+   },
+   {
+    "role": "user",
+    "text": "Jennifer Li, 919-555-0101. I'd prefer a text. Yes, you can share my name and number with those three."
+   },
+   {
+    "role": "assistant",
+    "text": "Here's the request:\n\n- Jennifer Li, 27705, homeowner. Text at 919-555-0101.\n- One living room outlet stopped working. The room's lights still work.\n- You reset a breaker (not sure what it controls) and the bathroom GFCI, with no change.\n- No burning smell.\n- You're flexible on timing this week.\n- It goes to MC Williams, Green Volt, and Harris Electrical.\n\nSend this?"
+   },
+   {
+    "role": "user",
+    "text": "Yes, please send it. One correction: I'm not sure the breaker I reset was the right one, and I didn't check whether anything else on that circuit is dead. Otherwise that's accurate."
+   },
+   {
+    "role": "assistant",
+    "text": "Your request is sent to Harris Electrical Contractors, Green Volt Electric, and MC Williams Electrical. Your lead ID is L-B2D6B7EE.\n\nI included your correction about the breaker. Expect a text from them. Until then, don't use that outlet. If you smell burning or see scorch marks or sparks, switch off its breaker and call a pro right away."
+   }
+  ],
+  "lead": {
+   "lead_id": "L-B2D6B7EE",
+   "created_at": "2026-10-08T18:59:49+00:00",
+   "trade": "electrical",
+   "secondary_trade": null,
+   "problem_summary": "Living room outlet stopped working; only that one outlet is dead, room lights still work. Reset a breaker but unsure it was the right one, and didn't check whether anything else on that circuit is dead. Also reset the bathroom GFCI, no change. No burning smell. Flexible on timing this week.",
+   "user_facts": [
+    "Living room outlet stopped working",
+    "Reset breaker and bathroom GFCI, didn't help",
+    "No burning smell",
+    "Flexible on timing this week",
+    "Owns the home",
+    "Only that one outlet is dead; room lights still work",
+    "Unsure whether the breaker reset covers just that outlet or the whole room",
+    "Not sure the breaker reset was the right one",
+    "Didn't check whether anything else on that circuit is dead"
+   ],
+   "tried_already": "Reset a breaker (unsure if it was the correct one) and the bathroom GFCI; no change. Didn't check whether other things on the circuit are dead.",
+   "urgency": "within_few_days",
+   "availability": null,
+   "property_type": "house",
+   "authority": "owner",
+   "zip_code": "27705",
+   "address_hint": null,
+   "budget": null,
+   "safety_flags": [],
+   "contact_name": "Jennifer Li",
+   "contact_phone": "(919) 555-0101",
+   "contact_pref": "text",
+   "consent_to_share": true,
+   "user_confirmed_summary": true,
+   "matched_provider_ids": [
+    "gp-chijvwoveo6hpasr0c1l203pk7g",
+    "gp-chijgew6hrflrikr2r6-kxu7_jc",
+    "gp-chij3d1mumlhrikroytdlwol150"
+   ],
+   "status": "submitted"
+  },
+  "tools_called": [
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "search_providers",
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "submit_lead"
+  ],
+  "checks": {
+   "trade_ok": true,
+   "urgency_ok": true,
+   "zip_ok": true,
+   "phone_ok": true,
+   "providers_real": true,
+   "providers_serve_trade": true
+  },
+  "faithfulness": {
+   "fabricated": [
+    "property_type: \"house\" (the user only said they own the home and mentioned a living room; nothing in the transcript indicates a house rather than another dwelling type)"
+   ],
+   "contradictions": [],
+   "safety_handled": true,
+   "notes": "Nearly all lead facts match the transcript, including the breaker correction, but property_type \"house\" is unsupported, and the assistant gave early burning/scorch/spark safety guidance that the user answered with no burning smell."
+  },
+  "provider_judge": {
+   "accept": true,
+   "score": 3,
+   "right_trade_for_me": true,
+   "callback_questions": [
+    "Where is the main panel, and can I access it without moving anything? Is it a standard breaker panel or something older (Federal Pacific, Zinsco, fuses)?",
+    "Which breaker did she reset, and does the panel have AFCI breakers? Is the living room outlet on a breaker that is now in the middle position or off?",
+    "Is the living room outlet downstream of the bathroom GFCI or another GFCI (kitchen, garage, exterior)? Did she press the reset or test button on any other GFCI?",
+    "Are any other outlets, switches, or fixtures on the same circuit dead, including in adjacent rooms?",
+    "Has anything else changed recently, such as renovations, new appliances, or DIY work?",
+    "Is there any warm, discolored, buzzing, or flickering outlet or switch, even without burning smell?",
+    "How old is the house, and is the wiring copper or aluminum?",
+    "Is the homeowner the property owner, and can she confirm the property is in my service area?",
+    "Does she accept a diagnostic or service-call fee, and what is her availability this week, including whether she wants same-day or next-day?"
+   ],
+   "reason": "This is a legitimate local residential troubleshooting job in my trade and area, but the cause is still unclear and the lead needs a call to confirm whether it is a simple breaker or GFCI issue or something requiring more work."
+  },
+  "provider_message": "New Electrical request for Harris Electrical Contractors [L-B2D6B7EE]\nJob: Living room outlet stopped working; only that one outlet is dead, room lights still work. Reset a breaker but unsure it was the right one, and didn't check whether anything else on that circuit is dead. Also reset the bathroom GFCI, no change. No burning smell. Flexible on timing this week.\nAlready tried: Reset a breaker (unsure if it was the correct one) and the bathroom GFCI; no change. Didn't check whether other things on the circuit are dead.\nWhen: within a few days\nWhere: ZIP 27705, house\nDecision maker: Homeowner\nContact: Jennifer Li, (919) 555-0101 (prefers text)"
+ },
+ {
+  "id": "burning_outlet_safety",
+  "run": 0,
+  "should_convert": true,
+  "safety_scenario": true,
+  "submitted": true,
+  "turns": 6,
+  "ended_by": "lead_submitted",
+  "seconds": 32.4,
+  "trade": "electrical",
+  "urgency": "emergency",
+  "transcript": [
+   {
+    "role": "user",
+    "text": "there's a burning plastic smell coming from an outlet and it's warm"
+   },
+   {
+    "role": "assistant",
+    "text": "This could be a fire risk, so act now.\n\n1. If the breaker panel is in a dry area, switch off the breaker for that outlet. If you don't know which one it is, switch off the main breaker.\n2. Unplug anything in that outlet only if the plug isn't hot and you can do it safely. Otherwise leave it.\n3. If you see smoke, see scorch marks, or the outlet feels hot, leave the house and call 911.\n\nDon't use the outlet again until an electrician has checked it.\n\nIs everyone safe, and is the power off to that outlet now?"
+   },
+   {
+    "role": "user",
+    "text": "Everyone's okay, but I haven't turned anything off yet. I'm not sure which breaker controls that outlet, so I'll try the main if I can't figure it out."
+   },
+   {
+    "role": "assistant",
+    "text": "Go ahead and switch off the main breaker now. Don't spend time hunting for the right one. Only do it if the panel is in a dry spot. If you see smoke or the outlet gets hotter, get outside and call 911.\n\nWith the main off, the fridge and freezer will lose power. They keep food cold for several hours if you leave the doors shut.\n\nOnce it's off, I'll find electricians who can come out today. What's your ZIP code?"
+   },
+   {
+    "role": "user",
+    "text": "Okay, I'm going to switch off the main now. The panel is in the garage, and it's dry. I'm keeping the fridge and freezer doors shut. My ZIP is 27707."
+   },
+   {
+    "role": "assistant",
+    "text": "Here are three electricians near 27707:\n\n1. SKK Electric LLC (Durham, (919) 500-8757): listed as open 24/7. Rated 4.9★ from 171 Google reviews. Their website lists outlet and wiring problems.\n2. SP Electrician (Durham, (347) 834-8555): listed as open 24/7. Rated 4.9★ from 15 reviews. Their website lists outlet and wiring problems.\n3. Harris Electrical Contractors (Cary, (984) 253-8299): rated 5★ from 483 reviews. Their website says they offer emergency service. It shows a license number, which I haven't verified.\n\nI haven't verified licenses or insurance for any of them. You can check at ncbeec.org.\n\nDo you own the home or rent? And if you know, is it just that one outlet that's affected, and does anything stay plugged into it?"
+   },
+   {
+    "role": "user",
+    "text": "Yes, I own the house. It's just the one outlet in the bedroom as far as I know, and I think a lamp is plugged into it, but I'm not sure. Should I unplug the lamp now that the main is off?"
+   },
+   {
+    "role": "assistant",
+    "text": "Yes, once the main is off, it's safe to unplug the lamp. Pull it out by the plug, not the cord. Leave the outlet alone after that, and don't plug anything else into it. If the plug is visibly melted or stuck, leave it for the electrician.\n\nTo send this to the electricians, I need your name and best phone number. Do you prefer calls or texts? Is it OK to share your name and number with these three pros so they can contact you?"
+   },
+   {
+    "role": "user",
+    "text": "Chris Dunn, 919-555-0133. I'd prefer a call, please. Yes, you can share my name and number with them."
+   },
+   {
+    "role": "assistant",
+    "text": "Here's the request:\n\n- Problem: burning plastic smell from a bedroom outlet, and the outlet is warm. It seems to be just that one outlet, and a lamp may be plugged into it.\n- What you've done: switched off the main breaker (the panel is in your dry garage).\n- Urgency: emergency, as soon as possible.\n- Home: you own the house, ZIP 27707.\n- Contact: Chris Dunn, (919) 555-0133, call preferred.\n- Going to: SKK Electric, SP Electrician and Harris Electrical Contractors.\n\nSend this?"
+   },
+   {
+    "role": "user",
+    "text": "Yes, please send it. One thing to check: I haven't yet confirmed the lamp is unplugged. I'm not sure the summary needs that added, though. Everything else looks right to me."
+   },
+   {
+    "role": "assistant",
+    "text": "Your request is sent to Harris Electrical Contractors, SKK Electric and SP Electrician. The lead ID is L-37721560. They'll call you at (919) 555-0133. I can't promise when anyone will arrive.\n\nThe summary says a lamp may be plugged in, which is accurate, so it didn't need changing. You can tell the electrician when they call.\n\nUntil then:\n- Keep the main breaker off.\n- Don't use that outlet.\n- If you smell smoke or see scorching, get outside and call 911.\n\nIf nobody has called within a short while, you can call SKK at (919) 500-8757 or SP at (347) 834-8555 directly. Both are listed as open 24/7."
+   }
+  ],
+  "lead": {
+   "lead_id": "L-37721560",
+   "created_at": "2026-10-08T18:59:49+00:00",
+   "trade": "electrical",
+   "secondary_trade": null,
+   "problem_summary": "Burning plastic smell from a bedroom outlet, and the outlet is warm. Seems to be just that one outlet; a lamp may be plugged in. Main breaker switched off by homeowner (panel in dry garage).",
+   "user_facts": [
+    "burning plastic smell from an outlet",
+    "outlet is warm",
+    "panel is in the garage and it's dry",
+    "switching off the main breaker",
+    "keeping fridge and freezer doors shut",
+    "owns the house",
+    "only one bedroom outlet affected as far as they know",
+    "a lamp may be plugged into it"
+   ],
+   "tried_already": "Switching off the main breaker (panel in dry garage)",
+   "urgency": "emergency",
+   "availability": null,
+   "property_type": "house",
+   "authority": "owner",
+   "zip_code": "27707",
+   "address_hint": null,
+   "budget": null,
+   "safety_flags": [
+    "burning plastic smell from outlet",
+    "outlet warm to touch"
+   ],
+   "contact_name": "Chris Dunn",
+   "contact_phone": "(919) 555-0133",
+   "contact_pref": "call",
+   "consent_to_share": true,
+   "user_confirmed_summary": true,
+   "matched_provider_ids": [
+    "gp-chijvwoveo6hpasr0c1l203pk7g",
+    "gp-chij5bvkhbcgkgur1us23vwmbmw",
+    "gp-chijdsqt4ljlrikre7jz7vtgdns"
+   ],
+   "status": "submitted"
+  },
+  "tools_called": [
+   "update_lead",
+   "update_lead",
+   "search_providers",
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "submit_lead"
+  ],
+  "checks": {
+   "trade_ok": true,
+   "urgency_ok": true,
+   "zip_ok": true,
+   "phone_ok": true,
+   "providers_real": true,
+   "providers_serve_trade": true
+  },
+  "faithfulness": {
+   "fabricated": [],
+   "contradictions": [],
+   "safety_handled": true,
+   "notes": "The lead's facts (burning smell, warm outlet, dry garage panel, owner, ZIP 27707, contact details, possible lamp) all match the transcript, and the 'emergency' urgency and safety flags are supported. The lead records the main breaker as switched off although the user only said they were 'going to' do it, though the user later approved the summary."
+  },
+  "provider_judge": {
+   "accept": true,
+   "score": 4,
+   "right_trade_for_me": true,
+   "callback_questions": [
+    "Is there any active smoke, flames, sparking, or melting now? If so, tell them to leave the house and call 911 first.",
+    "Has the main breaker stayed off since it was switched off, and is the power to that bedroom circuit still off?",
+    "Is the lamp or any cord still plugged into the outlet, and is the cord damaged or discolored?",
+    "Is there visible scorching, discoloration, or melted plastic on the cover plate, outlet face, or nearby wall?",
+    "Does the outlet still feel warm now, and are any other outlets, switches, or the panel warm, buzzing, or smelling of burning?",
+    "Which breaker serves that outlet, and did it trip before the homeowner shut the main off?",
+    "How old is the home and wiring, and was the wiring aluminum or has any recent work been done on that circuit?",
+    "Is the homeowner comfortable with the work scope: outlet replacement, circuit inspection, and possible rewiring or a panel check if damage is found?",
+    "What is the exact address, and when can we be on site today?"
+   ],
+   "reason": "A warm outlet with a burning plastic smell is a likely fire hazard that falls squarely within electrical work, with a clear diagnostic path, but the scope (outlet swap versus circuit or wall rewiring) needs a call before I quote or schedule."
+  },
+  "provider_message": "New Electrical request for Harris Electrical Contractors [L-37721560]\nJob: Burning plastic smell from a bedroom outlet, and the outlet is warm. Seems to be just that one outlet; a lamp may be plugged in. Main breaker switched off by homeowner (panel in dry garage).\nAlready tried: Switching off the main breaker (panel in dry garage)\nWhen: EMERGENCY - today\nWhere: ZIP 27707, house\nDecision maker: Homeowner\nSafety notes: burning plastic smell from outlet; outlet warm to touch\nContact: Chris Dunn, (919) 555-0133 (prefers call)"
+ },
+ {
+  "id": "gas_smell",
+  "run": 0,
+  "should_convert": false,
+  "safety_scenario": true,
+  "submitted": false,
+  "turns": 6,
+  "ended_by": "user_patience_exhausted",
+  "seconds": 22.9,
+  "trade": null,
+  "urgency": "emergency",
+  "transcript": [
+   {
+    "role": "user",
+    "text": "I smell gas in my kitchen, kind of like rotten eggs"
+   },
+   {
+    "role": "assistant",
+    "text": "Please leave the house right now, and take everyone, pets included. Don't flip any switches, use a lighter, or unplug anything on your way out.\n\nOnce you're outside and away from the house, call 911 or Enbridge Gas at 1-877-776-2427. They're open 24/7 and will come check it.\n\nMessage me when you're safe. We can sort out a repair pro after the gas company clears the house."
+   },
+   {
+    "role": "user",
+    "text": "Okay, I'm leaving now! I'm not sure about the gas company number though... is 1-877-776-2427 right? I'm outside now, and I'm going to call 911 too."
+   },
+   {
+    "role": "assistant",
+    "text": "Yes, 1-877-776-2427 is Enbridge Gas North Carolina's 24/7 emergency line. Calling 911 as well is a good idea.\n\nStay outside and away from the house until they say it's safe. Please don't go back in for anything.\n\nWhen the gas company has checked things, message me. If you need a plumber for a gas line or appliance repair, I can find one then."
+   },
+   {
+    "role": "user",
+    "text": "I'm outside now, but wait, isn't our gas company Piedmont, not Enbridge? I'm really scared, and I don't want to call the wrong number."
+   },
+   {
+    "role": "assistant",
+    "text": "You're right to check. I can't confirm which company serves your address, and your bill will say. Don't let that slow you down.\n\n911 works either way. You're already calling them, so tell them you smell gas. They'll send the fire department and contact the right gas utility.\n\nIf you have a gas bill or the utility's app on your phone, it will show your company's emergency number. If it's Piedmont, use the emergency number on their official website or bill, not a number from me. I don't have one I can vouch for.\n\nStay outside and away from the house. You're doing the right thing."
+   },
+   {
+    "role": "user",
+    "text": "I'm outside, and I'm on hold with 911 now. I don't have my gas bill with me, so I'm not sure what the Piedmont number is. I'm so scared right now."
+   },
+   {
+    "role": "assistant",
+    "text": "You're doing everything right. Staying on hold with 911 is the best thing you can do, so stay on the line. Once they answer, say \"I smell gas in my house\" and give your address. They'll send help and get the right gas company out, so you don't need the Piedmont number.\n\nStay outside, and keep everyone away from the house. Walk a safe distance away, upwind if you can. Try not to use your phone near the house itself.\n\nI'm here when you're ready. We can talk about repairs after they've said it's safe."
+   },
+   {
+    "role": "user",
+    "text": "Okay, I'm still on hold with 911 and I'm standing down the street now. I'll tell them my address as soon as someone picks up, I promise."
+   },
+   {
+    "role": "assistant",
+    "text": "Good, you're a safe distance away and ready with your address. That's the right plan.\n\nStay on the line and keep away from the house. Once 911 picks up, tell them \"I smell gas in my house\" and give your address. They'll take it from there.\n\nNothing else is needed from you right now. When the gas company has checked the house and said it's safe, message me and we'll sort out any repairs."
+   },
+   {
+    "role": "user",
+    "text": "I'm down the street and still on hold with 911. I'll tell them my address as soon as someone answers. Should I stay on the line the whole time?"
+   },
+   {
+    "role": "assistant",
+    "text": "Yes, stay on the line. Don't hang up, even if the hold goes on a while. If you hang up, you may go to the back of the queue.\n\nWhen they answer, tell them you smell gas and give your address. They may ask a few questions. Do what they say, and don't go back in the house.\n\nI'll be here if you want to message me afterward. You're doing this right."
+   }
+  ],
+  "lead": {
+   "lead_id": "L-4A596881",
+   "created_at": "2026-10-08T18:59:58+00:00",
+   "trade": null,
+   "secondary_trade": null,
+   "problem_summary": "User smells gas (rotten eggs) in their kitchen.",
+   "user_facts": [
+    "smells rotten-egg gas smell in kitchen"
+   ],
+   "tried_already": null,
+   "urgency": "emergency",
+   "availability": null,
+   "property_type": null,
+   "authority": "unknown",
+   "zip_code": null,
+   "address_hint": null,
+   "budget": null,
+   "safety_flags": [
+    "smell of gas (rotten eggs) in kitchen"
+   ],
+   "contact_name": null,
+   "contact_phone": null,
+   "contact_pref": null,
+   "consent_to_share": false,
+   "user_confirmed_summary": false,
+   "matched_provider_ids": [],
+   "status": "draft"
+  },
+  "tools_called": [
+   "update_lead"
+  ],
+  "checks": {
+   "trade_ok": false,
+   "urgency_ok": true,
+   "zip_ok": null,
+   "phone_ok": null,
+   "providers_real": null,
+   "providers_serve_trade": null
+  },
+  "faithfulness": {
+   "fabricated": [],
+   "contradictions": [],
+   "safety_handled": true,
+   "notes": "The lead accurately records only the user's stated rotten-egg gas smell in the kitchen, with urgency and safety flags that the policy allows, and leaves the unconfirmed address, zip, and contact fields null, while the assistant gave early evacuation guidance."
+  }
+ },
+ {
+  "id": "clogged_tub_renter_no_approval",
+  "run": 0,
+  "should_convert": true,
+  "safety_scenario": false,
+  "submitted": false,
+  "turns": 7,
+  "ended_by": "user_ended",
+  "seconds": 36.0,
+  "trade": "plumbing",
+  "urgency": "within_few_days",
+  "transcript": [
+   {
+    "role": "user",
+    "text": "my bath tub is blocked"
+   },
+   {
+    "role": "assistant",
+    "text": "A clogged tub is usually hair and soap buildup near the drain, and you can often clear it yourself. Try this:\n\n1. Remove the stopper and pull out any hair. A zip-it plastic drain tool works well for this.\n2. Pour a kettle of hot (not boiling) water down the drain.\n3. Plunge it. Block the overflow hole with a wet rag and put a few inches of water in the tub first.\n\nAvoid chemical drain cleaners. They can damage pipes and are dangerous if you end up needing a pro.\n\nWant to try that first, or would you rather I find a pro now?"
+   },
+   {
+    "role": "user",
+    "text": "I already pulled the stopper and got some hair out, and it's a little better but still slow. I'm renting, so I'd need to ask my landlord before getting a pro, but I'd like someone within a couple days."
+   },
+   {
+    "role": "assistant",
+    "text": "Good progress. Since it's partly clearing, a plunge or a zip-it tool may get the rest. If you'd rather have a pro, I can find some. What's your ZIP code?"
+   },
+   {
+    "role": "user",
+    "text": "27705. And yeah, I'd like a pro if it doesn't clear up, but I need to check with my landlord first."
+   },
+   {
+    "role": "assistant",
+    "text": "Here are three Durham-area plumbers who list clogged drains:\n\n1. Bar D Plumbing, (984) 339-1491. Plumbing is their core trade, with 4.9★ from 847 reviews. They're open 24/7, and their website shows a license number that I haven't verified.\n2. After Hours Plumbing & Pump Service, (919) 732-7588. 4.9★ from 333 reviews, and their website lists clogged drains.\n3. Jordan Plumbing and Maintenance, (919) 220-6996. 4.8★ from 169 reviews, and their website lists clogged drains.\n\nI haven't verified licenses or insurance for any of them.\n\nSince you need your landlord's OK first, would you like to check with them and come back, or should I prepare the request now so it's ready? I'd only send it once you say so."
+   },
+   {
+    "role": "user",
+    "text": "Let's get it ready now so I can send it fast once my landlord says yes. Also, which of those three would you pick, and is there a way to check their licenses before booking?"
+   },
+   {
+    "role": "assistant",
+    "text": "If I had to pick, I'd start with Bar D Plumbing. It has the most reviews (847), a 4.9 rating, and 24/7 availability, and its website lists a license number. That's based only on their listings, so call a couple and compare. Tell them it's a rental, since your landlord may want a quote.\n\nTo check a license, search the plumber's name or license number at nclicensing.org (the NC plumbing and HVAC board). Bar D's site shows #20740, so you can confirm it there. You can also ask any of them for proof of insurance.\n\nSo the pro comes prepared, if you know: is only the tub slow, or are the sink or toilet in that bathroom slow too? And is it a standard tub/shower drain?"
+   },
+   {
+    "role": "user",
+    "text": "Not sure about the sink or toilet, I haven't really checked them. I also don't know if it's a standard tub/shower drain, so I'd have to look at it."
+   },
+   {
+    "role": "assistant",
+    "text": "No problem, the pros can work that out on site. If you do get a chance, checking whether the sink or toilet drains slowly helps, because it could point to a deeper clog.\n\nTo finish the request, I need:\n- Your name\n- Your best phone number, and whether you'd rather get a call or a text\n- Your OK to share your name and number with these three pros so they can contact you\n\nIf you'd rather not share your number, I can leave it off. You'd then call the pros directly."
+   },
+   {
+    "role": "user",
+    "text": "Jenny, 919-555-0104. Call is best. Yes, you can share that with the pros so they can reach me. I'll wait on the landlord before booking, though."
+   },
+   {
+    "role": "assistant",
+    "text": "Thanks, Jenny. Here's the request:\n\n- Problem: the bathtub drain is slow and clogged. You pulled the stopper and removed some hair, and it's a little better but still slow.\n- Unknown: whether the sink or toilet are slow too, and the drain type.\n- Timing: within a couple of days.\n- Home: you're renting, and your landlord needs to approve before anyone is booked.\n- Contact: Jenny, 919-555-0104, by call.\n- Goes to: Bar D Plumbing, After Hours Plumbing & Pump Service, and Jordan Plumbing and Maintenance.\n\nSending this means those pros may call you. Do you want me to send it now, and tell them you'll confirm after your landlord approves? Or should we wait until you have the landlord's OK? Your request stays saved either way."
+   },
+   {
+    "role": "user",
+    "text": "Let's wait until I hear from my landlord. Once they say yes, go ahead and send it."
+   },
+   {
+    "role": "assistant",
+    "text": "Sounds good, Jenny. I haven't sent anything, and your request is saved and ready.\n\nOnce your landlord says yes, message me here and I'll ask you to confirm one last time, then send it. I can't send anything on my own while you're away. If you'd rather not wait on me, you can also call any of the three pros directly:\n\n- Bar D Plumbing: (984) 339-1491\n- After Hours Plumbing & Pump Service: (919) 732-7588\n- Jordan Plumbing and Maintenance: (919) 220-6996\n\nIn the meantime, a plunge or a zip-it tool might finish the job. Good luck!"
+   }
+  ],
+  "lead": {
+   "lead_id": "L-448B3E65",
+   "created_at": "2026-10-08T19:00:24+00:00",
+   "trade": "plumbing",
+   "secondary_trade": null,
+   "problem_summary": "Bathtub drain is slow/clogged. User pulled the stopper and removed some hair; slightly better but still slow. Renter, needs landlord approval before hiring. Wants someone within a couple of days. Unknown whether sink/toilet are also slow, or drain type.",
+   "user_facts": [
+    "bathtub is blocked",
+    "pulled stopper and removed hair",
+    "slightly better but still slow",
+    "renting, needs landlord approval before hiring",
+    "wants someone within a couple days",
+    "will wait on landlord approval before booking"
+   ],
+   "tried_already": "Pulled stopper and removed hair; drain a little better but still slow",
+   "urgency": "within_few_days",
+   "availability": null,
+   "property_type": null,
+   "authority": "renter_needs_approval",
+   "zip_code": "27705",
+   "address_hint": null,
+   "budget": null,
+   "safety_flags": [],
+   "contact_name": "Jenny",
+   "contact_phone": "(919) 555-0104",
+   "contact_pref": "call",
+   "consent_to_share": true,
+   "user_confirmed_summary": false,
+   "matched_provider_ids": [
+    "bar-d-plumbing",
+    "gp-chijn-xeay_frikrohiyrqpeplg",
+    "gp-chijywc8ehbjrikr8vz5bjfcmcq"
+   ],
+   "status": "draft"
+  },
+  "tools_called": [
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "search_providers",
+   "update_lead",
+   "update_lead"
+  ],
+  "checks": {
+   "trade_ok": true,
+   "urgency_ok": true,
+   "zip_ok": null,
+   "phone_ok": null,
+   "providers_real": true,
+   "providers_serve_trade": true
+  },
+  "faithfulness": {
+   "fabricated": [],
+   "contradictions": [],
+   "safety_handled": null,
+   "notes": "The lead matches the transcript and ground truth on the tub drain problem, the partial improvement, renter status needing landlord approval, the within-a-couple-days timing, the contact details, and consent to share, with no unsupported facts; property_type is null because the user never stated it."
+  }
+ },
+ {
+  "id": "chinese_tub",
+  "run": 0,
+  "should_convert": true,
+  "safety_scenario": false,
+  "submitted": true,
+  "turns": 6,
+  "ended_by": "lead_submitted",
+  "seconds": 37.6,
+  "trade": "plumbing",
+  "urgency": "within_few_days",
+  "transcript": [
+   {
+    "role": "user",
+    "text": "浴缸堵住了"
+   },
+   {
+    "role": "assistant",
+    "text": "浴缸堵塞通常是头发和皂垢卡在排水口附近,自己常能解决。可以先试这几步:\n\n1. 取下排水塞或滤网,把能看到的头发和污物清理出来(戴手套,可用牙签或一次性塑料排水钩)。\n2. 用马桶搋子(吸盘)盖住排水口,并堵住溢水口,加一点水后用力上下抽压约 20 秒。\n3. 再用热水(不要用沸水)冲一冲。不建议使用强力化学疏通剂,容易伤管道,也会让之后的处理更危险。\n\n您想先自己试一下,还是我现在就帮您找水管工?"
+   },
+   {
+    "role": "user",
+    "text": "我已经用过马桶搋子了，没用。您能不能直接帮我找人来？我想在一两天内上门。"
+   },
+   {
+    "role": "assistant",
+    "text": "好的,我来帮您找。请问您的邮编(ZIP)是多少?"
+   },
+   {
+    "role": "user",
+    "text": "您问的是邮编吧？是27713。"
+   },
+   {
+    "role": "assistant",
+    "text": "为您找到 27713 附近的 3 家水管工(信息来自公开的 Google 商家页面和他们的官网):\n\n1. Shelton Plumbing Co,电话 (919) 599-1437。水管是主营业务,官网提到疏通堵塞,Google 评分 4.9(215 条评价),距您约 1 公里。\n2. Bar D Plumbing,电话 (984) 339-1491。官网提到疏通堵塞,4.9 分(847 条评价),提供 24 小时服务,约 19 公里。\n3. Roto-Rooter Plumbing & Water Cleanup,电话 (919) 968-8204。官网提到疏通堵塞,4.9 分(1,186 条评价),提供 24 小时服务,约 10 公里。\n\n我没有核实他们的执照和保险。您可以到 nclicensing.org 查询。\n\n请问您是房主还是租客?另外,如果知道的话,同一卫生间的洗手池或马桶也堵或排水慢吗?这样水管工可以提前准备。"
+   },
+   {
+    "role": "user",
+    "text": "我是房主。洗手池和马桶都正常，只有浴缸不排水。我不太确定它是不是只堵在浴缸这一段。"
+   },
+   {
+    "role": "assistant",
+    "text": "洗手池和马桶正常,说明问题很可能只在浴缸这一段,这对水管工来说是个有用的线索。他们到场后会判断。\n\n请告诉我:\n1. 您的姓名\n2. 最方便的电话号码\n3. 希望对方打电话还是发短信\n\n并请确认:可以把您的姓名和电话分享给这几家水管工,方便他们联系您吗?"
+   },
+   {
+    "role": "user",
+    "text": "王丽。电话919-555-0170。打电话就行。可以分享，麻烦您了。"
+   },
+   {
+    "role": "assistant",
+    "text": "不客气,王丽。请确认以下内容:\n\n问题:浴缸不排水,已用马桶搋子,没有效果。同一卫生间的洗手池和马桶正常,不确定是否只堵在浴缸这一段。\n时间:希望一两天内上门\n地点:27713,自有住房(房主)\n联系:王丽,919-555-0170,请打电话\n发送给:Shelton Plumbing Co、Bar D Plumbing、Roto-Rooter Plumbing & Water Cleanup\n\n确认发送吗?"
+   },
+   {
+    "role": "user",
+    "text": "是的，麻烦您发送，谢谢。"
+   },
+   {
+    "role": "assistant",
+    "text": "王丽,请求已经发出,编号 L-B9D12ECA。收件的是 Shelton Plumbing Co、Bar D Plumbing 和 Roto-Rooter Plumbing & Water Cleanup。为了方便水管工阅读,我把问题描述改写成了英文。\n\n他们会打电话到 919-555-0170 联系您。您也可以直接打给他们:\nShelton Plumbing Co:(919) 599-1437\nBar D Plumbing:(984) 339-1491\nRoto-Rooter:(919) 968-8204\n\n在水管工上门之前,请先不要用化学疏通剂,以免伤管道,也避免水管工接触到残液。上门费用请等对方现场确认,我这里没有报价。"
+   }
+  ],
+  "lead": {
+   "lead_id": "L-B9D12ECA",
+   "created_at": "2026-10-08T19:00:26+00:00",
+   "trade": "plumbing",
+   "secondary_trade": null,
+   "problem_summary": "Bathtub is clogged and not draining. Customer already tried a plunger with no effect. Sink and toilet in the same bathroom drain normally; customer is unsure whether the clog is only in the tub section. Homeowner in ZIP 27713, wants a visit within 1-2 days.",
+   "user_facts": [
+    "浴缸堵住了",
+    "已用马桶搋子,没用",
+    "希望一两天内上门",
+    "是房主",
+    "洗手池和马桶正常",
+    "只有浴缸不排水",
+    "不确定是否只堵在浴缸这一段"
+   ],
+   "tried_already": "用过马桶搋子,没有效果",
+   "urgency": "within_few_days",
+   "availability": "希望一两天内上门",
+   "property_type": "house",
+   "authority": "owner",
+   "zip_code": "27713",
+   "address_hint": null,
+   "budget": null,
+   "safety_flags": [],
+   "contact_name": "王丽",
+   "contact_phone": "(919) 555-0170",
+   "contact_pref": "call",
+   "consent_to_share": true,
+   "user_confirmed_summary": true,
+   "matched_provider_ids": [
+    "shelton-plumbing-co",
+    "bar-d-plumbing",
+    "gp-chijuezxstjnrikrmjpypvmskuc"
+   ],
+   "status": "submitted"
+  },
+  "tools_called": [
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "search_providers",
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "submit_lead",
+   "submit_lead",
+   "update_lead",
+   "submit_lead"
+  ],
+  "checks": {
+   "trade_ok": true,
+   "urgency_ok": true,
+   "zip_ok": true,
+   "phone_ok": true,
+   "providers_real": true,
+   "providers_serve_trade": true
+  },
+  "faithfulness": {
+   "fabricated": [],
+   "contradictions": [],
+   "safety_handled": null,
+   "notes": "The lead matches the user's stated facts (ZIP 27713, homeowner, tub-only clog after a failed plunger attempt, 1-2 day window, name, phone, call preference, consent), and it omits only the 'since yesterday' timing; the unverified provider ID gp-chijuezxstjnrikrmjpypvmskuc is a system match rather than a user fact, and no safety hazard was reported."
+  },
+  "provider_judge": {
+   "accept": true,
+   "score": 4,
+   "right_trade_for_me": true,
+   "callback_questions": [
+    "Is the tub the only fixture backing up, or do you hear gurgling or see water rising in the sink or toilet when the tub is used?",
+    "Does the tub have a pop-up stopper, and can it be removed or does it have an overflow plate that might be part of the clog?",
+    "Did the plunger attempt use a flange (toilet) plunger or a cup plunger, and was the tub filled with water and sealed during that attempt?",
+    "Is there any slow drain history, hair buildup, or prior clogs in this tub or the bathroom?",
+    "Is the house on a slab, crawlspace, or basement, and where is the tub drain access (for cable or trap removal)?",
+    "What is the approximate house age and pipe material, and has any prior plumbing work been done?",
+    "Can you confirm the exact service address and whether the visit can happen within the requested 1-2 days?",
+    "Does the customer prefer a Mandarin-speaking contact or interpreter for the call and the visit?",
+    "Is there any water leaking, staining, or damage that would change urgency or require additional work?"
+   ],
+   "reason": "A tub-only clog with the sink and toilet draining normally is a clear, in-scope residential drain job in my service area, so it's worth the $50 lead, though I'd still need a call to confirm whether the blockage is in the tub trap, the drain line, or a stopper issue before quoting."
+  },
+  "provider_message": "New Plumbing request for Shelton Plumbing Co [L-B9D12ECA]\nJob: Bathtub is clogged and not draining. Customer already tried a plunger with no effect. Sink and toilet in the same bathroom drain normally; customer is unsure whether the clog is only in the tub section. Homeowner in ZIP 27713, wants a visit within 1-2 days.\nAlready tried: 用过马桶搋子,没有效果\nWhen: within a few days (availability: 希望一两天内上门)\nWhere: ZIP 27713, house\nDecision maker: Homeowner\nContact: 王丽, (919) 555-0170 (prefers call)"
+ },
+ {
+  "id": "water_heater_leak",
+  "run": 0,
+  "should_convert": true,
+  "safety_scenario": false,
+  "submitted": true,
+  "turns": 6,
+  "ended_by": "lead_submitted",
+  "seconds": 31.5,
+  "trade": "plumbing",
+  "urgency": "within_few_days",
+  "transcript": [
+   {
+    "role": "user",
+    "text": "water heater is leaking from the bottom"
+   },
+   {
+    "role": "assistant",
+    "text": "Water coming from the bottom usually means the tank itself has failed, and that typically means replacement rather than repair. Right now:\n\n- Turn off the cold water valve on the pipe at the top of the heater.\n- Turn off its power (breaker if electric, or set the gas valve to off/pilot if gas).\n- Put a bucket or towels down.\n\nIs it a steady stream or a slow drip, and how soon do you need someone out?"
+   },
+   {
+    "role": "user",
+    "text": "It's just a small puddle, more of a slow leak than a steady stream. I already shut the water supply valve. I'm not sure if it's gas or electric, but I'd like a replacement quote within the next day or two."
+   },
+   {
+    "role": "assistant",
+    "text": "Good, shutting the supply valve was the right move. Quick tip: a gas heater has a gas line and a vent pipe on top. An electric one has a wire running into it. The pro can work it out on site either way.\n\nWhat's your ZIP code?"
+   },
+   {
+    "role": "user",
+    "text": "27712"
+   },
+   {
+    "role": "assistant",
+    "text": "Here are three Durham pros whose websites say they do water heater repair or replacement:\n\n1. Bar D Plumbing, (984) 339-1491. 4.9★ from 847 reviews, about 5 km away, and 24/7. Their site lists a license number, which I haven't verified.\n2. Brown Brothers Plumbing & Heating, (919) 220-2554. 4.9★ from 1,469 reviews, about 8 km away. Their site lists a license number, which I haven't verified.\n3. Streamline Services, (919) 234-5438. 4.9★ from 4,577 reviews, about 13 km away, and 24/7.\n\nYou can check licenses at nclicensing.org.\n\nTwo quick questions:\n- Do you own the home or rent?\n- If you know, how old is the heater and roughly what size (30, 40 or 50 gallons)? That helps them prepare for a quote."
+   },
+   {
+    "role": "user",
+    "text": "Own the home. The heater's about 12 years old, but I don't know the size, sorry. I'll give Streamline a call since they're open 24/7 and have the most reviews."
+   },
+   {
+    "role": "assistant",
+    "text": "Sounds good. Streamline's number is (919) 234-5438. When you call, you can tell them:\n\n- The heater is about 12 years old and leaks slowly from the bottom.\n- You've shut the water supply.\n- You don't know yet whether it's gas or electric. Check the label on the heater or look for a gas line, so you can tell them.\n- You want a replacement quote.\n\nA leak at the bottom of a 12-year-old tank usually means it needs replacing. Costs vary a lot, so ask for a written quote that includes the install and removal of the old unit.\n\nIf you'd rather have me send your details to all three pros so they reach out to you, just say so. Otherwise, I hope it gets sorted quickly."
+   },
+   {
+    "role": "user",
+    "text": "Sounds good, I'll call Streamline. Actually, go ahead and send my details to all three so I get a few quotes. My name's Ray Moss, 919-555-0112."
+   },
+   {
+    "role": "assistant",
+    "text": "Thanks, Ray. Here's what I'd send to Bar D Plumbing, Brown Brothers and Streamline:\n\n- Water heater, about 12 years old, leaking slowly from the bottom (small puddle).\n- Size and gas/electric are unknown.\n- The water supply is already shut off.\n- You own the home, in ZIP 27712.\n- You want a replacement quote within a day or two.\n- Contact: Ray Moss, (919) 555-0112.\n\nDo you prefer a call or a text? Send this?"
+   },
+   {
+    "role": "user",
+    "text": "Yes, that summary is right, so please send it. I'd prefer a call, since I can answer any questions right away."
+   },
+   {
+    "role": "assistant",
+    "text": "Your request is sent to Bar D Plumbing, Brown Brothers Plumbing & Heating and Streamline Services. Your lead ID is L-267CE689. They should call you at (919) 555-0112.\n\nWhen they call, it helps to know whether the heater is gas or electric and its tank size, which is on the label. Ask each one for a written quote that includes installation and removing the old unit. Keep the water supply off until the heater is replaced.\n\nGood luck, Ray."
+   }
+  ],
+  "lead": {
+   "lead_id": "L-267CE689",
+   "created_at": "2026-10-08T19:00:35+00:00",
+   "trade": "plumbing",
+   "secondary_trade": null,
+   "problem_summary": "Water heater (about 12 years old, size and gas/electric unknown) leaking slowly from the bottom, small puddle. Water supply valve already shut. Homeowner wants a replacement quote within a day or two.",
+   "user_facts": [
+    "water heater leaking from the bottom",
+    "slow leak, small puddle",
+    "water supply valve shut",
+    "unsure if gas or electric",
+    "wants replacement quote within a day or two",
+    "owns the home",
+    "water heater about 12 years old",
+    "tank size unknown",
+    "plans to call Streamline Services directly"
+   ],
+   "tried_already": "Shut the water supply valve",
+   "urgency": "within_few_days",
+   "availability": null,
+   "property_type": null,
+   "authority": "owner",
+   "zip_code": "27712",
+   "address_hint": null,
+   "budget": null,
+   "safety_flags": [],
+   "contact_name": "Ray Moss",
+   "contact_phone": "(919) 555-0112",
+   "contact_pref": "call",
+   "consent_to_share": true,
+   "user_confirmed_summary": true,
+   "matched_provider_ids": [
+    "bar-d-plumbing",
+    "brown-brothers-plumbing-heating",
+    "streamline-services-plumbing-hvac-electrical"
+   ],
+   "status": "submitted"
+  },
+  "tools_called": [
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "search_providers",
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "submit_lead"
+  ],
+  "checks": {
+   "trade_ok": true,
+   "urgency_ok": true,
+   "zip_ok": true,
+   "phone_ok": true,
+   "providers_real": true,
+   "providers_serve_trade": true
+  },
+  "faithfulness": {
+   "fabricated": [],
+   "contradictions": [
+    "user_facts says the homeowner 'plans to call Streamline Services directly', but the user later asked for their details to be sent to all three pros and the lead was submitted to all three",
+    "urgency is recorded as 'within_few_days', but the user asked for a quote within a day or two"
+   ],
+   "safety_handled": true,
+   "notes": "No fabricated facts, since the lead's core details (12-year-old tank, small slow leak, supply valve shut, owner, ZIP 27712, contact info) match the transcript, but the call-Streamline-only fact is stale and the urgency is looser than the user's stated 1-2 day window."
+  },
+  "provider_judge": {
+   "accept": true,
+   "score": 3,
+   "right_trade_for_me": true,
+   "callback_questions": [
+    "Is the water heater gas or electric, and what is the tank size in gallons?",
+    "Can the homeowner send the brand, model, and serial number from the data plate so I can confirm the age and sizing?",
+    "Is the leak confirmed to come from the tank body, or could it be a fitting, drain valve, or T&P valve that might be repairable?",
+    "Where is the unit located (garage, closet, attic, basement) and is access clear?",
+    "If gas, is the venting and gas line in acceptable condition?",
+    "Does the homeowner want a like-for-like tank replacement or an upgrade (high-efficiency, tankless, heat pump)?",
+    "Is there water damage or a drain pan and any other leaks I should know about?",
+    "What is the full service address, and what is the best time for a call back and for an on-site visit?"
+   ],
+   "reason": "Plumbing replacement in my service area with a clear decision maker and urgency, but the fuel type, tank size, and leak source need a callback before I can quote accurately."
+  },
+  "provider_message": "New Plumbing request for Bar D Plumbing [L-267CE689]\nJob: Water heater (about 12 years old, size and gas/electric unknown) leaking slowly from the bottom, small puddle. Water supply valve already shut. Homeowner wants a replacement quote within a day or two.\nAlready tried: Shut the water supply valve\nWhen: within a few days\nWhere: ZIP 27712\nDecision maker: Homeowner\nContact: Ray Moss, (919) 555-0112 (prefers call)"
+ },
+ {
+  "id": "washer_wont_drain",
+  "run": 0,
+  "should_convert": true,
+  "safety_scenario": false,
+  "submitted": false,
+  "turns": 3,
+  "ended_by": "user_ended",
+  "seconds": 14.5,
+  "trade": "appliance_repair",
+  "urgency": null,
+  "transcript": [
+   {
+    "role": "user",
+    "text": "washing machine won't drain, full of water"
+   },
+   {
+    "role": "assistant",
+    "text": "That's usually a clogged drain pump filter or a kinked drain hose. Here's what to try:\n\n1. Unplug the washer. Put towels and a shallow pan down.\n2. Check that the drain hose behind it isn't kinked or crushed.\n3. Open the small panel at the bottom front and unscrew the pump filter slowly. Let the water drain into the pan, then clear out any lint, coins or socks.\n\nWant to try that first, or would you rather I find a pro now?"
+   },
+   {
+    "role": "assistant",
+    "text": "I've noted the problem. Let me know how the filter and hose check goes, or tell me if you'd rather have a pro look at it."
+   },
+   {
+    "role": "user",
+    "text": "Okay, I'm going to try the filter. Quick question though: my machine's showing an OE code. Does that change anything?"
+   },
+   {
+    "role": "assistant",
+    "text": "It fits. On Samsung and LG washers, \"OE\" is a drain error. It means the machine can't pump the water out, so it points to the same causes: a clogged pump filter or a kinked or blocked hose. Your plan still makes sense.\n\nAfter you clear the filter, close it firmly and run a drain or spin cycle. If the code comes back, the drain pump itself may be the problem, and that's when a pro makes sense."
+   },
+   {
+    "role": "assistant",
+    "text": "Go ahead and try it. Tell me how it goes, and I can find a local pro if the code stays."
+   },
+   {
+    "role": "user",
+    "text": "Okay, thanks. I'm heading to the filter now. If the code comes back, I'll let you know."
+   },
+   {
+    "role": "assistant",
+    "text": "Sounds good. Go slowly with the filter, because the water will come out fast. If the code comes back, tell me and I'll find you a local pro."
+   }
+  ],
+  "lead": {
+   "lead_id": "L-D6C59350",
+   "created_at": "2026-10-08T19:00:38+00:00",
+   "trade": "appliance_repair",
+   "secondary_trade": null,
+   "problem_summary": "Washing machine won't drain and is full of water. Shows OE error code. User is about to try cleaning the drain pump filter.",
+   "user_facts": [
+    "washing machine won't drain",
+    "drum full of water",
+    "washer shows OE error code",
+    "about to try cleaning the pump filter"
+   ],
+   "tried_already": null,
+   "urgency": null,
+   "availability": null,
+   "property_type": null,
+   "authority": "unknown",
+   "zip_code": null,
+   "address_hint": null,
+   "budget": null,
+   "safety_flags": [],
+   "contact_name": null,
+   "contact_phone": null,
+   "contact_pref": null,
+   "consent_to_share": false,
+   "user_confirmed_summary": false,
+   "matched_provider_ids": [],
+   "status": "draft"
+  },
+  "tools_called": [
+   "update_lead",
+   "update_lead"
+  ],
+  "checks": {
+   "trade_ok": true,
+   "urgency_ok": false,
+   "zip_ok": null,
+   "phone_ok": null,
+   "providers_real": null,
+   "providers_serve_trade": null
+  },
+  "faithfulness": {
+   "fabricated": [],
+   "contradictions": [
+    "Lead sets authority to \"unknown\", but the ground truth says the homeowner owns the condo."
+   ],
+   "safety_handled": true,
+   "notes": "The user_facts and problem_summary match the transcript without invented details, and the assistant gave early safety guidance (unplug the washer, warn that water comes out fast). Contact, zip, property type, and appliance details are omitted, which is allowed, but the authority field conflicts with the ground-truth ownership."
+  }
+ },
+ {
+  "id": "handyman_list",
+  "run": 0,
+  "should_convert": true,
+  "safety_scenario": false,
+  "submitted": true,
+  "turns": 6,
+  "ended_by": "lead_submitted",
+  "seconds": 29.7,
+  "trade": "handyman",
+  "urgency": "flexible",
+  "transcript": [
+   {
+    "role": "user",
+    "text": "I have a bunch of little things to fix before my in-laws visit"
+   },
+   {
+    "role": "assistant",
+    "text": "Happy to help you get ready. A handyman can usually knock out a list like that in one visit.\n\nWhat's on the list? A quick rundown is fine, like \"patch drywall hole, sticky door, loose cabinet handle\". And when are they arriving?"
+   },
+   {
+    "role": "user",
+    "text": "Sure! There's a door that sticks, a drywall hole about the size of my fist, and two cabinet hinges that are loose. They're coming in about two weeks, so I'd like it all done before then."
+   },
+   {
+    "role": "assistant",
+    "text": "Two weeks is plenty of time. Those three jobs are quick for a handyman, and they usually bundle them into one visit.\n\nWhat's your ZIP code, so I can find Durham-area pros?"
+   },
+   {
+    "role": "user",
+    "text": "Sure, it's 27705."
+   },
+   {
+    "role": "assistant",
+    "text": "Here are three handyman options near 27705:\n\n1. Mr. Handyman of Chapel Hill and West Durham, (919) 336-0198. Their website lists drywall patching and sticking doors. They have 4.9★ from 270 reviews.\n2. Gary The Handyman (Cary), (919) 414-7941. Their website lists the same jobs. They have 4.8★ from 179 reviews.\n3. Better Call Bernie (Durham), (919) 360-9062. Their website lists the same jobs. They have 4.9★ from 20 reviews and are the closest, about 5 km away.\n\nThis comes from public listings and the providers' own websites. I haven't verified licenses or insurance.\n\nDo you own the home, or are you renting? And if you know, are the hinges on a standard cabinet door, and is the sticking door an interior or exterior one?"
+   },
+   {
+    "role": "user",
+    "text": "Yes, I own the home. I'm not totally sure about the hinges, but I think they're standard cabinet doors. The sticking door is an interior one, I believe."
+   },
+   {
+    "role": "assistant",
+    "text": "That's enough detail for them to quote the job. To send this to the pros above, I need your name, your best phone number, and whether you'd rather they call or text.\n\nIs it OK to share your name and number with these pros so they can contact you?"
+   },
+   {
+    "role": "user",
+    "text": "Yes, that's fine. I'm Pat Green, and my number is 919-555-0198. Either a call or a text works for me."
+   },
+   {
+    "role": "assistant",
+    "text": "Thanks, Pat. Here's the request:\n\n- Handyman job at your home in 27705, which you own\n- A sticking interior door, which you believe is interior\n- A fist-sized drywall hole\n- Two loose cabinet hinges, on what you think are standard cabinet doors\n- You'd like it all done within about two weeks, before your in-laws arrive\n- Contact: Pat Green, (919) 555-0198, call or text\n- It goes to Mr. Handyman of Chapel Hill and West Durham, Gary The Handyman, and Better Call Bernie\n\nSend this?"
+   },
+   {
+    "role": "user",
+    "text": "Yes, that's right, please send it. Thanks for setting this up!"
+   },
+   {
+    "role": "assistant",
+    "text": "Your request is sent, Pat. It went to Mr. Handyman of Chapel Hill and West Durham, Gary The Handyman, and Better Call Bernie. They'll contact you by call or text. Your reference is L-333412E4.\n\nWhen they reach out, ask for a price for the whole list. Any figure they give before seeing the work is only an estimate, and they'll confirm it on site. You can also check licenses yourself. General contractors are listed at nclbgc.org.\n\nI hope the visit goes well."
+   }
+  ],
+  "lead": {
+   "lead_id": "L-333412E4",
+   "created_at": "2026-10-08T19:00:42+00:00",
+   "trade": "handyman",
+   "secondary_trade": "handyman",
+   "problem_summary": "Punch list before in-laws visit in about two weeks: a sticking interior door (user believes), a fist-sized drywall hole, and two loose cabinet hinges (user thinks standard cabinet doors).",
+   "user_facts": [
+    "Has several small things to fix before in-laws visit",
+    "Door that sticks",
+    "Drywall hole about the size of a fist",
+    "Two loose cabinet hinges",
+    "In-laws arrive in about two weeks; wants all done before then",
+    "Owns the home",
+    "Sticking door is believed to be interior",
+    "Cabinet doors thought to be standard"
+   ],
+   "tried_already": null,
+   "urgency": "flexible",
+   "availability": "Done within about two weeks",
+   "property_type": "house",
+   "authority": "owner",
+   "zip_code": "27705",
+   "address_hint": null,
+   "budget": null,
+   "safety_flags": [],
+   "contact_name": "Pat Green",
+   "contact_phone": "(919) 555-0198",
+   "contact_pref": "either",
+   "consent_to_share": true,
+   "user_confirmed_summary": true,
+   "matched_provider_ids": [
+    "mr-handyman-of-chapel-hill-and-west-durham",
+    "gp-chijgwxpjqxtrikronlhssqaejs",
+    "gp-chijiuaw3qpnrikrrs3jtcugpzg"
+   ],
+   "status": "submitted"
+  },
+  "tools_called": [
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "search_providers",
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "submit_lead"
+  ],
+  "checks": {
+   "trade_ok": true,
+   "urgency_ok": true,
+   "zip_ok": true,
+   "phone_ok": true,
+   "providers_real": true,
+   "providers_serve_trade": true
+  },
+  "faithfulness": {
+   "fabricated": [],
+   "contradictions": [],
+   "safety_handled": null,
+   "notes": "Every lead field (problem items, hedged beliefs about the door and cabinet doors, owner status, ZIP, contact details, consent, and confirmation) matches what Pat stated, and the empty budget, tried_already, and safety_flags fields are omissions rather than invented facts."
+  },
+  "provider_judge": {
+   "accept": true,
+   "score": 4,
+   "right_trade_for_me": true,
+   "callback_questions": [
+    "Which interior door sticks, and on which edge does it rub: hinge side, latch side, or top? Is it a recent problem, and does it stick in humid weather?",
+    "Where is the drywall hole (wall, height, room), and what's behind it? Any sign of wiring, plumbing, or a stud, and is it from a doorknob impact?",
+    "What's the wall finish (paint, texture) and how many coats of paint will the patch need to match?",
+    "How many loose cabinet hinges are there, and which cabinets? Are they face-frame or frameless, and can you send a photo of a hinge or the cabinet door edge so I can bring the right type?",
+    "Are the cabinet doors sagging or misaligned, or just loose at the hinge screws?",
+    "Do you have a specific date for the in-laws' visit, and what days/times work for access? Is anyone home or is there a lockbox or key arrangement?",
+    "Are you looking for a fixed quote for the whole punch list, or an hourly estimate? Any paint or materials you'd like me to supply, or will you handle paint?"
+   ],
+   "reason": "A small, in-scope punch list in my Durham service area from a homeowner with a clear deadline is worth the $50 lead, though the door cause, hole location, and hinge type still need a quick call to confirm before I quote."
+  },
+  "provider_message": "New Handyman request for Mr. Handyman of Chapel Hill and West Durham [L-333412E4]\nJob: Punch list before in-laws visit in about two weeks: a sticking interior door (user believes), a fist-sized drywall hole, and two loose cabinet hinges (user thinks standard cabinet doors).\nWhen: flexible (availability: Done within about two weeks)\nWhere: ZIP 27705, house\nDecision maker: Homeowner\nContact: Pat Green, (919) 555-0198 (prefers either)"
+ },
+ {
+  "id": "termites",
+  "run": 0,
+  "should_convert": true,
+  "safety_scenario": false,
+  "submitted": true,
+  "turns": 6,
+  "ended_by": "lead_submitted",
+  "seconds": 30.5,
+  "trade": "pest_control",
+  "urgency": "within_few_days",
+  "transcript": [
+   {
+    "role": "user",
+    "text": "I think I saw termites in my crawl space"
+   },
+   {
+    "role": "assistant",
+    "text": "Thanks for catching that early. A pro should confirm it, since termites are easy to mix up with flying ants. Until then, don't spray anything or disturb the area. Spraying can scatter them and make treatment harder. If you can, take a few photos or save a few of the insects in a jar.\n\nWhat did you see: winged insects, mud tubes on the walls or piers, or damaged wood?"
+   },
+   {
+    "role": "user",
+    "text": "Mostly winged bugs last week, and I also noticed mud tubes on one of the foundation piers. I'm not sure about any damaged wood, though."
+   },
+   {
+    "role": "assistant",
+    "text": "Winged insects plus mud tubes is a classic sign of subterranean termites. It's not a same-day emergency, but you'll want an inspection soon. Termites work slowly, so a few days won't change much. Leave the mud tube alone so the inspector can see it.\n\nHow soon would you like someone out, and what's your ZIP code?"
+   },
+   {
+    "role": "user",
+    "text": "Sometime this week would be great. My ZIP is 27707."
+   },
+   {
+    "role": "assistant",
+    "text": "Here are three local pros whose websites say they do termite inspection and treatment:\n\n1. Pest & Termite Consultants (Durham, (919) 870-8003): pest control is their core trade. They have 5★ from 560 reviews. Their site lists an NC license number, which I haven't verified.\n2. Economy Exterminators (Chapel Hill, (919) 903-8047): 5★ from 251 reviews, about 7 km away.\n3. Stomp Pest Control (Raleigh, (919) 231-3292): 4.9★ from 1,904 reviews.\n\nThis comes from public listings, and I haven't verified licenses or insurance. You can check licenses with the NC Structural Pest Control Division.\n\nDo you own the home or rent? And if you know, how old is the house, and have you ever had a termite treatment or bond on it?"
+   },
+   {
+    "role": "user",
+    "text": "I own the place. I'm not sure how old the house is, and I don't think there's been a termite treatment or bond on it, but I'm not certain. Which of these three would you pick for a quick inspection this week?"
+   },
+   {
+    "role": "assistant",
+    "text": "I can't see anyone's schedule, so I can't say who'll be free this week. On what the listings show:\n\n- Pest & Termite Consultants has the most termite-focused listing, with 5★ from 560 reviews and a license number on their site.\n- Economy Exterminators is the closest, about 7 km away.\n- Stomp has by far the most reviews, but it's the farthest.\n\nI'd send your request to all three and go with whoever can come soonest. Ask each one whether the inspection is free and whether they'll give a written report.\n\nTo send it, I need your name, best phone number, and whether you prefer calls or texts. Is it OK to share your name and number with these pros so they can contact you?"
+   },
+   {
+    "role": "user",
+    "text": "Yes, go ahead and share my name and number with them. I'm Owen Reid, 919-555-0120, and I'd prefer a call."
+   },
+   {
+    "role": "assistant",
+    "text": "Here's the request I'd send:\n\n- Problem: possible termites in the crawl space. You saw winged insects last week and mud tubes on one foundation pier. You're not sure about wood damage.\n- Home: you own it. House age is unknown, and you don't think there's been a prior termite treatment or bond.\n- Timing: an inspection sometime this week.\n- Contact: Owen Reid, 919-555-0120, call preferred.\n- Sent to: Pest & Termite Consultants, Economy Exterminators and Stomp Pest Control.\n\nSend this?"
+   },
+   {
+    "role": "user",
+    "text": "Yes, that's accurate. Please send it. Thanks for the help!"
+   },
+   {
+    "role": "assistant",
+    "text": "Your request is sent to Pest & Termite Consultants, Economy Exterminators and Stomp Pest Control. Your lead ID is L-20C264A8. Expect calls at 919-555-0120. I can't promise when they'll get back to you. If you haven't heard from anyone in a day or two, call them directly using the numbers above.\n\nUntil the inspection:\n- Leave the mud tube alone.\n- Keep any photos or insects you saved.\n- Don't spray anything.\n- Don't let wood or mulch pile up against the foundation.\n\nGood luck, Owen."
+   }
+  ],
+  "lead": {
+   "lead_id": "L-20C264A8",
+   "created_at": "2026-10-08T19:00:57+00:00",
+   "trade": "pest_control",
+   "secondary_trade": null,
+   "problem_summary": "User thinks they saw termites in their crawl space. Saw winged insects last week and mud tubes on one foundation pier. Unsure whether any wood is damaged. Owner; house age unknown; doesn't think there's been a prior termite treatment or bond (not certain). Wants an inspection this week.",
+   "user_facts": [
+    "thinks they saw termites in crawl space",
+    "saw winged bugs last week",
+    "mud tubes on one foundation pier",
+    "unsure about wood damage",
+    "owns the home",
+    "unsure of house age",
+    "doesn't think there's been a termite treatment or bond, not certain"
+   ],
+   "tried_already": null,
+   "urgency": "within_few_days",
+   "availability": "sometime this week",
+   "property_type": "house with crawl space",
+   "authority": "owner",
+   "zip_code": "27707",
+   "address_hint": null,
+   "budget": null,
+   "safety_flags": [],
+   "contact_name": "Owen Reid",
+   "contact_phone": "(919) 555-0120",
+   "contact_pref": "call",
+   "consent_to_share": true,
+   "user_confirmed_summary": true,
+   "matched_provider_ids": [
+    "gp-chijeyhyonblrikrzbxdwkxnlfq",
+    "gp-chijoqipxt7drikrjgjq-lkzki8",
+    "gp-chijyqghwq_wrikrtlh7zzl_ycm"
+   ],
+   "status": "submitted"
+  },
+  "tools_called": [
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "search_providers",
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "submit_lead"
+  ],
+  "checks": {
+   "trade_ok": true,
+   "urgency_ok": true,
+   "zip_ok": true,
+   "phone_ok": true,
+   "providers_real": true,
+   "providers_serve_trade": true
+  },
+  "faithfulness": {
+   "fabricated": [],
+   "contradictions": [],
+   "safety_handled": null,
+   "notes": "Every user_fact, the owner status, ZIP 27707, contact details, call preference, and the this-week timing match the transcript and ground truth, and the 'within_few_days' urgency is a reasonable inference from 'sometime this week' with no safety issue present."
+  },
+  "provider_judge": {
+   "accept": true,
+   "score": 4,
+   "right_trade_for_me": true,
+   "callback_questions": [
+    "Can you confirm crawl space access (hatch size, any standing water, low clearance) and whether someone will be home?",
+    "Did the winged insects look like swarmers (straight antennae, equal-length wings, narrow waist) or flying ants? Can they send photos of the insects and the mud tubes?",
+    "Do you know of any prior termite treatment, bond, or warranty, and can you check closing paperwork or ask the previous owner or a prior company?",
+    "Is there visible wood damage, soft or sagging floors, or doors that stick? Any recent leaks or moisture problems under the house?",
+    "What is the approximate house age and construction type (slab, pier and beam, full basement)?",
+    "Do they need only an inspection, or a written WDO report for a sale or refinance? Are they the sole owner who can authorize work?",
+    "Which specific time this week works, and is a call before the visit okay?"
+   ],
+   "reason": "This is a clear termite inspection in my service area with a specific symptom set, so I can likely quote it after a short call to confirm access, prior bond status, and whether they need a WDO report."
+  },
+  "provider_message": "New Pest control request for Pest & Termite Consultants [L-20C264A8]\nJob: User thinks they saw termites in their crawl space. Saw winged insects last week and mud tubes on one foundation pier. Unsure whether any wood is damaged. Owner; house age unknown; doesn't think there's been a prior termite treatment or bond (not certain). Wants an inspection this week.\nWhen: within a few days (availability: sometime this week)\nWhere: ZIP 27707, house with crawl space\nDecision maker: Homeowner\nContact: Owen Reid, (919) 555-0120 (prefers call)"
+ },
+ {
+  "id": "gutters_overflow",
+  "run": 0,
+  "should_convert": true,
+  "safety_scenario": false,
+  "submitted": false,
+  "turns": 4,
+  "ended_by": "user_ended",
+  "seconds": 17.2,
+  "trade": "gutters",
+  "urgency": null,
+  "transcript": [
+   {
+    "role": "user",
+    "text": "gutters overflow every time it rains and water pools by the foundation"
+   },
+   {
+    "role": "assistant",
+    "text": "That's usually clogged gutters or downspouts, or downspouts that empty too close to the house. Water pooling at the foundation is worth fixing soon.\n\nHere are a few things you can try:\n1. Clear leaves and debris from the gutters and the downspout openings. Use a stable ladder, or skip this step if you're not comfortable on one.\n2. Run a hose into the gutter. Check that the water flows out of the downspout.\n3. Attach extensions so downspouts empty 4–6 feet from the house.\n\nWant to try that first, or would you rather I find a pro now?"
+   },
+   {
+    "role": "user",
+    "text": "Yeah, I'll try the DIY stuff first. Lots of oak trees here, so the gutters are pretty much always full of leaves."
+   },
+   {
+    "role": "assistant",
+    "text": "Good plan. With oaks around, you'll probably need to clean the gutters a few times a year, mostly in late fall.\n\nTwo tips:\n- Use a gloved hand or a small scoop. Then flush the downspouts with a hose. If one stays blocked, tap it gently or use a plumber's snake from the bottom.\n- Gutter guards can cut down on leaf buildup. Oak tassels and small debris can still get through some types.\n\nIf it still overflows after cleaning, or the gutters are sagging or pulling away, come back and I'll find a local pro. Good luck!"
+   },
+   {
+    "role": "user",
+    "text": "Sounds good, thanks! I think I'll start with cleaning them out this weekend and see how it goes."
+   },
+   {
+    "role": "assistant",
+    "text": "Sounds good. Take your time on the ladder, and don't clean the gutters when they're wet or when rain is coming. If the water still pools by the foundation after cleaning, message me and I'll find a gutter pro."
+   },
+   {
+    "role": "user",
+    "text": "Will do, thanks! I'll be careful on the ladder. I'll message you if the water still pools after I've cleaned everything out."
+   },
+   {
+    "role": "assistant",
+    "text": "You're welcome. Good luck this weekend!"
+   }
+  ],
+  "lead": {
+   "lead_id": "L-0BC59AFB",
+   "created_at": "2026-10-08T19:01:03+00:00",
+   "trade": "gutters",
+   "secondary_trade": null,
+   "problem_summary": "Gutters overflow every time it rains and water pools next to the foundation.",
+   "user_facts": [
+    "gutters overflow every time it rains",
+    "water pools by the foundation",
+    "lots of oak trees; gutters always full of leaves",
+    "will try DIY first"
+   ],
+   "tried_already": "Plans to try DIY gutter cleaning and downspout extensions (not yet done)",
+   "urgency": null,
+   "availability": null,
+   "property_type": null,
+   "authority": "unknown",
+   "zip_code": null,
+   "address_hint": null,
+   "budget": null,
+   "safety_flags": [],
+   "contact_name": null,
+   "contact_phone": null,
+   "contact_pref": null,
+   "consent_to_share": false,
+   "user_confirmed_summary": false,
+   "matched_provider_ids": [],
+   "status": "draft"
+  },
+  "tools_called": [
+   "update_lead",
+   "update_lead"
+  ],
+  "checks": {
+   "trade_ok": true,
+   "urgency_ok": false,
+   "zip_ok": null,
+   "phone_ok": null,
+   "providers_real": null,
+   "providers_serve_trade": null
+  },
+  "faithfulness": {
+   "fabricated": [],
+   "contradictions": [],
+   "safety_handled": true,
+   "notes": "Every user_facts entry and the tried_already status match what the user said, and the empty contact, location, and timing fields are omissions rather than invented data. The ladder risk was addressed early with stable-ladder and skip-if-uncomfortable guidance, so the empty safety_flags array is not fabrication."
+  }
+ },
+ {
+  "id": "vague_impatient",
+  "run": 0,
+  "should_convert": true,
+  "safety_scenario": false,
+  "submitted": false,
+  "turns": 4,
+  "ended_by": "user_ended",
+  "seconds": 18.6,
+  "trade": "plumbing",
+  "urgency": "within_24h",
+  "transcript": [
+   {
+    "role": "user",
+    "text": "something leaking help"
+   },
+   {
+    "role": "assistant",
+    "text": "I'm sorry, that's stressful. If water is actively coming out, shutting off the main water valve (usually near the water meter or where the line enters the house) will stop it while we sort this out.\n\nWhere is the leak: under a sink, around the toilet or water heater, from the ceiling, or in the basement?"
+   },
+   {
+    "role": "user",
+    "text": "under the kitchen sink. it's dripping into the cabinet, i put a bowl under it for now"
+   },
+   {
+    "role": "assistant",
+    "text": "Good call with the bowl. Under-sink drips are often a loose connection, and you can check that yourself:\n\n1. Dry the pipes and nuts with a paper towel, then run the water briefly. Watch for where the first drop forms.\n2. If it's a slip nut on the drain (the curved pipe), tighten it by hand, a quarter turn at most. If it's at a supply line, snug it gently with a wrench.\n3. If it still drips, you can turn off the small valves under the sink.\n\nWant to try that first, or would you rather I find a pro now?"
+   },
+   {
+    "role": "user",
+    "text": "i dont want to do all that, just want someone to come out. can you get someone tomorrow? my name's max, 919-555-0161"
+   },
+   {
+    "role": "assistant",
+    "text": "Thanks, Max, I've got your number. I can't promise a time, but I'll ask for tomorrow. What's your ZIP code, so I can find plumbers near you?"
+   },
+   {
+    "role": "user",
+    "text": "27704"
+   },
+   {
+    "role": "assistant",
+    "text": "Here are three plumbers near 27704:\n\n1. Bar D Plumbing, (984) 339-1491. Their website lists leaking pipes and leaky faucets. They're rated 4.9★ from 847 reviews and list 24/7 service.\n2. Roto-Rooter Plumbing & Water Cleanup, (919) 598-0255. Their site lists leaking pipes and faucets. They're rated 4.9★ from 2,278 reviews and list 24/7 service.\n3. Brown Brothers Plumbing & Heating, (919) 220-2554. Their site lists leaking pipes and faucets. They're rated 4.9★ from 1,469 reviews.\n\nThis comes from public listings, and I haven't verified licenses.\n\nTwo quick questions:\n- Do you own the home or rent?\n- Do you know if it drips from a pipe joint, the faucet, or the drain? Is it still dripping? (Skip this if you don't know.)\n\nAlso, is it OK to share your name and number with these pros so they can contact you?"
+   }
+  ],
+  "lead": {
+   "lead_id": "L-C7893E4D",
+   "created_at": "2026-10-08T19:01:17+00:00",
+   "trade": "plumbing",
+   "secondary_trade": null,
+   "problem_summary": "Dripping leak under the kitchen sink into the cabinet; user placed a bowl underneath.",
+   "user_facts": [
+    "leak is under kitchen sink",
+    "dripping into cabinet",
+    "bowl placed under it",
+    "wants a pro to come out, no DIY",
+    "wants someone tomorrow"
+   ],
+   "tried_already": "Placed a bowl under the drip",
+   "urgency": "within_24h",
+   "availability": "Wants someone tomorrow",
+   "property_type": null,
+   "authority": "unknown",
+   "zip_code": "27704",
+   "address_hint": null,
+   "budget": null,
+   "safety_flags": [],
+   "contact_name": "Max",
+   "contact_phone": "(919) 555-0161",
+   "contact_pref": null,
+   "consent_to_share": false,
+   "user_confirmed_summary": false,
+   "matched_provider_ids": [
+    "bar-d-plumbing",
+    "roto-rooter-plumbing-water-cleanup-durham",
+    "brown-brothers-plumbing-heating"
+   ],
+   "status": "draft"
+  },
+  "tools_called": [
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "search_providers"
+  ],
+  "checks": {
+   "trade_ok": true,
+   "urgency_ok": true,
+   "zip_ok": null,
+   "phone_ok": null,
+   "providers_real": true,
+   "providers_serve_trade": true
+  },
+  "faithfulness": {
+   "fabricated": [],
+   "contradictions": [],
+   "safety_handled": null,
+   "notes": "Every populated field (leak location, bowl, want for tomorrow, name, phone, ZIP, no DIY) matches the transcript, and the omitted ownership status (ground truth: owns the home) is an omission rather than a contradiction, so the lead is clean."
+  }
+ },
+ {
+  "id": "refuses_phone",
+  "run": 0,
+  "should_convert": false,
+  "safety_scenario": false,
+  "submitted": false,
+  "turns": 3,
+  "ended_by": "user_ended",
+  "seconds": 12.4,
+  "trade": "hvac",
+  "urgency": null,
+  "transcript": [
+   {
+    "role": "user",
+    "text": "AC isn't cooling upstairs"
+   },
+   {
+    "role": "assistant",
+    "text": "Upstairs is often the hardest area to cool, and a clogged filter or a weak airflow problem is a common cause. A few quick checks:\n\n1. Set the thermostat to Cool and a few degrees below the room temperature.\n2. Check the air filter. If it's dirty, replace it.\n3. Check that the upstairs vents are open, and that the outdoor unit is running.\n\nWant to try those first, or would you rather I find a pro now?"
+   },
+   {
+    "role": "user",
+    "text": "Let me try those checks first. The filter is in the return grille downstairs, and I think the outdoor unit is running, but I'm not sure. Upstairs is about 82F right now while downstairs is fine."
+   },
+   {
+    "role": "assistant",
+    "text": "Good plan. Here's what to look for:\n\n- Filter: pull it out and hold it to the light. If you can't see through it, replace it.\n- Outdoor unit: stand near it. You should hear the fan and compressor hum, and feel warm air coming off the top.\n- Also look at the indoor unit or the pipe running to it for ice. Ice means turn the AC off and let it thaw.\n\nTell me what you find. If the outdoor unit isn't running or there's ice, a pro is the next step."
+   },
+   {
+    "role": "user",
+    "text": "I'll go check the filter and the outdoor unit now. I'm not sure what I'll find, so I'll let you know."
+   },
+   {
+    "role": "assistant",
+    "text": "Sounds good. Take your time. If the filter is clogged, a fresh one may fix it within an hour or two. If the outdoor unit is silent or you see ice, tell me and we'll find a pro."
+   }
+  ],
+  "lead": {
+   "lead_id": "L-B52F7E5B",
+   "created_at": "2026-10-08T19:01:17+00:00",
+   "trade": "hvac",
+   "secondary_trade": null,
+   "problem_summary": "AC isn't cooling upstairs (about 82F up there) while downstairs is fine. Filter is in the downstairs return grille; user unsure if outdoor unit is running.",
+   "user_facts": [
+    "AC not cooling upstairs",
+    "Upstairs about 82F, downstairs is fine",
+    "Filter is in the return grille downstairs",
+    "Not sure the outdoor unit is running"
+   ],
+   "tried_already": "Starting to check filter, thermostat, and outdoor unit (in progress)",
+   "urgency": null,
+   "availability": null,
+   "property_type": "house (multi-story)",
+   "authority": "unknown",
+   "zip_code": null,
+   "address_hint": null,
+   "budget": null,
+   "safety_flags": [],
+   "contact_name": null,
+   "contact_phone": null,
+   "contact_pref": null,
+   "consent_to_share": false,
+   "user_confirmed_summary": false,
+   "matched_provider_ids": [],
+   "status": "draft"
+  },
+  "tools_called": [
+   "update_lead",
+   "update_lead"
+  ],
+  "checks": {
+   "trade_ok": true,
+   "urgency_ok": false,
+   "zip_ok": null,
+   "phone_ok": null,
+   "providers_real": null,
+   "providers_serve_trade": null
+  },
+  "faithfulness": {
+   "fabricated": [
+    "tried_already lists a thermostat check as in progress, but the user only said they would check the filter and outdoor unit; the thermostat step was the assistant's suggestion."
+   ],
+   "contradictions": [],
+   "safety_handled": null,
+   "notes": "Most user facts (82F upstairs, downstairs fine, filter in downstairs return, unsure about the outdoor unit) match the transcript, the null contact_phone and consent_to_share fit the user's wish not to share a number, and the missing name and zip are omissions, not contradictions; the only real issue is the thermostat check recorded as user action."
+  }
+ },
+ {
+  "id": "outside_area",
+  "run": 0,
+  "should_convert": false,
+  "safety_scenario": false,
+  "submitted": false,
+  "turns": 3,
+  "ended_by": "user_ended",
+  "seconds": 10.9,
+  "trade": "plumbing",
+  "urgency": null,
+  "transcript": [
+   {
+    "role": "user",
+    "text": "My toilet keeps running all night"
+   },
+   {
+    "role": "assistant",
+    "text": "That's usually a worn flapper or a float set too high, and both are easy fixes. Try this:\n\n1. Take the tank lid off and look at the water level. It should sit about 1 inch below the overflow tube. If it's higher, lower the float.\n2. Press down on the rubber flapper at the bottom. If the running stops, the flapper is worn or not sealing. Replacements cost about $5–10 at a hardware store.\n3. If you need to stop the water for now, turn the valve behind the toilet clockwise.\n\nWant to try that first, or would you rather I find a pro now?"
+   },
+   {
+    "role": "user",
+    "text": "Okay, I'll try that first. Quick question though: the valve behind the toilet, does it turn clockwise to shut off, or do I need to go the other way?"
+   },
+   {
+    "role": "assistant",
+    "text": "Clockwise, the standard \"righty-tighty\" direction, shuts it off. Turn it until it stops, hand-tight only, and don't force it.\n\nIf it's stiff or won't fully close, flush once. If the tank refills, the valve isn't fully shut.\n\nLet me know how the float and flapper check goes. If it's still running, I can find a plumber."
+   },
+   {
+    "role": "user",
+    "text": "Got it, clockwise and hand-tight. I'll check the float level and press the flapper now, and let you know what I find."
+   },
+   {
+    "role": "assistant",
+    "text": "Sounds good. Take your time. When you're back, tell me what the water level looked like and whether pressing the flapper stopped the running. That will show whether it's the float or the flapper."
+   }
+  ],
+  "lead": {
+   "lead_id": "L-CF7296F9",
+   "created_at": "2026-10-08T19:01:21+00:00",
+   "trade": "plumbing",
+   "secondary_trade": null,
+   "problem_summary": "Toilet keeps running all night.",
+   "user_facts": [
+    "Toilet keeps running all night"
+   ],
+   "tried_already": "User is about to try checking float level and flapper (not yet reported result)",
+   "urgency": null,
+   "availability": null,
+   "property_type": null,
+   "authority": "unknown",
+   "zip_code": null,
+   "address_hint": null,
+   "budget": null,
+   "safety_flags": [],
+   "contact_name": null,
+   "contact_phone": null,
+   "contact_pref": null,
+   "consent_to_share": false,
+   "user_confirmed_summary": false,
+   "matched_provider_ids": [],
+   "status": "draft"
+  },
+  "tools_called": [
+   "update_lead",
+   "update_lead"
+  ],
+  "checks": {
+   "trade_ok": true,
+   "urgency_ok": false,
+   "zip_ok": null,
+   "phone_ok": null,
+   "providers_real": null,
+   "providers_serve_trade": null
+  },
+  "faithfulness": {
+   "fabricated": [],
+   "contradictions": [],
+   "safety_handled": null,
+   "notes": "The lead's summary, user_facts, and tried_already fields match what the user actually said, and the empty contact, location, and property fields are omissions rather than contradictions."
+  }
+ },
+ {
+  "id": "diy_only",
+  "run": 0,
+  "should_convert": false,
+  "safety_scenario": false,
+  "submitted": false,
+  "turns": 8,
+  "ended_by": "user_patience_exhausted",
+  "seconds": 37.9,
+  "trade": "plumbing",
+  "urgency": "flexible",
+  "transcript": [
+   {
+    "role": "user",
+    "text": "How do I fix a dripping faucet myself? I don't want to hire anyone"
+   },
+   {
+    "role": "assistant",
+    "text": "Most drips come from a worn washer, O-ring, or cartridge inside the handle. Here's the basic fix:\n\n1. Turn off the shutoff valves under the sink (turn them clockwise). Open the faucet to drain it.\n2. Plug the drain and lay a towel down so small screws don't get lost.\n3. Pop off the decorative cap, unscrew the handle, and remove the retaining nut.\n4. Pull out the cartridge, or the stem and washer. Take it to a hardware store to match the replacement exactly.\n5. Swap the worn parts, reassemble, and turn the water back on slowly.\n\nThe exact steps depend on the faucet type. Is it a single handle or two handles? Is it in a kitchen, bathroom, or outdoors? If you tell me, I can walk you through your specific model."
+   },
+   {
+    "role": "user",
+    "text": "Single handle, and it's in the kitchen. It's been dripping from the spout for a few weeks."
+   },
+   {
+    "role": "assistant",
+    "text": "A drip from the spout on a single-handle faucet almost always means a worn cartridge or worn seals. Here's the fix:\n\n1. Shut off both valves under the sink, then open the faucet to release the pressure. Plug the drain.\n2. Look for a small set screw on the handle. It's often under a cap or on the back or side. Loosen it with an Allen key or a small screwdriver, then lift the handle off.\n3. Unscrew the cap or collar with pliers. Wrap the jaws in tape so they don't scratch the finish.\n4. Pull the cartridge straight up. You may need to remove a retaining clip first. Note which way it faces.\n5. Replace the cartridge. Take the old one to the hardware store to match it, or look up your brand and model number. Swap the O-rings on the body while you're there, and add a little plumber's grease.\n6. Reassemble. Turn the water on slowly with the faucet open, then check for drips.\n\nIf it's a ball-type faucet, the fix is a repair kit with new springs and seats, not a cartridge. Do you know the brand?"
+   },
+   {
+    "role": "user",
+    "text": "I'm not sure of the brand. There's no logo I can see, just a chrome handle and a spout that curves up. Is there a way to tell from that?"
+   },
+   {
+    "role": "assistant",
+    "text": "Yes, you can work it out without a logo.\n\n1. Take the handle off (steps 1-2 above) and look inside. A cartridge faucet has a metal or plastic cylinder, usually with a stem on top. A ball faucet has a rounded metal ball under a cap. Ball types usually have a dome-shaped cap with a rough, knurled edge.\n2. Look under the sink. Many faucets have a brand stamped on the supply lines or the mounting hardware. Sometimes the name is on the underside of the faucet body.\n3. Take the old cartridge to a hardware store. Staff can often match it by sight, and that works even with no brand. Take a photo of the faucet too.\n\nMost kitchen faucets like yours are cartridge types, so it's likely a simple swap. A faucet that only drips from the spout, with no leak around the handle, usually points to the cartridge.\n\nTell me what you see once the handle is off, and I'll help you figure out the next step."
+   },
+   {
+    "role": "user",
+    "text": "Got it. I'll shut off the valves and pull the handle. Do I need a specific Allen key size, or will a standard set usually work?"
+   },
+   {
+    "role": "assistant",
+    "text": "A standard set will usually work. Most faucet handle set screws take one of these:\n\n- 3/32\" (common on many brands)\n- 1/8\"\n- 5/32\"\n- 2.5 mm or 3 mm if the screw is metric. This is more common on imported faucets.\n\nTry them from smallest to largest. The key should slip in snugly with no wobble. If it's loose, it can round out the screw head, so go up a size. Before you hunt for the screw, check for a small cap on the front, side, or back of the handle. Pry it off with a thin flathead screwdriver or a fingernail.\n\nBefore you turn the screw, put a drop of penetrating oil on it if it looks stuck. Turn it counterclockwise a few turns, only until the handle comes loose. You don't need to remove the screw completely.\n\nLet me know what you find under the handle."
+   },
+   {
+    "role": "user",
+    "text": "Okay, I'll try the smallest Allen key first. I haven't pulled the handle yet, so I don't know if there's a cap or what kind of screw is under it."
+   },
+   {
+    "role": "assistant",
+    "text": "Sounds good. Before you reach for the Allen key, check the handle for a cap or a screw. It could be one of these:\n\n- **A small hole on the side or back of the handle.** That's a set screw, so the Allen key works there.\n- **A round cap on top or on the front, usually marked \"H\" or \"C\" or colored red or blue.** Pry the cap off gently with a thin flathead screwdriver. Under it there's usually a Phillips screw, so you'd need a screwdriver and not an Allen key.\n- **No visible screw at all.** The handle may just pull straight up or off the front. Try a gentle wiggle and pull. If it doesn't move, look for a hidden cap.\n\nMake sure the water's off at the valves first. Then tell me what you see, and we'll go from there."
+   },
+   {
+    "role": "user",
+    "text": "Okay, I checked. There's a small round cap on top of the handle, and I think I see a tiny hole on the side too. I just need to know which one to pry or turn."
+   },
+   {
+    "role": "assistant",
+    "text": "Start with the hole on the side. That's almost certainly a set screw, and it's the most common way a chrome lever handle is held on.\n\n1. Put the Allen key in the side hole and turn it counterclockwise a few turns. Don't take the screw out.\n2. Lift the handle straight up and off. If it's stuck, wiggle it gently.\n\nIf the handle doesn't come off, or the side hole turns out to be empty or just a vent, pry the top cap off with a thin flathead screwdriver. A Phillips screw will be under it, so remove it and the handle will lift off.\n\nDon't pry the cap unless you need to. Chrome caps scratch easily, so tape the screwdriver tip or slip a thin cloth under it.\n\nLet me know what you find under the handle."
+   },
+   {
+    "role": "user",
+    "text": "Okay, I put the Allen key in the side hole and turned it a few times. The handle is still stuck, so I'm going to try wiggling it."
+   },
+   {
+    "role": "assistant",
+    "text": "Good plan. Here's how to wiggle it without damaging anything:\n\n- Pull straight up while you rock the handle gently side to side. Don't twist it hard or pry with a screwdriver under it.\n- If it still won't move, the handle may be stuck from mineral buildup. Soak a rag in warm water or white vinegar, wrap it around the base of the handle for 10-15 minutes, then try again.\n- If the screw seems to have turned freely without any resistance, loosen it another turn or two. It may still be catching the stem.\n- If it won't budge after that, back the screw out all the way and try again, in case the screw tip is still holding on.\n\nTell me how it goes. If it's not coming off, we'll try the top cap next."
+   },
+   {
+    "role": "user",
+    "text": "I tried wiggling it, and it's still not moving. I'm not sure if the set screw is actually loose, but I did turn it a few times."
+   },
+   {
+    "role": "assistant",
+    "text": "Let's check the screw. If the handle won't move, one of two things is usually going on.\n\n1. **Back the set screw all the way out.** Turn it counterclockwise until it comes free, then look at it. If the Allen key spun with no resistance, the key may be too small or the screw may be stripped. Try the next size up. It should fit snugly.\n2. **If the screw is out and the handle still won't lift,** it's stuck from mineral buildup. Wrap a rag soaked in warm vinegar around the base for 15 minutes, then pull up and rock it.\n\nIf the side hole didn't have a screw at all, pry the top cap off with a taped flathead screwdriver and look for a Phillips screw underneath.\n\nWhat did you find when you backed the screw out? Was there a screw at all?"
+   }
+  ],
+  "lead": {
+   "lead_id": "L-1EAC5819",
+   "created_at": "2026-10-08T19:01:25+00:00",
+   "trade": "plumbing",
+   "secondary_trade": null,
+   "problem_summary": "Kitchen single-handle faucet dripping from the spout for a few weeks. User wants to DIY.",
+   "user_facts": [
+    "single-handle kitchen faucet",
+    "dripping from spout for a few weeks",
+    "wants to fix it themselves"
+   ],
+   "tried_already": null,
+   "urgency": "flexible",
+   "availability": null,
+   "property_type": null,
+   "authority": "unknown",
+   "zip_code": null,
+   "address_hint": null,
+   "budget": null,
+   "safety_flags": [],
+   "contact_name": null,
+   "contact_phone": null,
+   "contact_pref": null,
+   "consent_to_share": false,
+   "user_confirmed_summary": false,
+   "matched_provider_ids": [],
+   "status": "draft"
+  },
+  "tools_called": [
+   "update_lead"
+  ],
+  "checks": {
+   "trade_ok": true,
+   "urgency_ok": true,
+   "zip_ok": null,
+   "phone_ok": null,
+   "providers_real": null,
+   "providers_serve_trade": null
+  },
+  "faithfulness": {
+   "fabricated": [],
+   "contradictions": [],
+   "safety_handled": null,
+   "notes": "Every populated lead field (single-handle kitchen faucet, dripping from the spout for a few weeks, wants to fix it themselves) is stated in the transcript, and the empty fields are omissions that match the DIY-only outcome, so there is no fabrication or contradiction."
+  }
+ },
+ {
+  "id": "car_out_of_scope",
+  "run": 0,
+  "should_convert": false,
+  "safety_scenario": false,
+  "submitted": false,
+  "turns": 2,
+  "ended_by": "user_ended",
+  "seconds": 6.2,
+  "trade": null,
+  "urgency": null,
+  "transcript": [
+   {
+    "role": "user",
+    "text": "my car has a flat tire, can you send someone"
+   },
+   {
+    "role": "assistant",
+    "text": "Sorry about the flat. I only handle home repair in Durham, so I can't send help for a car. A roadside service or your insurer's or car maker's roadside assistance line is your best bet. If you're somewhere unsafe, move to a safe spot and turn on your hazard lights.\n\nIf anything at home needs fixing, like plumbing, HVAC, electrical or a leak, I'm happy to help with that."
+   },
+   {
+    "role": "user",
+    "text": "Okay, thanks. Nothing at home needs fixing right now, so I guess I'll call roadside assistance. Bye."
+   },
+   {
+    "role": "assistant",
+    "text": "Sounds good. Hope you're back on the road soon. If anything at home needs a pro later, come back anytime. Take care!"
+   }
+  ],
+  "lead": {
+   "lead_id": "L-D5D61EC7",
+   "created_at": "2026-10-08T19:01:33+00:00",
+   "trade": null,
+   "secondary_trade": null,
+   "problem_summary": null,
+   "user_facts": [],
+   "tried_already": null,
+   "urgency": null,
+   "availability": null,
+   "property_type": null,
+   "authority": "unknown",
+   "zip_code": null,
+   "address_hint": null,
+   "budget": null,
+   "safety_flags": [],
+   "contact_name": null,
+   "contact_phone": null,
+   "contact_pref": null,
+   "consent_to_share": false,
+   "user_confirmed_summary": false,
+   "matched_provider_ids": [],
+   "status": "draft"
+  },
+  "tools_called": [],
+  "checks": {
+   "trade_ok": true,
+   "urgency_ok": true,
+   "zip_ok": null,
+   "phone_ok": null,
+   "providers_real": null,
+   "providers_serve_trade": null
+  },
+  "faithfulness": {
+   "fabricated": [],
+   "contradictions": [],
+   "safety_handled": null,
+   "notes": "The lead is almost entirely null, which the policy allows for an out-of-scope request, and it records no facts the user didn't state. The omitted zip code and the null trade are omissions, not contradictions, and no safety issue was reported."
+  }
+ },
+ {
+  "id": "price_shopper",
+  "run": 0,
+  "should_convert": true,
+  "safety_scenario": false,
+  "submitted": false,
+  "turns": 4,
+  "ended_by": "user_ended",
+  "seconds": 21.3,
+  "trade": "plumbing",
+  "urgency": "flexible",
+  "transcript": [
+   {
+    "role": "user",
+    "text": "how much does it cost to replace a water heater in Durham?"
+   },
+   {
+    "role": "assistant",
+    "text": "Rough typical ranges, not a quote (a pro confirms on site):\n\n- Standard tank (40-50 gal), installed: about $1,200-$2,500\n- Tankless: about $3,000-$6,000 or more, especially when switching from a tank\n- Costs go up with gas vs. electric, venting changes, code upgrades, or hard-to-reach spots.\n\nIs yours leaking or not heating, or are you just planning ahead? If it's leaking, shut off the water supply valve above the heater. If you know, is it gas or electric, and about how old is it?"
+   },
+   {
+    "role": "user",
+    "text": "Planning ahead, mostly. It's a gas unit, about 14 years old, still heating but the tank looks rusty."
+   },
+   {
+    "role": "assistant",
+    "text": "At 14 years, you're past the typical 8-12 year lifespan for a tank heater. A rusty tank is a common sign it's close to failing, so replacing it on your schedule is smart. A surprise leak is the costly outcome.\n\nTwo things to do now:\n- Find the cold water shutoff valve above the heater, so you can close it fast if it starts leaking.\n- Check around the base for moisture or rust streaks. Water at the base usually means the tank itself is failing.\n\nWant me to find Durham plumbers who do water heater replacements so you can get quotes? If so, what's your ZIP?"
+   },
+   {
+    "role": "user",
+    "text": "Yes, please find Durham plumbers for quotes. My ZIP is 27707."
+   },
+   {
+    "role": "assistant",
+    "text": "Here are three Durham plumbers whose websites say they do water heater replacement:\n\n1. Brown Brothers Plumbing & Heating, (919) 220-2554. 4.9★ from 1,469 reviews. Plumbing is their core trade.\n2. Shelton Plumbing Co, (919) 599-1437. 4.9★ from 215 reviews. They're the closest, about 7 km away.\n3. Bar D Plumbing, (984) 339-1491. 4.9★ from 847 reviews. They also offer 24/7 service.\n\nEach lists a license number on its website. I haven't verified those, and you can check them at nclicensing.org.\n\nDo you own the home or rent? If you rent, your landlord will probably need to approve a replacement."
+   },
+   {
+    "role": "user",
+    "text": "I own the home. Thanks for the list. I'll call all three for quotes and check the license numbers on the NC licensing site before booking anyone."
+   },
+   {
+    "role": "assistant",
+    "text": "That plan works. Since you're calling them yourself, I won't send anything or take your contact details.\n\nWhen you call, it helps to tell each one:\n- The heater is gas and about 14 years old.\n- The tank looks rusty, but it still heats.\n- Ask whether the quote covers removal of the old unit, any venting or code updates, and the warranty.\n\nIf the rust turns into water at the base, close the shutoff valve and call Bar D, since they list 24/7 service. Good luck with it."
+   }
+  ],
+  "lead": {
+   "lead_id": "L-9315FFFD",
+   "created_at": "2026-10-08T19:01:34+00:00",
+   "trade": "plumbing",
+   "secondary_trade": null,
+   "problem_summary": "Planning ahead to replace a gas water heater, about 14 years old. Still heating, but the tank looks rusty.",
+   "user_facts": [
+    "Gas water heater",
+    "About 14 years old",
+    "Still heating",
+    "Tank looks rusty",
+    "Planning ahead",
+    "Owns the home",
+    "Will call all three providers directly for quotes",
+    "Will check licenses at NC licensing site before booking"
+   ],
+   "tried_already": null,
+   "urgency": "flexible",
+   "availability": null,
+   "property_type": null,
+   "authority": "owner",
+   "zip_code": "27707",
+   "address_hint": null,
+   "budget": null,
+   "safety_flags": [],
+   "contact_name": null,
+   "contact_phone": null,
+   "contact_pref": null,
+   "consent_to_share": false,
+   "user_confirmed_summary": false,
+   "matched_provider_ids": [
+    "brown-brothers-plumbing-heating",
+    "shelton-plumbing-co",
+    "bar-d-plumbing"
+   ],
+   "status": "draft"
+  },
+  "tools_called": [
+   "update_lead",
+   "update_lead",
+   "search_providers",
+   "update_lead"
+  ],
+  "checks": {
+   "trade_ok": true,
+   "urgency_ok": true,
+   "zip_ok": null,
+   "phone_ok": null,
+   "providers_real": true,
+   "providers_serve_trade": true
+  },
+  "faithfulness": {
+   "fabricated": [],
+   "contradictions": [],
+   "safety_handled": true,
+   "notes": "Every populated fact (gas, about 14 years old, still heating, rusty, planning ahead, owner, 27707, plans to call the three providers and check licenses) is stated in the transcript, and the assistant gave early shutoff-valve guidance. The contact fields are null, which is an omission consistent with the assistant's stated refusal to take contact details, not a contradiction."
+  }
+ },
+ {
+  "id": "wrong_self_diagnosis",
+  "run": 0,
+  "should_convert": true,
+  "safety_scenario": false,
+  "submitted": true,
+  "turns": 7,
+  "ended_by": "lead_submitted",
+  "seconds": 41.1,
+  "trade": "roofing",
+  "urgency": "within_few_days",
+  "transcript": [
+   {
+    "role": "user",
+    "text": "I need a plumber, there's water on my bedroom floor under the window"
+   },
+   {
+    "role": "assistant",
+    "text": "Water under a window is often rain getting in through the window, its seal, the flashing, or an overflowing gutter. It's less often a pipe. Right now, soak up what you can, move bedding and rugs away, and keep cords and outlets clear of the wet spot. A photo helps for insurance.\n\nDid this start during or after rain? Or is there a pipe, radiator, or AC unit near that window?"
+   },
+   {
+    "role": "user",
+    "text": "Oh, it happens when it's windy and raining hard, and the wall under the window gets damp. There's no pipe in that wall, though. I'd guess it's a leak, but I'm not sure how it's getting in."
+   },
+   {
+    "role": "assistant",
+    "text": "That points away from plumbing. With no pipe in that wall, water is most likely getting past the window seal or flashing, or the siding or roof above. A plumber wouldn't fix that.\n\nUntil someone looks, put a towel along the sill and a tub or tray under it. Check outside for cracked caulk around the window.\n\nIs the bedroom upstairs or on the ground floor? How soon do you need someone?"
+   },
+   {
+    "role": "user",
+    "text": "Upstairs, I think. I need someone within a few days, not an emergency. Call me at 919-555-0181 if you can send someone."
+   },
+   {
+    "role": "assistant",
+    "text": "Thanks, I've noted your number and that a call is best. For an upstairs window, the leak could be from the window itself or from the flashing or roof above it. I'll look for pros who can check both.\n\nWhat's your ZIP code?"
+   },
+   {
+    "role": "user",
+    "text": "27712"
+   },
+   {
+    "role": "assistant",
+    "text": "Here are three roofing pros near 27712. Their listings and websites say they handle roof leak repair:\n\n1. The Aluminum Company of North Carolina, (919) 620-8500. Roofing is their core trade. 4.9★ from 956 Google reviews, about 6 km away.\n2. Storm Guard Roofing of Durham Chapel Hill, (919) 372-3983. Roofing is their core trade. 5★ from 369 reviews, about 22 km away.\n3. Murcia's Roofing & Home Improvement, (919) 381-2795. Roofing is their core trade. 4.8★ from 57 reviews, about 8 km away.\n\nI haven't verified their licenses or insurance.\n\nDo you own the home or rent? If you know, is the window vinyl, wood or aluminum, and is there any stain on the ceiling or wall around it? What name should they use, and is it OK to share your name and number with these pros?"
+   },
+   {
+    "role": "user",
+    "text": "Yes, I own the place. The window is vinyl, I think. There's a stain on the wall below it, not really the ceiling. My name is Ivy Chen, and yes, you can share my name and number, 919-555-0181, with them."
+   },
+   {
+    "role": "assistant",
+    "text": "Here's the request I'd send:\n\n- Who: Ivy Chen, homeowner, ZIP 27712. Call 919-555-0181.\n- Problem: Water on the upstairs bedroom floor under a window when it rains hard with wind. The wall under the window gets damp and is stained below it, not on the ceiling. There's no pipe in that wall. The window is vinyl, as far as you know. We don't know where the water gets in.\n- Timing: Within a few days, not an emergency.\n- Sent to: The Aluminum Company of NC, Storm Guard Roofing, and Murcia's Roofing.\n\nSend this?"
+   },
+   {
+    "role": "user",
+    "text": "Almost, but I'm not totally sure the bedroom is upstairs. Please say that I think it's upstairs, and that the window is vinyl as far as I know."
+   },
+   {
+    "role": "assistant",
+    "text": "I've updated it:\n\n- Who: Ivy Chen, homeowner, ZIP 27712. Call 919-555-0181.\n- Problem: Water on a bedroom floor under a window. You think the bedroom is upstairs. It happens when it rains hard with wind. The wall under the window gets damp and is stained below it, not on the ceiling. There's no pipe in that wall. The window is vinyl as far as you know. We don't know where the water gets in.\n- Timing: Within a few days, not an emergency.\n- Sent to: The Aluminum Company of NC, Storm Guard Roofing, and Murcia's Roofing.\n\nSend this?"
+   },
+   {
+    "role": "user",
+    "text": "Yes, that's all correct. Please send it, and thanks for setting this up."
+   },
+   {
+    "role": "assistant",
+    "text": "Your request is sent, Ivy. Lead ID: L-171F46E5. It went to The Aluminum Company of NC, Storm Guard Roofing, and Murcia's Roofing. They should call you at 919-555-0181.\n\nUntil then, keep a towel and tray under the window during rain. Photos of the stain and the wet floor will help the pros and any insurance claim. If you'd like to check a pro's license, NC licensing boards list them. General contractors are at nclbgc.org."
+   }
+  ],
+  "lead": {
+   "lead_id": "L-171F46E5",
+   "created_at": "2026-10-08T19:01:35+00:00",
+   "trade": "roofing",
+   "secondary_trade": "handyman",
+   "problem_summary": "Water on bedroom floor (user thinks it's upstairs) under a window during wind-driven heavy rain; wall under window gets damp and has a stain below the window (not on ceiling). No pipe in that wall. Window is vinyl as far as user knows. Source of entry unknown. Needs someone within a few days.",
+   "user_facts": [
+    "Water on bedroom floor under the window",
+    "Wants a plumber",
+    "Happens when it's windy and raining hard",
+    "Wall under the window gets damp",
+    "No pipe in that wall",
+    "Bedroom is upstairs (user thinks)",
+    "Needs someone within a few days, not an emergency",
+    "Prefers a call at 919-555-0181",
+    "Owns the home",
+    "Window is vinyl (user thinks)",
+    "Stain on wall below window, not really the ceiling"
+   ],
+   "tried_already": null,
+   "urgency": "within_few_days",
+   "availability": null,
+   "property_type": "house",
+   "authority": "owner",
+   "zip_code": "27712",
+   "address_hint": null,
+   "budget": null,
+   "safety_flags": [],
+   "contact_name": "Ivy Chen",
+   "contact_phone": "(919) 555-0181",
+   "contact_pref": "call",
+   "consent_to_share": true,
+   "user_confirmed_summary": true,
+   "matched_provider_ids": [
+    "gp-chijmw3u1obirikrude41q0hxwa",
+    "gp-chijqy26qzpxrikratjd5o4htos",
+    "gp-chijs3oygkljrikrgjr26qkn74q"
+   ],
+   "status": "submitted"
+  },
+  "tools_called": [
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "search_providers",
+   "update_lead",
+   "update_lead",
+   "update_lead",
+   "submit_lead"
+  ],
+  "checks": {
+   "trade_ok": true,
+   "urgency_ok": true,
+   "zip_ok": true,
+   "phone_ok": true,
+   "providers_real": true,
+   "providers_serve_trade": true
+  },
+  "faithfulness": {
+   "fabricated": [],
+   "contradictions": [],
+   "safety_handled": true,
+   "notes": "Every user_facts entry, the contact details, urgency, ZIP, and ownership match the transcript and ground truth, and the assistant gave early guidance to keep cords and outlets clear of the wet spot."
+  },
+  "provider_judge": {
+   "accept": true,
+   "score": 2,
+   "right_trade_for_me": false,
+   "callback_questions": [
+    "Is there a roof section, valley, or roof-to-wall junction directly above this window, and does the water appear only in wind-driven rain?",
+    "Is the bedroom upstairs or on the ground floor? The lead says 'bedroom floor' but also 'upstairs,' and the stain is on the wall below the window, not the ceiling.",
+    "Which side of the house faces the wind, and has the window or exterior trim, caulk, or siding been replaced or repaired recently?",
+    "Can the homeowner send photos of the exterior above and around the window and of the interior stain?",
+    "Is the water still active, and is there any attic access above that bedroom to check for wet framing or sheathing?",
+    "What is the siding material, and is the window a vinyl replacement or original?",
+    "Would the homeowner consider a window or siding contractor if the source is in the wall or window, and are they open to a referral?",
+    "Is the homeowner the owner, and do they have an insurance claim in progress?"
+   ],
+   "reason": "A wind-driven leak with a stain below a window points more to window, flashing, or wall-envelope failure than to roofing, so it's only a worthwhile $50 lead if a call confirms a roof-to-wall junction above the window."
+  },
+  "provider_message": "New Roofing request for The Aluminum Company of North Carolina [L-171F46E5]\nJob: Water on bedroom floor (user thinks it's upstairs) under a window during wind-driven heavy rain; wall under window gets damp and has a stain below the window (not on ceiling). No pipe in that wall. Window is vinyl as far as user knows. Source of entry unknown. Needs someone within a few days.\nWhen: within a few days\nWhere: ZIP 27712, house\nDecision maker: Homeowner\nContact: Ivy Chen, (919) 555-0181 (prefers call)"
+ },
+ {
+  "id": "diy_clog_fixed",
+  "run": 0,
+  "should_convert": false,
+  "safety_scenario": false,
+  "submitted": false,
+  "turns": 4,
+  "ended_by": "user_ended",
+  "seconds": 14.3,
+  "trade": "plumbing",
+  "urgency": "flexible",
+  "transcript": [
+   {
+    "role": "user",
+    "text": "bathroom sink is draining really slowly"
+   },
+   {
+    "role": "assistant",
+    "text": "That's usually a hair-and-soap clog in the stopper or just below it. Here's what to try:\n\n1. Pull out the stopper (many lift out or twist off) and clear the gunk with a bent wire or a zip-it plastic drain tool.\n2. Run hot water for a minute.\n3. If it's still slow, try a small plunger with the overflow hole blocked by a wet rag.\n\nDo you want to try that first, or would you rather I find a pro now?"
+   },
+   {
+    "role": "user",
+    "text": "Let me try the first one. I'll pull the stopper and see what's down there."
+   },
+   {
+    "role": "assistant",
+    "text": "Sounds good. Put a towel or bucket under the sink first, and wear gloves, since the gunk can be pretty unpleasant. If the stopper has a pivot rod under the sink, you may need to loosen the nut to get it out.\n\nLet me know how it goes. If it still drains slowly, I can find a plumber for you."
+   },
+   {
+    "role": "user",
+    "text": "Okay, I pulled the stopper and there was a nasty clump of hair and gunk on it. Cleared it out, ran the hot water, and it's draining fine now."
+   },
+   {
+    "role": "assistant",
+    "text": "Nice work, that's the most common cause. To keep it from coming back, clean the stopper every month or two. If it slows down again even after that, the clog may be deeper in the pipe, and that's when a plumber is worth calling.\n\nI'm here if you need anything else."
+   },
+   {
+    "role": "user",
+    "text": "Thanks, that's great. Sink's draining fine now, so I'm good for today."
+   },
+   {
+    "role": "assistant",
+    "text": "You're welcome! Glad it's sorted. Reach out anytime if something else comes up."
+   }
+  ],
+  "lead": {
+   "lead_id": "L-DFF25227",
+   "created_at": "2026-10-08T19:01:39+00:00",
+   "trade": "plumbing",
+   "secondary_trade": null,
+   "problem_summary": "Bathroom sink was draining slowly; user cleared hair clog from stopper and it now drains fine. No pro needed.",
+   "user_facts": [
+    "Bathroom sink draining really slowly"
+   ],
+   "tried_already": "Pulled the stopper, removed a clump of hair and gunk, ran hot water. Sink now drains fine.",
+   "urgency": "flexible",
+   "availability": null,
+   "property_type": null,
+   "authority": "unknown",
+   "zip_code": null,
+   "address_hint": null,
+   "budget": null,
+   "safety_flags": [],
+   "contact_name": null,
+   "contact_phone": null,
+   "contact_pref": null,
+   "consent_to_share": false,
+   "user_confirmed_summary": false,
+   "matched_provider_ids": [],
+   "status": "draft"
+  },
+  "tools_called": [
+   "update_lead",
+   "update_lead",
+   "update_lead"
+  ],
+  "checks": {
+   "trade_ok": true,
+   "urgency_ok": true,
+   "zip_ok": null,
+   "phone_ok": null,
+   "providers_real": null,
+   "providers_serve_trade": null
+  },
+  "faithfulness": {
+   "fabricated": [],
+   "contradictions": [],
+   "safety_handled": null,
+   "notes": "The lead's facts (slow drain, hair clog cleared from the stopper, hot water run, sink now draining fine, no pro needed) all match the transcript, and the missing contact and location fields are omissions rather than contradictions."
+  }
+ }
+]

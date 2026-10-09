@@ -1,0 +1,836 @@
+[
+ {
+  "id": "servpro-of-south-durham",
+  "name": "SERVPRO of South Durham",
+  "trades": [
+   "water_damage_restoration"
+  ],
+  "city": "Durham",
+  "phone": "(919) 596-1242",
+  "google_rating": null,
+  "google_reviews": null,
+  "address": "607 Ellis Road 50A, Durham, NC 27703",
+  "website": "servpro.com",
+  "emergency_24_7": true,
+  "source_url": "https://servpro.com/locations/nc/servpro-of-south-durham/contact",
+  "notes": "Water, storm, mold, sewage cleanup; board-up and roof tarping.",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=SERVPRO+of+South+Durham+607+Ellis+Road+50A,+Durham,+NC+27703",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "servpro-of-north-durham",
+  "name": "SERVPRO of North Durham",
+  "trades": [
+   "water_damage_restoration"
+  ],
+  "city": "Durham",
+  "phone": "(919) 467-0880",
+  "google_rating": null,
+  "google_reviews": null,
+  "address": "2303 Hwy 70 E Suite D, Durham, NC 27703",
+  "website": "servpro.com",
+  "emergency_24_7": true,
+  "source_url": "https://www.servpro.com/locations/nc/servpro-of-north-durham/contact",
+  "notes": "24/7 emergency water/fire/mold.",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=SERVPRO+of+North+Durham+2303+Hwy+70+E+Suite+D,+Durham,+NC+27703",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "1-800-water-damage-of-n-w-triangle-area",
+  "name": "1-800 WATER DAMAGE of N.W. Triangle Area",
+  "trades": [
+   "water_damage_restoration"
+  ],
+  "city": "Durham",
+  "phone": "(919) 589-1300",
+  "google_rating": null,
+  "google_reviews": null,
+  "address": "Durham, NC 27713",
+  "website": "1800waterdamage.com",
+  "emergency_24_7": true,
+  "source_url": "https://1800waterdamage.com/nw-triangle-area/durham",
+  "notes": "Water extraction, flood restoration, sewage cleanup, mold.",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=1-800+WATER+DAMAGE+of+N.W.+Triangle+Area+Durham,+NC+27713",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "roto-rooter-plumbing-water-cleanup-durham",
+  "name": "Roto-Rooter Plumbing & Water Cleanup (Durham)",
+  "trades": [
+   "plumbing",
+   "water_damage_restoration",
+   "waterproofing_foundation"
+  ],
+  "city": "Durham",
+  "phone": "(919) 598-0255",
+  "google_rating": 4.9,
+  "google_reviews": 2238,
+  "address": "331 W Main St #307, Durham, NC 27701",
+  "website": "rotorooter.com/durhamnc",
+  "emergency_24_7": true,
+  "source_url": "https://www.rotorooter.com/durhamnc/water-damage-restoration/",
+  "notes": "Plumbing + drains + sump pumps + basement flood cleanup, 24/7. Rating from https://lantern.llc/nc/durham/home-services/plumbing",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Roto-Rooter+Plumbing+&+Water+Cleanup+(Durham)+331+W+Main+St+#307,+Durham,+NC+27701",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "carolina-basement-systems",
+  "name": "Carolina Basement Systems",
+  "trades": [
+   "waterproofing_foundation"
+  ],
+  "city": "Raleigh (serves Durham)",
+  "phone": "(800) 638-7048",
+  "google_rating": 4.1,
+  "google_reviews": 90,
+  "address": "4701 Trademark Drive, Raleigh, NC 27610",
+  "website": "basementsystems.com",
+  "emergency_24_7": null,
+  "source_url": "https://www.basementsystems.com/crawl-space/north-carolina/4103-carolina-basement-systems.html",
+  "notes": "Basement waterproofing, crawl space, sump pumps, foundation repair; lists Durham in service area. Rating from Angi.",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Carolina+Basement+Systems+4701+Trademark+Drive,+Raleigh,+NC+27610",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "brown-brothers-plumbing-heating",
+  "name": "Brown Brothers Plumbing & Heating",
+  "trades": [
+   "plumbing"
+  ],
+  "city": "Durham",
+  "phone": "(919) 220-2554",
+  "google_rating": 4.9,
+  "google_reviews": 1418,
+  "address": null,
+  "website": "bbph.com",
+  "emergency_24_7": null,
+  "source_url": "https://lantern.llc/nc/durham/home-services/plumbing",
+  "notes": "",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Brown+Brothers+Plumbing+&+Heating+Durham+NC",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "streamline-services-plumbing-hvac-electrical",
+  "name": "Streamline Services Plumbing, HVAC & Electrical",
+  "trades": [
+   "plumbing",
+   "hvac",
+   "electrical",
+   "waterproofing_foundation"
+  ],
+  "city": "Durham",
+  "phone": "(919) 234-5438",
+  "google_rating": 4.9,
+  "google_reviews": 4373,
+  "address": null,
+  "website": null,
+  "emergency_24_7": null,
+  "source_url": "https://lantern.llc/nc/durham/home-services/plumbing",
+  "notes": "Multi-trade; Angi also lists them for basement waterproofing.",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Streamline+Services+Plumbing,+HVAC+&+Electrical+Durham+NC",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "jd-service-now",
+  "name": "JD Service Now",
+  "trades": [
+   "plumbing",
+   "electrical",
+   "hvac"
+  ],
+  "city": "Durham",
+  "phone": "(919) 339-1601",
+  "google_rating": 4.9,
+  "google_reviews": 5333,
+  "address": null,
+  "website": null,
+  "emergency_24_7": null,
+  "source_url": "https://lantern.llc/nc/durham/home-services/plumbing",
+  "notes": "Multi-trade.",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=JD+Service+Now+Durham+NC",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "harmon-plumbing",
+  "name": "Harmon Plumbing",
+  "trades": [
+   "plumbing"
+  ],
+  "city": "Durham",
+  "phone": "(984) 205-1790",
+  "google_rating": 5.0,
+  "google_reviews": 251,
+  "address": null,
+  "website": null,
+  "emergency_24_7": null,
+  "source_url": "https://lantern.llc/nc/durham/home-services/plumbing",
+  "notes": "",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Harmon+Plumbing+Durham+NC",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "zoom-drain",
+  "name": "Zoom Drain",
+  "trades": [
+   "plumbing"
+  ],
+  "city": "Durham",
+  "phone": "(919) 999-8234",
+  "google_rating": 5.0,
+  "google_reviews": 225,
+  "address": null,
+  "website": null,
+  "emergency_24_7": null,
+  "source_url": "https://lantern.llc/nc/durham/home-services/plumbing",
+  "notes": "Drain and sewer specialist.",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Zoom+Drain+Durham+NC",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "bar-d-plumbing",
+  "name": "Bar D Plumbing",
+  "trades": [
+   "plumbing"
+  ],
+  "city": "Durham",
+  "phone": "(984) 339-1491",
+  "google_rating": 4.9,
+  "google_reviews": 730,
+  "address": null,
+  "website": null,
+  "emergency_24_7": null,
+  "source_url": "https://lantern.llc/nc/durham/home-services/plumbing",
+  "notes": "",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar+D+Plumbing+Durham+NC",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "shelton-plumbing-co",
+  "name": "Shelton Plumbing Co",
+  "trades": [
+   "plumbing"
+  ],
+  "city": "Durham",
+  "phone": "(919) 599-1437",
+  "google_rating": 4.9,
+  "google_reviews": 199,
+  "address": null,
+  "website": null,
+  "emergency_24_7": null,
+  "source_url": "https://lantern.llc/nc/durham/home-services/plumbing",
+  "notes": "",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Shelton+Plumbing+Co+Durham+NC",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "plumbv-inc",
+  "name": "PlumbV Inc.",
+  "trades": [
+   "plumbing"
+  ],
+  "city": "Durham",
+  "phone": "(919) 378-0292",
+  "google_rating": 4.8,
+  "google_reviews": 1053,
+  "address": null,
+  "website": "plumbv.com",
+  "emergency_24_7": null,
+  "source_url": "https://lantern.llc/nc/durham/home-services/plumbing",
+  "notes": "",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=PlumbV+Inc.+Durham+NC",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "acme-plumbing-co",
+  "name": "Acme Plumbing Co.",
+  "trades": [
+   "plumbing"
+  ],
+  "city": "Durham",
+  "phone": "(919) 688-1348",
+  "google_rating": 4.7,
+  "google_reviews": 287,
+  "address": null,
+  "website": null,
+  "emergency_24_7": null,
+  "source_url": "https://lantern.llc/nc/durham/home-services/plumbing",
+  "notes": "",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Acme+Plumbing+Co.+Durham+NC",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "mr-rooter-plumbing-of-durham-north",
+  "name": "Mr. Rooter Plumbing of Durham North",
+  "trades": [
+   "plumbing"
+  ],
+  "city": "Durham",
+  "phone": "(984) 203-6026",
+  "google_rating": 4.9,
+  "google_reviews": 43,
+  "address": null,
+  "website": null,
+  "emergency_24_7": null,
+  "source_url": "https://lantern.llc/nc/durham/home-services/plumbing",
+  "notes": "",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Mr.+Rooter+Plumbing+of+Durham+North+Durham+NC",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "waterheater-4u",
+  "name": "Waterheater 4u",
+  "trades": [
+   "plumbing"
+  ],
+  "city": "Durham",
+  "phone": "(919) 434-0043",
+  "google_rating": 4.9,
+  "google_reviews": 59,
+  "address": null,
+  "website": null,
+  "emergency_24_7": null,
+  "source_url": "https://lantern.llc/nc/durham/home-services/plumbing",
+  "notes": "Water heater specialist.",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Waterheater+4u+Durham+NC",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "alternative-aire-inc",
+  "name": "Alternative Aire Inc",
+  "trades": [
+   "hvac"
+  ],
+  "city": "Durham",
+  "phone": "(919) 404-9040",
+  "google_rating": 4.9,
+  "google_reviews": 1004,
+  "address": null,
+  "website": null,
+  "emergency_24_7": null,
+  "source_url": "https://lantern.llc/nc/durham/home-services/hvac",
+  "notes": "",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Alternative+Aire+Inc+Durham+NC",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "air-innovations-heating-and-cooling-llc",
+  "name": "Air Innovations Heating and Cooling, LLC",
+  "trades": [
+   "hvac"
+  ],
+  "city": "Durham",
+  "phone": "(919) 620-6715",
+  "google_rating": 4.9,
+  "google_reviews": 161,
+  "address": null,
+  "website": null,
+  "emergency_24_7": null,
+  "source_url": "https://lantern.llc/nc/durham/home-services/hvac",
+  "notes": "",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Air+Innovations+Heating+and+Cooling,+LLC+Durham+NC",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "green-horizon-one-hour-heating-air-conditioning",
+  "name": "Green Horizon One Hour Heating & Air Conditioning",
+  "trades": [
+   "hvac",
+   "plumbing"
+  ],
+  "city": "Durham",
+  "phone": "(919) 321-9985",
+  "google_rating": 4.8,
+  "google_reviews": 901,
+  "address": null,
+  "website": null,
+  "emergency_24_7": null,
+  "source_url": "https://lantern.llc/nc/durham/home-services/hvac",
+  "notes": "",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Green+Horizon+One+Hour+Heating+&+Air+Conditioning+Durham+NC",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "happy-home-services",
+  "name": "Happy Home Services",
+  "trades": [
+   "hvac",
+   "plumbing"
+  ],
+  "city": "Durham",
+  "phone": "(919) 378-0197",
+  "google_rating": 4.8,
+  "google_reviews": 2131,
+  "address": null,
+  "website": null,
+  "emergency_24_7": null,
+  "source_url": "https://lantern.llc/nc/durham/home-services/hvac",
+  "notes": "",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Happy+Home+Services+Durham+NC",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "boer-brothers-heating-cooling",
+  "name": "Boer Brothers Heating & Cooling",
+  "trades": [
+   "hvac"
+  ],
+  "city": "Chapel Hill",
+  "phone": "(919) 929-9886",
+  "google_rating": 4.9,
+  "google_reviews": 1329,
+  "address": null,
+  "website": null,
+  "emergency_24_7": null,
+  "source_url": "https://lantern.llc/nc/durham/home-services/hvac",
+  "notes": "",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Boer+Brothers+Heating+&+Cooling+Chapel+Hill+NC",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "all-weather-heating-cooling-inc",
+  "name": "All Weather Heating & Cooling Inc.",
+  "trades": [
+   "hvac",
+   "electrical"
+  ],
+  "city": "Durham",
+  "phone": "(919) 967-9775",
+  "google_rating": 4.8,
+  "google_reviews": 249,
+  "address": null,
+  "website": null,
+  "emergency_24_7": null,
+  "source_url": "https://lantern.llc/nc/durham/home-services/hvac",
+  "notes": "",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=All+Weather+Heating+&+Cooling+Inc.+Durham+NC",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "bud-matthews-services",
+  "name": "Bud Matthews Services",
+  "trades": [
+   "electrical",
+   "plumbing",
+   "hvac",
+   "handyman"
+  ],
+  "city": "Chapel Hill",
+  "phone": "(919) 929-0203",
+  "google_rating": 4.8,
+  "google_reviews": 681,
+  "address": null,
+  "website": null,
+  "emergency_24_7": null,
+  "source_url": "https://lantern.llc/nc/durham/home-services/electricians",
+  "notes": "",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Bud+Matthews+Services+Chapel+Hill+NC",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "touchstone-electric-raleigh",
+  "name": "Touchstone Electric Raleigh",
+  "trades": [
+   "electrical"
+  ],
+  "city": "Morrisville",
+  "phone": "(919) 670-4015",
+  "google_rating": 4.9,
+  "google_reviews": 549,
+  "address": null,
+  "website": null,
+  "emergency_24_7": null,
+  "source_url": "https://lantern.llc/nc/durham/home-services/electricians",
+  "notes": "",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Touchstone+Electric+Raleigh+Morrisville+NC",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "triad-electrical-services",
+  "name": "Triad Electrical Services",
+  "trades": [
+   "electrical"
+  ],
+  "city": "Cary",
+  "phone": "(919) 590-5034",
+  "google_rating": 5.0,
+  "google_reviews": 905,
+  "address": null,
+  "website": null,
+  "emergency_24_7": null,
+  "source_url": "https://lantern.llc/nc/durham/home-services/electricians",
+  "notes": "",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Triad+Electrical+Services+Cary+NC",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "mj-s-roofing-remodeling",
+  "name": "MJ's Roofing & Remodeling",
+  "trades": [
+   "roofing"
+  ],
+  "city": "Durham",
+  "phone": "(919) 295-0404",
+  "google_rating": 4.9,
+  "google_reviews": 73,
+  "address": null,
+  "website": null,
+  "emergency_24_7": null,
+  "source_url": "https://lantern.llc/nc/durham/home-services/roofing",
+  "notes": "",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=MJ's+Roofing+&+Remodeling+Durham+NC",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "wjm-roofing",
+  "name": "WJM Roofing",
+  "trades": [
+   "roofing"
+  ],
+  "city": "Durham",
+  "phone": "(919) 495-1283",
+  "google_rating": 4.9,
+  "google_reviews": 45,
+  "address": null,
+  "website": null,
+  "emergency_24_7": null,
+  "source_url": "https://lantern.llc/nc/durham/home-services/roofing",
+  "notes": "",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=WJM+Roofing+Durham+NC",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "boxer-roofing",
+  "name": "Boxer Roofing",
+  "trades": [
+   "roofing"
+  ],
+  "city": "Durham",
+  "phone": "(919) 730-1735",
+  "google_rating": 4.9,
+  "google_reviews": 39,
+  "address": null,
+  "website": null,
+  "emergency_24_7": null,
+  "source_url": "https://lantern.llc/nc/durham/home-services/roofing",
+  "notes": "",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Boxer+Roofing+Durham+NC",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "feazel-roofing",
+  "name": "Feazel Roofing",
+  "trades": [
+   "roofing",
+   "gutters"
+  ],
+  "city": "Durham",
+  "phone": "(984) 377-7663",
+  "google_rating": 4.7,
+  "google_reviews": 602,
+  "address": null,
+  "website": null,
+  "emergency_24_7": null,
+  "source_url": "https://lantern.llc/nc/durham/home-services/roofing",
+  "notes": "",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Feazel+Roofing+Durham+NC",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "arac-roof-it-forward",
+  "name": "ARAC Roof It Forward",
+  "trades": [
+   "roofing"
+  ],
+  "city": "Durham",
+  "phone": "(919) 794-7333",
+  "google_rating": 4.7,
+  "google_reviews": 83,
+  "address": null,
+  "website": null,
+  "emergency_24_7": null,
+  "source_url": "https://lantern.llc/nc/durham/home-services/roofing",
+  "notes": "",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=ARAC+Roof+It+Forward+Durham+NC",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "pickard-roofing-company-inc",
+  "name": "Pickard Roofing Company, Inc.",
+  "trades": [
+   "roofing"
+  ],
+  "city": "Durham",
+  "phone": "(919) 682-5702",
+  "google_rating": 4.5,
+  "google_reviews": 46,
+  "address": null,
+  "website": null,
+  "emergency_24_7": null,
+  "source_url": "https://lantern.llc/nc/durham/home-services/roofing",
+  "notes": "",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Pickard+Roofing+Company,+Inc.+Durham+NC",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "carolina-united-roofing-construction-llc",
+  "name": "Carolina United Roofing & Construction LLC",
+  "trades": [
+   "roofing"
+  ],
+  "city": "Chapel Hill",
+  "phone": "(919) 260-3803",
+  "google_rating": 5.0,
+  "google_reviews": 197,
+  "address": null,
+  "website": null,
+  "emergency_24_7": null,
+  "source_url": "https://lantern.llc/nc/durham/home-services/roofing",
+  "notes": "",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Carolina+United+Roofing+&+Construction+LLC+Chapel+Hill+NC",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "your-local-roofing-and-gutter-specialist",
+  "name": "Your Local Roofing and Gutter Specialist",
+  "trades": [
+   "roofing",
+   "gutters"
+  ],
+  "city": "Carrboro",
+  "phone": "(919) 912-4315",
+  "google_rating": 4.8,
+  "google_reviews": 36,
+  "address": null,
+  "website": null,
+  "emergency_24_7": null,
+  "source_url": "https://lantern.llc/nc/durham/home-services/roofing",
+  "notes": "",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Your+Local+Roofing+and+Gutter+Specialist+Carrboro+NC",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "mr-handyman-of-chapel-hill-and-west-durham",
+  "name": "Mr. Handyman of Chapel Hill and West Durham",
+  "trades": [
+   "handyman",
+   "gutters"
+  ],
+  "city": "Durham",
+  "phone": "(919) 336-0198",
+  "google_rating": 4.9,
+  "google_reviews": 269,
+  "address": "Durham, NC 27713",
+  "website": "mrhandyman.com/chapel-hill-west-durham",
+  "emergency_24_7": null,
+  "source_url": "https://lantern.llc/nc/durham/home-services/handyman",
+  "notes": "Also does gutter cleaning (mrhandyman.com).",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Mr.+Handyman+of+Chapel+Hill+and+West+Durham+Durham,+NC+27713",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "home-repair-lab",
+  "name": "Home Repair Lab",
+  "trades": [
+   "handyman"
+  ],
+  "city": "Durham",
+  "phone": "(919) 321-7465",
+  "google_rating": 5.0,
+  "google_reviews": 48,
+  "address": null,
+  "website": null,
+  "emergency_24_7": null,
+  "source_url": "https://lantern.llc/nc/durham/home-services/handyman",
+  "notes": "",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Home+Repair+Lab+Durham+NC",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "mohandymen-llc",
+  "name": "MoHandymen LLC",
+  "trades": [
+   "handyman"
+  ],
+  "city": "Durham",
+  "phone": "(919) 695-3243",
+  "google_rating": 4.9,
+  "google_reviews": 53,
+  "address": null,
+  "website": null,
+  "emergency_24_7": null,
+  "source_url": "https://lantern.llc/nc/durham/home-services/handyman",
+  "notes": "",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=MoHandymen+LLC+Durham+NC",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "do-it-all-dave-s-llc",
+  "name": "Do it All Dave's LLC",
+  "trades": [
+   "handyman"
+  ],
+  "city": "Durham",
+  "phone": "(984) 234-9709",
+  "google_rating": 4.8,
+  "google_reviews": 45,
+  "address": null,
+  "website": null,
+  "emergency_24_7": null,
+  "source_url": "https://lantern.llc/nc/durham/home-services/handyman",
+  "notes": "",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Do+it+All+Dave's+LLC+Durham+NC",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "housing-solutions-inc",
+  "name": "Housing Solutions, Inc.",
+  "trades": [
+   "handyman"
+  ],
+  "city": "Hillsborough",
+  "phone": "(919) 296-9073",
+  "google_rating": 5.0,
+  "google_reviews": 72,
+  "address": null,
+  "website": null,
+  "emergency_24_7": null,
+  "source_url": "https://lantern.llc/nc/durham/home-services/handyman",
+  "notes": "",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Housing+Solutions,+Inc.+Hillsborough+NC",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "mr-appliance-of-durham-chapel-hill",
+  "name": "Mr. Appliance of Durham-Chapel Hill",
+  "trades": [
+   "appliance_repair"
+  ],
+  "city": "Durham",
+  "phone": "(919) 626-3670",
+  "google_rating": null,
+  "google_reviews": null,
+  "address": null,
+  "website": "mrappliance.com/durham",
+  "emergency_24_7": null,
+  "source_url": "https://www.mrappliance.com/durham",
+  "notes": "",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Mr.+Appliance+of+Durham-Chapel+Hill+Durham+NC",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "triangle-services-handyman-appliance-repair",
+  "name": "Triangle Services - Handyman & Appliance Repair",
+  "trades": [
+   "appliance_repair",
+   "handyman"
+  ],
+  "city": "Raleigh",
+  "phone": "(919) 229-9534",
+  "google_rating": 4.9,
+  "google_reviews": 172,
+  "address": null,
+  "website": "tsrdu.com",
+  "emergency_24_7": null,
+  "source_url": "https://lantern.llc/nc/durham/home-services/handyman",
+  "notes": "",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Triangle+Services+-+Handyman+&+Appliance+Repair+Raleigh+NC",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "aruza-pest-control",
+  "name": "Aruza Pest Control",
+  "trades": [
+   "pest_control"
+  ],
+  "city": "Apex",
+  "phone": "(919) 759-6912",
+  "google_rating": 4.9,
+  "google_reviews": 6162,
+  "address": null,
+  "website": null,
+  "emergency_24_7": null,
+  "source_url": "https://lantern.llc/nc/durham/home-services/pest-control",
+  "notes": "Serves the Triangle.",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Aruza+Pest+Control+Apex+NC",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "triangle-pest-control",
+  "name": "Triangle Pest Control",
+  "trades": [
+   "pest_control"
+  ],
+  "city": "Apex",
+  "phone": "(919) 341-1531",
+  "google_rating": 4.9,
+  "google_reviews": 4600,
+  "address": null,
+  "website": null,
+  "emergency_24_7": null,
+  "source_url": "https://lantern.llc/nc/durham/home-services/pest-control",
+  "notes": "",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Triangle+Pest+Control+Apex+NC",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ },
+ {
+  "id": "go-forth-pest-control",
+  "name": "Go-Forth Pest Control",
+  "trades": [
+   "pest_control"
+  ],
+  "city": "Raleigh",
+  "phone": "(919) 747-4668",
+  "google_rating": 4.9,
+  "google_reviews": 2030,
+  "address": null,
+  "website": null,
+  "emergency_24_7": null,
+  "source_url": "https://lantern.llc/nc/durham/home-services/pest-control",
+  "notes": "",
+  "maps_url": "https://www.google.com/maps/search/?api=1&query=Go-Forth+Pest+Control+Raleigh+NC",
+  "retrieved": "2026-10-08",
+  "data_source": "web_research"
+ }
+]
