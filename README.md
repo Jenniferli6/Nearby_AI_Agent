@@ -1,4 +1,4 @@
-# Nearby lead agent: Durham, NC
+# Nearby AI Agent: Durham, NC
 
 **▶ [Watch the demo video](https://youtu.be/qom40EYgyPo)**
 
